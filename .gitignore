@@ -1,0 +1,6 @@
+data
+components
+node_modules
+.DS_Store
+*.log
+Gemfile.lock

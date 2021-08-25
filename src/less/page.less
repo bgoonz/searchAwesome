@@ -1,0 +1,143 @@
+/**
+ * Layout CSS
+ */
+
+#header {
+  opacity: 0.8;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 2;
+  transition: left 0.2s;
+  border-bottom: 1px solid gray;
+
+  .home-button:hover {
+    text-decoration: none;
+  }
+
+  & .mui-appbar {
+    background-color: gray;
+  }
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+#sidedrawer {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 220px;
+  left: -220px;
+  overflow: auto;
+  z-index: 2;
+  background-color: #fff;
+  transition: transform 0.2s;
+  transition: -webkit-transform 0.2s;
+}
+
+/**
+  screen width bigger than 768px
+**/
+
+@media (min-width: 768px) {
+  #header {
+    left: 220px;
+  }
+
+  #sidedrawer {
+    transform: translate(220px);
+  }
+
+  #content-wrapper {
+    margin-left: 220px;
+  }
+
+  #footer {
+    margin-left: 220px;
+  }
+
+  body.hide-sidedrawer #header {
+    left: 0;
+  }
+
+  body.hide-sidedrawer #sidedrawer {
+    transform: translate(0px);
+  }
+
+  body.hide-sidedrawer #content-wrapper {
+    margin-left: 0;
+  }
+
+  body.hide-sidedrawer #footer {
+    margin-left: 0;
+  }
+
+  .mui-btn {
+    padding: 0 10px;
+    font-size: 16px;
+  }
+}
+
+/**
+ * Toggle Sidedrawer
+ */
+#sidedrawer.active {
+  -moz-transform: translate(220px);
+  -o-transform: translate(220px);
+  -webkit-transform: translate(220px);
+  transform: translate(220px);
+}
+
+/**
+ * Header CSS
+ */
+
+.sidedrawer-toggle {
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 20px;
+  margin-right: 10px;
+}
+
+.sidedrawer-toggle:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/**
+ * Sidedrawer CSS
+ */
+
+#sidedrawer-brand {
+  padding-left: 20px;
+}
+
+#sidedrawer ul {
+  list-style: none;
+}
+
+#sidedrawer > ul {
+  padding-left: 0px;
+}
+
+#sidedrawer > ul > li:first-child {
+  padding-top: 15px;
+}
+
+#sidedrawer strong {
+  display: block;
+  padding: 15px 22px;
+  cursor: pointer;
+}
+
+#sidedrawer strong:hover {
+  background-color: #e0e0e0;
+}
+
+#sidedrawer strong + ul > li {
+  padding: 6px 0px;
+}
