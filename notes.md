@@ -5,7 +5,7 @@ A website making you access the [awesome](https://github.com/sindresorhus/awesom
 
 ### Make some suggestions
 
-[![Join the chat at https://gitter.im/lockys/AwesomeSearch](https://badges.gitter.im/lockys/AwesomeSearch.svg)](https://gitter.im/lockys/AwesomeSearch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/bgoonz/AwesomeSearch](https://badges.gitter.im/bgoonz/AwesomeSearch.svg)](https://gitter.im/bgoonz/AwesomeSearch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### kudos
 
@@ -37,18 +37,18 @@ That's why "Awesome Search" was born. :octocat:
 # Supported awesome lists
 
 Currently, searching `links` in most of awesome repositories is supported.
-You can see the JSON format of links [here](https://github.com/lockys/Awesome.json/blob/master/awesome/awesome.json).(Contribution is welcome)
+You can see the JSON format of links [here](https://github.com/bgoonz/Awesome.json/blob/master/awesome/awesome.json).(Contribution is welcome)
 We build [awesomelists-index](https://github.com/John-Lin/awesomelists-index) to parse these lists. However, we are still finding a more efficient way.
-[awesome.json](https://github.com/lockys/awesome.json) is the place where the data store for now.
+[awesome.json](https://github.com/bgoonz/awesome.json) is the place where the data store for now.
 
 # Authors
 
-- [lockys](https://github.com/lockys)
+- [lockys](https://github.com/bgoonz)
 - [John-Lin](https://github.com/John-Lin)
 
 # Contributors
 
-Thank you, [contributors](https://github.com/lockys/awesome-search/graphs/contributors)
+Thank you, [contributors](https://github.com/bgoonz/awesome-search/graphs/contributors)
 
 # Contributions
 
@@ -59,7 +59,7 @@ Filing a issue to make suggestions or complain anything is always welcome.
 # Related Projects
 
 - [John-Lin/awesomelists-index](https://github.com/John-Lin/awesomelists-index) - converts an awesome list into a JSON file
-- [lockys/awesome.json](https://github.com/lockys/awesome.json) - converts [sindresorhus's awesome](https://github.com/sindresorhus/awesome) to json
+- [lockys/awesome.json](https://github.com/bgoonz/awesome.json) - converts [sindresorhus's awesome](https://github.com/sindresorhus/awesome) to json
 - [getAwesomeness()](https://github.com/panzhangwang/getAwesomeness) - search engine based on local JSON data
 
 # Credit

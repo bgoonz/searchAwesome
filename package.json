@@ -14,7 +14,7 @@
   "engines": {
     "node": ">=12.16.1"
   },
-  "author": "Calvin Cheng <locky4567@gmail.com> (https://github.com/lockys)",
+  "author": "Calvin Cheng <locky4567@gmail.com> (https://github.com/bgoonz)",
   "license": "MIT",
   "devDependencies": {
     "del": "^5.1.0",
