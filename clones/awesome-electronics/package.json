@@ -5,7 +5,7 @@
     "lint": "awesome-lint"
   },
   "devDependencies": {
-    "markdown-toc": "^1.1.0",
-    "awesome-lint": "^0.12.1"
+    "markdown-toc": "1.2.0",
+    "awesome-lint": "0.12.1"
   }
 }

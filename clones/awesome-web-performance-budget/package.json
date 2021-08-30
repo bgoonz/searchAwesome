@@ -13,6 +13,6 @@
   ],
   "author": "Ajaykumar Prathap",
   "devDependencies": {
-    "awesome-lint": "^0.10.0"
+    "awesome-lint": "0.10.0"
   }
 }
