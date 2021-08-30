@@ -28,8 +28,7 @@ theme:
     logo: material/library
     repo: material/ship-wheel
   favicon: logo.png
-  logo:
-    images/logo.png
+  logo: images/logo.png
 
 # Extras
 extra:
@@ -54,23 +53,23 @@ nav:
   - Case Studies: case-studies/case-studies.md
   - Official Resources: official-resources/official-resources.md
   - Applications: applications/applications.md
-  - Projects: 
-    - Projects: projects/projects.md
-    - Managed Kubernetes: managed-kubernetes/managed-kubernetes.md
+  - Projects:
+      - Projects: projects/projects.md
+      - Managed Kubernetes: managed-kubernetes/managed-kubernetes.md
   - Learning:
-    - Books: learning-resources/books.md
-    - Videos: learning-resources/videos.md
-    - Podcasts: learning-resources/podcasts.md
-    - Slides: learning-resources/slides.md
-    - Certifications: learning-resources/certifications.md
-    - Interactive-Environments: learning-resources/interactive-environments.md
-    - Courses: learning-resources/courses.md
+      - Books: learning-resources/books.md
+      - Videos: learning-resources/videos.md
+      - Podcasts: learning-resources/podcasts.md
+      - Slides: learning-resources/slides.md
+      - Certifications: learning-resources/certifications.md
+      - Interactive-Environments: learning-resources/interactive-environments.md
+      - Courses: learning-resources/courses.md
   - Extras:
-    - Conferences: extras/conferences.md
-    - Amazing People: extras/amazing-people.md
-    - Meetups: extras/meetups.md
-    - Social Media: extras/social-media.md
-    - Raspberry Pi: extras/raspberry-pi.md
+      - Conferences: extras/conferences.md
+      - Amazing People: extras/amazing-people.md
+      - Meetups: extras/meetups.md
+      - Social Media: extras/social-media.md
+      - Raspberry Pi: extras/raspberry-pi.md
 
 # Extensions
 markdown_extensions:

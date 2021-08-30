@@ -193,15 +193,13 @@
 
 ### 物件導向
 
-- 進階
-  -[如何使用 Namespace?](http://oomusou.io/php/php-namespace/) - [真OO無雙](https://twitter.com/oomusou)
-  -[如何使用 Interface?](http://oomusou.io/php/php-interface/) - [真OO無雙](https://twitter.com/oomusou)
+- 進階 -[如何使用 Namespace?](http://oomusou.io/php/php-namespace/) - [真 OO 無雙](https://twitter.com/oomusou) -[如何使用 Interface?](http://oomusou.io/php/php-interface/) - [真 OO 無雙](https://twitter.com/oomusou)
 
 ### 學習案例
 
 - 入門
   - 測試越辯越明
-    - [PHP與撰寫測試入門](http://blog.turn.tw/?p=2741) - [尤川豪](https://twitter.com/howtomakeaturn)
+    - [PHP 與撰寫測試入門](http://blog.turn.tw/?p=2741) - [尤川豪](https://twitter.com/howtomakeaturn)
     - [這樣寫測試錯了嗎？](http://jaceju.net/2015/10/14/what-is-test/) - [大澤木小鐵](https://twitter.com/jaceju)
 - 進階
   - 文章及標籤應用程式
@@ -212,7 +210,7 @@
     - [Laracasts: When You Want a View Partial to Always Receive Data](https://laracasts.com/series/laravel-5-fundamentals/episodes/25)
     - [Laracasts: Loose Ends and Wrapping Up](https://laracasts.com/series/laravel-5-fundamentals/episodes/27)
   - 測試、重構、工具整合使用
-    - [如何使用 PhpStorm 實現 TDD、重構與偵錯?](http://oomusou.io/phpstorm/phpstorm-tdd-refactor/) - [真OO無雙](https://twitter.com/oomusou)
+    - [如何使用 PhpStorm 實現 TDD、重構與偵錯?](http://oomusou.io/phpstorm/phpstorm-tdd-refactor/) - [真 OO 無雙](https://twitter.com/oomusou)
   - [Laravel 5.2 專案結構目錄](http://yish.im/2016/03/14/Laravel-5-2-new-architecture-contents/)
     - [Laravel 5.2 專案結構心得(一): 專案命名與 Entities](http://yish.im/2016/02/25/Laravel-5-2-new-architecture-entities/) \#Eloquent \#Model
     - [Laravel 5.2 專案結構心得(二): Helpers](http://yish.im/2016/03/09/Laravel-5-2-new-architecture-helpers/) \#Helper
@@ -332,7 +330,7 @@
   - 設計模式的解析與活用 ISBN：9789862018200
   - 代碼之髓：編程語言核心概念 ISBN：9787115361530
   - 松本行弘談程式世界的未來 ISBN：9789863473312
-  - 松本行弘的程式世界：成為一流程式設計師的14種思考術  ISBN：9789862013571
+  - 松本行弘的程式世界：成為一流程式設計師的 14 種思考術 ISBN：9789862013571
   - 學徒模式－優秀軟體開發者的養成之路 ISBN: 9789862762561
   - 高品質程式：軟體測試原則、實作與模式 ISBN：9789863473060
   - Kent Beck 的實作模式 ISBN：9789862018088

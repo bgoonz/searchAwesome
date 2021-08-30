@@ -16,6 +16,7 @@ Please select the curated list below to begin your learning of the Laravel PHP F
 - New categories or improvements to the existing categorization are welcome
 
 ## Make a difference
+
 These guys below contributed with content, translations and more. What are you waiting for? Come join us and put yourself down below ;)
 
 - [Laravel 台灣](https://www.facebook.com/groups/laravel.tw/)
@@ -264,7 +265,6 @@ These guys below contributed with content, translations and more. What are you w
 - [Laravel Website](https://github.com/laravel/laravel.com)
 - [Laravel Art](https://github.com/laravel/art)
 - [Laravel Antares](https://github.com/antaresproject/)
-
 
 ## Coding Standard
 

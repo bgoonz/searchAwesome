@@ -11,23 +11,23 @@
 - [Learning LaTeX](#learning-latex)
 - [Distributions](#distributions)
 - [Engines](#engines)
-	- [LaTeX formulas on the web](#latex-formulas-on-the-web)
+  - [LaTeX formulas on the web](#latex-formulas-on-the-web)
 - [Editors](#editors)
-	- [LaTeX-focused](#latex-focused)
-	- [General purpose text editors](#general-purpose-text-editors)
-	- [Online editors](#online-editors)
+  - [LaTeX-focused](#latex-focused)
+  - [General purpose text editors](#general-purpose-text-editors)
+  - [Online editors](#online-editors)
 - [Bibliography tools](#bibliography-tools)
 - [Build Tools](#build-tools)
 - [Misc. Tools](#misc-tools)
 - [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
 - [Packages](#packages)
-	- [References](#references)
-	- [Tables](#tables)
-	- [Graphics](#graphics)
-		- [PSTricks](#pstricks)
-		- [TikZ](#tikz)
-	- [Source Code](#source-code)
-	- [Typography](#typography)
+  - [References](#references)
+  - [Tables](#tables)
+  - [Graphics](#graphics)
+    - [PSTricks](#pstricks)
+    - [TikZ](#tikz)
+  - [Source Code](#source-code)
+  - [Typography](#typography)
 - [Templates](#templates)
 - [Symbols](#symbols)
 - [Resources](#resources)
@@ -56,7 +56,7 @@ Guides how to learn LaTeX
 ## Engines
 
 - [pdfTeX](https://www.tug.org/applications/pdftex/) - TeX compiler that produces PDF files immediately instead of DVI files (nowadays, this is the standard compiler for many users). ![foss]
-- [XeTeX](http://xetex.sourceforge.net) - TeX compiler that provides better unicode and font support than TeX/pdfTeX (i.e. you can use the  fonts of your operating system instead of only TeX fonts). ![foss]
+- [XeTeX](http://xetex.sourceforge.net) - TeX compiler that provides better unicode and font support than TeX/pdfTeX (i.e. you can use the fonts of your operating system instead of only TeX fonts). ![foss]
 - [LuaTeX](http://www.luatex.org) - (La)TeX compiler that supports Lua code for scripting and has improved unicode and font support than standard TeX/pdfTeX. ![foss]
 - [tectonic](https://tectonic-typesetting.GitHub.io/en-US/) - Modern, self contained (La)TeX compiler powered by XeTeX and TeXLive. ![foss]
 
@@ -99,26 +99,31 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX.
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
 - [Atom](https://atom.io) [![Atom][awesome]](https://github.com/mehcode/awesome-atom) ![foss]
-	- [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss]
+
+  - [LaTeXTools](https://atom.io/packages/latextools) - Atom port of the Sublime Text package of the same name. ![foss]
 
 - [Sublime Text](https://www.sublimetext.com) [![Sublime Text][awesome]](https://github.com/dreikanter/sublime-bookmarks)
-	- [LaTeXing](http://www.latexing.com) - Commercial plug-in to edit LaTeX.
-	- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss]
 
-- [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ![foss]
-	- [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss]
-	- [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss]
+  - [LaTeXing](http://www.latexing.com) - Commercial plug-in to edit LaTeX.
+  - [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss]
+
+- [Emacs](https://www.gnu.org/software/emacs/) [![Emacs][awesome]](https://github.com/emacs-tw/awesome-emacs) ![foss]
+
+  - [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss]
+  - [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss]
 
 - [Vim](http://www.vim.org) [![Vim][awesome]](https://github.com/mhinz/vim-galore) ![foss]
-	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
-	- [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss]
-	- [vimtex](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
+
+  - [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss]
+  - [LaTeX Live Preview](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss]
+  - [vimtex](https://github.com/lervag/vimtex) - Modern vim plugin for editing LaTeX files. Has a variety of features including live preview and forward search. ![foss]
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
-	- [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
+
+  - [TeXiFy-IDEA](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss]
 
 - [VS Code](https://code.visualstudio.com/) [![VS Code][awesome]](https://github.com/viatsko/awesome-vscode) ![foss]
-	- [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss]
+  - [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) - LaTeX extension for Visual Studio Code ![foss]
 
 ### Online editors
 
@@ -174,7 +179,6 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 - [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss]
 - [TikZiT](https://tikzit.GitHub.io) - GUI tool for creating graphs and string diagrams using PGF/TikZ. ![windows] ![linux] ![mac] ![foss]
 
-
 ## Packages
 
 - [CTAN](https://www.ctan.org) - The Comprehensive TeX Archive Network is the place to look for useful packages and documentation.
@@ -221,7 +225,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 ### Presentations, Slides
 
-- [nics](https://nics.nilcons.com/) - An opinionated alternative to Beamer, that we created with the hopes to make common tasks very easy and beautifully rendered by default.  Has awesome documentation and a detailed cheatsheet to help you getting started.
+- [nics](https://nics.nilcons.com/) - An opinionated alternative to Beamer, that we created with the hopes to make common tasks very easy and beautifully rendered by default. Has awesome documentation and a detailed cheatsheet to help you getting started.
 
 ## Templates
 
@@ -245,7 +249,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [LaTeX community](http://latex.org/index.php) - Forum and blog about LaTeX.
 - German: [Neue TeX FAQ](https://texfragen.de) - Modern and updated LaTeX FAQ in German.
 - [BibTeX Style Examples](http://www.cs.stir.ac.uk/~kjt/software/latex/showbst.html) - Example output of common BibTeX styles (BST files).
-- [TeX World](http://tex.world/) -  Websites supported by the TeX Users Group, DANTE, and GUTenberg.
+- [TeX World](http://tex.world/) - Websites supported by the TeX Users Group, DANTE, and GUTenberg.
 - [TeXnique](https://texnique.xyz) - A LaTeX Typesetting Game.
 
 ## Showcases
@@ -269,7 +273,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [LaTeX Graphics Companion, M. Goossens (2007)](https://www.informit.com/store/latex-graphics-companion-9780321508928)
 - [TeX by Topic (2007)](https://ctan.org/pkg/texbytopic)
 - [TeX for the Impatient (2020)](https://ctan.org/pkg/impatient)
-- [Formatting Information (2020)](http://latex.silmaril.ie/formattinginformation) - This is the HTML5-based online version of the book *Formatting Information - An introduction to typesetting with LATEX*. It has been continuosuly updated since the early 2000s.
+- [Formatting Information (2020)](http://latex.silmaril.ie/formattinginformation) - This is the HTML5-based online version of the book _Formatting Information - An introduction to typesetting with LATEX_. It has been continuosuly updated since the early 2000s.
 
 ## Blogs
 
@@ -293,14 +297,14 @@ If you want to contribute, please do read our [CONTRIBUTING](CONTRIBUTING.md) gu
 
 ## Legend
 
-The icons indicating Mac, Linux and Windows compatibility show when a program is *only* available for those platforms. So absence of those icons means that the software is fully cross-platform.
+The icons indicating Mac, Linux and Windows compatibility show when a program is _only_ available for those platforms. So absence of those icons means that the software is fully cross-platform.
 
-|       Logo          | Description                                   |
-|:-------------------:|:----------------------------------------------|
-| ![mac]         | [macOS](https://www.apple.com/osx/)                |
-| ![linux]     | [GNU/Linux](https://www.gnu.org)                     |
+|    Logo    | Description                                            |
+| :--------: | :----------------------------------------------------- |
+|   ![mac]   | [macOS](https://www.apple.com/osx/)                    |
+|  ![linux]  | [GNU/Linux](https://www.gnu.org)                       |
 | ![windows] | [Microsoft Windows](https://www.microsoft.com/windows) |
-| ![FOSS]       | [Free Open-Source Software](https://opensource.org) |
+|  ![FOSS]   | [Free Open-Source Software](https://opensource.org)    |
 
 ---
 
@@ -310,4 +314,4 @@ All trademarks are property of their respective owners.
 [linux]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg
 [windows]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg
 [foss]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg
-[awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg

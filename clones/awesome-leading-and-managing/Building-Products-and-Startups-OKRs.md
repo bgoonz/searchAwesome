@@ -6,7 +6,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Aligning Projects with Business Goals](https://blog.dnsimple.com/2017/02/aligning-business-goals-with-projects/) - by Anthony Eden. Provides a simple project management spreadsheet of six questions: 1) What is the problem we are trying to solve?; 2) What does success look like, and how does it fit in the big picture?; 3) What are the MUST DO and the MUST NOT DO items?; 4) What is the deadline?; 5) Who should I talk to for help and get feedback?; 6) Have we done this before? Something we already have to get started?
 
-- [Am I a Product Manager or a Product Owner? Part 1: Confusion Abounds](https://medium.com/@ellengott/am-i-a-product-manager-or-a-product-owner-part-1-confusion-abounds-963c943beb7f) - by Ellen Gottesdiener. Takeaway: a five-part article series on differentiating the roles, with lots of keen insights and explanations. [Part 2: Part 2: 5 Ways to Untangle the Mess](https://medium.com/@ellengott/am-i-a-product-manager-or-a-product-owner-part-2-5-ways-to-untangle-the-mess-d613452135d9).  
+- [Am I a Product Manager or a Product Owner? Part 1: Confusion Abounds](https://medium.com/@ellengott/am-i-a-product-manager-or-a-product-owner-part-1-confusion-abounds-963c943beb7f) - by Ellen Gottesdiener. Takeaway: a five-part article series on differentiating the roles, with lots of keen insights and explanations. [Part 2: Part 2: 5 Ways to Untangle the Mess](https://medium.com/@ellengott/am-i-a-product-manager-or-a-product-owner-part-2-5-ways-to-untangle-the-mess-d613452135d9).
 
 - [From Apathy to Autonomy](https://www.youtube.com/watch?feature=youtu.be&v=3ER5d6uy4EE) (video) - by Darko Zelić. Takeaway: You don't have to go full-corporate as you scale up; in this Lead Dev Amsterdam talk, Zelić tells you how.
 
@@ -30,7 +30,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Here's How to De-Risk Your Product Strategy](https://www.linkedin.com/pulse/heres-how-de-risk-your-product-strategy-jeff-gothelf/) - by Jeff Gothelf. Takeaway: Strategic planning involves three questions: who’s the target market, what’s the value proposition, and what's your Key Result.
 
-- [How Compare and Contrast Decisions Lead to Better Product Outcomes](https://www.producttalk.org/2017/09/compare-and-contrast-decisions/) (slides) - by Teresa Torres. Takeaway: A detailed look at how to bring focus to product decisions, including suggested tools like the "opportunity solution tree." 
+- [How Compare and Contrast Decisions Lead to Better Product Outcomes](https://www.producttalk.org/2017/09/compare-and-contrast-decisions/) (slides) - by Teresa Torres. Takeaway: A detailed look at how to bring focus to product decisions, including suggested tools like the "opportunity solution tree."
 
 - [How to Kickstart and Scale a Marketplace Business – Phase 1: 🐣 Crack the Chicken-and-Egg Problem (Part 1/4)](https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace) - by Lenny Rachitsky. Takeaway: insights from Airbnb, DoorDash, Thumbtack, Etsy, Uber and other companies on how to scale a marketplace. Crack the chicken-and-egg problem, scale your marketplace, then evolve it.
 
@@ -38,7 +38,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [How New Startups Can Win at PR — Advice from a 20-Year Comms Career](http://firstround.com/review/how-new-startups-can-win-at-pr-advice-from-a-20-year-comms-career) - by FirstRound. Takeaway: Terra Carmichael, VP of Global Communications at Eventbrite, offers tips on attracting media coverage.
 
-- [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need." 
+- [How to Sell the Problem Before Selling the Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484) - by David Bailey. Takeaway: Tactical ways to express customer needs and "lead with the need."
 
 - [Hypergrowth and The Law of Startup Physics](https://firstround.com/review/hypergrowth-and-the-law-of-startup-physics/) - by FirstRound Capital. Takeaway: "The law of startup physics: humans grow linearly, companies grow exponentially."
 
@@ -54,7 +54,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [Lean Startup](https://docs.google.com/document/d/1Xs9VBBhh68DVCywXN7TRtDcWQQLDJWcLCvUOxnzNHmw/edit) - notes by Joe Goldberg about the book by Eric Ries.
 
-- [LeanStartup.com](http://theleanstartup.com/) - based on the book. Offers an e-newsletter. 
+- [LeanStartup.com](http://theleanstartup.com/) - based on the book. Offers an e-newsletter.
 
 - [Little Red Book Of Selling: 12.5 Principles of Sales Greatness](https://docs.google.com/document/d/1WegOfyGsrx7GhUFOnnOMT-cJlsvbwJdZamTyRS8ZWSU/edit) - notes by Joe Goldberg about the book by Jeffrey Gitomer.
 
@@ -68,18 +68,17 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [The Product Dartboard](http://blog.carbonfive.com/2015/07/29/the-product-dartboard/) - by Janet Brunckhorst at Carbon Five. Takeaway: offers a deep dive/description of a tool that assesses a team or individual against attributes associated with project success.
 
-- [Product Discovery Anti-Patterns Leading to Failure](https://age-of-product.com/product-discovery-anti-patterns/) - by Stefan Wolpers. Takeaway: "The main contributing variables to various product discovery anti-patterns are: * Existing organizational dysfunctions, for example, the organization is structured in functional silos; * A substantial degree of ego issues among individual players—the what-is-in-for-me-syndrome—resulting in personal agendas being pursued; * A complex, multi-layered reporting structure within organizations that filters as well as delays the flow of information, thus impeding communication and decision-making."
+- [Product Discovery Anti-Patterns Leading to Failure](https://age-of-product.com/product-discovery-anti-patterns/) - by Stefan Wolpers. Takeaway: "The main contributing variables to various product discovery anti-patterns are: _ Existing organizational dysfunctions, for example, the organization is structured in functional silos; _ A substantial degree of ego issues among individual players—the what-is-in-for-me-syndrome—resulting in personal agendas being pursued; \* A complex, multi-layered reporting structure within organizations that filters as well as delays the flow of information, thus impeding communication and decision-making."
 
-- [Product Manager vs. Product Owner](https://melissaperri.com/blog/2017/06/29/product-manager-vs-product-owner) - by Melissa Perri. Takeaway: "A good Product Manager is taught how to prioritize work against clear outcome oriented goals, how to discover and validate real customer and business value, and what processes are needed to reduce the uncertainty that the product will succeed in market. Without this background in Product Management, someone can effectively go through the motions of Product Owner role in Scrum, but they can never be successful in making sure they are building the right thing." 
+- [Product Manager vs. Product Owner](https://melissaperri.com/blog/2017/06/29/product-manager-vs-product-owner) - by Melissa Perri. Takeaway: "A good Product Manager is taught how to prioritize work against clear outcome oriented goals, how to discover and validate real customer and business value, and what processes are needed to reduce the uncertainty that the product will succeed in market. Without this background in Product Management, someone can effectively go through the motions of Product Owner role in Scrum, but they can never be successful in making sure they are building the right thing."
 
 - [The Product Manager Superpower: User Science](https://medium.com/@tworetzky/the-product-manager-superpower-user-science-7296134ae5a4) - by Brent Tworetzky. Takeaway: "While finding the perfect user-product fit is rarely easy, trained product managers can find great fits consistently with User Science–the field of deeply understanding people interacting with products through rigorous toolings and process. User science involves understanding both user needs (identifying which problem to solve) and user behaviors (understanding how and why users react to products). This distinction is important: winning products need both a meaningful problem to solve and strong execution."
 
 - [Product Strategy Means Saying No](http://www.productstrategymeanssayingno.com/) - by Intercom. Takeaways: Review common
   reasons for making product decisions and ask whether they are actually good for the product.
-  
 - [Reminder: Your “Product” Company is Just an Implementation Detail](https://medium.com/from-the-start/building-a-feature-697344aefda2) - by Jeremy Baker. Takeaway: The progress our customer wants to make is the most important thing. We think about our features and what they can do, and present them that way. When we do this, we’re "forcing our customer to do the hard work. They have to map features to their process and figure out if it helps them make progress ... Instead, talk about the progress our customer wants to make, and build tools that enable that progress."
 
-- [Risk Assessment and Prioritization for Startups](https://docs.google.com/presentation/d/1Ox9mwO7aCfwXUw1pllKTKCpiEJi3oIW6KHrXfNtrIXQ/edit#slide=id.p) - by Leo Polovets. Takeaway: a slide deck about the value of addressing risks head-on, and early. Includes self-assessment tips. 
+- [Risk Assessment and Prioritization for Startups](https://docs.google.com/presentation/d/1Ox9mwO7aCfwXUw1pllKTKCpiEJi3oIW6KHrXfNtrIXQ/edit#slide=id.p) - by Leo Polovets. Takeaway: a slide deck about the value of addressing risks head-on, and early. Includes self-assessment tips.
 
 - [Scaling Airbnb with Brian Chesky — Class 18 Notes of Stanford University’s CS183C](https://medium.com/cs183c-blitzscaling-class-collection/scaling-airbnb-with-brian-chesky-class-18-notes-of-stanford-university-s-cs183c-3fcf75778358) - by Chris McCann. Takeaway: about Airbnb’s “10 star service” thought experiment, in which they transcended the usual five-star review by adding five more measurements for success.
 
@@ -105,7 +104,7 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [All About OKRs: How To Set Them, Achieve Them, And Track Them In Trello](https://blog.trello.com/okrs-set-achieve-track-trello) - by Kevan Lee. Takeaway: A concise and clear description of what OKRs are and how to create them (i.e., for both productivity as well as agile/cultural reasons).
 
-- [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs) - by Dan North. Takeaway: Insights from Dan about working with companies applying Objectives and Key Results; do's and dont's. 
+- [Applying OKRs](https://dannorth.net/2017/05/01/applying-okrs) - by Dan North. Takeaway: Insights from Dan about working with companies applying Objectives and Key Results; do's and dont's.
 
 - [Awesome-OKR](https://github.com/domenicosolazzo/awesome-okr) - by Domenico Solazzo. Takeaway: an Awesome List of OKR-related decks, articles and videos.
 
@@ -117,6 +116,6 @@ As a leader of a product development team you might have a PM that you’re work
 
 - [OKRs.com](http://www.okrs.com/okrs-blog/) - by Ben Lamorte. Takeaway: a resource for anyone using Objectives and Key Results (OKRs) or considering using OKRs to make measurable progress on their most important goals at work.
 
-- [Set Goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) - by re:Work. Takeaway: a step-by-step guide to creating, developing and grading OKRs. 
+- [Set Goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) - by re:Work. Takeaway: a step-by-step guide to creating, developing and grading OKRs.
 
 - [Why OKRs Are Not Delivering the Result Executive Managers Expect](https://luis-goncalves.com/okrs/?__s=zmnhwriwrwhonuvpmtq8) - by Veronika Goncalves. Takeaway: "In many cases, when organizations apply OKRs, they apply the process the in the same format as Management by Objectives: using a Top-Down Approach. But this format does not create value for the organization because the top managers do not understand what the customer’s real problems are. When defining the objectives, they are usually not in alignment with the company’s current reality." Also, OKRs might not be the right framework for every company; consider options like agile portfolio management.

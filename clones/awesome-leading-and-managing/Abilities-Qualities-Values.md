@@ -1,6 +1,7 @@
 ## Leadership Abilities, Qualities and Values
 
-### General 
+### General
+
 - [Draw The Owl and Other Company Values You Didn’t Know You Should Have](https://firstround.com/review/draw-the-owl-and-other-company-values-you-didnt-know-you-should-have/) - by FirstRound Capital. Takeaway: Twilio CEO and co-founder Jeff Lawson on how to define company values that resonate and stick.
 
 ### Conscientiousness
@@ -11,7 +12,7 @@
 
 - [Learn Fast and Read Things: Why (and How) We Started a Technical Reading Group](https://build.affinity.co/learn-fast-and-read-things-why-and-how-we-started-a-technical-reading-group-56a61db515bd) - by Adam Perelman. Takeaway: a quick overview of how the author’s engineering team set up and runs a technical reading group.
 
-### Emotional Intelligence 
+### Emotional Intelligence
 
 - [Emotional Intelligence for Engineers](https://www.youtube.com/watch?v=SJnVhkEx8Cs) (video) - by April Wensel. Takeaway: what emotional IQ is, why it's important, and how to develop it, by the head of Compassionate Coding.
 
@@ -40,19 +41,23 @@
 - [Put an End to Your Feedback Loop](https://www.strategy-business.com/blog/Put-an-End-to-Your-Feedback-Loop) - by Jesse Sostrin. Takeaway: "If you’ve ever said the words 'I’ve gotten this feedback before,' chances are you’re playing with fire and undermining your own success by failing to address the issue."
 
 ### Politeness
+
 - [The Church of Interruption](https://sambleckley.com/writing/church-of-interruption.html) - by Sam Bleckley. Takeaway: a stylistic exploration of interrupting vs. not interrupting during conversations.
 
 ### Self-Awareness
+
 - [The 5 Ways to Improve Your Self-Awareness as a Leader](https://blog.knowyourcompany.com/the-5-ways-to-improve-your-self-awareness-as-a-leader-2f1464e5b00) - by Claire Lew. Takeaway: Assume positive intent, hold up a mirror to yourself and your decisions, remember that it’s not all about you, ask your team the tough questions and find an accountability partner like a coach.
 
-- [Get out of Your Head: How to Quiet your Thoughts](https://medium.com/swlh/get-out-of-your-head-how-to-quiet-your-thoughts-1e239199dff9#---0-86%20\|) - by Aytekin Tank. Takeaway: Simple techniques on how to calm your mind and focus.
+- [Get out of Your Head: How to Quiet your Thoughts](https://medium.com/swlh/get-out-of-your-head-how-to-quiet-your-thoughts-1e239199dff9#---0-86%20|) - by Aytekin Tank. Takeaway: Simple techniques on how to calm your mind and focus.
 
-- [The Problem of Virtuous Leadership](https://www.strategy-business.com/article/The-Problem-of-Virtuous-Leadership) -by Art Kleiner. Takeaway: a perspective on leadership by Adam Smith scholar Ryan Patrick Hanley. 
+- [The Problem of Virtuous Leadership](https://www.strategy-business.com/article/The-Problem-of-Virtuous-Leadership) -by Art Kleiner. Takeaway: a perspective on leadership by Adam Smith scholar Ryan Patrick Hanley.
 
 ### Transparency
+
 - [How This Head of Engineering Boosted Transparency at Instagram](https://firstround.com/review/how-this-head-of-engineering-boosted-transparency-at-instagram/) - by FirstRound Capital. Takeaway: Focusing on James Everingham at Instagram. "Everingham soon realized that boosting Instagram’s straggling transparency scores meant figuring out what a common definition was. And that wasn’t all — he quickly recognized that shedding light on the decision-making process would also become a sizable component of their efforts to solve the transparency equation. The engineering group would need to identify who was making decisions, how those decisions were made and why they were being made."
 
 ### Trust
+
 - [A Trust Toolbox for Virtual Teams. Module 1: “The Prelude Game”](https://inteamwetrust.com/2016/06/22/trust-toolbox-for-virtual-teams-module-1/) - by Alexey Pikulev. Takeaway: A five-module framework for building trust, including sections on personal integrity and trust in action.
 
 - [Building Trust Inside Your Team](https://www.mindtools.com/pages/article/building-trust-team.htm) - by MindTools. Takeaway: Build trust inside teams via example-setting and clear communication.
@@ -61,7 +66,7 @@
 
 - [Building Trust Through Effective Communication](https://medium.com/@dvirsegal/building-trust-through-effective-communication-c00bf9b65c78) - by Dvir Segal. Takeaway: Communicating positively, being patient and mentally present, gauging your audience's emotional state, being clear in saying "no," rejecting victim mentality and other skills will build trust.
 
-- [The 5 Bottom-Line Benefits of Building Trust in the Workplace](https://knowyourteam.com/blog/2019/02/01/the-bottom-line-benefits-of-building-trust-in-the-workplace) - by Claire Lew. Takeaway: "Building trust in our team is more than a 'feel-good' thing – here’s the data that show how trust affects our team’s performance and the company’s bottom line."  
+- [The 5 Bottom-Line Benefits of Building Trust in the Workplace](https://knowyourteam.com/blog/2019/02/01/the-bottom-line-benefits-of-building-trust-in-the-workplace) - by Claire Lew. Takeaway: "Building trust in our team is more than a 'feel-good' thing – here’s the data that show how trust affects our team’s performance and the company’s bottom line."
 
 - [A Guide to Building Trust in Teams and Organizations](https://opensource.com/open-organization/16/10/building-organizational-trust) - by Ron McFarland. McFarland's wide-ranging piece outlines various meanings of the term "trust," organizational factors that can influence it, and organizational dynamics that it, in turn, affects. The piece also includes descriptions of ways trust can operate at several interlocking "levels": personal, relational, organizational, and market.
 

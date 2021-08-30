@@ -1,4 +1,4 @@
-# Great collection of  Laravel lessons in Arabic
+# Great collection of Laravel lessons in Arabic
 
 - [What's new in Laravel 5.4] (https://5dmat-web.com/cat/laravel_5_4)
 
