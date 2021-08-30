@@ -129,10 +129,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/history@npm:*, @types/history@npm:4.7.8":
+"@types/history@npm:*":
   version: 4.7.8
   resolution: "@types/history@npm:4.7.8"
   checksum: 54020371a412e949d0a329cc325253f16daf5b33e2e485135d39d3b30d3f9a8e323b00ce1162da82387c8ecf0397a8da49ad36ab309f06284326c064092879c7
+  languageName: node
+  linkType: hard
+
+"@types/history@npm:4.7.9":
+  version: 4.7.9
+  resolution: "@types/history@npm:4.7.9"
+  checksum: b6aba3eb88899d987b273c384419d95ed1e8b0b3b27c36dc8faf53d748fdc16f982aacd62e31dac65877b0c6f1a77270f8112b7ac5b1d044b06f7ababaa72b75
   languageName: node
   linkType: hard
 
@@ -745,7 +752,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "awesome-kotlin@workspace:."
   dependencies:
-    "@types/history": 4.7.8
+    "@types/history": 4.7.9
     "@types/node": 15.12.1
     "@types/react": 17.0.9
     "@types/react-dom": 17.0.6
