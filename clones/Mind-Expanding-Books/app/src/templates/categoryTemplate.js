@@ -8,7 +8,7 @@ import CategoryDescription from "../components/categorydescription"
 import { Container, Row, Col } from "react-bootstrap"
 import BookFeed from "../components/feed"
 
-const basicTemplate = props => {
+const basicTemplate = (props) => {
   const { pageContext } = props
   const { categoryName, data, image } = pageContext
 
@@ -21,7 +21,10 @@ const basicTemplate = props => {
             <SideBar />
           </Col>
           <Col lg={10}>
-            <CategoryDescription categoryName={categoryName} categoryImage={image} />
+            <CategoryDescription
+              categoryName={categoryName}
+              categoryImage={image}
+            />
             <BookFeed data={data} categoryName={categoryName} />
           </Col>
         </Row>

@@ -4,7 +4,7 @@
 
 A curated list of works in the public domain.
 
-Works in the public domain have no copyright restrictions. This can be the result of intellectual property rights expiring or being forfeited. In the case of the latter, authors have used the term *uncopyright* to describe their act of relinquishing copyright.
+Works in the public domain have no copyright restrictions. This can be the result of intellectual property rights expiring or being forfeited. In the case of the latter, authors have used the term _uncopyright_ to describe their act of relinquishing copyright.
 
 ## Contents
 
@@ -125,7 +125,7 @@ Works in the public domain have no copyright restrictions. This can be the resul
 ## Related
 
 - [Creative Commons](https://creativecommons.org/) - Organization devoted to expanding the range of creative works available for others to build upon legally and to share.
-- [Open Knowledge International](https://okfn.org/) -  Organization whose mission is for everyone to have access to key information and the ability to use it freely.
+- [Open Knowledge International](https://okfn.org/) - Organization whose mission is for everyone to have access to key information and the ability to use it freely.
 
 ## Resources
 

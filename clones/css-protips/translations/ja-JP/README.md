@@ -2,29 +2,27 @@
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon">
 </p>
 
-# CSSの便利な小技・テクニックのまとめ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# CSS の便利な小技・テクニックのまとめ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-CSSのプロのスキルになるようにアドバイスのリストを紹介します。
+CSS のプロのスキルになるようにアドバイスのリストを紹介します。
 
-> 他のリストのため： [Awesome リスト](https://github.com/sindresorhus/awesome/)　の　[@sindresorhus](https://github.com/sindresorhus/)　をチェックSしてください。.
-
+> 他のリストのため： [Awesome リスト](https://github.com/sindresorhus/awesome/)　の　[@sindresorhus](https://github.com/sindresorhus/)　をチェック S してください。.
 
 <div id="table-of-contents"></div>
 
 ## 目次
 
-* [プロチップス](#protips)
-* [サポート](#soutien)
-* [参考](#references)
-* [コントリビュート](../../CONTRIBUTING.md)
-
+- [プロチップス](#protips)
+- [サポート](#soutien)
+- [参考](#references)
+- [コントリビュート](../../CONTRIBUTING.md)
 
 <div id="protips"></div>
 
-##  プロチップス
+## プロチップス
 
-1. [CSSのリセットを使用します](#use-a-css-reset)
-1. [box-sizingをコンポーネントごとに変更](#inherit-box-sizing)
+1. [CSS のリセットを使用します](#use-a-css-reset)
+1. [box-sizing をコンポーネントごとに変更](#inherit-box-sizing)
 1. [すべてのプロパティをリセットする代わりに `unset`を使う](#use-unset-instead-of-resetting-all-properties)
 1. [`:not()` を使用 / ボーダーを削除](#use-not-to-applyunapply-borders-on-navigation)
 1. [フォントがローカルにインストールされているかどうかを確認します](#check-if-font-is-installed-locally)
@@ -33,12 +31,12 @@ CSSのプロのスキルになるようにアドバイスのリストを紹介�
 1. [天地の中央に配置](#vertically-center-anything)
 1. [リストをカンマ区切りにする](#comma-separated-lists)
 1. [ネガティブな「:nth-child」を使用してアイテムを選択](#select-items-using-negative-nth-child)
-1. [SVGのアイコン](#use-svg-for-icons)
-1. [Owlを使用](#use-the-lobotomized-owl-selector)
-1. [CSSで実装されたスライダーにはmax-heightを使う](#use-max-height-for-pure-css-sliders)
+1. [SVG のアイコン](#use-svg-for-icons)
+1. [Owl を使用](#use-the-lobotomized-owl-selector)
+1. [CSS で実装されたスライダーには max-height を使う](#use-max-height-for-pure-css-sliders)
 1. [テーブルのセルの幅を均等にする](#equal-width-table-cells)
-1. [Flexboxのマージンハックを取り除く](#get-rid-of-margin-hacks-with-flexbox)
-1. [リンクにテキストが無い時はURLを表示](#use-attribute-selectors-with-empty-links)
+1. [Flexbox のマージンハックを取り除く](#get-rid-of-margin-hacks-with-flexbox)
+1. [リンクにテキストが無い時は URL を表示](#use-attribute-selectors-with-empty-links)
 1. [デフォルトのリンクをスタイル](#style-default-links)
 1. [内在比率のボックス](#intrinsic-ratio-boxes)
 1. [リンク切れの画像要素をスタイル](#style-broken-images)
@@ -49,12 +47,11 @@ CSSのプロのスキルになるようにアドバイスのリストを紹介�
 1. [ポインターイベントを使用してマウスイベントを制御する](#use-pointer-events-to-control-mouse-events)
 1. [間隔として使用される改行に「display：none」を設定します](#set-display-none-on-line-breaks-being-used-as-spacing)
 
-
 <div id="use-a-css-reset"></div>
 
-### CSSのリセットを使用します
+### CSS のリセットを使用します
 
-CSSのリセットはスタイリング要素のための白紙の状態で異なるブラウザ間でスタイルの一貫性を強化するのに役立ちます。あなたは[Normalize](http://necolas.github.io/normalize.css/)、_et al._のようにCSSのリセットライブラリを使用するか、より簡略化リセットアプローチを使用することができます。
+CSS のリセットはスタイリング要素のための白紙の状態で異なるブラウザ間でスタイルの一貫性を強化するのに役立ちます。あなたは[Normalize](http://necolas.github.io/normalize.css/)、*et al.*のように CSS のリセットライブラリを使用するか、より簡略化リセットアプローチを使用することができます。
 
 ```css
 *,
@@ -66,21 +63,19 @@ CSSのリセットはスタイリング要素のための白紙の状態で異�
 }
 ```
 
-今の要素は、マージンやパディングを剥奪し、`box-sizing`は、CSSボックスモデルとレイアウトを管理することができますされます。
+今の要素は、マージンやパディングを剥奪し、`box-sizing`は、CSS ボックスモデルとレイアウトを管理することができますされます。
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
-**注意：**あなたがあなたのCSSのリセットで[Inherit `box-sizing`](#inherit-box-sizing) プロパティが含まれていないことを選択する可能性があります下に`box-sizing`ヒントに従っている場合。
-
+**注意：**あなたがあなたの CSS のリセットで[Inherit `box-sizing`](#inherit-box-sizing) プロパティが含まれていないことを選択する可能性があります下に`box-sizing`ヒントに従っている場合。
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="inherit-box-sizing"></div>
 
 ### `box-sizing`をコンポーネントごとに変更
 
-`box-sizing`はhtml要素で指定し、継承して利用すると、コンポーネントで変える時に簡単です。
+`box-sizing`は html 要素で指定し、継承して利用すると、コンポーネントで変える時に簡単です。
 
 ```css
 html {
@@ -92,7 +87,6 @@ html {
 *::after {
   box-sizing: inherit;
 }
-
 ```
 
 これでプラグインかその他のコンポーネントに `box-sizing` を変更しやすくなります。
@@ -100,7 +94,6 @@ html {
 #### [デモ](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="use-unset-instead-of-resetting-all-properties"></div>
 
@@ -127,10 +120,9 @@ button {
 }
 ```
 
-**備考:** IE11では `all`および` unset`の省略形はサポートされていません。
+**備考:** IE11 では `all`および` unset`の省略形はサポートされていません。
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="use-not-to-applyunapply-borders-on-navigation"></div>
 
@@ -162,12 +154,11 @@ button {
 }
 ```
 
-CSSセレクターは、境界線を人間が表現する方法で定義します。
+CSS セレクターは、境界線を人間が表現する方法で定義します。
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/LkymvO)
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="check-if-font-is-installed-locally"></div>
 
@@ -179,12 +170,8 @@ CSSセレクターは、境界線を人間が表現する方法で定義しま�
 @font-face {
   font-family: "Dank Mono";
   src:
-    /* Full name */
-    local("Dank Mono"),
-    /* Postscript name */
-    local("Dank Mono"),
-    /* Otherwise, download it! */
-    url("//...a.server/fonts/DankMono.woff");
+    /* Full name */ local("Dank Mono"), /* Postscript name */ local("Dank Mono"),
+    /* Otherwise, download it! */ url("//...a.server/fonts/DankMono.woff");
 }
 
 code {
@@ -192,10 +179,9 @@ code {
 }
 ```
 
-このプロチップと[デモ](https://codepen.io/argyleink/pen/VwYJpgR)を共有してくれたAdam Argyleへの帽子のヒント.
+このプロチップと[デモ](https://codepen.io/argyleink/pen/VwYJpgR)を共有してくれた Adam Argyle への帽子のヒント.
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="add-line-height-to-body"></div>
 
@@ -205,14 +191,13 @@ code {
 
 ```css
 body {
-  line-height: 1.5;
+    line-height: 1.5;
 }
 ```
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/VjbdYd)
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="set-focus-for-form-elements"></div>
 
@@ -228,14 +213,13 @@ select:focus,
 textarea:focus {
   box-shadow: none;
   outline: #000 dotted 2px;
-  outline-offset: .05em;
+  outline-offset: 0.05em;
 }
 ```
 
 #### [デモ](https://codepen.io/AllThingsSmitty/pen/ePzoOP/)
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="vertically-center-anything"></div>
 
@@ -251,15 +235,15 @@ body {
 }
 
 body {
-  -webkit-align-items: center;  
-  -ms-flex-align: center;  
+  -webkit-align-items: center;
+  -ms-flex-align: center;
   align-items: center;
   display: -webkit-flex;
   display: flex;
 }
 ```
 
-...CSSグリッド:
+...CSS グリッド:
 
 ```css
 body {
@@ -272,12 +256,11 @@ body {
 
 なんでも中央に揃いたいですか？ CSS-Tricks の[セントリングガイド](https://css-tricks.com/centering-css-complete-guide/) をチェックしてください。
 
-**備考:** IE11のFlexboxの [バグを気をつけてください](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items)
+**備考:** IE11 の Flexbox の [バグを気をつけてください](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items)
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="comma-separated-lists"></div>
 
@@ -297,7 +280,6 @@ ul > li:not(:last-child)::after {
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="select-items-using-negative-nth-child"></div>
 
 ### ネガティブな `:nth-child` を使用してアイテムを選択
@@ -310,7 +292,7 @@ li {
 }
 
 /* select items 1 through 3 and display them */
-li:nth-child(-n+3) {
+li:nth-child(-n + 3) {
   display: block;
 }
 ```
@@ -319,7 +301,7 @@ li:nth-child(-n+3) {
 
 ```css
 /* select all items except the first 3 and display them */
-li:not(:nth-child(-n+3)) {
+li:not(:nth-child(-n + 3)) {
   display: none;
 }
 ```
@@ -330,22 +312,21 @@ li:not(:nth-child(-n+3)) {
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="use-svg-for-icons"></div>
 
-### SVGのアイコン
+### SVG のアイコン
 
-アイコンとしてSVGを使えない理由がないです！
+アイコンとして SVG を使えない理由がないです！
 
 ```css
 .logo {
-  background: url("logo.svg");
+    background: url("logo.svg");
 }
 ```
 
-SVGは [IE9](http://caniuse.com/#search=svg)以降のすべてのブラウザでサポートされています。
+SVG は [IE9](http://caniuse.com/#search=svg)以降のすべてのブラウザでサポートされています。
 
-**備考:** ボタンがSVGだけで作られている場合、SVGがローディングされなかったらアクセシビリティのためこちらのコードを書いて見てください:
+**備考:** ボタンが SVG だけで作られている場合、SVG がローディングされなかったらアクセシビリティのためこちらのコードを書いて見てください:
 
 ```css
 .no-svg .icon-only::after {
@@ -355,33 +336,31 @@ SVGは [IE9](http://caniuse.com/#search=svg)以降のすべてのブラウザで
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="use-the-lobotomized-owl-selector"></div>
 
-### Owlを使用
+### Owl を使用
 
-変な名前ですが(`*`) と (`+`) を使用するとパワフルCSSセレクターになります！
+変な名前ですが(`*`) と (`+`) を使用するとパワフル CSS セレクターになります！
 
 ```css
 * + * {
-  margin-top: 1.5em;
+    margin-top: 1.5em;
 }
 ```
 
 全てのページの要素にある要素が`margin-top: 1.5em`をもらいます。
 
-Owlについて詳しくはこちら：*List Apart* の[ヘイドンピケリングの記事](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
+Owl について詳しくはこちら：_List Apart_ の[ヘイドンピケリングの記事](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="use-max-height-for-pure-css-sliders"></div>
 
-### CSSで実装されたスライダーには`max-height`を使う
+### CSS で実装されたスライダーには`max-height`を使う
 
-CSSで実装されたスライダーは、`max-height`を`overflow: hidden;`と一緒に使ってください。
+CSS で実装されたスライダーは、`max-height`を`overflow: hidden;`と一緒に使ってください。
 
 ```css
 .slider {
@@ -400,7 +379,6 @@ CSSで実装されたスライダーは、`max-height`を`overflow: hidden;`と�
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="equal-width-table-cells"></div>
 
 ### テーブルのセルの幅を均等にする
@@ -409,7 +387,7 @@ CSSで実装されたスライダーは、`max-height`を`overflow: hidden;`と�
 
 ```css
 .calendar {
-  table-layout: fixed;
+    table-layout: fixed;
 }
 ```
 
@@ -419,13 +397,11 @@ CSSで実装されたスライダーは、`max-height`を`overflow: hidden;`と�
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="get-rid-of-margin-hacks-with-flexbox"></div>
 
-### Flexboxのマージンハックを取り除く
+### Flexbox のマージンハックを取り除く
 
 `flexbox`でカラムの溝をつくる時、`nth-`, `first-`, `last-child`などのハックで最後の溝を取り除くことができますが、それは`flexbox`の`space-between`プロパティを使うだけで解決します。
-
 
 ```css
 .list {
@@ -438,16 +414,15 @@ CSSで実装されたスライダーは、`max-height`を`overflow: hidden;`と�
 }
 ```
 
-columnのスペースが揃えている。
+column のスペースが揃えている。
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="use-attribute-selectors-with-empty-links"></div>
 
-### リンクにテキストが無い時はURLを表示
+### リンクにテキストが無い時は URL を表示
 
-リンクの`href`属性にはURLがあり、リンクのテキストがない場合に、下記のCSSを使用すると、リンク先のURLを表示します。
+リンクの`href`属性には URL があり、リンクのテキストがない場合に、下記の CSS を使用すると、リンク先の URL を表示します。
 
 ```css
 a[href^="http"]:empty::before {
@@ -460,7 +435,6 @@ a[href^="http"]:empty::before {
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/zBzXRx)
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="style-default-links"></div>
 
@@ -475,10 +449,9 @@ a[href]:not([class]) {
 }
 ```
 
-CMSで挿入される通常class属性を持たないリンクに`:not`を使ってスタイルを定義します。
+CMS で挿入される通常 class 属性を持たないリンクに`:not`を使ってスタイルを定義します。
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="intrinsic-ratio-boxes"></div>
 
@@ -503,12 +476,11 @@ CMSで挿入される通常class属性を持たないリンクに`:not`を使っ
 }
 ```
 
-paddingに20%を使っているのは、そのボックスの高さを幅の20%と等しくします。ビューポートの幅に関わらず、子のdiv要素のアスペクト比は「100%:20%(5:1)」を保持します。
+padding に 20%を使っているのは、そのボックスの高さを幅の 20%と等しくします。ビューポートの幅に関わらず、子の div 要素のアスペクト比は「100%:20%(5:1)」を保持します。
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/jALZvE)
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="style-broken-images"></div>
 
@@ -517,7 +489,7 @@ paddingに20%を使っているのは、そのボックスの高さを幅の20%�
 よりよいユーザエクスペリエンスを提供するために、リンク切れの画像要素にスタイルを定義します。もちろんリンク切れがないのがベストですが、絶対に存在しない訳ではありません。
 
 ```css
-img {  
+img {
   display: block;
   font-family: sans-serif;
   font-weight: 300;
@@ -532,13 +504,13 @@ img {
 疑似要素を使い、ユーザーの役に立つ情報を加えることもできます。
 
 ```css
-img::before {  
+img::before {
   content: "We're sorry, the image below is broken :(";
   display: block;
   margin-bottom: 10px;
 }
 
-img::after {  
+img::after {
   content: "(url: " attr(src) ")";
   display: block;
   font-size: 12px;
@@ -549,7 +521,6 @@ img::after {
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="use-rem-for-global-sizing-use-em-for-local-sizing"></div>
 
 ### グローバルのサイズ指定に`rem`、ローカルに`em`を使用
@@ -558,11 +529,11 @@ img::after {
 
 ```css
 h2 {
-  font-size: 2em;
+    font-size: 2em;
 }
 
 p {
-  font-size: 1em;
+    font-size: 1em;
 }
 ```
 
@@ -574,14 +545,13 @@ article {
 }
 
 aside .module {
-  font-size: .9rem;
+  font-size: 0.9rem;
 }
 ```
 
 モジュールごとに分けるとスタイルするのが簡単で、メンテナンス性もアップします。
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
-
 
 <div id="hide-autoplay-videos-that-arent-muted"></div>
 
@@ -599,7 +569,6 @@ video[autoplay]:not([muted]) {
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="use-root-for-flexible-type"></div>
 
 ### フレクシブルタイプの`:root`を使用
@@ -608,7 +577,7 @@ video[autoplay]:not([muted]) {
 
 ```css
 :root {
-  font-size: calc(1vw + 1vh + .5vmin);
+  font-size: calc(1vw + 1vh + 0.5vmin);
 }
 ```
 
@@ -624,12 +593,11 @@ body {
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="set-font-size-on-form-elements-for-a-better-mobile-experience"></div>
 
 ### スマホ向け、フォーム要素のフォントサイズの設定
 
-スマホでセレクト要素のドロップダウンをタップした時に、iOS Safariでフォーム要素にズームインするのを回避するために、フォントサイズを加えます。
+スマホでセレクト要素のドロップダウンをタップした時に、iOS Safari でフォーム要素にズームインするのを回避するために、フォントサイズを加えます。
 
 ```css
 input[type="text"],
@@ -644,7 +612,6 @@ textarea {
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="use-pointer-events-to-control-mouse-events"></div>
 
 ### ポインターイベントを使用してマウスイベントを制御する
@@ -653,7 +620,7 @@ textarea {
 
 ```css
 .button-disabled {
-  opacity: .5;
+  opacity: 0.5;
   pointer-events: none;
 }
 ```
@@ -662,12 +629,11 @@ textarea {
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="set-display-none-on-line-breaks-being-used-as-spacing"></div>
 
 ### 間隔として使用される改行に `display：none` を設定します
 
-[ハリー・ロバーツが指摘したように](https://twitter.com/csswizardry/status/1170835532584235008)、これはCMSユーザーがスペースのために余分な改行を使用するのを防ぐのに役立ちます：
+[ハリー・ロバーツが指摘したように](https://twitter.com/csswizardry/status/1170835532584235008)、これは CMS ユーザーがスペースのために余分な改行を使用するのを防ぐのに役立ちます：
 
 ```css
 br + br {
@@ -677,9 +643,8 @@ br + br {
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-
 <div id="support"></div>
 
 ## サポート
 
-現在のChrome, Firefox, Safari, Opera と EdgeのバージョンとIE11.
+現在の Chrome, Firefox, Safari, Opera と Edge のバージョンと IE11.

@@ -8,13 +8,13 @@ A method that enables applications to take advantage of persistent background pr
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
------------------------------------------
-+ **[Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)**: Addy Osmani describes how to leverage the Service Worker API to drastically improve the loading speed of your web application.
-+ **[Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)**: Matt Gaunt introduces the main features of Service Worker API in this article.
-+ **[Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)**: Tracks the implementation status across the main browsers.
+---
 
+- **[Instant Loading Web Apps With An Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73)**: Addy Osmani describes how to leverage the Service Worker API to drastically improve the loading speed of your web application.
+- **[Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)**: Matt Gaunt introduces the main features of Service Worker API in this article.
+- **[Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)**: Tracks the implementation status across the main browsers.
 
-------------------
+---
 
 # License
 

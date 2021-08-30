@@ -1,19 +1,18 @@
 # Livros Elixir Incriveis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Conteúdo
-====
-* [Livros] (# livros)
- * [Livros basicos] (# livros iniciais)
- * [Livros avançados] (# livros avançados)
- * [Desenvolvimento Web] (# desenvolvimento web)
-* [Recursos] (# recursos)
 
-**Livros**
-====
+# Conteúdo
 
-**Livros basicos**
-----
+- [Livros] (# livros)
+   * [Livros basicos] (# livros iniciais)
+   * [Livros avançados] (# livros avançados)
+   \* [Desenvolvimento Web] (# desenvolvimento web)
+- [Recursos] (# recursos)
 
-### [Getting Started](http://elixir-lang.org/getting-started/introduction.html) *Free*
+# **Livros**
+
+## **Livros basicos**
+
+### [Getting Started](http://elixir-lang.org/getting-started/introduction.html) _Free_
 
 <img src = "http://elixir-lang.org/images/logo/logo.png" width = "180px" title = "Logotipo do Elixir" />
 
@@ -25,7 +24,7 @@ Guia oficial de início do Elixir que o guiará pelas base da linguagem. Você t
 
 Adoção é mais do que programação. O Elixir é um novo idioma empolgante, mas para obter seu aplicativo com sucesso do início ao fim, você precisará saber mais do que apenas o idioma. Você precisa dos estudos de caso e das estratégias deste livro. Aprenda as melhores práticas para toda a vida útil do seu aplicativo, desde o design e a formação de equipes, passando pelo gerenciamento de partes interessadas, até a implantação e o monitoramento. Vá além da sintaxe e das ferramentas para aprender as técnicas necessárias para desenvolver seu aplicativo Elixir do conceito à produção.
 
-### [Elixir School] (http://elixirschool.com/) * Grátis *
+### [Elixir School] (http://elixirschool.com/) _ Grátis _
 
 <img src = "http://elixir-lang.org/images/learning/elixir-school.jpg" width = "120px" />
 
@@ -37,7 +36,7 @@ A Elixir-School é um esforço aberto e direcionado à comunidade, inspirado na 
 
 O Elixir é uma excelente linguagem se você quiser aprender sobre programação funcional e, com esta introdução prática, descobrirá o quão poderoso e divertido o Elixir pode ser. Essa linguagem combina a robusta programação funcional do Erlang com uma sintaxe semelhante ao Ruby e inclui recursos poderosos para metaprogramação.
 
-### [Études for Elixir](https://startlearningelixir.com/r/etudes-for-elixir) *Free*
+### [Études for Elixir](https://startlearningelixir.com/r/etudes-for-elixir) _Free_
 
 <img src = "http://orm-other.s3.amazonaws.com/elixir_etudes_splash/cover.jpg" width = "120px" />
 
@@ -54,7 +53,6 @@ Este livro é um conjunto de receitas agrupadas por tópico que funciona como um
 <img src = "https://images.manning.com/255/340/resize/book/5/2e8efb1-9e6f-462c-9487-04eac07ea623/juric.png" width = "120px" />
 
 O Elixir in Action ensina como resolver problemas práticos de escalabilidade, simultaneidade, tolerância a falhas e alta disponibilidade usando o Elixir. Você começará com o idioma, aprendendo construções básicas e componentes básicos. Então, você aprenderá a pensar em problemas usando a mentalidade de programação funcional do Elixir. Com essa base sólida, você explorará com confiança a perfeita integração do Elixir com o BEAM e a poderosa estrutura OTP de abstrações testadas em batalha de Erlang, que você pode usar imediatamente. Por fim, o livro fornece orientações sobre como distribuir um sistema por várias máquinas e controlá-lo na produção.
-
 
 ### [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook)
 
@@ -92,16 +90,13 @@ A sintaxe direta do Elixir e este passeio guiado oferecem um caminho simples e l
 
 Esta não é sua situação típica de "vamos construir um blog". Você estará trabalhando comigo, o líder de desenvolvimento da startup fictícia aeroespacial RED: 4, enquanto mergulhamos no Elixir e conduzimos vários estudos científicos.
 
-
-### [Elixir succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) *Gratis* 
+### [Elixir succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) _Gratis_
 
 <img src = "https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/elixir-succinctly.png" width = "120px" />
 
 Este é um livro introdutório sobre Elixir e OTP, escrito para ir direto ao ponto. Quase 100 páginas para aprender o idioma e a plataforma.
 
-
-**Livros Avancados**
----
+## **Livros Avancados**
 
 ### [Designing Elixir Systems with OTP](https://pragprog.com/book/jgotp/designing-elixir-systems-with-otp)
 
@@ -110,6 +105,7 @@ Este é um livro introdutório sobre Elixir e OTP, escrito para ir direto ao pon
 Você sabe codificar no Elixir; agora aprenda a pensar nisso. Aprenda a projetar bibliotecas com camadas inteligentes que moldam as estruturas de dados corretas, fluem de uma função para a seguinte e apresentam as APIs corretas. Adote o mesmo OTP que mantém nossos sistemas telefônicos confiáveis ​​e rápidos por mais de 30 anos. Vá além da compreensão das funções da OTP para saber o que está acontecendo sob o capô e por que isso importa. Usando esse conhecimento, instintivamente saiba como projetar sistemas que oferecem serviços rápidos e resilientes aos usuários, tudo com o foco do Elixir.
 
 ### [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
+
 <img src = "https://images-na.ssl-images-amazon.com/images/I/51nY9nCe0jL._SX415_BO1,204,203,200_.jpg" width = "120px" />
 
 Seu domínio é rico e interconectado, e sua API também. Atualize sua API da web para o GraphQL, aproveitando suas consultas flexíveis para capacitar seus usuários e sua estrutura declarativa para simplificar seu código. O absinto é o kit de ferramentas GraphQL para Elixir, uma linguagem de programação funcional projetada para permitir simultaneidade massiva em arquiteturas de aplicativos robustas. Escrito pelos criadores do Absinthe, este livro o ajudará a tirar o máximo proveito dessas duas tecnologias inovadoras. Crie suas próprias APIs flexíveis de alto desempenho usando orientações passo a passo e conselhos de especialistas que você não encontrará em nenhum outro lugar.
@@ -152,6 +148,7 @@ Erlang está emergindo como uma linguagem líder para programação simultânea 
 Como linguagem funcional, no entanto, Erlang é radicalmente diferente das linguagens orientadas a objetos convencionais como C ++ e Java. Este livro rapidamente leva a programadores experientes orientados a objetos a velocidade com Erlang e os princípios da programação funcional. Jerry Jackson explica minuciosamente os principais conceitos, princípios e recursos de Erlang, fazendo a ponte entre as lacunas conceituais que freqüentemente frustram os desenvolvedores de objetos. Em seguida, ele mostra como usar o Erlang para criar sistemas do mundo real escaláveis ​​em massa, com disponibilidade de até nove noves, ou seja, até 99,9999999999% de tempo de atividade.
 
 ### [Erlang and Elixir for Imperative Programmers](http://www.springer.com/la/book/9781484223932)
+
 <img src = "https://images.springer.com/sgw/books/medium/9781484223932.jpg" width = "120px" />
 
 Aprenda e compreenda Erlang e Elixir e desenvolva um conhecimento prático dos conceitos de programação funcional que os sustentam. Este livro leva a experiência do autor em assumir um projeto que exigia programação funcional e sistemas em tempo real, detalha e organiza. Você obterá o conhecimento necessário sobre as diferenças nos idiomas que conhece, por onde começar e por onde seguir.
@@ -168,8 +165,7 @@ O teste baseado em propriedades ajuda a criar testes melhores e mais sólidos co
 
 Neste livro, você aprenderá como criar um serviço de hospedagem de arquivos sólido sobre o OTP de Erlang e usar as abstrações do Elixir, que permitem criar aplicativos fáceis de paralelizar e distribuir. Você usará o GenStage para processar os uploads de arquivos e, em seguida, simplificará implementando uma DSL. Você usará o Phoenix para expor seu aplicativo ao mundo. Ao concluir a implementação, você aprenderá como levar seu aplicativo para a nuvem, usando o Kubernetes para implantar, dimensionar e gerenciar automaticamente. Por último, mas não menos importante, você manterá sua paz de espírito, aprendendo a testar minuciosamente e a monitorar seu aplicativo quando ele for lançado.
 
-**Desenvolvimento Web**
----
+## **Desenvolvimento Web**
 
 ### [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix)
 
@@ -215,27 +211,27 @@ Este livro aborda os conceitos básicos da estrutura da web do Phoenix, mostrand
 
 Os idiomas podem ir e vir, mas o banco de dados relacional perdura. Aprenda a usar o Ecto, a principal biblioteca de banco de dados do Elixir, para conectar seus aplicativos Elixir e Phoenix aos bancos de dados. Controle firmemente os fundamentos do Ecto com um tour módulo a módulo das partes críticas do Ecto. Em seguida, passe para tópicos e conselhos mais avançados sobre práticas recomendadas com uma série de receitas que fornecem instruções claras e passo a passo sobre os cenários comumente encontrados pelos desenvolvedores de aplicativos. Co-autoria do criador do Ecto, este título fornece todos os elementos essenciais que você precisa para usar o Ecto de maneira eficaz.
 
-**Recursos**
-====
-* [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
-* [Elixir Sips](http://elixirsips.com)
-* [LearnElixir.tv](https://www.learnelixir.tv/)
-* [Google+](https://plus.google.com/communities/115770991058707869622)
-* [Reddit](https://www.reddit.com/r/elixir)
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/elixir)
-* [Exercism.io](http://exercism.io/languages/elixir)
-* [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
-* [Elixir Koans](http://elixirkoans.io)
-* [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
-* [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
-* [Elixir School](http://elixirschool.com/)
-* [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
+# **Recursos**
 
-Contribuicoes
-====
+- [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
+- [Elixir Sips](http://elixirsips.com)
+- [LearnElixir.tv](https://www.learnelixir.tv/)
+- [Google+](https://plus.google.com/communities/115770991058707869622)
+- [Reddit](https://www.reddit.com/r/elixir)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/elixir)
+- [Exercism.io](http://exercism.io/languages/elixir)
+- [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
+- [Elixir Koans](http://elixirkoans.io)
+- [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
+- [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
+- [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
+- [Elixir School](http://elixirschool.com/)
+- [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
+
+# Contribuicoes
+
 Suas contribuicoes sao sempre bem vindas, basta seguir [as regras](https://github.com/sger/ElixirBooks/blob/master/CONTRIBUTING.md)!
 
-Licenca
-====
+# Licenca
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a><br />Este trabalho esta licenciado sobre a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

@@ -8,11 +8,11 @@ Working with keyboard input in a web browser.
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
------------------------------------------
-+ **[What’s New with KeyboardEvents? Keys and Codes!](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)**: Jeff Posnick talks about the code and key event attributes and how to use them in practice.
+---
 
+- **[What’s New with KeyboardEvents? Keys and Codes!](https://developers.google.com/web/updates/2016/04/keyboardevent-keys-codes)**: Jeff Posnick talks about the code and key event attributes and how to use them in practice.
 
-------------------
+---
 
 # License
 

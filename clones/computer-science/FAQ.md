@@ -24,9 +24,11 @@ Alternatively, you could [contribute](#CONTRIBUTING.md) an answer yourself.
 ## Questions
 
 ### Does OSSU offer a degree?
+
 No. OSSU creates guides to resources that will empower you to learn the curriculum of an undergraduate degree. Individuals who used to be involved in OSSU may be working with other organizations to offer degrees, but Open Source Society University is not involved in those efforts.
 
 ### How can I review the math prerequisites?
+
 Many OSSU students choose to review math topics that they have not studied recently.
 OSSU recommends students use Khan Academy for such a review.
 Below are links to topic assessments.
@@ -42,7 +44,9 @@ After taking an assessment, you should have a clear idea what topics to study, a
 (Math 1, 2, 3 covers all of algebra, pre-calculus, high school geometry, trig, stats. It interleaves the order of these topics.)
 
 ### What is a good course to learn a particular language?
+
 OSSU focuses on finding the best courses to learn computer science topics, and isn’t focused on finding language specific courses. If you are looking to learn a particular language or framework there are two great resources to check.
+
 1. [Hackr.io](https://hackr.io/) allows users to submit and upvote learning resources for topics such as Python or the Java Spring Framework.
 2. Most languages have a community on reddit. When you find the community’s page, check to see if there is a wiki or sidebar with resources. For example, see [/r/python](https://old.reddit.com/r/Python). Note that the sidebar content can be different depending on whether you use www.reddit.com or old.reddit.com.
 
@@ -57,6 +61,7 @@ It is our hope that the creators of the Firebase app can bring the app up to dat
 ### In what order should I take the courses?
 
 You have a few different options:
+
 - You can progress linearly from top to bottom of the page.
 - You can progress linearly through each individual section, but studying different sections in parallel.
 - You can design your own custom progression using the pre-requisites to guide you.
@@ -70,7 +75,7 @@ Yes, that is a core goal of OSSU.
 At the same time, we recognize that education is a resource that requires payment to instructors to make it sustainable in the long term.
 Therefore, we respect the business model of websites like edX, which make their materials free but with some paid add-ons, like official certificates or extra interaction with course instructors.
 
-So we only require that the *learning materials* of a resource be free to access, not that every possible add-on be free.
+So we only require that the _learning materials_ of a resource be free to access, not that every possible add-on be free.
 It would be ideal if graded assignments were always free. In the event that free assessments are not available OSSU looks for alternate assessments to pair with a course.
 
 ### Are Coursera courses free to access?
@@ -88,6 +93,7 @@ You may see something like this on the course page:
 <img src="http://i.imgur.com/MxOcYZv.png" alt="Free Trial" style="width: 400px;"/>
 
 When attempting to enroll in such a course:
+
 - Click the blue "Enroll" or "Enroll Now" button.
 - A pop-up will appear.
 - **Do not click** "Start Free Trial", unless you do want to pay.
@@ -111,6 +117,7 @@ You can read more about our curricular guidelines and the qualifications of the 
 ### Why is the curriculum missing some pre-requisites?
 
 The curriculum assumes two things:
+
 - You are reasonably fluent in English.
 - You have gotten through a standard high school curriculum that included physics and pre-calculus.
 
@@ -120,4 +127,5 @@ For those who want to study math pre-requisites, read more [here](#how-can-i-rev
 Of course, if you find that the curriculum is missing a pre-requisite for a course that isn't part of a normal high school curriculum, please let us know!
 
 ### Why require experience with a sizable project before the Software Engineering courses?
+
 Software engineering tries to solve the problem of dealing with large programs. Building a sizable program before taking the SE courses will help you understand what SE is trying to solve. We recommend the Jack-to-VM-code compiler project from the nand2tetris course because it's the first project in the curriculum that is complex enough to see value in a SE course. That said, any sizable project will do and can come from outside of the OSSU curriculum. The idea is that you've done some large enough project where the pieces started to feel unmanageable. This experience will expose pain points and lead to a better understanding of SE.

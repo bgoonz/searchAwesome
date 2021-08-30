@@ -24,7 +24,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Expressive BEM with Sass Part II: A first draft of mixins - Anders Hansen](http://codepen.io/andersschmidt/post/expressive-bem-with-sass-part-ii-a-first-draft-of-mixins)
 - [Learning to love BEM](http://mono.company/journal/frontend/learning-to-love-bem//)
 - [Working with BEM at Scale — Advice From Top Developers](http://www.sitepoint.com/working-bem-scale-advice-top-developers/)
-- [CSS Architecture: BEMCSS — Block, Element &  Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
+- [CSS Architecture: BEMCSS — Block, Element & Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
 - [BEM Guidelines for component focused development](http://www.joelambert.co.uk/article/bem-guidelines/)
 - [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 - [CSS BEM Syntax Basics](https://coryrylan.com/blog/css-bem-syntax-basics)
@@ -54,10 +54,12 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [Generating BEM selectors with CSS preprocessors - Frontend Babel](http://frontendbabel.info/articles/bem-with-css-preprocessors/)
 
 ### Sass
+
 - [Even Easier BEM-ing with Sass 3.3 - alwaystwisted](http://alwaystwisted.com/articles/2014-02-27-even-easier-bem-ing-with-sass-33)
 - [BEM Mixins - CSS Tricks](https://css-tricks.com/snippets/sass/bem-mixins/)
 
 ### Stylus
+
 - [Stylus and BEM: a quick mixin - Frank M Taylor](http://blog.frankmtaylor.com/2014/07/16/stylus-and-bem-a-quick-mixin/)
 
 ### PostCSS
@@ -67,6 +69,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 ## Repos, CodePens and Things
 
 ### Repos
+
 - [BEM Constructor](https://github.com/danielguillan/bem-constructor)
 - [WordPress BEM Menu](https://github.com/roikles/Wordpress-Bem-Menu)
 - [BEM Grid](https://github.com/bem-incubator/bem-grid)
@@ -76,13 +79,15 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 ## Slides &amp; Videos
 
 ### Slides
+
 - [BEM CSS Workshop - Varya Stepanova](http://varya.me/bem-css-workshop/)
 - [BEM - Luciano Battagliero](https://speakerdeck.com/battaglr/bem)
 
 ### Videos
+
 - [Writing Modular CSS With Sass and BEM - Tuts Plus](https://www.youtube.com/watch?v=WH4U4K5W8N8)
 - [MindBEMding – Rethink Web Development - Kevin Mack](https://www.youtube.com/watch?v=vgg-NsKZaE4)
 
-
 ### Other Awesome Lists
+
 - [A curated list of awesome lists - @sindresorhus](https://github.com/sindresorhus/awesome)

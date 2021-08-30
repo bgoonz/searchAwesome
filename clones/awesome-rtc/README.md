@@ -2,7 +2,6 @@
 
 > Protocols and methodology for near simultaneous exchange of media and data.
 
-
 ## Contents
 
 - [Server Software](#server-software)
@@ -30,7 +29,6 @@
 - [Events](#events)
 - [Related Lists](#related-lists)
 - [Contribute](#contribute)
-
 
 ## Server Software
 
@@ -61,7 +59,6 @@
 - [coturn](https://github.com/coturn/coturn) - Fully featured TURN/STUN server supporting multiple platforms.
 - [STUNTMAN](https://github.com/jselbie/stunserver) - RFC compliant open source STUN implementation.
 
-
 ## Operations
 
 ### Monitoring
@@ -91,7 +88,6 @@
 - [CGRateS](http://cgrates.org) - Carrier grade open source billing/rating server.
 - [A2Billing](http://www.asterisk2billing.org) - Billing system for Asterisk for multiple applications.
 - [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) - Wholesale billing platform for Kamailio and FreeSWITCH.
-
 
 ## Developer Resources
 
@@ -157,19 +153,16 @@
 
 - [dart-sip-ua](https://github.com/cloudwebrtc/dart-sip-ua) - Dart-lang port of JsSIP, capable of SIP over WebSocket.
 
-
 ## Blogs
 
 - [BlogGeekMe](https://bloggeek.me/blog) - Blog by Tsahi Levent-Levi with a strong focus on WebRTC.
 - [SIP Adventures](https://andrewjprokop.wordpress.com) - Unified communications blog by Andrew Prokop.
 - [WebRTCHacks](https://webrtchacks.com) - WebRTC blog by independent technologists.
 
-
 ## Discussion
 
 - [FreeSWITCH Slack](https://signalwire.community) - Join #freeswitch and #freeswitch-dev for user and developer support.
 - [discuss-webrtc](https://groups.google.com/forum/?fromgroups#!forum/discuss-webrtc) - Developer oriented Google Group for WebRTC discussions.
-
 
 ## Events
 
@@ -181,7 +174,6 @@
 - [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
 - [FOSDEM](https://fosdem.org/2020) - Free event for software developers, with a RTC component, held every year in Europe.
 
-
 ## Related Lists
 
 - [Awesome RIPT](https://github.com/rtckit/awesome-ript) - Real Time Internet Peering for Telephony.
@@ -189,7 +181,6 @@
 - [Awesome 5G](https://github.com/calee0219/awesome-5g) - 5G frameworks, libraries, software and resources.
 - [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Research resources in the 3G/4G/5G Cellular security space.
 - [Awesome Telco](https://github.com/ravens/awesome-telco) - Telco resources and projects.
-
 
 ## Contribute
 

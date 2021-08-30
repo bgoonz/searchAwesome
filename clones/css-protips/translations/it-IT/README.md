@@ -8,13 +8,11 @@ Una collezione di dritte per aiutarti a migliorare le tue capacità con CSS.
 
 > Per altre fantastiche liste di questo tipo guarda la [lista di fantastiche liste](https://github.com/sindresorhus/awesome/) curata da [@sindresorhus](https://github.com/sindresorhus/).
 
-
 ## Sommario
 
-* [Suggerimenti per esperti](#suggerimenti-per-esperti)
-* [Supporto](#supporto)
-* [Linee guida per contribuire](../../CONTRIBUTING.md)
-
+- [Suggerimenti per esperti](#suggerimenti-per-esperti)
+- [Supporto](#supporto)
+- [Linee guida per contribuire](../../CONTRIBUTING.md)
 
 ## Suggerimenti per esperti
 
@@ -44,7 +42,6 @@ Una collezione di dritte per aiutarti a migliorare le tue capacità con CSS.
 1. [Utilizzare gli eventi puntatore per controllare gli eventi del mouse](#utilizzare-gli-eventi-puntatore-per-controllare-gli-eventi-del-mouse)
 1. [Imposta `display: none` su Line Breaks usati come Spaziatura](#imposta-display:-none-su-line-breaks-usati-come-spaziatura)
 
-
 ### Utilizzare un reset CSS
 
 reset CSS aiutare a far rispettare lo stile coerenza tra diversi browser da zero per gli elementi stilistici. È possibile utilizzare libreria di reset CSS come [Normalize](http://necolas.github.io/normalize.css/), et al, oppure è possibile utilizzare un approccio più semplificato di ripristino.:
@@ -67,7 +64,6 @@ Ora elementi saranno spogliati di margini e padding, e `box-sizing` consente di 
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Eredita il `box-sizing`
 
 Eredita il `box-sizing` dall'elemento `html`:
@@ -89,7 +85,6 @@ In questo modo diventa più facile cambiare `box-sizing` in plugin o altri compo
 #### [Dimostrazione](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Usa `unset` invece di Reimposta tutte le proprietà
 
@@ -117,7 +112,6 @@ button {
 **Nota:** la stenografia `all` e` unset` non è supportata in IE11.
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Usa `:not()` per applicare/rimuovere i bordi su elementi di navigazione
 
@@ -153,7 +147,6 @@ Il selettore CSS definisce il confine nel modo in cui un essere umano lo descriv
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Controlla se il font è installato localmente
 
 Puoi verificare se un font è installato localmente prima di recuperarlo da remoto, il che è anche un buon suggerimento per le prestazioni.
@@ -162,12 +155,8 @@ Puoi verificare se un font è installato localmente prima di recuperarlo da remo
 @font-face {
   font-family: "Dank Mono";
   src:
-    /* Full name */
-    local("Dank Mono"),
-    /* Postscript name */
-    local("Dank Mono"),
-    /* Otherwise, download it! */
-    url("//...a.server/fonts/DankMono.woff");
+    /* Full name */ local("Dank Mono"), /* Postscript name */ local("Dank Mono"),
+    /* Otherwise, download it! */ url("//...a.server/fonts/DankMono.woff");
 }
 
 code {
@@ -179,11 +168,9 @@ Punta del cappello ad Adam Argyle per aver condiviso questo prototipo e questa [
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Aggiungi `line-height` al `body`
 
 Non è necessario aggiungere `line-height` a ogni `<p> `,`<h *>`, _et al_. separatamente. Invece, aggiungilo a `body`:
-
 
 ```css
 body {
@@ -197,7 +184,6 @@ In questo modo gli elementi di testo possono ereditare facilmente da `body`.
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Imposta `:focus` per gli elementi del modulo
 
 Gli utenti con tastiera a vista si affidano alla messa a fuoco per determinare dove vanno gli eventi della tastiera nella pagina. Fai attenzione agli elementi del modulo che si distinguono e coerenti rispetto all'implementazione predefinita del browser:
@@ -210,14 +196,13 @@ select:focus,
 textarea:focus {
   box-shadow: none;
   outline: #000 dotted 2px;
-  outline-offset: .05em;
+  outline-offset: 0.05em;
 }
 ```
 
 #### [Dimostrazione](https://codepen.io/AllThingsSmitty/pen/ePzoOP/)
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Centra verticalmente qualsiasi cosa
 
@@ -258,7 +243,6 @@ Vuoi centrare qualcos'altro? In verticale, in orizzontale... qualsiasi cosa, in 
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Liste separate da virgola
 
 Visualizza gli elementi di una lista come fossero una vera lista con le virgole:
@@ -275,7 +259,6 @@ Usa la pseudo classe `:not()` in modo da non aggiungere la virgola all'ultimo el
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Seleziona un elemento usando gli `nth-child` negativi
 
 Usa gli `nth-child` negativi di CSS per selezionare gli elementi da 1 a n.
@@ -286,7 +269,7 @@ li {
 }
 
 /* seleziona gli elementi da 1 a 3 e li mostra */
-li:nth-child(-n+3) {
+li:nth-child(-n + 3) {
   display: block;
 }
 ```
@@ -295,7 +278,7 @@ Oppure, dato che hai già imparato un po' di cose circa l'[uso di `:not()`](#use
 
 ```css
 /* selezionare tutti gli elementi tranne i primi 3 e visualizzarli */
-li:not(:nth-child(-n+3)) {
+li:not(:nth-child(-n + 3)) {
   display: none;
 }
 ```
@@ -305,7 +288,6 @@ Beh... era abbastanza facile.
 #### [Dimostrazione](http://codepen.io/AllThingsSmitty/pen/WxjKZp)
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Usa SVG per le icone
 
@@ -329,7 +311,6 @@ SVG scala molto bene a tutti i tipi di risoluzione ed è supportata in tutti i b
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Usa il selettore detto "Lobotomized Owl"
 
 Sebbene il suo nome sia un po' strano, l'uso del selettore universale (`*`) insieme al selettore del fratello adiacente (`+`) può fornire una potenzialità CSS molto potente:
@@ -342,12 +323,11 @@ Sebbene il suo nome sia un po' strano, l'uso del selettore universale (`*`) insi
 
 In questo esempio, tutti gli elementi nel flusso del documento che seguono altri elementi riceveranno la proprietà `margin-top: 1.5em`.
 
-Per saperne di più sul selettore detto "lobotomized owl", leggi [l'articolo di Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) su *A List Apart*.
+Per saperne di più sul selettore detto "lobotomized owl", leggi [l'articolo di Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) su _A List Apart_.
 
 #### [Dimostrazione](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Usa `max-height` per slider fatti solo con CSS
 
@@ -370,7 +350,6 @@ L'elemento si espande al valore `max-height` all'hover e lo slider diventa visib
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Celle di tabella con larghezza uguale
 
 Lavorare con le tabelle può dare il tormento, perciò prova a usare `table-layout: fixed` per avere celle di larghezza uguale:
@@ -386,7 +365,6 @@ Layout con le tabelle e senza tormento.
 #### [Dimostrazione](http://codepen.io/AllThingsSmitty/pen/jALALm)
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Sbarazzati degli hack sui margini grazie a Flexbox
 
@@ -407,7 +385,6 @@ Ora le colonne avranno sempre una spaziatura uniforme.
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Usa il selettore d'attributo con i link senza testo
 
 Quando l'elemento `<a>` non ha testo al suo interno ma l'attributo `href` ha un link, lo mostra:
@@ -424,7 +401,6 @@ Decisamente comodo.
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Styling dei link di "Default"
 
 Aggiunge uno stile per i link "default":
@@ -440,10 +416,9 @@ Ora i link inseriti mediante un CMS, che solitamente non hanno un attributo `cla
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Box con proporzioni intrinseche
 
-Per creare un contenitore con proporzioni intrinseche tutto ciò che devi fare è applicare  a un div del `padding` superiore o inferiore:
+Per creare un contenitore con proporzioni intrinseche tutto ciò che devi fare è applicare a un div del `padding` superiore o inferiore:
 
 ```css
 .container {
@@ -467,7 +442,6 @@ Uare un `padding` del 20% rende l'altezza del contenitore pari al 20% della sua 
 #### [Dimostrazione](http://codepen.io/AllThingsSmitty/pen/jALZvE)
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Styling delle immagini non scaricate
 
@@ -506,7 +480,6 @@ Ulteriori informazioni sullo styling secondo questo pattern nell'[articolo](http
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Usa `rem` per le grandezze globali; usa `em` per le dimensioni locali
 
 Dopo avere impostato la dimensione di base del font sull'elemento root (`html { font-size: 100%; }`), imposta la dimensione del font per gli elementi testuali con `em`:
@@ -529,14 +502,13 @@ article {
 }
 
 aside .module {
-  font-size: .9rem;
+  font-size: 0.9rem;
 }
 ```
 
 A questo punto ogni modulo diventa compartimentalizzato, più facile da modellare, più manutenibile e più flessibile.
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Nascondi i video in riproduzione automatica che non sono silenziati
 
@@ -552,14 +524,13 @@ Ancora una volta stiamo sfruttando la pseudo classe [`:not()`](#use-not-to-apply
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Usa `:root` per caratteri flessibili
 
 In un layout responsive la grandezza del carattere dovrebbe essere in grado di adattarsi a ogni risoluzione. Puoi calcolare la dimensione del font basandoti sull'altezza e sulla larghezza della finestra usando `:root`:
 
 ```css
 :root {
-  font-size: calc(1vw + 1vh + .5vmin);
+  font-size: calc(1vw + 1vh + 0.5vmin);
 }
 ```
 
@@ -574,7 +545,6 @@ body {
 #### [Dimostrazione](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Imposta il `font-size` sugli elementi dei form per una migliore esperienza da mobile
 
@@ -593,14 +563,13 @@ textarea {
 
 <sup>[torna al sommario](#sommario)</sup>
 
-
 ### Utilizzare gli eventi puntatore per controllare gli eventi del mouse
 
 [Eventi puntatore](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) consentono di specificare come il mouse interagisce con l'elemento che sta toccando. Per disabilitare l'evento puntatore predefinito su un pulsante, ad esempio:
 
 ```css
 .button-disabled {
-  opacity: .5;
+  opacity: 0.5;
   pointer-events: none;
 }
 ```
@@ -608,7 +577,6 @@ textarea {
 È così semplice.
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ### Imposta `display: none` su Line Breaks usati come Spaziatura
 
@@ -621,7 +589,6 @@ br + br {
 ```
 
 <sup>[torna al sommario](#sommario)</sup>
-
 
 ## Supporto
 

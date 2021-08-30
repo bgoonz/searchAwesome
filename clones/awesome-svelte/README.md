@@ -66,7 +66,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Twitter](https://twitter.com/sveltejs)
 - [Discord](https://svelte.dev/chat)
 - [Reddit](https://www.reddit.com/r/sveltejs/)
-- [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte日本.
+- [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
 
 ### Conferences
 
@@ -94,7 +94,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Svelte Actions](https://www.youtube.com/playlist?list=PLoKaNN3BjQX3Gl14MBygFf8buPIw9pAeK) - @lihautan (YouTube).
 - [Svelte 101](https://www.youtube.com/hashtag/svelte101) - @lihautan (YouTube).
 - [Learn Svelte by building a habit tracker app](https://raddevon.com/articles/learn-svelte-by-building-a-habit-tracker-app/) - RadDevon.
-- [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/)  - SitePoint, by Chrome DevTools engineer @Jack_Franklin.
+- [Meet Svelte 3, a Powerful, Even Radical JavaScript Framework](https://www.sitepoint.com/svelte-javascript-framework-introduction/) - SitePoint, by Chrome DevTools engineer @Jack_Franklin.
 
 ### Studies
 
@@ -245,7 +245,6 @@ _For Single Page Applications (SPAs) and more._
 - [tinro](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 - [svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 - [svelte-client-router](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
-
 
 ## Frameworks
 

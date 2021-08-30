@@ -80,7 +80,7 @@
 - [Bhikkhu Bodhi's A Course in the Pali Language](http://bodhimonastery.org/a-course-in-the-pali-language.html) - Designed to help you to learn the basics of Pali grammar and vocabulary through direct study of selections from the Buddha’s discourses. It aims to enable you to read the Buddha’s discourses in the original as quickly as possible.
 - [Buddha Vacana](http://www.buddha-vacana.org/index.html) - This website is dedicated to those who wish to understand better the words of the Buddha by learning the basics of Pali language, but who don't have much time available for it.
 - [Pali Suffixes](http://dhamma.ru/paali/tables/palisufi.htm) - List of the different ways words can end, from the Pali Dictionary by Kogen Mizuno.
-- [Basic Pāli Noun Declension (PDF)](http://palitools.sourceforge.net/docs/BasicPaliNounDeclension.pdf) - Cheatsheet with the various forms that nouns can take. 
+- [Basic Pāli Noun Declension (PDF)](http://palitools.sourceforge.net/docs/BasicPaliNounDeclension.pdf) - Cheatsheet with the various forms that nouns can take.
 - [Pali Verbal Endings (PDF)](http://palitools.sourceforge.net/docs/PaliVerbalEndings.pdf) - Cheatsheet with verbal endings based on tense.
 - [Morphological analyzer and generator for Pali (PDF)](https://arxiv.org/pdf/1510.01570.pdf) - First step in the direction of the morphological analysis of Pali.
 - [Chant Pali](http://chantpali.org/) - Helpful guides for chanting and learning the most common Pali phrases, broken down line-by-line and syllable-by-syllable.
@@ -98,7 +98,7 @@
 - [Buddha Bodhivana](http://buddhabodhivana.org/) - East Warburton, Victoria, Australia - Forest monastery in a small town.
 - [Cittaviveka](http://www.cittaviveka.org/) - Hampshire, England - Primarily a residence for monks and nuns.
 - [Dhamma Vihara](http://www.dhammavihara.org/) - Veracruz, Mexico - Facilitates group and individual meditation retreats.
-- [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
+- [Dhammapala](http://dhammapala.ch/home-eng/) - Kandersteg, Switzerland - Quiet monastery in the mountains.
 - [Mosteiro Suddhavāri](https://suddhavari.org/) - São Lourenço, Minas Gerais, Brazil - Forest Tradition monastery with Ajahn Mudito as its resident monastic.
 - [Sitavana](https://birken.ca/) - Forest Monastary, Kamloops, British Columbia - Forest Tradition monastery with Ajahn Sona as abbot.
 - [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.

@@ -1,11 +1,12 @@
 # Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 [<img src="https://upload.wikimedia.org/wikipedia/ru/5/5d/Apache_Wicket_logo.png" align="right" width="100">](http://wicket.apache.org/)
 
 A curated list of awesome projects powered by [Apache Wicket](http://wicket.apache.org)
 
 Your contributions are always welcome!
 
-> Wicket is an open source, component oriented, serverside, Java web application framework. With a history of over a decade, it is still going strong and has a solid future ahead. 
+> Wicket is an open source, component oriented, serverside, Java web application framework. With a history of over a decade, it is still going strong and has a solid future ahead.
 
 ## Table of Contents
 
@@ -28,9 +29,10 @@ Your contributions are always welcome!
 - [Wicket in Action](http://wicketinaction.com/) - Blog and book about Wicket.
 
 ## Libraries
+
 List of libraries and components which can be used in your application
 
-- [JNPM](https://github.com/OrienteerBAP/JNPM) - Java library for JS Node Package Manager(NPM). Provides Wicket resource for transparent obtaining of NPM package and providing required file from it. 
+- [JNPM](https://github.com/OrienteerBAP/JNPM) - Java library for JS Node Package Manager(NPM). Provides Wicket resource for transparent obtaining of NPM package and providing required file from it.
 - [wicket-akka](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket.
 - [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation.
 - [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
@@ -54,11 +56,12 @@ List of libraries and components which can be used in your application
 - [wicked-charts](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications.
 
 ### WicketStuff
+
 [WicketStuff](https://github.com/wicketstuff/core) based libraries
 
 - [Annotation](https://github.com/wicketstuff/core/wiki/Annotation) - Mount your pages declarativly by java annotations.
 - [Annotation Event Dispatcher](https://github.com/wicketstuff/core/tree/master/annotationeventdispatcher-parent) - Improves events handling in Wicket by annotations.
-- [Async Tasks](https://github.com/wicketstuff/core/wiki/Async-tasks) -  Control a background process within a Wicket application.
+- [Async Tasks](https://github.com/wicketstuff/core/wiki/Async-tasks) - Control a background process within a Wicket application.
 - [Autocomplete TagIt](https://github.com/wicketstuff/core/wiki/Autocomplete-TagIt) - [TagIt](http://aehlke.github.com/tag-it/) integration with Wicket.
 - [BrowserId](https://github.com/wicketstuff/core/wiki/BrowserId) - [Mozilla Persona](https://login.persona.org/) integration with Wicket.
 - [Console](https://github.com/wicketstuff/core/wiki/Console) - Provides support for executing code dynamically (at runtime).
@@ -111,6 +114,7 @@ List of libraries and components which can be used in your application
 - [WqPlot](https://github.com/wicketstuff/wiquery-jqplot) - Provides WiQuery bindings for JqPlot.
 
 ## Web Frameworks
+
 Web Framework on top of wicket which allow you to build your system easily and smoothly
 
 - [Apache Isis](https://isis.apache.org/) - A framework for rapidly developing domain-driven apps in Java.
@@ -123,6 +127,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket.
 
 ## Solutions
+
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
@@ -141,4 +146,4 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 # License
 
- [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

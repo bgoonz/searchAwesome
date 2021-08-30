@@ -1,6 +1,6 @@
 language: ruby
 node_js:
-  - 'node'
+  - "node"
 rvm:
   - 2.4.1
 env:

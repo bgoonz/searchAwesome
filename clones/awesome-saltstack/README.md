@@ -3,6 +3,7 @@
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
 <!--lint ignore double-link-->
+
 [<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://www.saltstack.com/)
 
 SaltStack is the other configuration management system built with Python.\
@@ -32,6 +33,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 <!--lint ignore double-link-->
+
 - [SaltStack site](https://www.saltstack.com/) - Company website.
 - [Salt Project site](https://saltproject.io/) - Salt Project (Salt Open Source) website.
 - [vRealize Automation SaltStack Config](https://www.vmware.com/products/vrealize-automation/saltstack-config.html) - vRealize Automation SaltStack Config website at VMware (new name for commercial SaltStack product).
@@ -48,6 +50,7 @@ A :gem: means **really _awesome / useful_**.
 ## Tutorials
 
 <!--lint ignore awesome-list-item-->
+
 - [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
 - [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 - [How To Use Salt Cloud Map Files to Deploy App Servers and an Nginx Reverse Proxy](https://www.digitalocean.com/community/tutorials/how-to-use-salt-cloud-map-files-to-deploy-app-servers-and-an-nginx-reverse-proxy) - Walkthrough on how to use Salt Cloud Map Files to deploy application servers and an Nginx reverse proxy.
@@ -95,6 +98,7 @@ A :gem: means **really _awesome / useful_**.
 ## Videos
 
 <!--lint ignore awesome-list-item-->
+
 - [SaltStack](https://www.youtube.com/user/saltstack) - SaltStack's official YouTube channel.
 - [Salt Project on Twitch](https://www.twitch.tv/saltprojectoss) - Salt Project's official Twitch channel.
 - [Managing Your Infrastructure with SaltStack](https://www.youtube.com/watch?v=y-zQUqMHRX4&t=35s) - PyCon 2015 - April 11, 2015 - Colton Myers.
@@ -142,7 +146,7 @@ A :gem: means **really _awesome / useful_**.
 - [Text editor plugins for Salt states and YAML/Jinja](https://salt.tips/text-editor-plugins-for-salt-states-and-yaml-jinja/) - Covers plugins for different editors when writing Salt states.
 - [Writing a custom Salt Grain](https://blog.badgerops.net/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 - [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
-- [Testing your salt states with kitchen-salt](https://blog.gtmanfred.com/kitchen-salt.html) -  Make it easy to test salt states or formulas independently of a production environment.
+- [Testing your salt states with kitchen-salt](https://blog.gtmanfred.com/kitchen-salt.html) - Make it easy to test salt states or formulas independently of a production environment.
 - [Salt Sudo](https://medium.com/@mike.reider/using-saltstack-for-emergency-sudoers-access-tempsudo-d5417e528e4d) - Using Salt custom modules to manage sudo access for users.
 - [Complex User management with Saltstack (using Py! renderer)](https://medium.com/@mike.reider/complex-user-management-with-saltstack-using-py-renderer-a4caa5cf229a) - Using a centralized User YAML file that contains all users' data.
 - [Vagrant Provisioning with SaltStack](https://medium.com/@Joachim8675309/vagrant-provisioning-with-saltstack-50dab12ce6c7) - Provisioning Virtual System using Masterless Salt Stack.
@@ -156,6 +160,7 @@ A :gem: means **really _awesome / useful_**.
 ## Discussions
 
 <!--lint ignore no-repeat-punctuation-->
+
 - [Reddit: Vagrat, SaltStack, Ansible, Docker, Chef, Puppet, Packer.. Something](https://www.reddit.com/r/sysadmin/comments/2fmkvq/vagrat_saltstack_ansible_docker_chef_puppet/) - Discussion on Reddit, started Sept. 2014 in `/r/sysadmin`.
 
 ## Community
@@ -187,7 +192,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Uncategorized
 
-- [Salt (software)](https://en.wikipedia.org/wiki/Salt_(software)) - Wikipedia (English).
+- [Salt (software)](<https://en.wikipedia.org/wiki/Salt_(software)>) - Wikipedia (English).
 
 ## Attic
 

@@ -26,7 +26,7 @@ module.exports = {
       .query({
         variables: { owner, name },
         query: gql`
-          query($owner: String!, $name: String!) {
+          query ($owner: String!, $name: String!) {
             repository(owner: $owner, name: $name) {
               name
               nameWithOwner
@@ -66,7 +66,7 @@ module.exports = {
       .then(({ data: { repository } }) => {
         return repository
       })
-      .catch(err => {
+      .catch((err) => {
         console.error(err)
         return
       })
@@ -77,7 +77,7 @@ module.exports = {
       .query({
         variables: { login },
         query: gql`
-          query($login: String!) {
+          query ($login: String!) {
             user(login: $login) {
               login
               name
@@ -90,7 +90,7 @@ module.exports = {
       .then(({ data: { user } }) => {
         return user
       })
-      .catch(err => {
+      .catch((err) => {
         console.error(err)
         return
       })

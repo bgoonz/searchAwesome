@@ -33,12 +33,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Projects
 
-*Awesome projects and applications built using Vorpal.*
+_Awesome projects and applications built using Vorpal._
 
 - [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
 - [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI.
-- [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
+- [phunt](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. _Trended on (you guessed it) Product Hunt._
 - [trelew](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
 - [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
 - [metronome](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
@@ -53,7 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Extensions
 
-*Extensions add to the functionality of Vorpal - programmatically or live.*
+_Extensions add to the functionality of Vorpal - programmatically or live._
 
 #### POSIX implementations
 
@@ -77,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [hacker-news](https://github.com/vorpaljs/vorpal-hacker-news) - Pulls the top trending items from Hacker News.
 
 #### Toolbox
+
 - [rc](https://github.com/subk/vorpal-rc) - Simple .rc file support.
 - [comment](https://github.com/subk/vorpal-comment) - Bash-like comment support.
 - [as-default](https://github.com/ialpert/vorpal-as-default) - Triggers Vorpal task in case it runs without any specificly defined task.

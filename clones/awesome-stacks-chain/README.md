@@ -1,6 +1,6 @@
 # Awesome Stacks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome Stacks](img/awesome-stacks.png 'Awesome Stacks')](https://www.stacks.co)
+[![Awesome Stacks](img/awesome-stacks.png "Awesome Stacks")](https://www.stacks.co)
 
 [Stacks](https://www.stacks.co/what-is-stacks) is a blockchain anchored by Bitcoin that enables apps, smart contracts, and digital assets. Stacks is a layer-1 blockchain that connects to Bitcoin and implements smart contracts and decentralized applications through the [Clarity language](https://clarity-lang.org/). Through the [Proof of Transfer (PoX) consensus mechanism](https://docs.stacks.co/understand-stacks/proof-of-transfer), the state of the Stacks blockchain is anchored against the Bitcoin blockchain, thus providing the security and finality of Bitcoin to Stacks. Stacks brings the programmability of other blockchain technologies to Bitcoin, without the need to modify the core consensus mechanism of Bitcoin itself.
 

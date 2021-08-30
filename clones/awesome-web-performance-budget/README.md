@@ -1,6 +1,6 @@
 # Awesome Web Performance Budget [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> Web Performance Budget is a group of limits to certain values that affect site performance that should not be exceeded in the design and development of any web project. By setting up the performance budget, we can focus more towards performance which can improve the speed and overall user experience of our websites. This list help us to provide link to various articles, projects, tools and techniques to maintain performance budget.
 
+> Web Performance Budget is a group of limits to certain values that affect site performance that should not be exceeded in the design and development of any web project. By setting up the performance budget, we can focus more towards performance which can improve the speed and overall user experience of our websites. This list help us to provide link to various articles, projects, tools and techniques to maintain performance budget.
 
 ## Contents
 
@@ -16,6 +16,7 @@
 - [Case Studies](#case-studies)
 
 ## Articles
+
 - [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201) - Performance Budget by Addyosmani.
 - [Performance Budget](https://addyosmani.com/blog/performance-budgets/) - Performance Budget by Addyosmani.
 - [Your first performance budget](https://web.dev/your-first-performance-budget/) - Explained how to define your first performance budget in a few simple steps.
@@ -48,7 +49,7 @@
 - [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [Size Plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 - [Performance Budget Builder](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template. 
+- [Progressive Web Metrics](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
 - [rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
 - [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
 
@@ -57,20 +58,23 @@
 - [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
 - [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
-- [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat. 
+- [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 - [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
 - [Rollup Visualizer](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.
 - [Parcel plugin Visualizer](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 - [CSS Analyzer](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
 ## Website Analyzers
+
 - [Lighthouse Metrics](https://lighthouse-metrics.com/) - Lighthouse Metrics provides easy insights for your site's performance. Save your time by running tests from multiple locations to get the valuable insight you need.
 - [UITest.com Site Check](https://uitest.com/check/) - Test your website in more than 80 tools (web-based and free).
 
 ## Blogs
+
 - [Web Performance Calender](https://calendar.perfplanet.com/2020/) - Speed geek's favorite time of the year.
 
 ## Podcasts
+
 - [Chasing Waterfalls](https://chasingwaterfalls.io/) - Conversation with people to make web faster by [Tim kadlec](https://timkadlec.com/)
 - [Shoptalk Show](https://shoptalkshow.com/) - A podcast about building websites.
 

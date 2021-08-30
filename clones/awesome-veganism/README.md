@@ -28,25 +28,27 @@ This list is an attempt to create a community driven approach to guarantee no-no
 
 ## Bakeries
 
-*This category is strictly limited to fully vegan / 100% plant-based bakeries.*
+_This category is strictly limited to fully vegan / 100% plant-based bakeries._
 
 - Amsterdam, Netherlands
+
   - [Vegan Sugar Mama's](https://vegansugarmamas.nl/) - Delicious vegan treats in various colors, and even cookies with a personalised picture.
 
 - Monster, Netherlands
+
   - [My Cakes](https://macarononline-nl.mijndomeinwebwinkel.nl/) - Amazing selection of cakes, macarons, dutch specialties, and more.
 
 - Zaandijk, Netherlands
   - [Vegan bakery](https://www.veganbakery.nl/) - Dutch vegan bakery with a big selection of vegan cakes, muffins, and other awesomeness.
-  
 - Portland, OR, USA
   - [Shoofly bakery](https://www.shooflyveganbakery.com/) - Vegan items delivered.
 
 ## Restaurants
 
-*This category is strictly limited to fully vegan / 100% plant-based restaurants.*
+_This category is strictly limited to fully vegan / 100% plant-based restaurants._
 
 - Amsterdam, Netherlands
+
   - [Deer Mama](https://deermama.nl/) - Mylkshakes, burgers, nice food, and colorful cakes.
   - [Koffie Ende Koeck](https://koffieendekoeck.nl/) - Small vegan cafe, with nice brunch, and awesome vegan high tea.
   - [Loving Hut](https://www.facebook.com/lovinghutamsterdam) - Cozy and family friendly with Asian kitchen and some dutch classics.
@@ -59,34 +61,35 @@ This list is an attempt to create a community driven approach to guarantee no-no
 
 - Berkeley, CA, USA
   - [The Butcher's Son](https://www.thebutchersveganson.com/) - Comfort food spilling off of your plate. Grab a main, a couple of sides and a plenty of napkins.
-  
 - Bonn, Germany
   - [Kaiserhüttn](https://kaiserhuettn.com/) - Eat like in Austria.
-   
 - Eindhoven, Netherlands
+
   - [Bar Bistro Calypso](https://www.bistrocalypso.nl/) - Cosiest livingroom in town, with tasty no-nonsense dishes and good drinks.
   - [Bij Albrecht](https://www.bijalbrecht.nl/) - Vegan and organic food experience with seasonal produce.
   - [Jungle Café & Catering](https://www.junglecafecatering.nl) - Vegan coffeebar & lunchroom for young and old. Also offers catering & take away.
   - [Vegan Heroes](https://veganheroes.nl/) - Great vegan fast food, smoothie bowls, snacks, and desserts.
 
 - Hilversum, Netherlands
+
   - [Mr. Vegan Foodbar](https://www.mrveganfoodbar.nl/) - Amazing selection of delicious soups, bowls, curries, quality junk food, and tasty snacks.
 
 - Köln, Germany
+
   - [Sattgrün](https://www.sattgruen.com/) - Buffet with great varieity and quality.
 
 - London, UK
+
   - [Eat By Cloe](https://eatbychloe.com/) - For the mandatory fish and chips this place is definitely worth visiting.
 
 - New York, USA
-  - [Berben & Wolff's](https://berbenandwolffs.com/) - Easygoing counter-serve deli with a cheerful vibe specializing in vegan light fare & desserts. Locations in Albany and Troy, New York. 
-  
+  - [Berben & Wolff's](https://berbenandwolffs.com/) - Easygoing counter-serve deli with a cheerful vibe specializing in vegan light fare & desserts. Locations in Albany and Troy, New York.
 - Oakland, USA
   - [Millennium Restaurant](https://www.millenniumrestaurant.com/) - Far cry from your ordinary vegan spot in that it takes a hands on, from scratch approach to food which assures a fresh, local, organic and homemade product every time.
-  
 - Ashland, OR, USA
+
   - [NW Raw](https://nwraw.com/) - Juices and snacks, vegan ice cream.
- 
+
 - Utrecht, Netherlands
   - [Oproer](https://www.oproerbrouwerij.nl/) - Local brewery with tasty beers and vegan street food.
 
@@ -100,7 +103,7 @@ This list is an attempt to create a community driven approach to guarantee no-no
 
 ## Brands
 
-*This category is stricly limited to fully vegan / 100% plant-based brands.*
+_This category is stricly limited to fully vegan / 100% plant-based brands._
 
 - [AlPro](https://www.alpro.com/nl/) - Big variety of plant-based products.
 - [Bedda](https://bedda-world.com/) - Whole selection of nice non-milk cheese slices and blocks, shreds to melt, as well as sauces, and cream cheese.

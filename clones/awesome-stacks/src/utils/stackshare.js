@@ -26,7 +26,7 @@ module.exports = {
       .query({
         variables: { slug: name },
         query: gql`
-          query($slug: String!) {
+          query ($slug: String!) {
             tool(slug: $slug) {
               name
               description
@@ -57,7 +57,7 @@ module.exports = {
       .then(({ data: { tool } }) => {
         return tool
       })
-      .catch(err => {
+      .catch((err) => {
         console.error(err)
         return
       })

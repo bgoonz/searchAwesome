@@ -124,7 +124,7 @@ Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QL
 
 ## More
 
-*These are not included in [Install all](#install-all).*
+_These are not included in [Install all](#install-all)._
 
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 

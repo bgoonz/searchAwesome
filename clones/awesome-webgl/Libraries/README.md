@@ -5,8 +5,10 @@ This section is created because a list of the vast amount of libraries/framework
 This folder contains different metrics to compare libraries/frameworks on different **quantitative** attributes.
 
 ## Different metrics
-* [Features](https://github.com/sjfricke/awesome-webgl/blob/master/Libraries/Features.md)
-* [File Size](https://github.com/sjfricke/awesome-webgl/blob/master/Libraries/File_Size.md)
+
+- [Features](https://github.com/sjfricke/awesome-webgl/blob/master/Libraries/Features.md)
+- [File Size](https://github.com/sjfricke/awesome-webgl/blob/master/Libraries/File_Size.md)
 
 ## Contributing to the Library/Framework section
+
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/Libraries/CONTRIBUTING.md) for details.

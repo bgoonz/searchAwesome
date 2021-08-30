@@ -6,7 +6,7 @@ Regression testing is a type of software testing which verifies that software wh
 
 ## Foreword
 
-This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
+This is intended to be an _incomplete_ list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing _after_ the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](.github/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
 
@@ -104,7 +104,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 - [Happo](https://happo.io/) - Cloud-based screenshot testing service with support for multiple browsers.
 - [Visual Knight](https://visual-knight.io/) - Cloud-based visual testing platform with realtime results for testing tools.
-- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage. 
+- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.
 - [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
 - [Vidiff](https://vidiff.com) - Cloud-based visual regression testing across stages.
 - [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
@@ -114,7 +114,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Blog posts
 
 - [Kevin Lamping: The 5 best visual regression testing tools](http://www.creativebloq.com/features/the-5-best-visual-regression-testing-tools) - Compares: Wraith, PhantomCSS, Gemini, WebdriverCSS and Spectre.
-- [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) -  Tutorial using BackstopJS.
+- [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) - Tutorial using BackstopJS.
 - [Angela Riggs: Visual Regression Testing with BackstopJS](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) - Tutorial using BackstopJS.
 - [Garris Shipon: Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/) - Tutorial using BackstopJS.
 - [Phillip Gourley: Making visual regression useful](https://medium.com/@philgourley/making-visual-regression-useful-acfae27e5031) - Why you should use BackstopJS.
@@ -129,8 +129,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Automatic visual diffing with Puppeteer](https://meowni.ca/posts/2017-puppeteer-tests/)
 - [theheadless.dev](https://theheadless.dev) - Blog with practical guides and runnable examples on Playwright and Puppeteer.
 - [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - How to automate regression testing for Hugo with BackstopJS
-- [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service 
-
+- [UI Visual Regression Testing with Micoo](https://mikuu.medium.com/ui-visual-regression-testing-with-micoo-12c7a4a036b9) - Introduction about how to do visual regression testing with Micoo service
 
 ## Slideshows, talks and videos
 
@@ -155,7 +154,7 @@ The following projects are no longer maintained actively but are still worth men
 - [Visual Review](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
 - [Huxley](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium](https://github.com/SeleniumHQ/selenium).
-- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
+- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and [CasperJS](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
 - [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS](https://github.com/ariya/phantomjs).
 
 ## Miscellaneous
@@ -167,11 +166,12 @@ See the [Contribution Guide](.github/CONTRIBUTING.md) for details on how to cont
 ### Code of Conduct
 
 See the [Code of Conduct](.github/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+
 > In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and orientation.
+> contributors and maintainers pledge to making participation in our project and
+> our community a harassment-free experience for everyone, regardless of age, body
+> size, disability, ethnicity, gender identity and expression, level of experience,
+> nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ### License
 

@@ -5,6 +5,7 @@
 </div>
 
 # Awesome Stacks
+
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/stackshare/awesome-stacks)
 
 > Tech stacks for building different applications and features.
@@ -121,7 +122,6 @@ Build a simple polling progressive web application with some great modern tech.
 - [JAMstack PWA — Let’s Build a Polling App. with Gatsby.js, Firebase, and Styled-components](https://medium.com/@UnicornAgency/jamstack-pwa-lets-build-a-polling-app-with-gatsby-js-firebase-and-styled-components-pt-1-78a03a633092)
 - [Learn how to easily build a GatsbyJS website powered by Contentful](https://www.contentful.com/r/knowledgebase/gatsbyjs-and-contentful-in-five-minutes/)
 
-
 ### Victor Hugo boilerplate [↗](https://awesomestacks.dev/victor-hugo-boilerplate)
 
 A Hugo boilerplate for creating truly epic websites. This is a boilerplate for using Hugo as a static site generator and Webpack as your asset pipeline.
@@ -134,7 +134,6 @@ A Hugo boilerplate for creating truly epic websites. This is a boilerplate for u
 ##### Resources
 
 - [netlify-templates/victor-hugo](https://github.com/netlify-templates/victor-hugo)
-
 
 ### Nuxt, TypeScript + Docker [↗](https://awesomestacks.dev/nuxt-type-script-docker)
 
@@ -154,7 +153,6 @@ Offers a complete setup for both small and enterprise-scale apps.
 
 - [wemake-vue-template](https://github.com/wemake-services/wemake-vue-template)
 
-
 ### Nextjs Blog Starter [↗](https://awesomestacks.dev/nextjs-blog-starter)
 
 A Nextjs Boilerplate code for creating a blog. The perfect solution to start a blog in React and use Tailwind CSS for styling.
@@ -171,7 +169,6 @@ A Nextjs Boilerplate code for creating a blog. The perfect solution to start a b
 
 - [Nextjs Blog Starter](https://github.com/ixartz/Next-js-Blog-Boilerplate)
 - [Nextjs Blog Starter Demo](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/)
-
 
 ## Full stack
 
@@ -308,13 +305,14 @@ Quickest way to get started with CI and Code Coverage.
 The best way to create a versatile and scalable PHP Web Application! It sure will make you fall in love with PHP (if not, Laravel). Laravel team has an official collaboration with the Vue, so Vue, Babel and Sass is already integrated before you even started!
 
 - [PHP 7](https://php.net) - [🛠](https://stackshare.io/php) - [🐙](https://github.com/php/php-src) - A popular general-purpose scripting language that is especially suited for web development.
-- [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel)  - [🐙](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
+- [Laravel](https://laravel.com/) - [🛠](https://stackshare.io/laravel) - [🐙](https://github.com/laravel/laravel) - One of the most popular Object Oriented MVC PHP Framework with elegant syntax and golden standard software patterns.
 - [Vue.js](https://vuejs.org/) - [🛠️](https://stackshare.io/vue-js) - [🐙](https://github.com/vuejs/vue) - An approachable core library that focuses on the view layer only.
 - [Laravel Mix](https://laravel.com/docs/5.8/mix) - [🐙](https://github.com/JeffreyWay/laravel-mix) - A build tool built on top of webpack, to easily compile any front end assets. (secret: works with or without Laravel)
 - [Babel](https://babeljs.io/) - [🛠️](https://stackshare.io/babel) - [🐙](https://github.com/babel/babel) - compiler for writing next generation JavaScript; Babel will turn your ES6+ code into ES5 friendly code, so you can start using it right now without waiting for browser support.
 - [Sass](https://sass-lang.com) - [🛠️](https://stackshare.io/sass) - [🐙](https://github.com/sass/sass) - Sass is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a web-framework plugin.
 
 ##### Resources
+
 - [Building a Vue SPA with Laravel](https://laravel-news.com/using-vue-router-laravel)
 - [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application)
 
@@ -400,7 +398,6 @@ Self-hosted open source devops and collaboration tools, suitable for enterprise.
 - [Taiga.io](https://taiga.io) - [🛠](https://stackshare.io/taiga) - [🐙](https://github.com/taigaio) - Project management web application with scrum in mind.
 - [Metabase](https://www.metabase.com/) - [🛠](https://stackshare.io/metabase) - [🐙](https://github.com/metabase/metabase) - An open-source business intelligence tool.
 
-
 ### Production Ready Django + Docker [↗](https://awesomestacks.dev/production-ready-django-docker)
 
 Bleeding edge Django template focused on code quality and security.
@@ -428,7 +425,6 @@ Build a simple and robust RESTful API.
 #### Resources
 
 - [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
-
 
 ## Mobile
 
@@ -474,7 +470,6 @@ Boost your Productivity with GitHub, Jira and Jenkins.
 
 - [Integrating Jira, GitHub, Jenkins, and Slack in your workflow](https://support.acquia.com/hc/en-us/articles/360005167214-Integrating-JIRA-GitHub-Jenkins-and-Slack-in-your-workflow)
 
-
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for information and guides on how to contribute stacks and tools.
@@ -483,4 +478,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for information and guides on how to co
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [StackShare](https://stackshare.io) has waived all copyright and related or neighboring rights to this work [README](/README.md) 
+To the extent possible under law, [StackShare](https://stackshare.io) has waived all copyright and related or neighboring rights to this work [README](/README.md)

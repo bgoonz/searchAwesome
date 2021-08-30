@@ -24,33 +24,37 @@ A **Static Site Generator (SSG)** is a framework or setup, that helps you to gen
 WordPress is one of the **most used CMS in the world** and therefore many people already know how to work with it. The typical front-end approach with PHP-based templates is getting more and more problematic in an environment where performance is key. The approach to use WordPress as a headless CMS with normal API calls through JavaScript already exists, but also has the downside of having to make requests to the server and rendering depending on the response. This adds time to load. **Gatsby instead, pre-renders the whole site at compile time** and therefore the user gets a **fully prepared static site on their first request**, making it one of the **best approaches for performance**. Another huge benefit is **security**, as your WordPress instance can be anywhere, even locally and you don't need to expose any of it to the user. **The static Gatsby site therefore, is not hackable.** Find further arguments for pros and cons in the resources below.
 
 ## Contents
+
 <!-- TOC -->
+
 - [Communities](#communities)
 - [Articles and Talks](#articles-and-talks)
 - [Plugins](#plugins)
-	- [WordPress](#wordpress)
-	- [Gatsby](#gatsby)
+  - [WordPress](#wordpress)
+  - [Gatsby](#gatsby)
 - [Free Tutorials / Courses](#free-tutorials--courses)
-	- [Written Tutorials](#written-tutorials)
-	- [Video Tutorials](#video-tutorials)
+  - [Written Tutorials](#written-tutorials)
+  - [Video Tutorials](#video-tutorials)
 - [Paid Tutorials / Courses](#paid-tutorials--courses)
 - [Starters](#starters)
 - [Themes](#themes)
 <!-- /TOC -->
 
 ## Communities
+
 If you need help with anything, there are some highly active communities.
 
 **WPGraphQL**
+
 - [Slack Chat](https://wpgql-slack.herokuapp.com/)
 - [Spectrum Chat](https://spectrum.chat/wpgraphql)
 - [Twitter](https://twitter.com/wpgraphql)
 
 **Gatsby**
+
 - [Discord Chat](https://gatsby.dev/discord)
 - [Reddit](https://www.reddit.com/r/gatsbyjs/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/gatsby)
-
 
 ## Articles and Talks
 
@@ -64,7 +68,6 @@ List of articles and talks that elaborate on the technology stack in general.
 - 2020.07: [My Long Journey to a Decoupled WordPress Gatsby Site](https://css-tricks.com/my-long-journey-to-a-decoupled-wordpress-gatsby-site/)
 - 2019.06: [Modern Web Development on the JAMstack
   ](https://www.netlify.com/oreilly-jamstack/) - A report from Netlify about Modern Web Development on the JAMStack, published by O'REILLY.
-
 
 ## Plugins
 
@@ -91,6 +94,7 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 - [WPGraphQL Send Email](https://github.com/ashhitch/wp-graphql-send-mail) - This FREE plugin from @Ash_Hitchcock allows you to send emails via a simple mutation. Includes the abilitty to restrict sending to trusted origins.
 
 ---
+
 **Extensions for that use other plugins with WPGraphQL**
 
 - [QL Search](https://github.com/funkhaus/ql-search) - An extension that integrates SearchWP into WPGraphQL.
@@ -118,7 +122,6 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 - [WPGraphQL for WooCommerce](https://github.com/wp-graphql/wp-graphql-woocommerce) - This FREE plugin exposes WooCommerce data to WPGraphQL allowing you to interact with your store’s data via GraphQL Queries and mutations.
 - [WPGraphQl Yoast SEO Plugin](https://github.com/ashhitch/wp-graphql-yoast-seo) - Exposes Yoast SEO data to the WPGraphQL Plugin.
 
-
 #### Other helpful Plugins
 
 - [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) - [ACF PRO](https://www.advancedcustomfields.com/pro/)
@@ -126,18 +129,15 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 - [Polylang](https://wordpress.org/plugins/polylang/)
 - [WP JAMstack Deployments](https://github.com/crgeary/wp-jamstack-deployments) - WordPress plugin for JAMstack deployments on Netlify (and other platforms).
 
-
 ### Gatsby Plugins
 
 - [gatsby-image](https://www.gatsbyjs.org/packages/gatsby-image)
 - [gatsby-source-filesystem](https://www.gatsbyjs.org/packages/gatsby-source-filesystem)
 - [gatsby-source-wordpress](https://www.gatsbyjs.org/packages/gatsby-source-wordpress)
 
-
 ## Free Tutorials / Courses
 
 **Note:** Since the release of gatsby-source-wordpress V4, it is the preferred over gatsby-source-graphql and therefore I will only list tutorials related to that approach.
-
 
 ### Written Tutorials
 
@@ -145,7 +145,6 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 - 2019.08: [Live Previews with WordPress and Gatsby](https://justinwhall.com/live-previews-with-wordpress-gatsby/) - Tutorial showing how to use the theme’s higher order component to facilitate previews for WordPress posts and custom post types.
 - 2019.08: [Gatsby with WPGraphQL, ACF and Gatbsy-Image](https://dev.to/nevernull/gatsby-with-wpgraphql-acf-and-gatbsy-image-72m) - A guide, that shows how to implement gatsby-image, so it can be used for WordPress media files.
 - 2018.08: [Headless WordPress + Gatsby + Netlify continuous deployment](https://justinwhall.com/headless-wordpress-gatsby-netlify-continous-deployment/) - Guide showing how to create a WordPress + Gatsby + Netlify setup in a few simple steps.
-
 
 ### Video Tutorials
 
@@ -155,16 +154,16 @@ List of useful plugins to make WordPress and Gatsby work together. Ordered alpha
 - 2019.06: [Using WordPress with WPGraphQL](https://www.youtube.com/watch?v=aqEfEuVWqws) - In this video you will learn how to use GraphQL with WordPress using an awesome plugin named WPGraphQL and some extra cool stuff like GraphQL + Advanced Custom Fields.
 - 2019.04: [WPGraphQL for ACF](https://www.youtube.com/watch?v=rIg4MHc8elg) - Jason Bahl shows how to use WPGraphQL for Advanced Custom Fields.
 - 2018.07: [GraphQL with WordPress and Gutenberg - Jason Bahl - 2018 JavaScript for WordPress Conference
-](https://www.youtube.com/watch?v=6CuM1PY9ESQ) - In this talk from the 2018 JavaScript for WordPress Conference, the Developer of the WP GraphQL Plugin, Jason Bahl, gives updated examples of how you can use GraphQL with WordPress and Gutenberg.
-
+  ](https://www.youtube.com/watch?v=6CuM1PY9ESQ) - In this talk from the 2018 JavaScript for WordPress Conference, the Developer of the WP GraphQL Plugin, Jason Bahl, gives updated examples of how you can use GraphQL with WordPress and Gutenberg.
 
 ## Paid Tutorials / Courses
+
 List of paid courses.
 
 - 2021.01: [Building a Headless WordPress Site with Gatsby](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby) - This course is a step-by-step walk through using gatsby-source-wordpress plugin to create a fully functional headless Gatsby WordPress site with posts, pages, categories, tags, post navigation and other features.
 
-
 ## Starters
+
 List of project starters, that you can clone and start building upon.
 
 - [Gatsby Starter - WordPress Twenty Twenty](https://github.com/henrikwirth/gatsby-starter-wordpress-twenty-twenty) - A port of the WordPress Twenty Twenty theme to Gatsby using the new gatsby-source-wordpress@v4.
@@ -174,17 +173,16 @@ List of project starters, that you can clone and start building upon.
 - [Gatsby Starter Blog](https://github.com/zeevo/gatsby-starter-wordpress-blog) - Blog starter with enough features to be production ready out of the box.
 
 ## Themes
+
 List of gatsby-themes that work with WordPress as a source, which you can use in your Gatsby setup.
 
 - [Twenty Nineteen Gatsby Theme](https://github.com/zgordon/twentynineteen-gatsby-theme) - A port of the Twenty Nineteen WordPress Theme over to Gatsby.
 - [Gatsby WordPress Publisher Theme
-](https://github.com/staticfuse/gatsby-theme-publisher) - The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.
-
+  ](https://github.com/staticfuse/gatsby-theme-publisher) - The Gatsby Publisher Theme allows you to create a headless (or decoupled) WordPress site. This theme will display all of your pages and posts in a static front-end built on React and Gatsby.
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 

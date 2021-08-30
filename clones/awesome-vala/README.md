@@ -2,7 +2,7 @@
 
 [<img src="vala.svg" align="right" width="100">](https://wiki.gnome.org/Projects/Vala/)
 
- A programming language using modern high level abstractions without imposing additional runtime requirements, by leaning on GLib and GObject.
+A programming language using modern high level abstractions without imposing additional runtime requirements, by leaning on GLib and GObject.
 
 ## Contents
 

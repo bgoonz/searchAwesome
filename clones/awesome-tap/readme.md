@@ -4,7 +4,7 @@
 
 TAP is a simple text-based interface between testing modules in a test harness.
 
-*The list is very JavaScript focused right now. That's just because I'm only familiar with TAP stuff in the JS world. Contributions welcome for any language.*
+_The list is very JavaScript focused right now. That's just because I'm only familiar with TAP stuff in the JS world. Contributions welcome for any language._
 
 ## Contents
 

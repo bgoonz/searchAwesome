@@ -8,8 +8,8 @@
 
 ## Make sure that:
 
-<!-- 
-Check off the checkboxes with an 'x' like this: [x] 
+<!--
+Check off the checkboxes with an 'x' like this: [x]
 -->
 
 - [ ] Screenshot/GIF included (to demonstrate the plugin functionality)

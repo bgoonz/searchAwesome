@@ -4,7 +4,6 @@
 
 Recursion schemes are simple, composable combinators, that automate the process of traversing and recursing through nested data structures.
 
-
 ## Contents
 
 - [Introductions](#introductions)
@@ -14,7 +13,6 @@ Recursion schemes are simple, composable combinators, that automate the process 
 - [Cheat Sheets](#cheat-sheets)
 - [Podcasts](#podcasts)
 - [Implementations](#implementations)
-
 
 ## Introductions
 
@@ -111,7 +109,7 @@ Articles by Bartosz Milewski about solving small, practical problems by applying
   Generalized folds, unfolds, and traversals for fixed point data structures.
 - [andyscott/droste](https://github.com/andyscott/droste) for Scala using Cats -
   Generalized folds, unfolds, and traversals for fixed point data structures.
-- [recursion\_schemes](https://github.com/vmchale/recursion_schemes/) for
+- [recursion_schemes](https://github.com/vmchale/recursion_schemes/) for
   Idris, based off Edward Kmett's Haskell library.
 - [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) for PureScript -
   Work-in-process port of matryoshka.

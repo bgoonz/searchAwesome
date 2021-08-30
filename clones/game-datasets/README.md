@@ -1,16 +1,17 @@
 # :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals _Russell et. al (2016)_.   
+In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals _Russell et. al (2016)_.
 
-Withal, Data Mining (DM) is the process of discovering patterns in data sets (or datasets) involving methods of machine learning, statistics, and database systems; DM focus on extract the information of datasets _Han (2011)_.  
+Withal, Data Mining (DM) is the process of discovering patterns in data sets (or datasets) involving methods of machine learning, statistics, and database systems; DM focus on extract the information of datasets _Han (2011)_.
 
-This repository serves as a guide for anyone who wants to work with **Artificial Intelligence** or **Data Mining** applied in digital games! Here you will find a series of datasets, tools and materials available to build your _application_ or _dataset_.  
+This repository serves as a guide for anyone who wants to work with **Artificial Intelligence** or **Data Mining** applied in digital games! Here you will find a series of datasets, tools and materials available to build your _application_ or _dataset_.
 
-**Contributing**  
+**Contributing**
 
-Any suggestions or doubts, please open an "issue". If you want to contribute, read [this](CONTRIBUTING.md) and make a "pull request".  
-   
+Any suggestions or doubts, please open an "issue". If you want to contribute, read [this](CONTRIBUTING.md) and make a "pull request".
+
 ---
+
 ## Contents
 
 - [:video_game: Awesome Game Datasets ![Awesome](https://awesome.re)](#video_game-awesome-game-datasets-)
@@ -27,9 +28,10 @@ Any suggestions or doubts, please open an "issue". If you want to contribute, re
   - [License](#license)
 
 ---
+
 ## API
 
-API is _"a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service"_ (Google).  
+API is _"a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service"_ (Google).
 
 - [Battle.net](https://develop.battle.net/) - Collection of games developed by [Blizzard](https://www.blizzard.com).
 - [Battlefield 4 Stats](http://bf4stats.com/) - Stats, rankings, and progression of a player.
@@ -57,6 +59,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
 
 ---
+
 ## Artificial Intelligence
 
 - [AI Birds](http://aibirds.org) - Artificial intelligence competition.
@@ -115,7 +118,9 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 
 ---
+
 ## Books
+
 - Drachen, A. Mirza-Babaei, P. Nacke, L. (2018). _Games user research_. Oxford.
 - El-Nasr, S. Drachen, A. Canossa, A. (2013). _Game analytics: maximizing the value of player data_. Sprigner.
 - Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.
@@ -125,6 +130,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - Yannakakis, G. N., Togelius, J. (2018). _Artificial intelligence and games_. Springer.
 
 ---
+
 ## Dataset
 
 - [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) - Matches details from ranked games.
@@ -209,13 +215,16 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [World Top 100 Countries by Game Revenues](https://knoema.com/T100GAMEREVENUES2016/world-top-100-countries-by-game-revenues) - Global game revenue.
 
 ---
+
 ## Market Research
+
 - [Euro-Monitor, Video Games](https://www.euromonitor.com/) - Strategic Market Researcher.
 - [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) - Syndicated market research studies.
 - [Newzoo](https://newzoo.com/) - View on the games market. Unparalleled insights and value.
 - [Statista, Video Games](https://www.statista.com/topics/868/video-games/) - Market and opinion research institutes and data derived from the economic sector.
 
 ---
+
 ## Miscellaneous
 
 - [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
@@ -237,6 +246,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) - Datasets.
 
 ---
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" /></a>

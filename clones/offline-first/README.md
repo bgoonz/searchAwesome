@@ -9,6 +9,7 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
+
 - [W3C Specification](#w3c-specification)
 - [Newsletter](#newsletter)
 - [Posts](#posts)
@@ -24,18 +25,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## W3C Specification
 
 [Offline Web Applications](http://www.w3.org/TR/offline-webapps/)
+
 > This specification highlights features (SQL, offline application caching APIs as well as online/offline events, status, and the localStorage API) from HTML5 and provides brief tutorials on how these features might be used to create Web applications that work offline.
 
 [Service Workers](http://www.w3.org/TR/service-workers/)
+
 > This specification describes a method that enables applications to take advantage of persistent background processing, including hooks to enable bootstrapping of web applications while offline.
 
 [IndexedDB](http://www.w3.org/TR/IndexedDB/)
+
 > This specification defines APIs for a database of records holding simple values and hierarchical objects. Each record consists of a key and some value. Moreover, the database maintains indexes over records it stores. An application developer directly uses an API to locate records either by their key or by using an index. A query language can be layered on this API. An indexed database can be implemented using a persistent B-tree data structure.
 
 [WebStorage](http://www.w3.org/TR/webstorage/)
+
 > This specification defines an API for persistent data storage of key-value pair data in Web clients.
 
 ## Newsletter
+
 [The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
 
 ## Posts
@@ -208,7 +214,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 [Offline Reading List](https://chrisruppel.com/blog/service-worker-offline-content-list/)
 (Chris Ruppel - Oct 5, 2016)
 
-[Almost any web page can work offline](https://github.com/homam/service-workers-example) 
+[Almost any web page can work offline](https://github.com/homam/service-workers-example)
 (Homam Hosseini - Sep 24, 2016)
 
 [Enabling Offline First Experiences on the Web with Service Workers](https://medium.com/offline-camp/enabling-offline-first-experiences-on-the-web-with-service-workers-e4bc8c773dae#.c6ui0i9cs)
@@ -458,7 +464,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 (Jake Archibald - Dec 9, 2014)
 
 [The next UX challenge on the web: gaining offline trust](https://www.christianheilmann.com/2014/12/08/the-next-ux-challenge-on-the-web-gaining-offline-trust/)
-(Christian Heilmann -  Dec 8, 2014)
+(Christian Heilmann - Dec 8, 2014)
 
 [Service Worker Recipes](https://github.com/GoogleChrome/samples/tree/gh-pages/service-worker)
 (Cesar William Alvarenga - Dec 8, 2014)
@@ -476,7 +482,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 (Yann Jacquot - Nov 25, 2014)
 
 [Making Your App Work Offline: Tips and Cautionary Tales](https://quickleft.com/blog/making-your-app-work-offline-tips-and-cautionary-tales/)
-(David Aragon  - Nov 11, 2014)
+(David Aragon - Nov 11, 2014)
 
 [How Google and Mozilla are aiming to make web apps shine offline](http://www.techrepublic.com/article/how-google-and-mozilla-are-aiming-to-make-web-apps-work-as-well-offline-as-on/)
 (Nick Heath - Oct 30, 2014)
@@ -579,7 +585,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [Let's take this offline](http://diveintohtml5.info/offline.html)
 (Mark Pilgrim)
-
 
 ## Presentations
 
@@ -812,10 +817,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 (Joan Touzet - Sep 16, 2014)
 
 [Status Web Offline](https://www.infoq.com/presentations/status-web-offline)
-(Caolan McMahon -  Aug 21, 2014)
+(Caolan McMahon - Aug 21, 2014)
 
 [Look Ma, No Connections! Building Offline-capable Web Apps with HTML5](https://www.infoq.com/presentations/html5-offline-storage)
-(Bijan Vaez -  Aug 1, 2014)
+(Bijan Vaez - Aug 1, 2014)
 
 [Say hello to offline first!](https://speakerdeck.com/zoepage/say-hello-to-offline-first)
 (Ola Gasidlo - May 19, 2014)
@@ -872,14 +877,13 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Offline States](http://offlinestat.es/): What show applications when we have not internet connection.
 
-[appCache Nanny](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
+[appCache Nanny](https://github.com/gr2m/appcache-nanny): JavaScript APIs for appCache
 
 [bro-fs](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
 [workbox](https://github.com/GoogleChrome/workbox): JavaScript libraries for Offline Caching
-
 
 ## Books
 
@@ -902,9 +906,10 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 (by Peter Lubbers, Brian Albers and Frank Salim)
 
 ## Showcase
+
 [Minutes.io](https://minutes.io): Awesome offline first minute taking app built with [Hoodie](http://hood.ie/).
 
-[2048](https://gabrielecirulli.github.io/2048/): The original 2048 is a great game to pin to your homescreen. 
+[2048](https://gabrielecirulli.github.io/2048/): The original 2048 is a great game to pin to your homescreen.
 
 [hospitalrun.io](http://hospitalrun.io/): Open source software for developing world hospitals.
 
@@ -913,19 +918,23 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 [Soundslice](https://www.soundslice.com/): Learn and teach music better with interactive notation with [offline mode](https://www.soundslice.com/blog/29/introducing-soundslice-offline-mode/).
 
 ## Who to Follow
+
 - [Matthew Riley](https://github.com/tofumatt): Works at mozilla, creator of localForage (localstroage, IndexedDb and WebSQL Wrapper)
 - [Jake Archibald](https://github.com/jakearchibald): Self described service worker fanatic, works at google helping make offline web apps a thing.
 
 ## Contributing
+
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
 Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors).
 
 ## Maintained by
+
 - Guille Paz (Front-end developer | Web standards lover)
 - E-mail: [guille87paz@gmail.com](mailto:guille87paz@gmail.com)
 - Twitter: [@pazguille](https://twitter.com/pazguille)
 - Web: [https://pazguille.me/](https://pazguille.me/)
 
 ## License
+
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

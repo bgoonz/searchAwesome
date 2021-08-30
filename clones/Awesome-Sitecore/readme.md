@@ -28,33 +28,33 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Forms](#forms)
 - [JSS](#jss)
 - [JAMstack](#jamstack)
-- [Helix](#helix) 
+- [Helix](#helix)
 - [Icons](#icons)
 - [Languages](#languages)
 - [Logging](#logging)
-- [Maintenance](#maintenance) 
+- [Maintenance](#maintenance)
 - [Media](#media)
-- [ORM](#orm) 
+- [ORM](#orm)
 - [Other](#other)
 - [Packaging](#packaging)
 - [Pipelines](#pipelines)
 - [Publishing](#publishing)
 - [Rules](#rules)
-- [Security](#security) 
-- [SEO](#seo) 
-- [Serialization](#serialization) 
-- [Sitecore Host](#sitecore-host) 
+- [Security](#security)
+- [SEO](#seo)
+- [Serialization](#serialization)
+- [Sitecore Host](#sitecore-host)
 - [SPE (Sitecore PowerShell Extension)](#spe-sitecore-powershell-extension)
 - [SPEAK](#speak)
 - [SXA (Sitecore Experience Accelerator)](#sxa-sitecore-experience-accelerator)
 - [Testing](#testing)
 - [Templates](#templates)
 - [Universal Tracker](#universal-tracker)
-- [WebApi](#webapi) 
+- [WebApi](#webapi)
 - [Workflows](#workflows)
 - [xConnect and xDB](#xconnect-and-xdb)
 
-> Please note, **Awesome Sitecore** list only classifies and reviews useful GitHub repositories you may benefir from. 
+> Please note, **Awesome Sitecore** list only classifies and reviews useful GitHub repositories you may benefir from.
 >
 > If you're looking for a more comprehensive list of arcticles, blog posts, videos and Q'n'A please refer to the [Sitecore Link](https://Sitecore.Link) knowledge base.
 
@@ -109,7 +109,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Containers
 
-- [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.*, including 'getting-started' XP0 container environment.
+- [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 - [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 - [Sitecore MVP](https://github.com/Sitecore/MVP-Site) - The source code of real Sitecore MVP website built with Sitecore 10 and SXAworking in containers.
 - [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
@@ -129,8 +129,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons) - Implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in solr indexes. The demo provides a template with the spatial field, couple of sample items with polygons from openstreetmap that cover some cities; and a controller rendering that reads lat and lng from the querystring and returns the polygon of the item found (e.g. Big Ben's coordinates return London).
 - [Search Index Builder](https://github.com/jermdavis/SearchIndexBuilder) - A tool for rebuilding search indexes from outside the Sitecore web app especially good for very long-running builds.
-- [SolrCloud Install Scripts](https://github.com/jermdavis/SolrCloud-Helpers) - PowerShell scripting library to help with installing SolrCloud clusters on Windows. 
-- [Common Sitecore ContentSearch extensions](https://github.com/LaubPlusCo/LaubPlusCo.Common.ContentSearch) - Common extensions to Sitecore contentSearch; hereunder PopulateSolrSchema pipeline processors to ensure that all installed languages in Sitecore are added to the solr managed schema. 
+- [SolrCloud Install Scripts](https://github.com/jermdavis/SolrCloud-Helpers) - PowerShell scripting library to help with installing SolrCloud clusters on Windows.
+- [Common Sitecore ContentSearch extensions](https://github.com/LaubPlusCo/LaubPlusCo.Common.ContentSearch) - Common extensions to Sitecore contentSearch; hereunder PopulateSolrSchema pipeline processors to ensure that all installed languages in Sitecore are added to the solr managed schema.
 - [Sitecore Computed Search](https://github.com/martinrayenglish/Sitecore-Computed-Search) - An index search development accelerator that allows developers to declare computed search fields on an index that can capture and store targeted field values of items within a scope as well as the field values of items based on specific templates that are part of its presentation. In addition, specific weights can by applied to these computed fields using search boosting so that content matching search terms can be promoted in search results.
 - [sitecore-azure-search-compat](https://github.com/richardszalay/sitecore-azure-search-compat) - Compatibility patch for Sitecore + Azure Search.
 
@@ -144,6 +144,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Gutters for Sitecore Data Exchange Framework](https://github.com/KayeeNL/Sitecore.DataExchange.Gutters) - Collection of 3 gutters for DEF to provide a quick solution for context item of an item within the tree: `ItemDisabled`, `PipelineBatch` and `PipelineStep`.
 
 ## Demo
+
 - [Sitecore Habitat](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
 - [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types / requirements than existing examples.
 - [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
@@ -212,7 +213,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) - Sitecore Framework that follows the Helix modular architecture design principles.Includes plenty of Feature and Foundation layer modules, as well as reusable Common from Project layer.
 - [Helix example Module & Solution templates](https://github.com/LaubPlusCo/Helix-Templates) - Templates for the Sitecore Helix Visual Studio templates extension.
 - [Helix frontend development example](https://github.com/LaubPlusCo/helix-frontend-example) - A simple frontend development setup for a Sitecore Helix solution.
-- [Helix Publishing Pipeline](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
+- [Helix Publishing Pipeline](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimisations and guidance around local development deployments. Since it extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 - [CustomLinkProvider](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
 - [Elision](https://github.com/sitecore-elision) - An open source Sitecore accelerator implementing Helix principles.
 - [Helixify](https://github.com/konabos/Konabos.Helixify) - The module designed to add instant Helix compatilbility to any Sitecore project.
@@ -266,7 +267,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Packaging
 
-- [Package Autoloader](https://github.com/JeffDarchuk/PackageAutoloader) - A tool to automatically apply a Sitecore package to hydrate some content as part of a deployment. 
+- [Package Autoloader](https://github.com/JeffDarchuk/PackageAutoloader) - A tool to automatically apply a Sitecore package to hydrate some content as part of a deployment.
 - [Sitecore.Ship](https://github.com/kevinobee/Sitecore.Ship) - A lightweight means to install Sitecore Update packages via HTTP requests.
 - [UpdatePackageInstaller](https://github.com/ianjohngraham/UpdatePackageInstaller) - Installs update packages in Sitecore from the command line.
 

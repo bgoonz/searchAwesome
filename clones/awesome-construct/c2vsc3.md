@@ -2,7 +2,7 @@
 
 |             Feature              |               Construct 2                |        Construct 3        |
 | :------------------------------: | :--------------------------------------: | :-----------------------: |
-|         ****General****          |                                          |                           |
+|       \***\*General\*\***        |                                          |                           |
 |      Facebook Instant Games      |                   :x:                    |    :white_check_mark:     |
 |                OS                |               Windows only               | Any (work in the browser) |
 |           Data Editor            |                   :x:                    |    :white_check_mark:     |

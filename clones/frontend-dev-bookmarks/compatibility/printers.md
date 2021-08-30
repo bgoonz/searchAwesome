@@ -8,11 +8,11 @@ Manipulation of printer output through CSS.
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
------------------------------------------
-+ **[Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)**: A comprehensive guide for print optimization including background images and colors, expanding external links, QR codes, CSS3 filters for print quality.
+---
 
+- **[Tips And Tricks For Print Style Sheets](http://coding.smashingmagazine.com/2013/03/08/tips-tricks-print-style-sheets/)**: A comprehensive guide for print optimization including background images and colors, expanding external links, QR codes, CSS3 filters for print quality.
 
-------------------
+---
 
 # License
 

@@ -4,16 +4,15 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 # [Used rubygem plugins]
 plugins:
-  - jekyll-remote-theme
-  - jemoji
-  - jekyll-relative-links
+    - jekyll-remote-theme
+    - jemoji
+    - jekyll-relative-links
 
 relative_links:
-  enabled: true
-  collections: true
+    enabled: true
+    collections: true
 
 include:
-  - CONTRIBUTING.md
-  - LICENSE.md
-  - CODE_OF_CONDUCT.md
-
+    - CONTRIBUTING.md
+    - LICENSE.md
+    - CODE_OF_CONDUCT.md

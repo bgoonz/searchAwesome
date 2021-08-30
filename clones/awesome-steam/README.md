@@ -2,13 +2,14 @@
 
 > A curated list of [packages](#packages) and [resources](#resources) regarding [Steam](http://store.steampowered.com/) development.
 
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+_Please read the [contribution guidelines](CONTRIBUTING.md) before contributing._
 
 The purpose of this document is to provide a quick overview over existing packages (libraries, modules etc.) and resources available regarding Steam client automation and WebAPI usage. Whenever you need to start a new project, have a look at the list of packages and see if there is anything useful for your use case. If you need technical details or tutorials, check out the resources section.
 
 ## Table of Contents
 
 - [Packages](#packages)
+
   - [Node.js](#nodejs)
   - [C#](#c)
   - [PHP](#php)

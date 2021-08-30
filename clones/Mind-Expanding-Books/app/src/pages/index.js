@@ -18,17 +18,17 @@ function myFunction(setMaximumBooksToShow, maximumBooksToShow) {
 }
 
 export default ({ data }) => {
-	let [maximumBooksToShow, setMaximumBooksToShow] = useState(12)
+  let [maximumBooksToShow, setMaximumBooksToShow] = useState(12)
 
   useEffect(() => {
     window.document.onscroll = () =>
       myFunction(setMaximumBooksToShow, maximumBooksToShow)
-	})
-	
+  })
+
   return (
     <Layout>
       <SEO title="Home" />
-      <Container fluid> 
+      <Container fluid>
         <Row>
           <Col lg={2}>
             <SideBar />
@@ -38,7 +38,7 @@ export default ({ data }) => {
           </Col>
         </Row>
         <Row>
-        {/* <footer style={{marginLeft: 150,
+          {/* <footer style={{marginLeft: 150,
           width: `100%`,
           position: `fixed`,
           bottom: 0}}>
@@ -54,12 +54,7 @@ export default ({ data }) => {
 
 export const query = graphql`
   query MyQuery {
-    allBooksJson(
-      sort: {
-        fields: [rating]
-        order: DESC
-      }
-    ) {
+    allBooksJson(sort: { fields: [rating], order: DESC }) {
       edges {
         node {
           id

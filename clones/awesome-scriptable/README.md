@@ -1,13 +1,17 @@
 # Awesome Scriptable [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 <!--lint disable double-link-->
+
 [<img src="https://scriptable.app/assets/appicon.png" align="right" width="100" style="clip-path">](https://scriptable.app/)
+
 <!--lint enable double-link-->
 
 > A carefully curated list of awesome Scriptable widgets.
 
 <!--lint disable double-link-->
-[Scriptable](https://scriptable.app/) is an app to automate iOS using JavaScript. 
+
+[Scriptable](https://scriptable.app/) is an app to automate iOS using JavaScript.
+
 <!--lint enable double-link-->
 
 ## Contents
@@ -42,9 +46,9 @@
   <img src="https://raw.githubusercontent.com/Necriso/ScriptableWidgets/main/images/tankstellenpreise.png" width="200"/>
 
 - [TeslaData-Widget](https://github.com/DrieStone/TeslaData-Widget) - Information about your Tesla, like charging status and doors locked/unlocked.
-  
-  <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>  
-  
+
+  <img src="https://github.com/DrieStone/TeslaData-Widget/raw/main/documentation/screen_001.png" width="400"/>
+
 - [ZOE-Widget.js](https://gist.github.com/mountbatt/772e4512089802a2aa2622058dd1ded7) - Information about your Renault Zoe like charging or location.
 
   <img src="https://user-images.githubusercontent.com/2411246/97786189-41f68f80-1baa-11eb-9c6f-96e8d8f7684a.jpeg" width="400"/>
@@ -54,8 +58,8 @@
 - [countdown.js](https://gist.github.com/flasozzi/ab6222ea15de5113555c32c855e9e326) - Simple countdown to dates.
 
   <img src="https://user-images.githubusercontent.com/17153908/95031000-bdd3e980-0689-11eb-83ce-49e2adbe1ca1.jpg" width="400"/>
-  
-- [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - Date and time greeting with background from Unsplash. 
+
+- [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - Date and time greeting with background from Unsplash.
 
 - [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - List of upcoming birthdays from contacts.
 
@@ -95,7 +99,7 @@
 
 ## Health
 
-- [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected country.
+- [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) - Covid-19 cases of a selected country.
 
 - [incidence.js](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664) - Covid-19 incidence data for Germany.
 
@@ -122,7 +126,7 @@
 - [spotify-now-playing.js](https://gist.github.com/marco79cgn/79a6a265d978dc22cc2a12058b24e02b) - Now playing on Spotify.
 
   <img src="https://user-images.githubusercontent.com/9810829/94380118-76eb6e80-0134-11eb-9d71-c6d587b8b224.jpeg" width="400"/>
-  
+
 ## Reading
 
 - [scriptable-news-Widget.js](https://github.com/Saudumm/scriptable-News-Widget) - The latest posts from a feed or a WordPress blog.
@@ -148,7 +152,7 @@
 - [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - Terminal-like output of subscriber amount.
 
   <img src="https://user-images.githubusercontent.com/32114380/90952313-18780400-e495-11ea-9791-20634a895af6.PNG" width="400"/>
-  
+
 ## Shopping
 
 - [exchangeRate.js](https://github.com/Juniorchen2012/scriptable/blob/master/exchangeRate.js) - Currency exchange rates.
@@ -159,13 +163,13 @@
 
 ## Sports
 
-- [CFBWidget](https://github.com/jaydainn/CFBWidget) - Latest scores of a NCAA college football team. 
+- [CFBWidget](https://github.com/jaydainn/CFBWidget) - Latest scores of a NCAA college football team.
 
 - [fitx-widget.js](https://gist.github.com/DanielStefanK/487175b6f65ede401e37ee4848970176) - Workload of a FitX gym.
 
 - [rsg_group_mcfit_high5_johnreed_capacity_widget.js](https://gist.github.com/masselmello/6d4f4c533b98b2550ee23a7a5e6c6cff) - Capacity of the nearest McFit gym.
 
-- [skiable](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or the number of open lifts. 
+- [skiable](https://github.com/p0fi/skiable-for-scriptable) - Skiing information like snow height or the number of open lifts.
 
   <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
 

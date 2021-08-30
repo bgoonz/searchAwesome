@@ -8,7 +8,6 @@ XML has risen and fallen. JSON is just a flash in the pan. YAML is a poisoned ch
 
 When the final cockroach breathes her last breath, her dying act will be to scratch her date of death in a CSV file for posterity.
 
-
 ## Contents
 
 - [Tools](#tools)
@@ -25,13 +24,11 @@ When the final cockroach breathes her last breath, her dying act will be to scra
 - [Funtribute](#funtribute)
 - [Footnotes](#footnotes)
 
-
-
 Here are some awesome tools for dealing with CSV:
 
 ## Tools
 
-- [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator *.
+- [NimbleText/Live](https://NimbleText.com/Live) - Use patterns to manipulate CSV; the world's simplest code generator \*.
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
 - [CSVKit](http://csvkit.readthedocs.org/en/0.7.3/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
@@ -68,7 +65,6 @@ Here are some awesome tools for dealing with CSV:
 - [CSV Schema](https://csv-schema.surge.sh/) &mdash; Analyzes a CSV file and generates database table schema, all within the browser
 - Wanted: More tools in this category.
 
-
 ### Treat CSV as SQL
 
 - [TextQL](http://dinedal.github.io/textql/) - Execute SQL against CSV or TSV.
@@ -83,10 +79,9 @@ Here are some awesome tools for dealing with CSV:
 
 ### CSV <-> JSON
 
-- [Agnes](http://www.secretgeek.net/agnes/twoWay.html) - Two way Csv to Json **.
+- [Agnes](http://www.secretgeek.net/agnes/twoWay.html) - Two way Csv to Json \*\*.
 - [csv2json](https://www.csvjson.com/csv2json) - online tool to convert your CSV or TSV formatted data to JSON and [vice versa](https://www.csvjson.com/json2csv).
 - [csv-to-json](https://mango-is.com/tools/csv-to-json/) - Easy, privacy-friendly and offline-first online csv to json converter.
-
 
 ## Essays
 
@@ -94,10 +89,9 @@ Here are some awesome tools for dealing with CSV:
 >
 > [David Wengier](https://twitter.com/davidwengier/status/1159606464220000257)
 
-
 - [Thinking about CSV](https://blog.datacite.org/thinking-about-csv/) - Martin Fenner.
 - [In Praise of CSV](https://usopendata.org/2015/03/10/csv) - Waldo Jaquith.
-- [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) - Leon Bambrick ***.
+- [Stop Rolling Your Own CSV Parser!](http://www.secretgeek.net/csv_trouble) - Leon Bambrick \*\*\*.
 - [So You Want To Write Your Own CSV code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/) - Thomas Burette.
 - [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - Jesse Donat.
 - [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) - Ronald Duncan.
@@ -115,12 +109,11 @@ Here are some awesome tools for dealing with CSV:
 
 - [csv,conf](https://csvconf.com/) - A community conference for data makers everywhere.
 
-
 ## Standards
 
 > The wonderful thing about standards is that there are so many of them to choose from.<br />&mdash;(Possibly) Grace Hopper.
 
-- [RFC 4180](https://tools.ietf.org/html/rfc4180) ([html version](http://www.faqs.org/rfcs/rfc4180.html)) - "*Common format and MIME Type for Comma-Separated Values (CSV) Files*".
+- [RFC 4180](https://tools.ietf.org/html/rfc4180) ([html version](http://www.faqs.org/rfcs/rfc4180.html)) - "_Common format and MIME Type for Comma-Separated Values (CSV) Files_".
   - [Definition of the CSV Format](https://tools.ietf.org/html/rfc4180#section-2)
   - [MIME Type Registration of text/csv](https://tools.ietf.org/html/rfc4180#section-3)
 - [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
@@ -135,16 +128,13 @@ Here are some awesome tools for dealing with CSV:
 - [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 - [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.
 
-
 ## Code of Conduct
 
 See [Code of Conduct](code-of-conduct.md)
 
-
 ## Funtribute
 
 To experience the fun of contributing, see [Contributing](contributing.md)
-
 
 ## Footnotes
 

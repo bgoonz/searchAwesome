@@ -220,7 +220,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [Substrate Graph](https://github.com/playzero/substrate-graph) - GraphQL indexer for
   Substrate-based chains.
 - [SubQuery](https://subquery.network) - A GraphQL indexer and query service that allows users to
-   easily create indexed data sources and host them online for free.
+  easily create indexed data sources and host them online for free.
 - [Megaclite](https://github.com/patractlabs/megaclite) - Zero-knowledge tools for the Polkadot
   ecosystem.
 - [Europa](https://github.com/patractlabs/europa) - A sandbox for the Substrate runtime execution
@@ -258,7 +258,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 ### Substrate Mobile Engineering Tools / Libraries
 
 - [React-Native-Substrate-Sign](https://github.com/paritytech/react-native-substrate-sign) -
-Rust library for React Native.
+  Rust library for React Native.
 - [Polkadot-Dart](Pocket4D/Polkadot-Dart) - Dart Substrate API.
 - [PolkaWallet SDK](https://github.com/polkawallet-io/sdk)- Flutter SDK for Substrate-based App.
 - [Fearless Utils iOS](https://github.com/soramitsu/fearless-utils-iOS) - iOS Substrate tools.

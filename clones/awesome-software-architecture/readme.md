@@ -3,13 +3,13 @@
 <img src="./banner.png" />
 
 # Awesome Software Architecture<br/>
-  
+
 [![awesome-badge](https://awesome.re/badge.svg)](https://awesome.re)
-  
-[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level 
-structures of software as well as the discipline of creating them. As this topic is pretty broad, it might 
-contain some resources that are also present in more niche lists. 
-  
+
+[Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level
+structures of software as well as the discipline of creating them. As this topic is pretty broad, it might
+contain some resources that are also present in more niche lists.
+
 </div>
 
 ## Contents
@@ -30,9 +30,11 @@ contain some resources that are also present in more niche lists.
 - [Bonus](#bonus)
 
 ## Principles
+
 - [Flexibility](https://medium.com/faun/flexibility-a-software-architecture-principle-6eafe045a1d4) - Able to adapt to changes in both environment and usability requirements without encompassing structural changes.
 
 ## Design Patterns
+
 - [Ports and adapters pattern](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html) - Decouple the application core logic from the services it uses.
 - [Observer pattern](https://medium.com/datadriveninvestor/design-patterns-a-quick-guide-to-observer-pattern-d0622145d6c2) - One-to-many state change notification.
 - [Design Patterns: Elements of Reusable Object-Oriented Software, by Gamma et al](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/) - The one that started it all :orange_book:.
@@ -45,6 +47,7 @@ contain some resources that are also present in more niche lists.
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) - Layers are a way to separate responsibilities and manage dependencies.
 
 ### Scalability and Resilience
+
 - [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Protecting failing resources to prevent cascading failures
 - [Bulkhead](https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead) - Partition resources to isolate failures
 
@@ -61,7 +64,6 @@ contain some resources that are also present in more niche lists.
 - [arc42](https://arc42.org/) - Template for documentation and communication of software and system architectures.
 - [Architectural Decision Records](https://adr.github.io/) - Version and document architectural decisions the same way you do with code.
 - [Documenting architecture](https://dzone.com/articles/documenting-architecture-1) - Pragmatic tips on how to effectively document software architecture.
-
 
 ## Workshop formats
 
@@ -93,15 +95,17 @@ contain some resources that are also present in more niche lists.
 
 - [Scrum](https://www.scrumguides.org/) - Framework for developing and maintaining complex products.
 - [SAFe](https://www.scaledagileframework.com/) - Scalable agile framework.
-- [Nexus](https://www.scrum.org/resources/scaling-scrum) - Scalable Scrum according to Ken Schwaber, co-creator of Scrum. 
+- [Nexus](https://www.scrum.org/resources/scaling-scrum) - Scalable Scrum according to Ken Schwaber, co-creator of Scrum.
 - [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) - How "Agile" has moved away from the basic principles of agility, and what we need to do to fix things 🎥.
-- [Agile Architecture Pt. 1, by Allen Holub](https://www.youtube.com/watch?v=0kRCFVGpX7k) - How do we work with architecture in a agile world 🎥. 
-- [Agile Architecture Pt. 2, by Allen Holub](https://www.youtube.com/watch?v=txbS0WJC1bo) - How do we work with architecture in a agile world 🎥. 
+- [Agile Architecture Pt. 1, by Allen Holub](https://www.youtube.com/watch?v=0kRCFVGpX7k) - How do we work with architecture in a agile world 🎥.
+- [Agile Architecture Pt. 2, by Allen Holub](https://www.youtube.com/watch?v=txbS0WJC1bo) - How do we work with architecture in a agile world 🎥.
+
 ### Lean software development
 
 - [Wikipedia: Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) - Translation of lean manufacturing for the software development domain.
 - [Rolling rocks downhill, by Clarke Ching](https://www.amazon.com/Rolling-Rocks-Downhill-Software-Projects/dp/1505446511) - Business novel about agile and lean software development :orange_book:.
 - [The Goal: A Process of Ongoing Improvement, by Goldratt](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610) - Business novel about contiuous improvements in a manufacturing setting. Easily adaptable to software development as well :orange_book:.
+
 ### Extreme programming
 
 - [Extreme Programming](http://www.extremeprogramming.org/) - The most specific of the popular agile processes, focusing on engineering and development practices.
@@ -111,9 +115,10 @@ contain some resources that are also present in more niche lists.
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - Combining software development and operations practices to shorten time to market while maintaining high quality.
 - [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - IT, Devops and helping your Business win :orange_book:.
 - [The Unicorn Project, by Gene Kim](https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41) - Developers, Digital Disruption and Thriving in the Age of Data :orange_book:.
-- [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) - How BPDTS use the CALMS model as a reference for their devops adaptations. 
-- [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) - Chaos Engineering is a new discipline within Software Engineering, building confidence in the behavior of distributed systems at scale 🎥. 
+- [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) - How BPDTS use the CALMS model as a reference for their devops adaptations.
+- [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) - Chaos Engineering is a new discipline within Software Engineering, building confidence in the behavior of distributed systems at scale 🎥.
 - [Adidas DevOps Maturity Framework](https://github.com/adidas/adidas-devops-maturity-framework) - Based in the C.A.L.M.S. definition of DevOps, the framework defines a set of capabilities and guidelines that when adopted, increases efficiency, effectiveness and happiness of the team.
+
 ## Bonus
 
 - [How to learn software design and architecture - a roadmap](https://www.freecodecamp.org/news/software-design/) - Additional things helpful to learn to get a firm understanding of software architecture.

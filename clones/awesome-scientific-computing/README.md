@@ -1,6 +1,5 @@
 # Awesome Scientific Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 [<img src="https://nschloe.github.io/awesome-scientific-computing/sunglasses.svg" align="right" width="30%">](#readme)
 
 > Useful resources for scientific computing and numerical analysis.
@@ -10,7 +9,6 @@ methods for solving large-scale problems from various areas of science with the 
 computers. Typical problems are ordinary and partial differential equations (ODEs,
 PDEs), their discretizations, and the solution of linear algebra problems arising from
 them.
-
 
 ## Contents
 
@@ -23,7 +21,6 @@ them.
 - [Visualization](#visualization)
 - [Other libraries and tools](#other-libraries-and-tools)
 - [Community](#community)
-
 
 ## Basic linear algebra
 
@@ -42,7 +39,6 @@ them.
 - [blaze](https://bitbucket.org/blaze-lib/blaze) - High-performance C++ math library for dense and sparse arithmetic.
   (C++, BSD, Bitbucket)
 
-
 ## Multi-purpose toolkits
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) - Parallel solution of scientific applications modeled by PDEs.
@@ -53,7 +49,6 @@ them.
   (Python, mostly BSD, [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://numpy.org/) - Fundamental package needed for scientific computing with Python.
   (Python, BSD, [GitHub](https://github.com/numpy/numpy))
-
 
 ## Finite Elements
 
@@ -101,7 +96,7 @@ them.
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) - Quality tetrahedral mesh generator and 3D Delaunay triangulator.
   (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
-  (C, *nonfree software*)
+  (C, _nonfree software_)
 - [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing.
   (Python, GPL 3, GitHub)
 - [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
@@ -119,12 +114,12 @@ them.
 - [meshplex](https://github.com/nschloe/meshplex) - Fast tools for simplex meshes. (Python, GPL 3, GitHub)
 - [TetWild](https://cs.nyu.edu/~yixinhu/tetwild.pdf) - Robust Tetrahedral Meshing in the Wild.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
-- [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) -  Robust Triangulation with Curve Constraints.
+- [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust Triangulation with Curve Constraints.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
 - [fTetWild](https://arxiv.org/abs/1908.03581) - Fast Tetrahedral Meshing in the Wild.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/fTetWild))
 - [SeismicMesh](https://github.com/krober10nd/SeismicMesh) - Parallel 2D/3D triangle/tetrahedral mesh generation with sliver removal.
-   (Python and C++, GPL 3, GitHub)
+  (Python and C++, GPL 3, GitHub)
 
 ## Data formats
 

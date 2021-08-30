@@ -3,7 +3,7 @@
 # Awesome Waves [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Waves is an open source blockchain platform and development toolset for Web 3.0 applications and decentralized solutions.
-    
+
 This list is a collection of useful resources to create decentralized applications on Waves blockchain.
 
 ## Contents
@@ -52,14 +52,14 @@ This list is a collection of useful resources to create decentralized applicatio
 ## Learn
 
 - [Ride introduction](https://github.com/wavesplatform/ride-introduction) - Shortest and simplest explanation of Ride.\
-Available in other languages: [French](https://medium.com/@crashartifacts/introduction-%C3%A0-ride-ad6c413f98ee).
+  Available in other languages: [French](https://medium.com/@crashartifacts/introduction-%C3%A0-ride-ad6c413f98ee).
 - [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik.\
-Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](stepik.org/course/56120), [French](stepik.org/course/55963), [Greek](https://stepik.org/course/56168), [Hindi](https://stepik.org/course/56024), [Japanese](stepik.org/course/56157), [Portuguese](https://stepik.org/course/56162), [Russian](https://stepik.org/course/56401), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
+  Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](stepik.org/course/56120), [French](stepik.org/course/55963), [Greek](https://stepik.org/course/56168), [Hindi](https://stepik.org/course/56024), [Japanese](stepik.org/course/56157), [Portuguese](https://stepik.org/course/56162), [Russian](https://stepik.org/course/56401), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
 - [Mastering Web3 with Waves (on Medium)](https://medium.com/mastering-web3-with-waves) - All materials of the Stepik course as articles on Medium.\
-Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Hindi](https://link.medium.com/D6jo2gBtw5), [Portuguese](https://medium.com/dominando-web-3-0-com-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
+  Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Hindi](https://link.medium.com/D6jo2gBtw5), [Portuguese](https://medium.com/dominando-web-3-0-com-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
 - [Ride Cheat Sheet PNG](https://www.signature-chain.com/web3-pdf/cheat-sheet.png) - Quick overview of important Ride key points.\
-Available in other format: [PDF](https://www.signature-chain.com/web3-pdf/cheat-sheet.pdf) - [PSD](https://www.signature-chain.com/web3-pdf/cheat-sheet.psd) ([Font](https://fonts.google.com/specimen/Open+Sans)).\
-Available in other languages: [PNG French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.png) - [PDF French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.pdf).
+  Available in other format: [PDF](https://www.signature-chain.com/web3-pdf/cheat-sheet.pdf) - [PSD](https://www.signature-chain.com/web3-pdf/cheat-sheet.psd) ([Font](https://fonts.google.com/specimen/Open+Sans)).\
+  Available in other languages: [PNG French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.png) - [PDF French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.pdf).
 
 ## Articles
 
@@ -144,43 +144,63 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [Paddle](https://github.com/msmolyakov/paddle) - Java library to write tests for your dApps and other smart contracts.
 
 ### Client libraries
+
 #### C/C++
+
 - [waves-c](https://github.com/wavesplatform/waves-c) - C library to work with Waves.
 - [wavespp](https://github.com/wavesplatform/wavespp) - C++ wrapper for the [waves-c](https://github.com/wavesplatform/waves-c) library.
 - [nanos-app-waves](https://github.com/wavesplatform/nanos-app-waves) - Waves wallet application for Ledger Nano S.
+
 #### C#
+
 - [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library to interact with the Waves blockchain.
+
 #### Java/Kotlin
+
 - [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - Kotlin SDK for Mobile Apps on Android.
 - [WavesJ](https://github.com/wavesplatform/WavesJ) - Java library to interact with the Waves blockchain and DEX.
 - [waves-crypto-java](https://github.com/msmolyakov/waves-crypto-java) - Library to work with cryptographic primitives used in the Waves blockchain.
+
 #### JavaScript/TypeScript
+
 - [Waves Signer](https://github.com/wavesplatform/signer) - library to interact with the Waves blockchain from your web app ([example provider](https://github.com/waves-exchange/provider-web)).
 - [vue-waves-signer](https://github.com/opensolutionsweb3/vue-waves-signer) - Waves Signer implementation for Vue.js.
 - [pay-crypto-widget](https://github.com/vlzhr/pay-crypto-widget) - JS widget for accepting crypto payments on your website.
 - [crypto-donate](https://github.com/vlzhr/crypto-donate) - HTML widget allowing to donate Waves tokens to content authors.
 - [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
 - [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) - Typescript implementations like signature verification and protocol entries used in Waves protocol.
+
 #### Go
+
 - [go-lib-crypto](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
+
 #### PHP
+
 - [WavesKit](https://github.com/deemru/WavesKit) - All-in-one Waves Platform development kit for the PHP language.
+
 #### Python
+
 - [PyWaves](https://github.com/PyWaves/PyWaves) - Object-oriented library for the Waves blockchain platform.
 - [ERC20 Gateway Framework](https://github.com/PyWaves/Waves-ERC20-Gateway) - Allows to easily establish a gateway between any ERC-20 token and the Waves blockchain ([example](https://github.com/iammortimer/TN-WAVES-Gateway)).
 - [Waves-Gateway-Framework](https://github.com/jansenmarc/WavesGatewayFramework) - A framework to connect other cryptocurrencies to the Waves blockchain ([LTC example](https://github.com/jansenmarc/WavesGatewayLTCExample)).
+
 #### Rust
+
 - [WavesRS](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
 - [waves-lib-rust](https://github.com/waves-rust/waves-lib-rust) - Library to work with Waves blockchain.
+
 #### Swift
+
 - [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS.
 
 ### Blockchain utils
+
 - [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
 - [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 - [Nodes on map](http://waves-nodes-map.ikardanov.com/) - All nodes of the Waves Mainnet on the world map.
 
 ### Other tools
+
 - [sh-Ride-brush](https://github.com/msmolyakov/sh-Ride-brush) - SyntaxHighlighter brush for the Ride language.
 - [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) - The [Pygments](https://github.com/pygments/pygments) highlighter oficially supports the Ride out of the box.
 
@@ -192,6 +212,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [dAppOcean](https://www.dappocean.io/) - Ecosystem of decentralized applications based on the Waves blockchain.
 
 ### Games
+
 - [NyanCat: The Crypto Race](https://nyancat.io/) - Build your own Nyan Cat collection, race against other players and get your reward in weekly Leaderboards with the prize fund up to $2000!
 - [Shadow Era](http://www.shadowera.com/) - Shadow Era is a free to play online collectible trading card game for iOS, Android, PC and Mac.
 - [Coin Flip](https://www.coin-flip.io/) - Choose the coin side, make a bet and see if you are lucky.
@@ -212,7 +233,6 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [One Million Pixel Waves](https://www.onemillionpixelwaves.com/) - Smart Contract powered website entirely running on the Waves blockchain where anyone can own a piece of the blockchain and immortalize it with an image and a link.
 - [Signature Chain](https://www.signature-chain.com/) - Signature Chain's primary goal is to develop a platform allowing the certification of files and documents.
 - [Auctionlance Platform](https://beta.auctionlance.com) - Freelancer marketplace where clients hire and pay freelancers with Waves, Waves tokens and other cryptocurrencies.
-
 
 ## Community
 
@@ -249,7 +269,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Japanese
 
-- [Telegram](https://t.me/wavesjapandevs) - DApps開発者のためのTelegramチャット.
+- [Telegram](https://t.me/wavesjapandevs) - DApps 開発者のための Telegram チャット.
 
 ### Philippine
 

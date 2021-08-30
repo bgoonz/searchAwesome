@@ -2,14 +2,12 @@
 
 Колекция от кратки съвети, които ще ви дадат предимство в надпреварата с jQuery.
 
->За още повече страхотни колекции, посетете избраните списъци [awesome lists](https://github.com/sindresorhus/awesome/) на [@sindresorhus](https://github.com/sindresorhus/).
-
+> За още повече страхотни колекции, посетете избраните списъци [awesome lists](https://github.com/sindresorhus/awesome/) на [@sindresorhus](https://github.com/sindresorhus/).
 
 ## Съдържание
 
-* [Съвети](#съвети)
-* [Поддръжка](#поддръжка)
-
+- [Съвети](#съвети)
+- [Поддръжка](#поддръжка)
 
 ## Съвети
 
@@ -37,7 +35,6 @@
 1. [Сортиране на списък по азбучен ред](#сортиране-на-списък-по-азбучен-ред)
 1. [Деактивиране на клик с десен бутон](#деактивиране-на-клик-с-десен-бутон)
 
-
 ### Употребата на `noConflict()`
 
 Символът `$`, полван от jQuery, се ползва също и от други JavaScript библиотеки. За да предотвратите конфликт с `$`-обектите на други библиотеки, добавете метод `noConflict()` в началото на документа:
@@ -54,24 +51,21 @@ let $x = jQuery.noConflict();
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Проверка за успешно зареждане на jQuery
 
 Преди да започнете да правите каквото и да е с jQuery, уверете се, че библиотеката е успешно заредена:
 
 ```javascript
-if (typeof jQuery == 'undefined') {
-  console.log('jQuery hasn\'t loaded');
+if (typeof jQuery == "undefined") {
+  console.log("jQuery hasn't loaded");
 } else {
-  console.log('jQuery has loaded');
+  console.log("jQuery has loaded");
 }
 ```
 
 Готови за излитане.
 
-
 <sup>[обратно към съдържанието](#съдържание)</sup>
-
 
 ### Проверка за наличност на даден елемент
 
@@ -84,7 +78,6 @@ if ($("#selector").length) {
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
-
 
 ### Използвайте `.on()` вместо `.click()`
 
@@ -107,16 +100,15 @@ if ($("#selector").length) {
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Бутон "обратно-към-началото"
 
 Благодарение на методите `animate` и `scrollTop` в jQuery отпада необходимостта от имплементация на допълнителна функция за създаване на простичка анимация, която да превърта документа до горе.
 
 ```javascript
 // Връщане към началото
-$('.container').on('click', '.back-to-top', function (e) {
+$(".container").on("click", ".back-to-top", function (e) {
   e.preventDefault();
-  $('html, body').animate({scrollTop: 0}, 800);
+  $("html, body").animate({ scrollTop: 0 }, 800);
 });
 ```
 
@@ -131,9 +123,7 @@ $('.container').on('click', '.back-to-top', function (e) {
 
 **Внимание:** Бъдете нащрек за [бъгове](https://github.com/jquery/api.jquery.com/issues/417) със `scrollTop`.
 
-
 <sup>[обратно към съдържанието](#съдържание)</sup>
-
 
 ### Предварително зареждане на изображения
 
@@ -142,23 +132,22 @@ $('.container').on('click', '.back-to-top', function (e) {
 ```javascript
 $.preloadImages = function () {
   for (var i = 0; i < arguments.length; i++) {
-    $('<img>').attr('src', arguments[i]);
+    $("<img>").attr("src", arguments[i]);
   }
 };
 
-$.preloadImages('img/hover-on.png', 'img/hover-off.png');
+$.preloadImages("img/hover-on.png", "img/hover-off.png");
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
-
 
 ### Проверка за успешно зареждане на изображения
 
 Понякога, за да може скриптът да продължи да се изпълява по-нататък, се налага да се направи проверка за това, дали изображенията са вече напълно заредени:
 
 ```javascript
-$('img').on('load', function () {
-  console.log('image load successful');
+$("img").on("load", function () {
+  console.log("image load successful");
 });
 ```
 
@@ -166,15 +155,14 @@ $('img').on('load', function () {
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Автоматичен фикс на счупени изображения
 
 Ако се окаже, че сайтът ви съдържа счупени линкове към изображения, то поправянето на всеки един дефектен линк по отделно би било особено приятно занимание. В такъв случай следните няколко реда биха ви спестили доста главоболия:
 
 ```javascript
-$('img').on('error', function () {
-  if(!$(this).hasClass('broken-image')) {
-    $(this).prop('src', 'img/broken.png').addClass('broken-image');
+$("img").on("error", function () {
+  if (!$(this).hasClass("broken-image")) {
+    $(this).prop("src", "img/broken.png").addClass("broken-image");
   }
 });
 ```
@@ -182,53 +170,54 @@ $('img').on('error', function () {
 Като алтернатива на горния блок, ако предпочитате да скриете счупените изображения, следният код ще се погрижи за това:
 
 ```javascript
-$('img').on('error', function () {
+$("img").on("error", function () {
   $(this).hide();
 });
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Изпращане на формуляр с AJAX
 
 jQuery AJAX методите са често срещан подход за поискване на текст, HTML, XML, или JSON. Ако искате да изпратите формуляр чрез AJAX, може да съберете потребителските данни чрез метод `val()`:
 
-
 ```javascript
-$.post('sign_up.php', {
-  user_name: $('input[name=user_name]').val(),
-  email:     $('input[name=email]').val(),
-  password:  $('input[name=password]').val(),
+$.post("sign_up.php", {
+  user_name: $("input[name=user_name]").val(),
+  email: $("input[name=email]").val(),
+  password: $("input[name=password]").val(),
 });
 ```
 
- Всички тези повиквания на `val()` обаче струват доста ресурси, а повикването на `.val()` върху `<textarea>`-елементи ще премахнат символите CR (Carriage Return). По-добър начин за събиране на потребителски данни предлага функцията `serialize()`, която събира данните като стринг:
+Всички тези повиквания на `val()` обаче струват доста ресурси, а повикването на `.val()` върху `<textarea>`-елементи ще премахнат символите CR (Carriage Return). По-добър начин за събиране на потребителски данни предлага функцията `serialize()`, която събира данните като стринг:
 
 ```javascript
-$.post('sign_up', $('#sign-up-form').serialize());
+$.post("sign_up", $("#sign-up-form").serialize());
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
-
 
 ### Превключване на класове при Hover
 
 Да предположим, че имате елемент, който може да бъде кликнат, и искате елементът да променя стила си, щом мишката попадне върху него (при т.нар. ефект "hover"):
 
 ```javascript
-$('.btn').on('hover', function () {
-  $(this).addClass('hover');
-}, function () {
-  $(this).removeClass('hover');
-});
+$(".btn").on(
+  "hover",
+  function () {
+    $(this).addClass("hover");
+  },
+  function () {
+    $(this).removeClass("hover");
+  }
+);
 ```
 
 Остава да добавите необходимия CSS. За още по-голямо _улесняване_, използвайте метод `toggleClass`:
 
 ```javascript
-$('.btn').on('hover', function () {
-  $(this).toggleClass('hover');
+$(".btn").on("hover", function () {
+  $(this).toggleClass("hover");
 });
 ```
 
@@ -236,53 +225,50 @@ $('.btn').on('hover', function () {
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Деактивиране на поле за въвеждане
 
 Може да се наложи submit-бутонът на даден формуляр, или пък някое от полетата за въвеждане на текст (input field) във формуляра, да останат деактивирани, докато потребителят не извърши определено действие (като например маркиране на отметката "Прочетох условията"). В такъв случай, добавете атрибута `disabled` ("деактивиран") към съответното input-поле, за да може полето да се активира, едва когато трябва:
 
 ```javascript
-$('input[type="submit"]').prop('disabled', true);
+$('input[type="submit"]').prop("disabled", true);
 ```
 
 Всичко, което трябва да направите, е да повикате метода `prop` върху input-полето още веднъж, само че този път задавайки на `disabled` стойността `false`:
 
 ```javascript
-$('input[type="submit"]').prop('disabled', false);
+$('input[type="submit"]').prop("disabled", false);
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
-
 
 ### Деактивиране зареждането на линкове
 
 Идеята при добавянето на линкове в страницата не винаги е, те да пренасочват към други страници или да презареждат текущата страница; вместо това, можете да използвате линковете с други цели, като например, да стартирате даден скрипт:
 
 ```javascript
-$('a.no-link').on('click', function (e) {
+$("a.no-link").on("click", function (e) {
   e.preventDefault();
 });
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Кеширане на jQuery-селектори
 
 Представете си, колко пъти общо може да се наложи да използвате един и същ селектор в даден проект. Селекторът `$('.element')` налага цялостно претърсване на DOM-а при всяко повикване, независимо, дали селекторът е бил задаван и преди. Вместо това, може да зададете селектора само веднъж, запазвайки резултатите в променлива:
 
 ```javascript
-var blocks = $('#blocks').find('li');
+var blocks = $("#blocks").find("li");
 ```
 
 По този начин можете да ползвате променливата `blocks` винаги, щом поискате, бъз да се налага DOM-ът да бъде претърсван всеки път:
 
 ```javascript
-$('#hideBlocks').on('click', function () {
+$("#hideBlocks").on("click", function () {
   blocks.fadeOut();
 });
 
-$('#showBlocks').on('click', function () {
+$("#showBlocks").on("click", function () {
   blocks.fadeIn();
 });
 ```
@@ -291,25 +277,23 @@ $('#showBlocks').on('click', function () {
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Toggle-превключване на избледняването или приплъзгването
 
 Slide ("плъзгане") и fade ("избледняване") се срещат често при анимирането с jQuery. Ако искате даден елемент да се появи, щом потребителят кликне върху нещо, спокойно може да използвате методите `fadeIn`(за появяване на елемента) и `slideDown` ("приплъзгване надолу"). Ако обаче искате елементът да се появи при клик и веднага след това да изчезне отново, следният код може да ви бъде от полза:
 
 ```javascript
 // Fade
-$('.btn').on('click', function () {
-  $('.element').fadeToggle('slow');
+$(".btn").on("click", function () {
+  $(".element").fadeToggle("slow");
 });
 
 // Toggle
-$('.btn').on('click', function () {
-  $('.element').slideToggle('slow');
+$(".btn").on("click", function () {
+  $(".element").slideToggle("slow");
 });
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
-
 
 ### Лесен "Акордеон"-ефект
 
@@ -317,34 +301,35 @@ $('.btn').on('click', function () {
 
 ```javascript
 // Затваряне на всички панели
-$('#accordion').find('.content').hide();
+$("#accordion").find(".content").hide();
 
 // Акордеон
-$('#accordion').find('.accordion-header').on('click', function () {
-  var next = $(this).next();
-  next.slideToggle('fast');
-  $('.content').not(next).slideUp('fast');
-  return false;
-});
+$("#accordion")
+  .find(".accordion-header")
+  .on("click", function () {
+    var next = $(this).next();
+    next.slideToggle("fast");
+    $(".content").not(next).slideUp("fast");
+    return false;
+  });
 ```
 
 Остава само да добавите необходимия HTML в уеб-страница си, за да може скриптът да има ефект.
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Изравняване височината на два div-елемента
 
 Ако искате два div-елемента да имат еднаква височина, независимо от тяхното съдържание:
 
 ```javascript
-$('.div').css('min-height', $('.main-div').height());
+$(".div").css("min-height", $(".main-div").height());
 ```
 
 Този пример задава `min-height`(минималната височина), което означава, че реалната височина може да е по-голяма от тази на .main-div, но никога по-малка. По-гъвкавият вариант обаче е, да се обходи в цикъл група от елементи, и в `height` да се зададе височината на най-високия от елементите:
 
 ```javascript
-var $columns = $('.column');
+var $columns = $(".column");
 var height = 0;
 $columns.each(function () {
   if ($(this).height() > height) {
@@ -357,9 +342,9 @@ $columns.height(height);
 Ако искате _всички_ колони да имат еднаква височина:
 
 ```javascript
-var $rows = $('.same-height-columns');
+var $rows = $(".same-height-columns");
 $rows.each(function () {
-  $(this).find('.column').height($(this).height());
+  $(this).find(".column").height($(this).height());
 });
 ```
 
@@ -367,89 +352,81 @@ $rows.each(function () {
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Отваряне на външни линкове в нов раздел или прозорец
 
 Отваряне на външни линкове в нов раздел на браузъра или в нов прозорец, така че ликовете от еднакъв източник (origin) да се отварят в същия раздел или прозорец:
 
 ```javascript
-$('a[href^="http"]').attr('target', '_blank');
-$('a[href^="//"]').attr('target', '_blank');
-$('a[href^="' + window.location.origin + '"]').attr('target', '_self');
+$('a[href^="http"]').attr("target", "_blank");
+$('a[href^="//"]').attr("target", "_blank");
+$('a[href^="' + window.location.origin + '"]').attr("target", "_self");
 ```
 
 **Внимание:** `window.location.origin` не проработва в IE10. [Тази корекция](http://tosbourn.com/a-fix-for-window-location-origin-in-internet-explorer/) отстранява проблема.
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Намиране на елемент по текст
 
 Селекторът `contains()` в jQuery позволява намирането на текст в съдържанието на даден елемент. В следния пример елементът ще бъде скрит, в случай че текстът не е намерен:
 
 ```javascript
-var search = $('#search').val();
+var search = $("#search").val();
 $('div:not(:contains("' + search + '"))').hide();
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
-
 
 ### Задействане на скрипт при промяна във видимостта
 
 Задействане на JavaScript, щом раздел на браузъра остане извън фокус или при повторно фокусиране на раздела:
 
 ```javascript
-$(document).on('visibilitychange', function (e) {
-  if (e.target.visibilityState === 'visible') {
-    console.log('Tab is now in view!');
-  } else if (e.target.visibilityState === 'hidden') {
-    console.log('Tab is now hidden!');
+$(document).on("visibilitychange", function (e) {
+  if (e.target.visibilityState === "visible") {
+    console.log("Tab is now in view!");
+  } else if (e.target.visibilityState === "hidden") {
+    console.log("Tab is now hidden!");
   }
 });
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Улавяне на грешка, върната от AJAX
 
 При връщане на грешка 404 или 500 от AJAX, се изпълнява функция, която улавя грешката. Ако не дефинирате тази функция, е възможно друг jQuery-код да не проработи по очаквания начин. За това може да дефинирате глобално функцията, улавяща грешката, по следния начин:
 
 ```javascript
-$(document).on('ajaxError', function (e, xhr, settings, error) {
+$(document).on("ajaxError", function (e, xhr, settings, error) {
   console.log(error);
 });
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Верижно повикване на методи
 
 "Верижните" повиквания на методи в jQuery облекчават процеса на многократно претърсване на DOM-а и предотвратяват създаването на множество jQuery-обекти. Да предположим, че вашите методи са повикани по следния начин:
 
 ```javascript
-$('#elem').show();
-$('#elem').html('bla');
-$('#elem').otherStuff();
+$("#elem").show();
+$("#elem").html("bla");
+$("#elem").otherStuff();
 ```
 
 Така формулираният проблем може да бъде оптимиран значително чрез "верижни" повиквания:
 
 ```javascript
-$('#elem')
-  .show()
-  .html('bla')
-  .otherStuff();
+$("#elem").show().html("bla").otherStuff();
 ```
 
 Друга алтернатива е кеширането на елемента в променлива (с префикс `$`):
 
 ```javascript
-var $elem = $('#elem');
+var $elem = $("#elem");
 $elem.hide();
-$elem.html('bla');
+$elem.html("bla");
 $elem.otherStuff();
 ```
 
@@ -457,17 +434,16 @@ $elem.otherStuff();
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Сортиране на списък по азбучен ред
 
 Ако елементите от даден списък се окажат твърде много на брой, например в случай, че съдържанието е изготвено от Система за Управление на Съдържание (Content Management System / CMS), можете да подредите елементите по азбучен ред:
 
 ```javascript
-var ul = $('#list'),
-lis = $('li', ul).get();
+var ul = $("#list"),
+  lis = $("li", ul).get();
 
 lis.sort(function (a, b) {
-  return ($(a).text().toUpperCase() < $(b).text().toUpperCase()) ? -1 : 1;
+  return $(a).text().toUpperCase() < $(b).text().toUpperCase() ? -1 : 1;
 });
 
 ul.append(lis);
@@ -477,35 +453,29 @@ ul.append(lis);
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
 
-
 ### Деактивиране на клик с десен бутон
 
 Ако искате да деактивирате клик с десен бутон на мишката, може да го направите както за цялата страница...
 
 ```javascript
 $(document).ready(function () {
-  $(document).bind('contextmenu', function (e) {
+  $(document).bind("contextmenu", function (e) {
     return false;
-  })
-})
+  });
+});
 ```
 
 ...така и за определен елемент:
 
 ```javascript
 $(document).ready(function () {
-  $('#submit').bind('contextmenu', function (e) {
+  $("#submit").bind("contextmenu", function (e) {
     return false;
-  })
-})
+  });
+});
 ```
 
 <sup>[обратно към съдържанието](#съдържание)</sup>
-
-
-
-
-
 
 ## Поддръжка
 

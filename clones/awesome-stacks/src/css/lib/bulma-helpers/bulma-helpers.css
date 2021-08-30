@@ -227,7 +227,8 @@
   cursor: zoom-in !important;
 }
 
-.flex .flex-row, .flex .flex-column {
+.flex .flex-row,
+.flex .flex-column {
   display: flex;
 }
 
@@ -393,17 +394,17 @@
 
 .is-blurred {
   -webkit-filter: blur(15px) !important;
-          filter: blur(15px) !important;
+  filter: blur(15px) !important;
 }
 
 .is-blurred-medium {
   -webkit-filter: blur(40px) !important;
-          filter: blur(40px) !important;
+  filter: blur(40px) !important;
 }
 
 .is-blurred-hard {
   -webkit-filter: blur(75px) !important;
-          filter: blur(75px) !important;
+  filter: blur(75px) !important;
 }
 
 .has-max-width-50 {

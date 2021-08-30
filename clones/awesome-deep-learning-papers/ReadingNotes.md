@@ -6,8 +6,7 @@
 
 - Limitation of the current methods
   - GPR (![Eq:On3])and LWR is not scalable
-- Contribution of this paper
-  -
+- ## Contribution of this paper
 
 **Bibtex**: to appear
 

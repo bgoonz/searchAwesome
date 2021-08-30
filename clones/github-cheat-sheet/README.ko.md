@@ -2,79 +2,79 @@
 
 Git과 GitHub에서 꽤 유용하지만 숨겨져 있는 기능들에 대해 다룹니다. 이 치트 시트는 [Zach Holman](https://github.com/holman)이 Aloha Ruby Conference 2012에서 발표한 [Git과 GitHub의 비밀들](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) ([슬라이드](https://speakerdeck.com/holman/git-and-github-secrets))과 WDCNZ 2013에서 발표한 [Git과 GitHub에 대한 더 많은 비밀들](https://vimeo.com/72955426) ([슬라이드](https://speakerdeck.com/holman/more-git-and-github-secrets))에서 영감을 받아 작성되었습니다.
 
-*단축주소: [`http://git.io/sheet`](http://git.io/sheet)*
+_단축주소: [`http://git.io/sheet`](http://git.io/sheet)_
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
+_Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md)._
 
 # 목록
 
- - [GitHub](#github)
-  - [Ignore Whitespace](#ignore-whitespace)
-  - [Adjust Tab Space](#adjust-tab-space)
-  - [Commit History by Author](#commit-history-by-author)
-  - [Cloning a Repository](#cloning-a-repository)
-  - [Branch](#branch)
-    - [Compare all Branches to Another Branch](#compare-all-branches-to-another-branch)
-    - [Comparing Branches](#comparing-branches)
-    - [Compare Branches across Forked Repositories](#compare-branches-across-forked-repositories)
-  - [Gists](#gists)
-  - [Git.io](#gitio)
-  - [Keyboard Shortcuts](#keyboard-shortcuts)
-  - [Line Highlighting in Repositories](#line-highlighting-in-repositories)
-  - [Closing Issues via Commit Messages](#closing-issues-via-commit-messages)
-  - [Cross-Link Issues](#cross-link-issues)
-  - [Locking Conversations](#locking-conversations)
-  - [CI Status on Pull Requests](#ci-status-on-pull-requests)
-  - [Filters](#filters)
-  - [Syntax Highlighting in Markdown Files](#syntax-highlighting-in-markdown-files)
-  - [Emojis](#emojis)
-  - [Images/GIFs](#imagesgifs)
-    - [Embedding Images in GitHub Wiki](#embedding-images-in-github-wiki)
-  - [Quick Quoting](#quick-quoting)
-  - [Pasting Clipboard Image to Comments](#pasting-clipboard-image-to-comments)
-  - [Quick Licensing](#quick-licensing)
-  - [Task Lists](#task-lists)
-    - [Task Lists in Markdown Documents](#task-lists-in-markdown-documents)
-  - [Relative Links](#relative-links)
-  - [Metadata and Plugin Support for GitHub Pages](#metadata-and-plugin-support-for-github-pages)
-  - [Viewing YAML Metadata in your Documents](#viewing-yaml-metadata-in-your-documents)
-  - [Rendering Tabular Data](#rendering-tabular-data)
-  - [Rendering PDF](#rendering-pdf)
-  - [Revert a Pull Request](#revert-a-pull-request)
-  - [Diffs](#diffs)
-    - [Rendered Prose Diffs](#rendered-prose-diffs)
-    - [Diffable Maps](#diffable-maps)
-    - [Expanding Context in Diffs](#expanding-context-in-diffs)
-    - [Diff or Patch of Pull Request](#diff-or-patch-of-pull-request)
-    - [Rendering and diffing images](#rendering-and-diffing-images)
-  - [Hub](#hub)
-  - [Contribution Guidelines](#contribution-guidelines)
-    - [CONTRIBUTING file](#contributing-file)
-    - [ISSUE_TEMPLATE file](#issue_template-file)
-    - [PULL_REQUEST_TEMPLATE file](#pull_request_template-file)
-  - [Octicons](#octicons)
-  - [GitHub Resources](#github-resources)
-    - [GitHub Talks](#github-talks)
- - [Git](#git)
-  - [Remove All Deleted Files from the Working Tree](#remove-all-deleted-files-from-the-working-tree)
-  - [Previous Branch](#previous-branch)
-  - [Stripspace](#stripspace)
-  - [SSH keys](#ssh-keys)
-  - [Checking out Pull Requests](#checking-out-pull-requests)
-  - [Empty Commits](#empty-commits)
-  - [Styled Git Status](#styled-git-status)
-  - [Styled Git Log](#styled-git-log)
-  - [Git Query](#git-query)
-  - [Git Grep](#git-grep)
-  - [Merged Branches](#merged-branches)
-  - [Fixup and Autosquash](#fixup-and-autosquash)
-  - [Web Server for Browsing Local Repositories](#web-server-for-browsing-local-repositories)
-  - [Git Configurations](#git-configurations)
-    - [Aliases](#aliases)
-    - [Auto-Correct](#auto-correct)
-    - [Color](#color)
-  - [Git Resources](#git-resources)
-    - [Git Books](#git-books)
+- [GitHub](#github)
+- [Ignore Whitespace](#ignore-whitespace)
+- [Adjust Tab Space](#adjust-tab-space)
+- [Commit History by Author](#commit-history-by-author)
+- [Cloning a Repository](#cloning-a-repository)
+- [Branch](#branch)
+  - [Compare all Branches to Another Branch](#compare-all-branches-to-another-branch)
+  - [Comparing Branches](#comparing-branches)
+  - [Compare Branches across Forked Repositories](#compare-branches-across-forked-repositories)
+- [Gists](#gists)
+- [Git.io](#gitio)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Line Highlighting in Repositories](#line-highlighting-in-repositories)
+- [Closing Issues via Commit Messages](#closing-issues-via-commit-messages)
+- [Cross-Link Issues](#cross-link-issues)
+- [Locking Conversations](#locking-conversations)
+- [CI Status on Pull Requests](#ci-status-on-pull-requests)
+- [Filters](#filters)
+- [Syntax Highlighting in Markdown Files](#syntax-highlighting-in-markdown-files)
+- [Emojis](#emojis)
+- [Images/GIFs](#imagesgifs)
+  - [Embedding Images in GitHub Wiki](#embedding-images-in-github-wiki)
+- [Quick Quoting](#quick-quoting)
+- [Pasting Clipboard Image to Comments](#pasting-clipboard-image-to-comments)
+- [Quick Licensing](#quick-licensing)
+- [Task Lists](#task-lists)
+  - [Task Lists in Markdown Documents](#task-lists-in-markdown-documents)
+- [Relative Links](#relative-links)
+- [Metadata and Plugin Support for GitHub Pages](#metadata-and-plugin-support-for-github-pages)
+- [Viewing YAML Metadata in your Documents](#viewing-yaml-metadata-in-your-documents)
+- [Rendering Tabular Data](#rendering-tabular-data)
+- [Rendering PDF](#rendering-pdf)
+- [Revert a Pull Request](#revert-a-pull-request)
+- [Diffs](#diffs)
+  - [Rendered Prose Diffs](#rendered-prose-diffs)
+  - [Diffable Maps](#diffable-maps)
+  - [Expanding Context in Diffs](#expanding-context-in-diffs)
+  - [Diff or Patch of Pull Request](#diff-or-patch-of-pull-request)
+  - [Rendering and diffing images](#rendering-and-diffing-images)
+- [Hub](#hub)
+- [Contribution Guidelines](#contribution-guidelines)
+  - [CONTRIBUTING file](#contributing-file)
+  - [ISSUE_TEMPLATE file](#issue_template-file)
+  - [PULL_REQUEST_TEMPLATE file](#pull_request_template-file)
+- [Octicons](#octicons)
+- [GitHub Resources](#github-resources)
+  - [GitHub Talks](#github-talks)
+- [Git](#git)
+- [Remove All Deleted Files from the Working Tree](#remove-all-deleted-files-from-the-working-tree)
+- [Previous Branch](#previous-branch)
+- [Stripspace](#stripspace)
+- [SSH keys](#ssh-keys)
+- [Checking out Pull Requests](#checking-out-pull-requests)
+- [Empty Commits](#empty-commits)
+- [Styled Git Status](#styled-git-status)
+- [Styled Git Log](#styled-git-log)
+- [Git Query](#git-query)
+- [Git Grep](#git-grep)
+- [Merged Branches](#merged-branches)
+- [Fixup and Autosquash](#fixup-and-autosquash)
+- [Web Server for Browsing Local Repositories](#web-server-for-browsing-local-repositories)
+- [Git Configurations](#git-configurations)
+  - [Aliases](#aliases)
+  - [Auto-Correct](#auto-correct)
+  - [Color](#color)
+- [Git Resources](#git-resources)
+  - [Git Books](#git-books)
 
 ## GitHub
 
@@ -84,7 +84,7 @@ Git과 GitHub에서 꽤 유용하지만 숨겨져 있는 기능들에 대해 다
 
 ![Diff without whitespace](https://camo.githubusercontent.com/797184940defadec00393e6559b835358a863eeb/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031312f736563726574732f776869746573706163652e706e67)
 
-[*GitHub의 비밀을 더 읽어 보세요.*](https://github.com/blog/967-github-secrets)
+[_GitHub의 비밀을 더 읽어 보세요._](https://github.com/blog/967-github-secrets)
 
 ### Adjust Tab Space
 
@@ -108,7 +108,7 @@ https://github.com/rails/rails/commits/master?author=dhh
 
 ![DHH commit history](http://i.imgur.com/S7AE29b.png)
 
-[*커밋 뷰간의 차이에 대해 더 읽어보세요.*](https://help.github.com/articles/differences-between-commit-views)
+[_커밋 뷰간의 차이에 대해 더 읽어보세요._](https://help.github.com/articles/differences-between-commit-views)
 
 ### Cloning a Repository
 
@@ -118,7 +118,7 @@ https://github.com/rails/rails/commits/master?author=dhh
 $ git clone https://github.com/tiimgreen/github-cheat-sheet
 ```
 
-[*Git `clone` 명령에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-clone)
+[_Git `clone` 명령에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-clone)
 
 ### Branch
 
@@ -161,7 +161,7 @@ https://github.com/rails/rails/compare/master@{1.day.ago}...master
 https://github.com/rails/rails/compare/master@{2014-10-04}...master
 ```
 
-*날짜는 `YYYY-MM-DD` 형식으로 적습니다*
+_날짜는 `YYYY-MM-DD` 형식으로 적습니다_
 
 ![Another compare example](http://i.imgur.com/5dtzESz.png)
 
@@ -172,7 +172,7 @@ https://github.com/rails/rails/compare/master...4-1-stable.diff
 https://github.com/rails/rails/compare/master...4-1-stable.patch
 ```
 
-[*시간으로 커밋을 비교하는 법에 대해 더 읽어 보세요.*](https://help.github.com/articles/comparing-commits-across-time)
+[_시간으로 커밋을 비교하는 법에 대해 더 읽어 보세요._](https://help.github.com/articles/comparing-commits-across-time)
 
 #### Compare branches across forked repositories
 
@@ -196,7 +196,7 @@ https://github.com/rails/rails/compare/byroot:idempotent-counter-caches...master
 
 ![Gist](http://i.imgur.com/VkKI1LC.png?1)
 
-[이렇게](https://gist.github.com/tiimgreen/10545817.pibb) Gist URL 뒤에 `.pibb`를 넣으면 다른 사이트에 첨부할 수 있는 *HTML 온리* 버전을 만들 수 있습니다.
+[이렇게](https://gist.github.com/tiimgreen/10545817.pibb) Gist URL 뒤에 `.pibb`를 넣으면 다른 사이트에 첨부할 수 있는 _HTML 온리_ 버전을 만들 수 있습니다.
 
 Gist는 저장소처럼 취급할 수 있고 클론도 됩니다.
 
@@ -216,7 +216,7 @@ Password for 'https://tiimgreen@gist.github.com':
 ```
 
 하지만, Gists는 디렉터리를 지원하지 않습니다. 모든 파일은 저장소의 루트에 넣을 필요가 있습니다.
-[*Gist를 만드는 법에 대해 더 읽어보세요.*](https://help.github.com/articles/creating-gists)
+[_Gist를 만드는 법에 대해 더 읽어보세요._](https://help.github.com/articles/creating-gists)
 
 ### Git.io
 
@@ -236,23 +236,23 @@ HTTP/1.1 302 Found
 Location: https://github.com/...
 ```
 
-[*Git.io에 대해 더 읽어 보세요.*](https://github.com/blog/985-git-io-github-url-shortener)
+[_Git.io에 대해 더 읽어 보세요._](https://github.com/blog/985-git-io-github-url-shortener)
 
 ### Keyboard Shortcuts
 
 저장소 페이지에서 단축키를 사용하면 쉽게 이동할 수 있습니다.
 
- - `t`를 누르면 파일 탐색 페이지로 이동합니다.
- - `w`를 누르면 브랜치 선택 페이지로 이동합니다.
- - `s`를 누르면 현재 저장소의 검색창으로 포커스가 이동합니다. 백스페이스를 누르면 채워져 있는 "This repository"를 지워 GitHub 전체에서 검색할 수 있게 됩니다.
- - `l`을 누르면 이슈의 라벨을 수정할 수 있습니다.
- - __파일을 보고 있을 때__ (예를 들어 `https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`) `y`를 누르면 URL을 지금 보고 있는 페이지를 사실상 고정하도록 합니다. 코드가 바뀐다고 해도 이번에 본 내용을 다시 볼 수 있습니다.
+- `t`를 누르면 파일 탐색 페이지로 이동합니다.
+- `w`를 누르면 브랜치 선택 페이지로 이동합니다.
+- `s`를 누르면 현재 저장소의 검색창으로 포커스가 이동합니다. 백스페이스를 누르면 채워져 있는 "This repository"를 지워 GitHub 전체에서 검색할 수 있게 됩니다.
+- `l`을 누르면 이슈의 라벨을 수정할 수 있습니다.
+- **파일을 보고 있을 때** (예를 들어 `https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`) `y`를 누르면 URL을 지금 보고 있는 페이지를 사실상 고정하도록 합니다. 코드가 바뀐다고 해도 이번에 본 내용을 다시 볼 수 있습니다.
 
 지금 페이지에서 쓸 수 있는 모든 단축키를 보시려면 `?`를 누르세요.
 
 ![Keyboard shortcuts](http://i.imgur.com/y5ZfNEm.png)
 
-[*사용할 수 있는 검색 문법에 대해 더 읽어 보세요.*](https://help.github.com/articles/search-syntax/)
+[_사용할 수 있는 검색 문법에 대해 더 읽어 보세요._](https://help.github.com/articles/search-syntax/)
 
 ### Line Highlighting in Repos
 
@@ -278,7 +278,7 @@ $ git commit -m "Fix screwup, fixes #12"
 
 ![Closing Repo](http://i.imgur.com/Uh1gZdx.png)
 
-[*커밋 메시지로 이슈 닫기에 대해 더 읽어 보세요.*](https://help.github.com/articles/closing-issues-via-commit-messages)
+[_커밋 메시지로 이슈 닫기에 대해 더 읽어 보세요._](https://help.github.com/articles/closing-issues-via-commit-messages)
 
 ### Cross-Link Issues
 
@@ -298,7 +298,7 @@ $ git commit -m "Fix screwup, fixes #12"
 
 ![Comments locked](https://cloud.githubusercontent.com/assets/2723/3221775/d6e513b0-f00e-11e3-9721-2131cb37c906.png)
 
-[*대화 잠그기에 대해 더 읽어 보세요.*](https://github.com/blog/1847-locking-conversations)
+[_대화 잠그기에 대해 더 읽어 보세요._](https://github.com/blog/1847-locking-conversations)
 
 ### CI Status on Pull Requests
 
@@ -306,7 +306,7 @@ $ git commit -m "Fix screwup, fixes #12"
 
 [![Travis CI status](https://cloud.githubusercontent.com/assets/1687642/2700187/3a88838c-c410-11e3-9a46-e65e2a0458cd.png)](https://github.com/octokit/octokit.rb/pull/452)
 
-[*커밋 상태 API에 대해 좀 더 읽어보세요.*](https://github.com/blog/1227-commit-status-api)
+[_커밋 상태 API에 대해 좀 더 읽어보세요._](https://github.com/blog/1227-commit-status-api)
 
 ### Filters
 
@@ -330,7 +330,7 @@ GitHub는 열리거나 닫힌 이슈와 풀 리퀘스트를 위한 탭이 있습
 
 `is:merged`
 
-[*이슈 검색에 대해 좀 더 읽어보세요.*](https://help.github.com/articles/searching-issues)
+[_이슈 검색에 대해 좀 더 읽어보세요._](https://help.github.com/articles/searching-issues)
 
 마지막으로 이제 상태 API의 상태에 의한 필터도 가능해졌습니다.
 
@@ -338,7 +338,7 @@ GitHub는 열리거나 닫힌 이슈와 풀 리퀘스트를 위한 탭이 있습
 
 `status:success`
 
-[*상태 API 검색에 대해 좀 더 읽어보세요.*](https://github.com/blog/2014-filter-pull-requests-by-status)
+[_상태 API 검색에 대해 좀 더 읽어보세요._](https://github.com/blog/2014-filter-pull-requests-by-status)
 
 ### Syntax Highlighting in Markdown Files
 
@@ -362,7 +362,7 @@ puts table.to_s
 
 GitHub는 [Linguist](https://github.com/github/linguist)를 사용해 언어를 감지하고 신택스를 하이라이트합니다. [언어 YAML 파일](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)을 정독하시면 어떤 키워드가 유효한지 확인하실 수 있습니다.
 
-[*GitHub Flavored 마크다운에 대해 더 읽어 보세요.*](https://help.github.com/articles/github-flavored-markdown)
+[_GitHub Flavored 마크다운에 대해 더 읽어 보세요._](https://help.github.com/articles/github-flavored-markdown)
 
 ### Emojis
 
@@ -402,7 +402,7 @@ GitHub에서 많이 사용하는 에모지 탑 5위는 이렇습니다.
 이미지를 위키 페이지에 넣는 방법은 여럿 있습니다. 위에 보이는 일반 마크다운 문법도 있지만, 이미지에 높이와 넓이를 지정할 수 있는 문법도 있습니다.
 
 ```markdown
-[[ http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px ]]
+[[http://www.sheawong.com/wp-content/uploads/2013/08/keephatin.gif | height = 100px]]
 ```
 
 이렇게 보입니다.
@@ -415,7 +415,7 @@ GitHub에서 많이 사용하는 에모지 탑 5위는 이렇습니다.
 
 ![Quick Quote](https://f.cloud.github.com/assets/296432/124483/b0fa6204-6ef0-11e2-83c3-256c37fa7abc.gif)
 
-[*빠른 인용에 대해 더 읽어 보세요.*](https://github.com/blog/1399-quick-quotes)
+[_빠른 인용에 대해 더 읽어 보세요._](https://github.com/blog/1399-quick-quotes)
 
 ### Pasting Clipboard Image to Comments
 
@@ -425,7 +425,7 @@ _(크롬에서만 동작합니다)_
 
 ![Pasting Clipboard Image to Comments](https://cloud.githubusercontent.com/assets/39191/5794265/39c9b65a-9f1b-11e4-9bc7-04e41f59ea5f.png)
 
-[*issue attachments에 대해 더 읽어 보세요.*](https://help.github.com/articles/issue-attachments)
+[_issue attachments에 대해 더 읽어 보세요._](https://help.github.com/articles/issue-attachments)
 
 ### Quick Licensing
 
@@ -440,7 +440,7 @@ _(크롬에서만 동작합니다)_
 
 `.gitignore`에도 똑같이 적용됩니다.
 
-[*오픈 소스 저작권에 대해 더 읽어 보세요.*](https://help.github.com/articles/open-source-licensing)
+[_오픈 소스 저작권에 대해 더 읽어 보세요._](https://help.github.com/articles/open-source-licensing)
 
 ### Task Lists
 
@@ -468,7 +468,7 @@ _(크롬에서만 동작합니다)_
 - [ ] Sleep
 ```
 
-[*할 일 목록에 대해 더 읽어 보세요.*](https://help.github.com/articles/writing-on-github#task-lists)
+[_할 일 목록에 대해 더 읽어 보세요._](https://help.github.com/articles/writing-on-github#task-lists)
 
 #### Task Lists in Markdown Documents
 
@@ -492,7 +492,7 @@ _(크롬에서만 동작합니다)_
   - [ ] Deimos
   - [ ] Phobos
 
-[*마크다운 문서에서의 할 일 목록에 대해 더 읽어 보세요.*](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
+[_마크다운 문서에서의 할 일 목록에 대해 더 읽어 보세요._](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 ### Relative Links
 
@@ -506,7 +506,7 @@ _(크롬에서만 동작합니다)_
 절대 경로 링크는 URL이 변경 될 때마다 변경해야 합니다. (예를 들어 저장소 이름 변경, 아이디 변경, 프로젝트 포크)
 상대 경로 링크를 사용하면 문서를 쉽게 스스로 독립적으로 만들 수 있습니다.
 
-[*상대 경로 링크에 대해 더 읽어 보세요.*](https://help.github.com/articles/relative-links-in-readmes)
+[_상대 경로 링크에 대해 더 읽어 보세요._](https://help.github.com/articles/relative-links-in-readmes)
 
 ### Metadata and Plugin Support for GitHub Pages
 
@@ -514,7 +514,7 @@ _(크롬에서만 동작합니다)_
 
 Jemoji와 jekyll-mentions 플러그인은 GitHub.com에서처럼 [emoji](#emojis)와 [@mentions](https://github.com/blog/821)를 지킬 포스트와 페이지에서 사용하게 합니다.
 
-[*저장소 메타 데이터와 GitHub 페이지의 플러그인 지원에 대해 더 읽어 보세요.*](https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages)
+[_저장소 메타 데이터와 GitHub 페이지의 플러그인 지원에 대해 더 읽어 보세요._](https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages)
 
 ### Viewing YAML Metadata in your Documents
 
@@ -522,7 +522,7 @@ Jemoji와 jekyll-mentions 플러그인은 GitHub.com에서처럼 [emoji](#emojis
 
 ![YAML metadata](https://camo.githubusercontent.com/47245aa16728e242f74a9a324ce0d24c0b916075/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f36343035302f313232383236372f65303439643063362d323761302d313165332d396464382d6131636432323539393334342e706e67)
 
-[*문서에서 YAML 메타데이터 보기에 대해 더 읽어 보세요.*](https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents)
+[_문서에서 YAML 메타데이터 보기에 대해 더 읽어 보세요._](https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents)
 
 ### Rendering Tabular Data
 
@@ -530,7 +530,7 @@ GitHub는 `.csv`(comma-separated)와 `.tsv`(tab-separated) 파일에 대해 표(
 
 ![Tabular data](https://camo.githubusercontent.com/1b6dd0157ffb45d9939abf14233a0cb13b3b4dfe/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3238323735392f3937363436322f33323038336463652d303638642d313165332d393262322d3566323863313061353035392e706e67)
 
-[*표 데이터 표시에 대해 더 읽어 보세요.*](https://github.com/blog/1601-see-your-csvs)
+[_표 데이터 표시에 대해 더 읽어 보세요._](https://github.com/blog/1601-see-your-csvs)
 
 ### Rendering PDF
 
@@ -538,7 +538,7 @@ GitHub에서 PDF를 렌더할 수 있습니다.
 
 ![PDF](https://cloud.githubusercontent.com/assets/1000669/7492902/f8493160-f42e-11e4-8cea-1cb4f02757e7.png)
 
-[*PDF 렌더링에 대해 더 읽어 보세요.*](https://github.com/blog/1974-pdf-viewing)
+[_PDF 렌더링에 대해 더 읽어 보세요._](https://github.com/blog/1974-pdf-viewing)
 
 ### Revert a Pull Request
 
@@ -549,13 +549,13 @@ GitHub에서 PDF를 렌더할 수 있습니다.
 
 ![Revert button](https://camo.githubusercontent.com/0d3350caf2bb1cba53123ffeafc00ca702b1b164/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f68656c702f70756c6c5f72657175657374732f7265766572742d70756c6c2d726571756573742d6c696e6b2e706e67)
 
-[*풀 리퀘스트 되돌리기에 대해 더 읽어 보세요.*](https://github.com/blog/1857-introducing-the-revert-button)
+[_풀 리퀘스트 되돌리기에 대해 더 읽어 보세요._](https://github.com/blog/1857-introducing-the-revert-button)
 
 ### Diffs
 
 #### Rendered Prose Diffs
 
-GitHub에서 지원하는 산문(prose) 파일(예를 들어 Markdown)이 있는 커밋과 풀 리퀘스트에서는 *source*와 *rendered* 뷰 기능을 사용할 수 있습니다.
+GitHub에서 지원하는 산문(prose) 파일(예를 들어 Markdown)이 있는 커밋과 풀 리퀘스트에서는 *source*와 _rendered_ 뷰 기능을 사용할 수 있습니다.
 
 ![Source / Rendered view](https://github-images.s3.amazonaws.com/help/repository/rendered_prose_diff.png)
 
@@ -563,7 +563,7 @@ GitHub에서 지원하는 산문(prose) 파일(예를 들어 Markdown)이 있는
 
 ![Rendered Prose Diffs](https://f.cloud.github.com/assets/17715/2003056/3997edb4-862b-11e3-90be-5e9586edecd7.png)
 
-[*렌더된 산문(prose) diff에 대해 더 읽어 보세요.*](https://github.com/blog/1784-rendered-prose-diffs)
+[_렌더된 산문(prose) diff에 대해 더 읽어 보세요._](https://github.com/blog/1784-rendered-prose-diffs)
 
 #### Diffable Maps
 
@@ -571,15 +571,15 @@ GitHub에서 지원하는 산문(prose) 파일(예를 들어 Markdown)이 있는
 
 [![Diffable Maps](https://f.cloud.github.com/assets/282759/2090660/63f2e45a-8e97-11e3-9d8b-d4c8078b004e.gif)](https://github.com/benbalter/congressional-districts/commit/2233c76ca5bb059582d796f053775d8859198ec5)
 
-[*diff 가능한 맵에 대해 더 읽어 보세요.*](https://github.com/blog/1772-diffable-more-customizable-maps)
+[_diff 가능한 맵에 대해 더 읽어 보세요._](https://github.com/blog/1772-diffable-more-customizable-maps)
 
 #### Expanding Context in Diffs
 
-diff의 닫아둔 곳의 *펼침* 버튼을 클릭하면, 문맥을 더 볼 수 있습니다. 전체 파일을 표시할 때까지 계속 *펼칠* 수 있으며, GitHub에서 diff가 표시되는 장소라면 어디서든 사용가능합니다.
+diff의 닫아둔 곳의 _펼침_ 버튼을 클릭하면, 문맥을 더 볼 수 있습니다. 전체 파일을 표시할 때까지 계속 _펼칠_ 수 있으며, GitHub에서 diff가 표시되는 장소라면 어디서든 사용가능합니다.
 
 ![Expanding Context in Diffs](https://f.cloud.github.com/assets/22635/1610539/863c1f64-5584-11e3-82bf-151b406a272f.gif)
 
-[*diff에서의 문맥 확장에 대해 더 읽어 보세요.*](https://github.com/blog/1705-expanding-context-in-diffs)
+[_diff에서의 문맥 확장에 대해 더 읽어 보세요._](https://github.com/blog/1705-expanding-context-in-diffs)
 
 #### Diff or Patch of Pull Request
 
@@ -619,7 +619,7 @@ GitHub는 PNG, JPG, GIF, PSD를 포함한 여러 일반적인 이미지 형식�
 
 [![Diffable PSD](https://cloud.githubusercontent.com/assets/2546/3165594/55f2798a-eb56-11e3-92e7-b79ad791a697.gif)](https://github.com/blog/1845-psd-viewing-diffing
 
-[*이미지 diff에 대해 더 읽어 보세요.*](https://help.github.com/articles/rendering-and-diffing-images)
+[_이미지 diff에 대해 더 읽어 보세요._](https://help.github.com/articles/rendering-and-diffing-images)
 
 ### Hub
 
@@ -631,7 +631,7 @@ GitHub는 PNG, JPG, GIF, PSD를 포함한 여러 일반적인 이미지 형식�
 $ hub clone tiimgreen/toc
 ```
 
-[*Hub가 제공하는 더 멋진 기능들을 확인해 보세요.*](https://github.com/github/hub#commands)
+[_Hub가 제공하는 더 멋진 기능들을 확인해 보세요._](https://github.com/github/hub#commands)
 
 ### Contribution Guidelines
 
@@ -644,13 +644,13 @@ GitHub는 프로젝트에 기여하는 사용자를 위한 세 가지 각기 다
 
 ![Contributing Guidelines](https://camo.githubusercontent.com/71995d6b0e620a9ef1ded00a04498241c69dd1bf/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f736b697463682f6973737565732d32303132303931332d3136323533392e6a7067)
 
-[*기여하기에 대해 더 읽어 보세요.*](https://github.com/blog/1184-contributing-guidelines)
+[_기여하기에 대해 더 읽어 보세요._](https://github.com/blog/1184-contributing-guidelines)
 
 ### ISSUE_TEMPLATE file
 
 프로젝트의 새로운 이슈에 사용될 템플릿을 지정할 수 있습니다. 사용자가 새 이슈를 생성하면 이슈 창이 이 파일의 내용으로 채워집니다. 저장소의 제일 위나 그 아래의 `.github` 디렉터리에 `ISSUE_TEMPLATE`이나 `ISSUE_TEMPLATE.md` 파일을 넣어 두세요.
 
-[*이슈 템플릿에 대해 더 읽어 보세요.*](https://github.com/blog/2111-issue-and-pull-request-templates)
+[_이슈 템플릿에 대해 더 읽어 보세요._](https://github.com/blog/2111-issue-and-pull-request-templates)
 
 [이슈 템플릿 파일 생성기](https://www.talater.com/open-source-templates/)
 
@@ -660,7 +660,7 @@ GitHub는 프로젝트에 기여하는 사용자를 위한 세 가지 각기 다
 
 프로젝트의 새로운 풀 리퀘스트에 사용될 템플릿을 지정할 수 있습니다. 사용자가 새 풀 리퀘스트를 생성하면 텍스트 영역이 이 파일의 내용으로 채워집니다. 저장소의 제일 위나 `.github` 디렉터리에 `PULL_REQUEST_TEMPLATE`이나 `PULL_REQUEST_TEMPLATE.md` 파일을 넣어 두세요.
 
-[*풀 리퀘스트 템플릿에 대해 더 읽어 보세요.*](https://github.com/blog/2111-issue-and-pull-request-templates)
+[_풀 리퀘스트 템플릿에 대해 더 읽어 보세요._](https://github.com/blog/2111-issue-and-pull-request-templates)
 
 [풀 리퀘스트 템플릿 파일 생성기](https://www.talater.com/open-source-templates/)
 
@@ -670,28 +670,28 @@ GitHub 아이콘(옥티콘)이 이제 오픈소스가 되었습니다.
 
 ![Octicons](https://og.github.com/octicons/octicons@1200x630.png)
 
-[*GitHub 옥티콘에 대해 더 읽어보세요.*](https://octicons.github.com)
+[_GitHub 옥티콘에 대해 더 읽어보세요._](https://octicons.github.com)
 
 ### GitHub Resources
 
-| Title | Link |
-| ----- | ---- |
-| GitHub Explore | https://github.com/explore |
-| GitHub Blog | https://github.com/blog |
-| GitHub Help | https://help.github.com/ |
-| GitHub Training | https://training.github.com/ |
-| GitHub Developer | https://developer.github.com/ |
+| Title                                                              | Link                          |
+| ------------------------------------------------------------------ | ----------------------------- |
+| GitHub Explore                                                     | https://github.com/explore    |
+| GitHub Blog                                                        | https://github.com/blog       |
+| GitHub Help                                                        | https://help.github.com/      |
+| GitHub Training                                                    | https://training.github.com/  |
+| GitHub Developer                                                   | https://developer.github.com/ |
 | GitHub Education (Free Micro Account and other stuff for students) | https://education.github.com/ |
 
 #### GitHub Talks
 
-| Title | Link |
-| ----- | ---- |
-| How GitHub Uses GitHub to Build GitHub | https://www.youtube.com/watch?v=qyz3jkOBbQY |
+| Title                                           | Link                                        |
+| ----------------------------------------------- | ------------------------------------------- |
+| How GitHub Uses GitHub to Build GitHub          | https://www.youtube.com/watch?v=qyz3jkOBbQY |
 | Introduction to Git with Scott Chacon of GitHub | https://www.youtube.com/watch?v=ZDR433b0HJY |
-| How GitHub No Longer Works | https://www.youtube.com/watch?v=gXD1ITW7iZI |
-| Git and GitHub Secrets | https://www.youtube.com/watch?v=Foz9yvMkvlA |
-| More Git and GitHub Secrets | https://www.youtube.com/watch?v=p50xsL-iVgU |
+| How GitHub No Longer Works                      | https://www.youtube.com/watch?v=gXD1ITW7iZI |
+| Git and GitHub Secrets                          | https://www.youtube.com/watch?v=Foz9yvMkvlA |
+| More Git and GitHub Secrets                     | https://www.youtube.com/watch?v=p50xsL-iVgU |
 
 ## Git
 
@@ -738,7 +738,7 @@ $ git checkout -
 # Switched to branch 'master'
 ```
 
-[*Git 브랜치에 대해 더 읽어 보세요.*](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
+[_Git 브랜치에 대해 더 읽어 보세요._](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
 
 ### Stripspace
 
@@ -754,7 +754,7 @@ Git Stripspace는 이런 일을 합니다.
 $ git stripspace < README.md
 ```
 
-[*Git `stripspace` 커맨드에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-stripspace)
+[_Git `stripspace` 커맨드에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-stripspace)
 
 ### SSH keys
 
@@ -766,7 +766,7 @@ https://github.com/{user}.keys
 
 예: [https://github.com/tiimgreen.keys](https://github.com/tiimgreen.keys)
 
-[*공개 ssh 키 접근에 대해 더 읽어 보세요.*](https://changelog.com/github-exposes-public-ssh-keys-for-its-users/)
+[_공개 ssh 키 접근에 대해 더 읽어 보세요._](https://changelog.com/github-exposes-public-ssh-keys-for-its-users/)
 
 ### Checking out Pull Requests
 
@@ -826,7 +826,7 @@ git fetch origin
 git checkout pr/42
 ```
 
-[*풀 리퀘스트를 로컬로 체크아웃 하는 방법에 대해 더 읽어 보세요.*](https://help.github.com/articles/checking-out-pull-requests-locally)
+[_풀 리퀘스트를 로컬로 체크아웃 하는 방법에 대해 더 읽어 보세요._](https://help.github.com/articles/checking-out-pull-requests-locally)
 
 ### Empty Commits
 
@@ -838,10 +838,10 @@ $ git commit -m "Big-ass commit" --allow-empty
 
 있을 법한 사용법에는 이런 것들이 있습니다.
 
- - 한 뭉치의 일을 시작하기 전에 주석으로 사용
- - 코드와 관련없는 프로젝트 수정을 할때 주석으로 사용
- - 저장소를 사용하는 사람과의 대화
- - 저장소의 첫 커밋으로 사용 `git commit -m "Initial commit" --allow-empty`
+- 한 뭉치의 일을 시작하기 전에 주석으로 사용
+- 코드와 관련없는 프로젝트 수정을 할때 주석으로 사용
+- 저장소를 사용하는 사람과의 대화
+- 저장소의 첫 커밋으로 사용 `git commit -m "Initial commit" --allow-empty`
 
 ### Styled Git Status
 
@@ -861,7 +861,7 @@ $ git status -sb
 
 ![git status -sb](http://i.imgur.com/K0OY3nm.png)
 
-[*Git `status` 커맨드에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-status)
+[_Git `status` 커맨드에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-status)
 
 ### Styled Git Log
 
@@ -879,7 +879,7 @@ $ git log --all --graph --pretty=format:'%Cred%h%Creset -%C(auto)%d%Creset %s %C
 
 NOTE: 이 명령을 알리아스(단축 명령)로 넣을 수 있습니다. [여기](#aliases)의 소개를 보세요.
 
-[*Git `log` 커맨드에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-log)
+[_Git `log` 커맨드에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-log)
 
 ### Git Query
 
@@ -897,7 +897,7 @@ $ git show :/typo
 
 ![git show :/query](http://i.imgur.com/icaGiNt.png)
 
-*나오려면 `q`를 누르세요.*
+_나오려면 `q`를 누르세요._
 
 ### Git Grep
 
@@ -909,23 +909,24 @@ Git Grep은 패턴과 일치하는 줄의 목록을 반환합니다.
 $ git grep aliases
 ```
 
-*aliases* 문자열이 포함된 모든 파일을 보여줍니다.
+_aliases_ 문자열이 포함된 모든 파일을 보여줍니다.
 
 ![git grep aliases](http://i.imgur.com/DL2zpQ9.png)
 
-*나오려면 `q`를 누르세요.*
+_나오려면 `q`를 누르세요._
 
 여러 플래그를 이용해서 좀 더 복잡한 검색을 할 수 있습니다. 예를 들면,
 
- * `-e` 다음 파라미터는 패턴 (e.g. regex)
- * `--and`, `--or`, `--not`으로 여러 패턴을 조합
+- `-e` 다음 파라미터는 패턴 (e.g. regex)
+- `--and`, `--or`, `--not`으로 여러 패턴을 조합
 
 이렇게 사용할 수 있습니다.
+
 ```bash
  $ git grep -e pattern --and -e anotherpattern
 ```
 
-[*Git `grep` 커맨드에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-grep)
+[_Git `grep` 커맨드에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-grep)
 
 ### Merged Branches
 
@@ -943,7 +944,7 @@ $ git branch --no-merged
 
 이 명령어는 현재 브랜치에 머지되지 않은 브랜치의 목록을 보여줍니다.
 
-[*Git `branch` 커맨드에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-branch)
+[_Git `branch` 커맨드에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-branch)
 
 ### Fixup and Autosquash
 
@@ -954,8 +955,9 @@ $ git branch --no-merged
 $ git commit --fixup=abcde
 $ git rebase abcde^ --autosquash -i
 ```
-[*Git `commit` 커맨드에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-commit)
-[*Git `rebase` 커맨드에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-rebase)
+
+[_Git `commit` 커맨드에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-commit)
+[_Git `rebase` 커맨드에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-rebase)
 
 ### Web Server for Browsing Local Repositories
 
@@ -970,7 +972,7 @@ Opens:
 
 ![Git instaweb](http://i.imgur.com/Dxekmqc.png)
 
-[*Git `instaweb` 커맨드에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-instaweb)
+[_Git `instaweb` 커맨드에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-instaweb)
 
 ### Git Configurations
 
@@ -1013,19 +1015,19 @@ $ git config --global alias.ac 'add -A . && commit'
 
 여기 몇 가지 유용한 알리아스가 있습니다.
 
-| Alias | Current Command | What to Type |
-| --- | --- | --- |
-| `git cm` | `git commit` | `git config --global alias.cm commit` |
-| `git co` | `git checkout` | `git config --global alias.co checkout` |
-| `git ac` | `git add . -A` `git commit` | `git config --global alias.ac '!git add -A && git commit'` |
-| `git st` | `git status -sb` | `git config --global alias.st 'status -sb'` |
-| `git tags` | `git tag -l` | `git config --global alias.tags 'tag -l'` |
-| `git branches` | `git branch -a` | `git config --global alias.branches 'branch -a'` |
-| `git cleanup` | `git branch --merged \| grep -v '*' \| xargs git branch -d` | `git config --global alias.cleanup "!git branch --merged \| grep -v '*' \| xargs git branch -d"` |
-| `git remotes` | `git remote -v` | `git config --global alias.remotes 'remote -v'` |
-| `git lg` | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"` |
+| Alias          | Current Command                                                                                                                              | What to Type                                                                                                                                                            |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `git cm`       | `git commit`                                                                                                                                 | `git config --global alias.cm commit`                                                                                                                                   |
+| `git co`       | `git checkout`                                                                                                                               | `git config --global alias.co checkout`                                                                                                                                 |
+| `git ac`       | `git add . -A` `git commit`                                                                                                                  | `git config --global alias.ac '!git add -A && git commit'`                                                                                                              |
+| `git st`       | `git status -sb`                                                                                                                             | `git config --global alias.st 'status -sb'`                                                                                                                             |
+| `git tags`     | `git tag -l`                                                                                                                                 | `git config --global alias.tags 'tag -l'`                                                                                                                               |
+| `git branches` | `git branch -a`                                                                                                                              | `git config --global alias.branches 'branch -a'`                                                                                                                        |
+| `git cleanup`  | `git branch --merged \| grep -v '*' \| xargs git branch -d`                                                                                  | `git config --global alias.cleanup "!git branch --merged \| grep -v '*' \| xargs git branch -d"`                                                                        |
+| `git remotes`  | `git remote -v`                                                                                                                              | `git config --global alias.remotes 'remote -v'`                                                                                                                         |
+| `git lg`       | `git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --` | `git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --"` |
 
-*일부 알리아스는 [@mathiasbynens](https://github.com/mathiasbynens) 님의 dotfiles에서 가져왔습니다.(https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig)*
+_일부 알리아스는 [@mathiasbynens](https://github.com/mathiasbynens) 님의 dotfiles에서 가져왔습니다.(https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig)_
 
 #### Auto-correct
 
@@ -1062,49 +1064,49 @@ Git 커맨드 라인에 색을 넣으려면 이렇게 하세요.
 $ git config --global color.ui 1
 ```
 
-[*Git `config` 커맨드에 대해 더 읽어 보세요.*](http://git-scm.com/docs/git-config)
+[_Git `config` 커맨드에 대해 더 읽어 보세요._](http://git-scm.com/docs/git-config)
 
 ### Git Resources
 
-| Title | Link |
-| ----- | ---- |
-| Official Git Site | http://git-scm.com/ |
-| Official Git Video Tutorials | http://git-scm.com/videos |
-| Code School Try Git | http://try.github.com/ |
-| Introductory Reference & Tutorial for Git | http://gitref.org/ |
-| Official Git Tutorial | http://git-scm.com/docs/gittutorial |
-| Everyday Git | http://git-scm.com/docs/everyday |
-| Git Immersion | http://gitimmersion.com/ |
-| Git for Computer Scientists | http://eagain.net/articles/git-for-computer-scientists/ |
-| Git Magic | http://www-cs-students.stanford.edu/~blynn/gitmagic/ |
-| Git Visualization Playground | http://onlywei.github.io/explain-git-with-d3/#freeplay |
-| Learn Git Branching | http://pcottle.github.io/learnGitBranching/ |
-| A collection of useful .gitignore templates | https://github.com/github/gitignore |
+| Title                                       | Link                                                    |
+| ------------------------------------------- | ------------------------------------------------------- |
+| Official Git Site                           | http://git-scm.com/                                     |
+| Official Git Video Tutorials                | http://git-scm.com/videos                               |
+| Code School Try Git                         | http://try.github.com/                                  |
+| Introductory Reference & Tutorial for Git   | http://gitref.org/                                      |
+| Official Git Tutorial                       | http://git-scm.com/docs/gittutorial                     |
+| Everyday Git                                | http://git-scm.com/docs/everyday                        |
+| Git Immersion                               | http://gitimmersion.com/                                |
+| Git for Computer Scientists                 | http://eagain.net/articles/git-for-computer-scientists/ |
+| Git Magic                                   | http://www-cs-students.stanford.edu/~blynn/gitmagic/    |
+| Git Visualization Playground                | http://onlywei.github.io/explain-git-with-d3/#freeplay  |
+| Learn Git Branching                         | http://pcottle.github.io/learnGitBranching/             |
+| A collection of useful .gitignore templates | https://github.com/github/gitignore                     |
 
 #### Git Books
 
-| Title | Link |
-| ----- | ---- |
-| Pragmatic Version Control Using Git | http://www.pragprog.com/titles/tsgit/pragmatic-version-control-using-git |
-| Pro Git | http://git-scm.com/book |
-| Git Internals PluralSight | https://github.com/pluralsight/git-internals-pdf |
-| Git in the Trenches | http://cbx33.github.com/gitt/ |
-| Version Control with Git | http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387 |
-| Pragmatic Guide to Git | http://www.pragprog.com/titles/pg_git/pragmatic-guide-to-git |
-| Git: Version Control for Everyone | http://www.packtpub.com/git-version-control-for-everyone/book |
+| Title                               | Link                                                                              |
+| ----------------------------------- | --------------------------------------------------------------------------------- |
+| Pragmatic Version Control Using Git | http://www.pragprog.com/titles/tsgit/pragmatic-version-control-using-git          |
+| Pro Git                             | http://git-scm.com/book                                                           |
+| Git Internals PluralSight           | https://github.com/pluralsight/git-internals-pdf                                  |
+| Git in the Trenches                 | http://cbx33.github.com/gitt/                                                     |
+| Version Control with Git            | http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387 |
+| Pragmatic Guide to Git              | http://www.pragprog.com/titles/pg_git/pragmatic-guide-to-git                      |
+| Git: Version Control for Everyone   | http://www.packtpub.com/git-version-control-for-everyone/book                     |
 
 #### Git Videos
 
-| Title | Link |
-| ----- | ---- |
-| Linus Torvalds on Git | https://www.youtube.com/watch?v=4XpnKHJAok8 |
-| Introduction to Git with Scott Chacon | https://www.youtube.com/watch?v=ZDR433b0HJY |
-| Git From the Bits Up | https://www.youtube.com/watch?v=MYP56QJpDr4 |
-| Graphs, Hashes, and Compression, Oh My! | https://www.youtube.com/watch?v=ig5E8CcdM9g |
-| GitHub Training & Guides | https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM |
+| Title                                   | Link                                                                                |
+| --------------------------------------- | ----------------------------------------------------------------------------------- |
+| Linus Torvalds on Git                   | https://www.youtube.com/watch?v=4XpnKHJAok8                                         |
+| Introduction to Git with Scott Chacon   | https://www.youtube.com/watch?v=ZDR433b0HJY                                         |
+| Git From the Bits Up                    | https://www.youtube.com/watch?v=MYP56QJpDr4                                         |
+| Graphs, Hashes, and Compression, Oh My! | https://www.youtube.com/watch?v=ig5E8CcdM9g                                         |
+| GitHub Training & Guides                | https://www.youtube.com/watch?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-&v=FyfwLX4HAxM |
 
 #### Git Articles
 
-| Title | Link |
-| ----- | ---- |
-| GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |
+| Title       | Link                                               |
+| ----------- | -------------------------------------------------- |
+| GitHub Flow | http://scottchacon.com/2011/08/31/github-flow.html |

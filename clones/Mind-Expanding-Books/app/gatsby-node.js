@@ -1,10 +1,10 @@
-const fs = require('fs');
+const fs = require("fs")
 
-const categories = JSON.parse(fs.readFileSync('src/data/categories.json'));
-const slugify = require('slugify');
+const categories = JSON.parse(fs.readFileSync("src/data/categories.json"))
+const slugify = require("slugify")
 
 exports.createPages = async function ({ actions, graphql }) {
-  const { createPage } = actions;
+  const { createPage } = actions
   await Promise.all(
     categories.map(async (category) => {
       const data = await graphql(
@@ -31,19 +31,19 @@ exports.createPages = async function ({ actions, graphql }) {
             }
           }
         `,
-        { categoryName: category.name },
-      );
-      console.log(category.name, data.data);
+        { categoryName: category.name }
+      )
+      console.log(category.name, data.data)
       createPage({
         path: slugify(category.name),
-        component: require.resolve('./src/templates/categoryTemplate.js'),
+        component: require.resolve("./src/templates/categoryTemplate.js"),
         context: {
           categoryName: category.name,
           data: data.data,
           image: category.emoji,
           limit: null,
         },
-      });
-    }),
-  );
-};
+      })
+    })
+  )
+}

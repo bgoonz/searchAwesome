@@ -1,25 +1,26 @@
 ## Awesome Tech Videos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-* A curated list of tech videos from youtube, vimeo, etc, just because
-I think this is one of the best ways for us to learn from people who
-really know what they are doing :)
+- A curated list of tech videos from youtube, vimeo, etc, just because
+  I think this is one of the best ways for us to learn from people who
+  really know what they are doing :)
 
 ## Table of Contents
-* [Programming Languages](#programming-languages)
-* [User Experience](#user-experience)
-* [Front-End Development](#front-end-development)
-* [Functional Programming](#functional-programming)
-* [Talks on Papers](#talks-on-papers)
-* [Math](#math)
-* [Compilers](#compilers)
-* [Databases](#databases)
-* [Methodologies](#methodologies)
-* [Architecture](#architecture)
-* [Linux and Free Software](#linux-and-free-software)
-* [Motivation](#motivation)
-* [Diversity](#diversity)
-* [Company Culture](#company-culture)
-* [DevOps](#devops)
+
+- [Programming Languages](#programming-languages)
+- [User Experience](#user-experience)
+- [Front-End Development](#front-end-development)
+- [Functional Programming](#functional-programming)
+- [Talks on Papers](#talks-on-papers)
+- [Math](#math)
+- [Compilers](#compilers)
+- [Databases](#databases)
+- [Methodologies](#methodologies)
+- [Architecture](#architecture)
+- [Linux and Free Software](#linux-and-free-software)
+- [Motivation](#motivation)
+- [Diversity](#diversity)
+- [Company Culture](#company-culture)
+- [DevOps](#devops)
 
 ### Programming Languages
 
@@ -62,14 +63,17 @@ really know what they are doing :)
 - [Tackling Large Ruby Refactorings with Confidence](https://www.youtube.com/watch?v=Kr82hUeI_qI) By Jesse Toth
 - [OMG Ruby and Rails Performance](https://www.youtube.com/watch?v=JMGmaRZtgM8) By Aaron Patterson
 - [React.js on Rails](https://www.youtube.com/watch?v=kTSsZrub5iE)
+
 #### Scala
 
 - [We are Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) By Paul Phillips
 
 ### User Experience
+
 - [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) By Janne Jul Jensen
 
 ### Front-End Development
+
 - [A future called Web Components](https://www.youtube.com/watch?v=TKYjzQ0T1q0) By Zeno Rocha
 - [Cascading Shit Show](https://www.youtube.com/watch?v=iniwPUEbPUM) By Jacob Thornton
 
@@ -87,6 +91,7 @@ really know what they are doing :)
 - [Learn Functional Programming with PureScript](https://www.youtube.com/watch?v=LqYfdmb0eUU) By John A. De Goes
 
 ### Talks on Papers
+
 - [Faith, Evolution and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) By Philip Wadler
 - [Propositions as Types](https://www.youtube.com/watch?v=K-YYoigWN24) By Michal Bernstein
 - [An axiomatic basis for Computer Science](https://www.youtube.com/watch?v=GQi-6-d5ooQ) By Jean Yang
@@ -103,6 +108,7 @@ really know what they are doing :)
 
 - [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) By Sebastian McKenzie
 - [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) By Jeremy Ashkenas
+
 ### Databases
 
 - [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) By Martin Fowler

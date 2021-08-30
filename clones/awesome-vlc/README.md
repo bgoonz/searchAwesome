@@ -41,11 +41,11 @@ This is a list of awesome resources about VLC and LibVLC.
 - [libvlcjni](https://code.videolan.org/videolan/vlc-android/-/tree/master/libvlc) - The libvlc bindings for the Android platform.
 - [vlc-unity](https://code.videolan.org/videolan/vlc-unity) - Unity3D integration for VLC.
 - [python-vlc](https://github.com/oaubert/python-vlc) - Python vlc bindings.
-- [vlcj](https://github.com/caprica/vlcj) -  Java framework for the vlc media player (desktop).
+- [vlcj](https://github.com/caprica/vlcj) - Java framework for the vlc media player (desktop).
 - [LibVLCSharp](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC.
 - [libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC and high-level media player interface.
 - [libvlcpp](https://code.videolan.org/videolan/libvlcpp/) - C++ bindings for libvlc.
-- [vlc.js (beta)](https://code.videolan.org/jbk/vlc.js) - WebAssembly support for LibVLC. 
+- [vlc.js (beta)](https://code.videolan.org/jbk/vlc.js) - WebAssembly support for LibVLC.
 - [flutter_vlc_player](https://github.com/solid-software/flutter_vlc_player) - Flutter bindings to LibVLC.
 - [dart_vlc](https://github.com/alexmercerind/dart_vlc) - Dart bindings for libvlc.
 - [WebChimera.js](https://github.com/RSATom/WebChimera.js) - Electron bindings for libvlc.

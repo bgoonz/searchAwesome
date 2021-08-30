@@ -2,13 +2,12 @@
 
 欢迎使用 Free-Programming-Books（免费编程书籍）！我们欢迎新的贡献者；即使是在 Github 上首次提出拉取请求的人。如果您是其中之一，那么以下资源可能会有所帮助：
 
-* [关于拉取请求](https://docs.github.com/cn/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
-* [创建拉取请求](https://docs.github.com/cn/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
-* [Github Hello World 教程](https://guides.github.com/activities/hello-world/)
-* [Youtube —— Github 初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE)
-* [Youtube —— 如何复刻 GitHub 仓库并提交拉取请求](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-* [Youtube —— Markdown 速成课程](https://www.youtube.com/watch?v=HUBNt18RFbo)
-
+-   [关于拉取请求](https://docs.github.com/cn/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-requests)
+-   [创建拉取请求](https://docs.github.com/cn/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+-   [Github Hello World 教程](https://guides.github.com/activities/hello-world/)
+-   [Youtube —— Github 初学者教程](https://www.youtube.com/watch?v=0fKg7e37bQE)
+-   [Youtube —— 如何复刻 GitHub 仓库并提交拉取请求](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+-   [Youtube —— Markdown 速成课程](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 不要犹豫，提问题。每个贡献者都从第一个 PR 开始。你可能是我们的千分之一！
 

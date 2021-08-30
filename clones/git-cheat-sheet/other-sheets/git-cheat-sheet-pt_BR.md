@@ -1,19 +1,18 @@
-Git cheat Sheet Brazilian Portuguese
-===============
+# Git cheat Sheet Brazilian Portuguese
 
 ### Índice
 
-* [Configuração](#configuração)
-* [Arquivos de Configuração](#arquivos-de-configuração)
-* [Criar](#criar)
-* [Mudanças Locais](#mudanças-locais)
-* [Pesquisa](#pesquisa)
-* [Histórico de Commits](#histórico-de-commits)
-* [Ramos e Tags](#ramos-e-tags)
-* [Atualizar e Publicar](#atualizar-e-publicar)
-* [Mesclar e Reconstruir](#mesclar-e-reconstruir)
-* [Desfazer](#desfazer)
-* [Git Flow](#git-flow)
+- [Configuração](#configuração)
+- [Arquivos de Configuração](#arquivos-de-configuração)
+- [Criar](#criar)
+- [Mudanças Locais](#mudanças-locais)
+- [Pesquisa](#pesquisa)
+- [Histórico de Commits](#histórico-de-commits)
+- [Ramos e Tags](#ramos-e-tags)
+- [Atualizar e Publicar](#atualizar-e-publicar)
+- [Mesclar e Reconstruir](#mesclar-e-reconstruir)
+- [Desfazer](#desfazer)
+- [Git Flow](#git-flow)
 
 <hr>
 
@@ -36,7 +35,6 @@ $ git config --local --list
 ```
 $ git config --global --list
 ```
-
 
 ##### Mostrar a configuração do sistema:
 
@@ -62,7 +60,7 @@ $ git config --global user.email “[email-válido]”
 $ git config --global color.ui auto
 ```
 
-##### Definir o editor global para *commits*
+##### Definir o editor global para _commits_
 
 ```
 $ git config --global core.editor vi
@@ -144,81 +142,83 @@ $ git diff
 $ git diff <arquivo>
 ```
 
-##### Adicionar todas as mudanças atuais ao próximo *commit*:
+##### Adicionar todas as mudanças atuais ao próximo _commit_:
 
 ```
 $ git add .
 ```
 
-##### Adicionar algumas mudanças no &lt;arquivo&gt; para o próximo *commit*:
+##### Adicionar algumas mudanças no &lt;arquivo&gt; para o próximo _commit_:
 
 ```
 $ git add -p <arquivo>
 ```
 
-##### Adicionar apenas os arquivos mencionados ao próximo *commit*:
+##### Adicionar apenas os arquivos mencionados ao próximo _commit_:
 
 ```
 $ git add <nome-do-arquivo-1> <nome-do-arquivo-2>
 ```
 
-##### Realizar um *commit* de todas as mudanças locais nos arquivos monitorados:
+##### Realizar um _commit_ de todas as mudanças locais nos arquivos monitorados:
 
 ```
 $ git commit -a
 ```
 
-##### Realizar um *commit* das mudanças anteriormente preparadas (*staged*):
+##### Realizar um _commit_ das mudanças anteriormente preparadas (_staged_):
 
 ```
 $ git commit
 ```
 
-##### Realizar um *commit* com mensagem:
+##### Realizar um _commit_ com mensagem:
 
 ```
 $ git commit -m 'mensagem aqui'
 ```
 
-##### Realizar um *commit* pulando a área de preparação (*staging area*) e adicionando uma mensagem:
+##### Realizar um _commit_ pulando a área de preparação (_staging area_) e adicionando uma mensagem:
 
 ```
 $ git commit -am 'mensagem aqui'
 ```
 
-##### Realizar um *commit* com alguma data anterior:
+##### Realizar um _commit_ com alguma data anterior:
 
 ```
 $ git commit --date="`date --date='n day ago'`" -am "<Mensagem do commit aqui>"
 ```
 
-##### Emendar o último *commit*:<br>
-<em><sub>Não emenda os *commits* publicados!</sub></em>
+##### Emendar o último _commit_:<br>
+
+<em><sub>Não emenda os _commits_ publicados!</sub></em>
 
 ```
 $ git commit -a --amend
 ```
 
-##### Emendar com o último *commit*, mas usar a mensagem de log do *commit* anterior:
-<em><sub>Não emenda os *commits* publicados!</sub></em>
+##### Emendar com o último _commit_, mas usar a mensagem de log do _commit_ anterior:
+
+<em><sub>Não emenda os _commits_ publicados!</sub></em>
 
 ```shell
 $ git commit --amend --no-edit
 ```
 
-##### Alterar data do *commit* do último *commit*:
+##### Alterar data do _commit_ do último _commit_:
 
 ```
 GIT_COMMITTER_DATE="data" git commit --amend
 ```
 
-##### Alterar data do Autor do último *commit*:
+##### Alterar data do Autor do último _commit_:
 
 ```shell
 $ git commit --amend --date="data"
 ```
 
-##### Mover as alterações não confirmadas (*uncommitted changes*) do ramo atual para algum outro ramo:<br>
+##### Mover as alterações não confirmadas (_uncommitted changes_) do ramo atual para algum outro ramo:<br>
 
 ```
 $ git stash
@@ -226,15 +226,15 @@ $ git checkout ramo2
 $ git stash pop
 ```
 
-##### Restaurar as alterações acumuladas (*stashed changes*) de volta para o ramo atual:
+##### Restaurar as alterações acumuladas (_stashed changes_) de volta para o ramo atual:
 
 ```shell
 $ git stash apply
 ```
 
-##### Restaurar um *stash* particular de volta para o ramo atual:
+##### Restaurar um _stash_ particular de volta para o ramo atual:
 
-- O *{numero-do-stash}* pode ser obtido de `git stash list`
+- O _{numero-do-stash}_ pode ser obtido de `git stash list`
 
 ```shell
 $ git stash apply stash@{numero-do-stash}
@@ -262,13 +262,13 @@ $ git grep "Olá"
 $ git grep "Olá" v2.5
 ```
 
-##### Mostrar *commits* que introduziram uma palavra-chave específica:
+##### Mostrar _commits_ que introduziram uma palavra-chave específica:
 
 ```
 $ git log -S'palavra-chave'
 ```
 
-##### Mostrar *commits* que introduziram uma palavra-chave específica (usando uma expressão regular):
+##### Mostrar _commits_ que introduziram uma palavra-chave específica (usando uma expressão regular):
 
 ```
 $ git log -S'palavra-chave' --pickaxe-regex
@@ -278,19 +278,19 @@ $ git log -S'palavra-chave' --pickaxe-regex
 
 ## Histórico de Commits
 
-##### Mostrar todos os *commits*, começando pelo mais novo (mostrará o hash, informações do autor, data do *commit* e título do *commit*):
+##### Mostrar todos os _commits_, começando pelo mais novo (mostrará o hash, informações do autor, data do _commit_ e título do _commit_):
 
 ```
 $ git log
 ```
 
-##### Mostrar todos os *commits* (mostrará apenas o hash do *commit* e a mensagem do *commit*)
+##### Mostrar todos os _commits_ (mostrará apenas o hash do _commit_ e a mensagem do _commit_)
 
 ```
 $ git log --oneline
 ```
 
-##### Mostrar todos os *commits* de um usuário específico:
+##### Mostrar todos os _commits_ de um usuário específico:
 
 ```
 $ git log --author="nome-do-usuario"
@@ -302,7 +302,7 @@ $ git log --author="nome-do-usuario"
 $ git log -p <arquivo>
 ```
 
-##### Exibir *commits* que estão presentes apenas no remoto/ramo no lado direito
+##### Exibir _commits_ que estão presentes apenas no remoto/ramo no lado direito
 
 ```
 $ git log --oneline <origin/master>..<remoto/master> --left-right
@@ -378,20 +378,17 @@ $ git checkout <ramo> -- <arquivo>
 $ git checkout -b <ramo>
 ```
 
-
 ##### Criar um novo ramo a partir de um ramo existente e mudar para o novo ramo:
 
 ```
 $ git checkout -b <ramo_novo> <ramo_existente>
 ```
 
-
-##### Criar um novo ramo a partir de um *commit* existente e mudar para o novo ramo:
+##### Criar um novo ramo a partir de um _commit_ existente e mudar para o novo ramo:
 
 ```
 $ git checkout <hash-do-commit> -b <novo_nome_do_ramo>
 ```
-
 
 ##### Criar um novo ramo com base em seu `HEAD` atual:
 
@@ -418,37 +415,38 @@ $ git branch -m <nome_do_novo_ramo>
 ```
 
 ##### Forçar a exclusão de um ramo local:
+
 <em><sub>Você perderá as alterações não mescladas!</sub></em>
 
 ```
 $ git branch -D <ramo>
 ```
 
-##### Marcar `HEAD` com uma *tag*:
+##### Marcar `HEAD` com uma _tag_:
 
 ```
 $ git tag <nome-da-tag>
 ```
 
-##### Marcar `HEAD` com uma *tag* e abrir o editor para incluir uma mensagem:
+##### Marcar `HEAD` com uma _tag_ e abrir o editor para incluir uma mensagem:
 
 ```
 $ git tag -a <nome-da-tag>
 ```
 
-##### Marcar `HEAD` com uma *tag* que inclui uma mensagem:
+##### Marcar `HEAD` com uma _tag_ que inclui uma mensagem:
 
 ```
 $ git tag <nome-da-tag> -am 'mensagem aqui'
 ```
 
-##### Listar todas as *tags*:
+##### Listar todas as _tags_:
 
 ```
 $ git tag
 ```
 
-##### Listar todas as *tags* com suas mensagens (mensagem de *tag* ou mensagem de *commit* se a *tag* não tiver mensagem):
+##### Listar todas as _tags_ com suas mensagens (mensagem de _tag_ ou mensagem de _commit_ se a _tag_ não tiver mensagem):
 
 ```
 $ git tag -n
@@ -532,7 +530,7 @@ OU
 $ git push <remoto> --delete <ramo> (desde o Git v1.7.0)
 ```
 
-##### Publicar suas *tags*:
+##### Publicar suas _tags_:
 
 ```
 $ git push --tags
@@ -561,7 +559,8 @@ $ git merge <ramo>
 ```
 
 ##### Reconstruir (rebase) seu `HEAD` atual no &lt;ramo&gt;:<br>
-<em><sub>Não faz reconstrução de *commit* publicado!</sub></em>
+
+<em><sub>Não faz reconstrução de _commit_ publicado!</sub></em>
 
 ```
 $ git rebase <ramo>
@@ -589,7 +588,7 @@ $ git add <arquivo-resolvido>
 $ git rm <arquivo-resolvido>
 ```
 
-##### Juntando *commits* (*squashing commits*):
+##### Juntando _commits_ (_squashing commits_):
 
 ```
 $ git rebase -i <commit-just-before-first>
@@ -633,13 +632,13 @@ $ git reset HEAD
 $ git checkout HEAD <arquivo>
 ```
 
-##### Reverter um *commit* (produzindo um novo *commit* com alterações contrárias):
+##### Reverter um _commit_ (produzindo um novo _commit_ com alterações contrárias):
 
 ```
 $ git revert <commit>
 ```
 
-##### Redefinir o ponteiro `HEAD` para um *commit* anterior e descartar todas as alterações desde então:
+##### Redefinir o ponteiro `HEAD` para um _commit_ anterior e descartar todas as alterações desde então:
 
 ```
 $ git reset --hard <commit>
@@ -651,13 +650,13 @@ $ git reset --hard <commit>
 $ git reset --hard <remoto/ramo> e.g., upstream/master, origin/minha-recurso
 ```
 
-##### Redefinir o ponteiro `HEAD` para um *commit* anterior e preservar todas as alterações como alterações não preparadas (*unstaged changes*):
+##### Redefinir o ponteiro `HEAD` para um _commit_ anterior e preservar todas as alterações como alterações não preparadas (_unstaged changes_):
 
 ```
 $ git reset <commit>
 ```
 
-##### Redefinir o ponteiro `HEAD` para um *commit* anterior e preservar as alterações locais não confirmadas (*committed*):
+##### Redefinir o ponteiro `HEAD` para um _commit_ anterior e preservar as alterações locais não confirmadas (_committed_):
 
 ```
 $ git reset --keep <commit>
@@ -674,16 +673,17 @@ $ git commit -m "remove arquivo xyz"
 <hr>
 
 ## Git-Flow
+
 Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Índice
 
-* [Configuração](#configuração)
-* [Começar](#começar)
-* [Recursos](#features)
-* [Fazer um Lançamento](#fazer-um-lançamento)
-* [Correções Rápidas](#correções-rápidas)
-* [Comandos](#comandos)
+- [Configuração](#configuração)
+- [Começar](#começar)
+- [Recursos](#features)
+- [Fazer um Lançamento](#fazer-um-lançamento)
+- [Correções Rápidas](#correções-rápidas)
+- [Comandos](#comandos)
 
 <hr>
 
@@ -799,13 +799,13 @@ git flow feature track MEURECURSO
 
 ##### Começar um lançamento:
 
-###### Para iniciar uma versão, use o comando `git flow release`. Ele cria um ramo de lançamento criado a partir do ramo 'desenvolver'. Opcionalmente, você pode fornecer um hash sha-1 de *commit* [BASE] para iniciar o lançamento. O *commit* deve estar no ramo 'desenvolver'.
+###### Para iniciar uma versão, use o comando `git flow release`. Ele cria um ramo de lançamento criado a partir do ramo 'desenvolver'. Opcionalmente, você pode fornecer um hash sha-1 de _commit_ [BASE] para iniciar o lançamento. O _commit_ deve estar no ramo 'desenvolver'.
 
 ```
 git flow release start LANÇAMENTO [BASE]
 ```
 
-###### É aconselhável publicar o ramo de lançamento depois de criá-lo para permitir *commits* de lançamento por outros desenvolvedores. Faça de forma semelhante à publicação de recursos com o comando:
+###### É aconselhável publicar o ramo de lançamento depois de criá-lo para permitir _commits_ de lançamento por outros desenvolvedores. Faça de forma semelhante à publicação de recursos com o comando:
 
 ```
 git flow release publish LANÇAMENTO
@@ -829,13 +829,13 @@ git flow release publish LANÇAMENTO
 git flow release finish LANÇAMENTO
 ```
 
-###### Não se esqueça de enviar suas *tags* com ```git push --tags```
+###### Não se esqueça de enviar suas _tags_ com `git push --tags`
 
 <hr>
 
 ### Correções rápidas
 
-###### As correções rápidas (*hotfixes*) surgem da necessidade de agir imediatamente em um estado indesejado de uma versão de produção ao vivo. Pode ser ramificado a partir da *tag* correspondente no ramo *master* que marca a versão de produção.
+###### As correções rápidas (_hotfixes_) surgem da necessidade de agir imediatamente em um estado indesejado de uma versão de produção ao vivo. Pode ser ramificado a partir da _tag_ correspondente no ramo _master_ que marca a versão de produção.
 
 ##### Início da correção rápida do Git flow:
 
@@ -849,7 +849,7 @@ $ git flow hotfix start VERSÃO [NOMEDABASE]
 
 ##### Concluir uma correção rápida:
 
-###### Ao terminar uma correção rápida, ele é mesclado de volta ao desenvolver e ao *master*. Além disso, a mesclagem do *master* é marcada com a versão da correção rápida
+###### Ao terminar uma correção rápida, ele é mesclado de volta ao desenvolver e ao _master_. Além disso, a mesclagem do _master_ é marcada com a versão da correção rápida
 
 ```
 git flow hotfix finish VERSÃO
@@ -858,6 +858,7 @@ git flow hotfix finish VERSÃO
 <hr>
 
 ### Comandos
+
 <p align="center">
     <img alt="Git" src="../Img/git-flow-commands.png" height="270" width="460">
 </p>

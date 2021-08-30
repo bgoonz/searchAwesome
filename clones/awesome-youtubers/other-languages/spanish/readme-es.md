@@ -12,6 +12,7 @@
 
 Para encontrar un tema en específico más rápido, puedes presionar `Ctrl + F` y escribir el tema que estás buscando.
 Es recomendable que abras los links con el click de la ruedita del ratón o clickeando sobre un link y seleccionando "Abrir link en una nueva pestaña". Así, podrás dejar la lista en una pestaña separada.
+
 - [Programación en general](#programación-en-general)
 - [Desarrollo web](#desarrollo-web)
 - [Ciencia de la computación](#ciencia-de-la-computación)

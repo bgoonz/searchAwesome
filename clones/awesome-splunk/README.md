@@ -6,7 +6,7 @@
 
 > A curated list of awesome apps, visualisations and other resources for Splunk.
 
-[*Splunk*](https://splunk.com) captures, indexes, and correlates real-time data in a searchable
+[_Splunk_](https://splunk.com) captures, indexes, and correlates real-time data in a searchable
 repository from which graphs, reports, alerts, dashboards, and visualizations
 can be generated. It is widely used in industries such as finance, utilities,
 healthcare and manufacturing for use-cases including security, compliance and
@@ -105,7 +105,7 @@ Useful Splunk resources that are not specifically associated with Splunk Inc.
 - [Anthony Tellez](https://anthonygtellez.github.io/) - Security and Machine Learning items.
 - [Duane Waddle](https://www.duanewaddle.com/) - Miscellaneous Splunk items.
 - [Vladimir's GitHub](https://github.com/hire-vladimir/) - Code for a number of Splunk resources, including [CIM Validation](https://github.com/hire-vladimir/SA-cim_vladiator).
-- [Nico's GitHub](https://github.com/nicovdw/) -  Repository of searches and dashboards to assist with optimising concurrency settings.
+- [Nico's GitHub](https://github.com/nicovdw/) - Repository of searches and dashboards to assist with optimising concurrency settings.
 - [David Veuve](https://www.davidveuve.com/tech/) - Some early resources on Splunk basics and optimisations (infrequently updated).
 
 #### SPL Repositories

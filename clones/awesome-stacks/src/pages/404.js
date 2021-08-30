@@ -14,7 +14,10 @@ const NotFoundPage = () => (
             <div className="message is-danger">
               <div className="message-body">
                 <h1 className="is-size-3">404 AWESOMENESS NOT FOUND</h1>
-                <p className="has-margin-top-30 has-margin-bottom-30">There's no Awesome Stack here yet. <Link to="/">Create one?</Link></p>
+                <p className="has-margin-top-30 has-margin-bottom-30">
+                  There's no Awesome Stack here yet.{" "}
+                  <Link to="/">Create one?</Link>
+                </p>
               </div>
               <div className="has-margin-bottom-60"></div>
             </div>

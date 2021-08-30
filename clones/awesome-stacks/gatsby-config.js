@@ -1,4 +1,4 @@
-require('dotenv').config({ path: '.env.development' });
+require("dotenv").config({ path: ".env.development" })
 
 module.exports = {
   siteMetadata: {
@@ -11,7 +11,7 @@ module.exports = {
     author: `@dzello`,
     repository: `https://github.com/stackshareio/awesome-stacks`,
     contributing: `https://github.com/stackshareio/awesome-stacks/blob/master/CONTRIBUTING.md`,
-    techStack: `https://stackshare.io/stackshare/awesome-stacks`
+    techStack: `https://stackshare.io/stackshare/awesome-stacks`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -47,7 +47,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `readme-stacks`,
-        path: `${__dirname}/README.md`
+        path: `${__dirname}/README.md`,
       },
     },
     `gatsby-plugin-sass`,
@@ -56,31 +56,31 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        filter: node => node.sourceInstanceName === `readme-stacks`
+        filter: (node) => node.sourceInstanceName === `readme-stacks`,
       },
     },
     `gatsby-mdx`,
     {
-      resolve: 'gatsby-plugin-html-attributes',
+      resolve: "gatsby-plugin-html-attributes",
       options: {
-        class: 'has-navbar-fixed-top'
-      }
+        class: "has-navbar-fixed-top",
+      },
     },
     `gatsby-plugin-favicon`,
     `gatsby-transform-stacks`,
     {
-      resolve: 'gatsby-source-apiserver',
+      resolve: "gatsby-source-apiserver",
       options: {
         url: `https://api.github.com/repos/stackshareio/awesome-stacks/contributors`,
-        name: "githubContributors"
-      }
+        name: "githubContributors",
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: `UA-41067622-2`,
-        respectDNT: true
-      }
-    }
-  ]
+        respectDNT: true,
+      },
+    },
+  ],
 }

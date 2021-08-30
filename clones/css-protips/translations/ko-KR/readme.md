@@ -12,10 +12,9 @@ CSS스킬을 프로처럼 만들어주는 팁 모음
 
 ## 목차
 
-* [프로팁](#프로팁)
-* [지원](#지원)
-* [컨트리뷰션 가이드라인](../../CONTRIBUTING.md)
-
+- [프로팁](#프로팁)
+- [지원](#지원)
+- [컨트리뷰션 가이드라인](../../CONTRIBUTING.md)
 
 <div id="protips"></div>
 
@@ -47,7 +46,6 @@ CSS스킬을 프로처럼 만들어주는 팁 모음
 1. [포인터 이벤트를 사용한 마우스 이벤트 제어](#use-pointer-events-to-control-mouse-events)
 1. [간격으로 사용되는 줄 바꿈에서 `display: none` 을 설정하십시오.](#set-display-none-on-line-breaks-being-used-as-spacing)
 
-
 <div id="use-a-css-reset"></div>
 
 ### CSS Reset을 사용
@@ -64,7 +62,6 @@ CSS reset은 스타일 요소들을 통해 백지 상태에서 다른 브라우�
 }
 ```
 
-
 이제 요소는 마진과 패딩을 배제하고, `box-sizing`은 CSS 박스 모델을 통해 관리됩니다.
 
 #### [데모](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
@@ -72,8 +69,6 @@ CSS reset은 스타일 요소들을 통해 백지 상태에서 다른 브라우�
 **Note:** 당신이 아래의 [`box-sizing`을 컴포넌트마다 변경](#inherit-box-sizing) 팁을 따를 경우 `box-sizing` 프로퍼티를 선택하지 않을 수 있습니다.
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
-
 
 <div id="inherit-box-sizing"></div>
 
@@ -93,12 +88,11 @@ html {
 }
 ```
 
-이것은 다른 플러그인과 컴포넌트에서 `box-sizing`을 변경하는 것을 용이하게 합니다. 
+이것은 다른 플러그인과 컴포넌트에서 `box-sizing`을 변경하는 것을 용이하게 합니다.
 
 #### [데모](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="use-unset-instead-of-resetting-all-properties"></div>
 
@@ -128,7 +122,6 @@ button {
 **Note:** `all` 및`unset` 속기는 IE11에서 지원되지 않습니다.
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="use-not-to-applyunapply-borders-on-navigation"></div>
 
@@ -166,7 +159,6 @@ CSS 선택자는 사람이 설명하는 방식 그대로 경계를 정의합니�
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 <div id="check-if-font-is-installed-locally"></div>
 
 ### 글꼴이 로컬로 설치되어 있는지 확인
@@ -177,12 +169,8 @@ CSS 선택자는 사람이 설명하는 방식 그대로 경계를 정의합니�
 @font-face {
   font-family: "Dank Mono";
   src:
-    /* 풀네임 */
-    local("Dank Mono"),
-    /* 포스트 스크립트명 */
-    local("Dank Mono"),
-    /* 아니면 다운로드도 가능! */
-    url("//...a.server/fonts/DankMono.woff");
+    /* 풀네임 */ local("Dank Mono"), /* 포스트 스크립트명 */ local("Dank Mono"),
+    /* 아니면 다운로드도 가능! */ url("//...a.server/fonts/DankMono.woff");
 }
 
 code {
@@ -193,7 +181,6 @@ code {
 이 팁과 [데모](https://codepen.io/argyleink/pen/VwYJpgR)를 공유 한 Adam Argyle의 모자 팁.
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="add-line-height-to-body"></div>
 
@@ -213,7 +200,6 @@ body {
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 <div id="set-focus-for-form-elements"></div>
 
 ### 폼 요소에`: focus`를 설정하기
@@ -228,14 +214,13 @@ select:focus,
 textarea:focus {
   box-shadow: none;
   outline: #000 dotted 2px;
-  outline-offset: .05em;
+  outline-offset: 0.05em;
 }
 ```
 
 #### [데모](https://codepen.io/AllThingsSmitty/pen/ePzoOP/)
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="vertically-center-anything"></div>
 
@@ -259,7 +244,6 @@ body {
 }
 ```
 
-
 무언가를 중앙으로 배치하고 싶으신가요? 가로로, 세로로 ...뭐든지, 어떤 때라도, 어디서든? CSS-Tricks의 [가이드](https://css-tricks.com/centering-css-complete-guide/)를 통해 그 모든 것을 해보세요!
 
 **Note:** IE11의 Flexbox의 [버그를 주의해 주세요](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items)
@@ -267,7 +251,6 @@ body {
 #### [데모](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="comma-separated-lists"></div>
 
@@ -288,7 +271,6 @@ ul > li:not(:last-child)::after {
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 <div id="select-items-using-negative-nth-child"></div>
 ### Negative `nth-child`를 사용하여 아이템 나누기
 
@@ -300,7 +282,7 @@ li {
 }
 
 /* 1에서 3까지의 선택하고 보여주기 */
-li:nth-child(-n+3) {
+li:nth-child(-n + 3) {
   display: block;
 }
 ```
@@ -309,7 +291,7 @@ li:nth-child(-n+3) {
 
 ```css
 /* 처음 3개를 제외한 모든 아이템 보여주기 */
-li:not(:nth-child(-n+3)) {
+li:not(:nth-child(-n + 3)) {
   display: none;
 }
 ```
@@ -317,8 +299,6 @@ li:not(:nth-child(-n+3)) {
 #### [데모](http://codepen.io/AllThingsSmitty/pen/WxjKZp)
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
-
 
 <div id="use-svg-for-icons"></div>
 
@@ -344,10 +324,9 @@ SVG는 [IE9](http://caniuse.com/#search=svg) 이후부터 지원되고 있습니
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 ### "Lobotomized Owl" Selector 사용하기
 
-이상한 이름이지만  (`*`)와  (`+`)와 함께 사용하면 강력한 CSS의 가능성을 제공합니다.
+이상한 이름이지만 (`*`)와 (`+`)와 함께 사용하면 강력한 CSS의 가능성을 제공합니다.
 
 ```css
 * + * {
@@ -362,7 +341,6 @@ SVG는 [IE9](http://caniuse.com/#search=svg) 이후부터 지원되고 있습니
 #### [데모](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="use-max-height-for-pure-css-sliders"></div>
 
@@ -388,7 +366,6 @@ hover시 `max-height`를 요소를 확장 오버플로우의 결과로 슬라이
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 <div id="equal-width-table-cells"></div>
 
 ### 테이블 셀의 너비 균등하게 하기
@@ -406,7 +383,6 @@ hover시 `max-height`를 요소를 확장 오버플로우의 결과로 슬라이
 #### [데모](http://codepen.io/AllThingsSmitty/pen/jALALm)
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="get-rid-of-margin-hacks-with-flexbox"></div>
 
@@ -429,7 +405,6 @@ column gutter는 이제 이벤트 공간에 표시됩니다.
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 <div id="use-attribute-selectors-with-empty-links"></div>
 
 ### 링크에 텍스트가 없을 때의 url 표시
@@ -448,7 +423,6 @@ a[href^="http"]:empty::before {
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 <div id="style-default-links"></div>
 
 ### "Default" 링크 스타일
@@ -465,7 +439,6 @@ a[href]:not([class]) {
 이것은 보통 class속성이 없는 링크에`:not`을 사용하여 CMS로 삽입됩니다. 상속(cascade)문제 없이 차별화 할 수 있습니다.
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="intrinsic-ratio-boxes"></div>
 
@@ -495,7 +468,6 @@ a[href]:not([class]) {
 #### [데모](http://codepen.io/AllThingsSmitty/pen/jALZvE)
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="style-broken-images"></div>
 
@@ -536,8 +508,6 @@ img::after {
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
-
 <div id="use-rem-for-global-sizing-use-em-for-local-sizing"></div>
 
 ### 글로벌 사이즈 지정에 `rem`; 로컬  사이즈 지정에 `em`
@@ -562,14 +532,13 @@ article {
 }
 
 aside .module {
-  font-size: .9rem;
+  font-size: 0.9rem;
 }
 ```
 
 이제 각 모듈별로 관리하면 관리가 쉽고 스탕일링이 간편해 집니다.
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="hide-autoplay-videos-that-arent-muted"></div>
 
@@ -587,7 +556,6 @@ video[autoplay]:not([muted]) {
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 <div id="use-root-for-flexible-type"></div>
 
 ### Flexible Type의 `:root` 사용하기
@@ -596,7 +564,7 @@ video[autoplay]:not([muted]) {
 
 ```css
 :root {
-  font-size: calc(1vw + 1vh + .5vmin);
+  font-size: calc(1vw + 1vh + 0.5vmin);
 }
 ```
 
@@ -611,7 +579,6 @@ body {
 #### [데모](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id= "set-font-size-on-form-elements-for-a-better-mobile-experiences"></div>
 
@@ -632,16 +599,15 @@ textarea {
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 <div id="use-pointer-events-to-control-mouse-events"></div>
 
 ### 포인터 이벤트를 사용한 마우스 이벤트 제어
 
-[포인터 이벤트](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events)는 터치 시 마우스 동작을 특정할 수 있도록 도와줍니다. 버튼의 디폴트 포인터를 무효화 하려면 다음 방법을 따릅니다. 
+[포인터 이벤트](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events)는 터치 시 마우스 동작을 특정할 수 있도록 도와줍니다. 버튼의 디폴트 포인터를 무효화 하려면 다음 방법을 따릅니다.
 
 ```css
 .button-disabled {
-  opacity: .5;
+  opacity: 0.5;
   pointer-events: none;
 }
 ```
@@ -649,7 +615,6 @@ textarea {
 아주 간단한 방법이죠?
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
 
 <div id="set-display-none-on-line-breaks-being-used-as-spacing"></div>
 
@@ -665,7 +630,6 @@ br + br {
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
 
-
 <div id="support"></div>
 
 ## 지원
@@ -673,5 +637,3 @@ br + br {
 최신 버전의 Chrome, Firefox, Safari, Opera, Edge, IE11에서 지원됩니다..
 
 <sup>[목차로 돌아가기](#table-of-contents)</sup>
-
-

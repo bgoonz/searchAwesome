@@ -3,10 +3,12 @@
 </p>
 
 # Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-__A curated list of awesome resources to choose your next color scheme.__
-Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](contributing.md)__ before contributing.
+
+**A curated list of awesome resources to choose your next color scheme.**
+Inspired by the **[awesome](https://github.com/sindresorhus/awesome)** list. Please read the **[contribution guidelines](contributing.md)** before contributing.
 
 ## Table of Contents
+
 - [Tools](#tools)
   - [Libraries](#libraries)
   - [Web App](#web-app)
@@ -16,6 +18,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 ## Tools
 
 #### Libraries
+
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
 - [pigment](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
 - [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
@@ -35,11 +38,12 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [color2k](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 #### Web App
+
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
 - [Colorbrewer2](http://colorbrewer2.org/) - Multi-hue and single-hue palettes for heat maps and data visualization.
 - [Coolors](https://coolors.co/) - Generate infinite color palettes for your designs and share.
 - [Flat UI Colors](http://flatuicolors.com/) - UI color set.
-- [Material Design Colors](http://www.materialui.co/) -  Material Design Colors, Flat UI Colors and Material Design Icons.
+- [Material Design Colors](http://www.materialui.co/) - Material Design Colors, Flat UI Colors and Material Design Icons.
 - [Palettab](http://palettab.com/) - New color palette and font inspiration with every tab (Chrome Extension).
 - [Paletton](http://paletton.com) - The Color Scheme Designer.
 - [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
@@ -59,7 +63,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Shutterstock Spectrum](http://www.shutterstock.com/labs/spectrum/) - Search Images by Color with Spectrum.
 - [ColRD](http://colrd.com/) - Create and share color inspiration with the world.
 - [CheckMyColours](http://www.checkmycolours.com/) - Check color combinations of all DOM elements for sufficient contrast.
-- [Contrast-A](http://www.dasplankton.de/ContrastA/) -  Inspect color combinations for acceptable contrast and displays.
+- [Contrast-A](http://www.dasplankton.de/ContrastA/) - Inspect color combinations for acceptable contrast and displays.
 - [Palettable](http://www.palettable.io/) - Generate beautiful color palettes with no prior design knowledge.
 - [Colorgorical](http://vrl.cs.brown.edu/color) - Generate a palette with n colors.
 - [Color Library](http://colorlibrary.ch/) - Automated Color Separation.
@@ -74,6 +78,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Hexcolorpedia](https://hexcolorpedia.com/) - Hex color information, Color conversion, Shades, tints, tones, Pantone match, color blending and huge Color palettes collection.
 
 ## Color Palettes
+
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
 - [COLOURlovers](http://www.colourlovers.com/) - Tools to create color palettes as well as pattern designs.
 - [Swiss Style Color Picker](http://www.swisscolors.net/) - Color palettes collection.
@@ -97,6 +102,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Name List](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## Articles
+
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
 - [Trendy Web Color Palettes and Material Design Color Schemes & Tools](http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html?utm_source=Twitter&utm_medium=Social&utm_campaign=Twitter-Blog-Color&utm_content=Twitter)
 - [How I Work with Color](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed#.b99s3au3w)
@@ -135,4 +141,5 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 <br>
 
 ### Image credits
+
 [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).

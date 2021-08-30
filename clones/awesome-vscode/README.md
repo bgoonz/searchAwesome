@@ -1,4 +1,3 @@
-
 <br/>
 <div align="center">
   <img width="380px" src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">
@@ -9,6 +8,7 @@
 A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
+
 </div>
 <br/>
 
@@ -34,7 +34,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Bash Debug](#bash-debug)
     - [Shellman](#shellman)
   - [C++](#c)
-      - [More](#more)
+    - [More](#more)
   - [C\#, ASP .NET and .NET Core](#c-asp-net-and-net-core)
   - [Clojure](#clojure)
     - [Calva](#calva)
@@ -91,7 +91,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [GitHub](#github)
   - [GitHub Pull Request Monitor](#github-pull-request-monitor)
   - [GitLab Workflow](#gitlab-workflow)
-      - [Gradle Tasks](#gradle-tasks)
+    - [Gradle Tasks](#gradle-tasks)
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
   - [Jira and Bitbucket](#jira-and-bitbucket)
@@ -259,7 +259,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 - [Scala](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
-- [Shaders (*HLSL*, *GLSL*, *Cg*) ](https://marketplace.visualstudio.com/items?itemName=slevesque.shader)
+- [Shaders (_HLSL_, _GLSL_, _Cg_) ](https://marketplace.visualstudio.com/items?itemName=slevesque.shader)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
@@ -303,30 +303,35 @@ Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft
 # Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
+
 > lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
 
 Unlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, [Languages](https://code.visualstudio.com/Docs/languages/overview) section.
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to _.bsl и _.os files in VSC, add IntelliSense and syntax helper for 1С lang
 
 ## AutoHotkey
 
 ### [AutoHotkey Plus](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-autohotkey-plus)
+
 > Syntax Highlighting, Snippets, Go to Definition, Signature helper and Code formatter
 
 ## Bash
 
 ### [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
+
 > A language server for Bash
 
 ### [Bash Debug](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug)
+
 > A debugger extension for Bash scripts based on `bashdb`
 
 ![Bash Debug](https://user-images.githubusercontent.com/10897048/47375120-1a9a9b80-d722-11e8-819d-a0090540b2ba.gif)
 
 ### [Shellman](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman)
+
 > Bash script snippets extension
 
 ![Shellman](https://raw.githubusercontent.com/yousefvand/shellman/master/images/demo.gif)
@@ -342,7 +347,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 #### More
 
-* [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
+- [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
 
 ## C\#, ASP .NET and .NET Core
 
@@ -358,6 +363,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Clojure
 
 ### [Calva](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva)
+
 > Integrated REPL, linting, inline eval, test runner, and more. Powered by Cider & nRepl.
 
 ![Calva](https://raw.githubusercontent.com/BetterThanTomorrow/calva/master/assets/howto/top-level-comment-eval.gif)
@@ -365,6 +371,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## CSS
 
 ### [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+
 > Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
 
 ![CSS Peek](https://raw.githubusercontent.com/pranaygp/vscode-css-peek/master/readme/symbolProvider.gif)
@@ -409,7 +416,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
-![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
+  ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
 See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
@@ -427,7 +434,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ### Framework-specific
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Toolkit for Vue.js
-![Vetur](screenshots/Vetur.png)
+  ![Vetur](screenshots/Vetur.png)
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
@@ -460,6 +467,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 ![Markdown All in One](https://user-images.githubusercontent.com/10897048/47027336-d8a9ac80-d199-11e8-9836-b8dbc4a97d1a.gif)
 
 ### [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
+
 > Adds emoji syntax support to VS Code's built-in Markdown preview
 
 ![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
@@ -509,6 +517,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ### Smarty
 
 #### [Smarty Template Support](https://marketplace.visualstudio.com/items?itemName=aswinkumar863.smarty-template-support)
+
 > Smarty template support with formatting, folding, snippets, syntax highlighting and more.
 
 ![Smarty Template Support](https://raw.githubusercontent.com/aswinkumar863/smarty-vscode-support/master/images/preview.gif)
@@ -617,13 +626,14 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![es7-reactreduxgraphqlreact-native-snippets](https://user-images.githubusercontent.com/37667437/46757404-aa365800-cce7-11e8-80ca-9207b7a68dea.png)
 
 ### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
+
 > Generating .gitignore files made easy.
 
 ![.gitignore generation animation](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
 
 ## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 
-> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples. 
+> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples.
 
 ![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
 
@@ -661,12 +671,14 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Have a look at the [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
+
 > This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
-> Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
+
+> Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources. You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
 
 #### [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
@@ -736,10 +748,9 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 
->Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
+> Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
 
 ![Instant Markdown Screencast](https://raw.githubusercontent.com/dbankier/vscode-instant-markdown/master/vscode-instant-markdown.gif)
-
 
 ## [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
@@ -802,6 +813,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Project Dashboard](https://user-images.githubusercontent.com/5564731/79053450-b7663700-7c3d-11ea-8498-bbfe7723b47f.gif)
 
 ## [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+
 > Highlight columns in comma, tab, semicolon and pipe separated files, consistency check and linting with CSVLint, multi-cursor column editing, column trimming and realignment, and SQL-style querying with RBQL.
 
 ![Rainbow CSV](https://i.imgur.com/PRFKVIN.png)
@@ -866,7 +878,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
-> Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
+> Align your code by colon(:), assignment(=,+=,-=,\*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
 >
 > And it doesn't require you to select what to be aligned, the extension will figure it out by itself.
 
@@ -933,16 +945,19 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Bracket Pair Colorizer](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
 
 ## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+
 > Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 
 ![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
 
 ## [shell-format](https://github.com/foxundermoon/vs-shell-format)
+
 > shell script & Dockerfile & dotenv format
 
 ![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
 
 ## [Vscode Google Translate](https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate)
+
 > Quickly translate selected text right in your code
 
 ![Vscode Google Translate](https://raw.githubusercontent.com/funkyremi/vscode-google-translate/master/demo.gif)
@@ -998,6 +1013,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Highlight web colors in your editor screenshot](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
 
 ## [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+
 > Syntax highlighting for the VS Code Output Panel and log files
 
 ![IBM.output-colorizer](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
@@ -1061,8 +1077,9 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Make a polaroid image of your code animation](https://raw.githubusercontent.com/octref/polacode/master/demo/usage.gif)
 
 ## [carbon-now-sh](https://marketplace.visualstudio.com/items?itemName=ericadamski.carbon-now-sh)
- > Send your code to [carbon.now.sh](https://carbon.now.sh).
- ![Send your code to carbon.now.sh animation](https://user-images.githubusercontent.com/6516758/46617867-df765680-caeb-11e8-8899-95778cdcceb7.gif)
+
+> Send your code to [carbon.now.sh](https://carbon.now.sh).
+> ![Send your code to carbon.now.sh animation](https://user-images.githubusercontent.com/6516758/46617867-df765680-caeb-11e8-8899-95778cdcceb7.gif)
 
 ## [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
@@ -1089,6 +1106,7 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![SmoothType Animation](https://raw.githubusercontent.com/spikespaz/vscode-smoothtype/master/images/preview.gif)
 
 ## [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
+
 > Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
 
 ![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
@@ -1362,7 +1380,7 @@ A dark syntax/workbench theme for Visual Studio Code - optimized for SCSS, HTML,
 
 ### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme)
 
- Collection of 18 light themes separated in 4 groups by background's brightness.
+Collection of 18 light themes separated in 4 groups by background's brightness.
 
  <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
   <img src="./themes/screenshots/niketa-theme.png" width="600" />
@@ -1376,7 +1394,7 @@ A list of Twitter accounts for various people in the VS Code Community
 - [@auchenberg](https://twitter.com/auchenberg) - VS Code Program Manager
 - [@BenjaminPasero](https://twitter.com/BenjaminPasero) - VS Code Dev
 - [@chrisdias](https://twitter.com/chrisdias) - VS Code Program Manager
-- [@_clarkio](https://twitter.com/_clarkio) - Developer Advocate @ Azure. Creator of VS Code release highlight videos
+- [@\_clarkio](https://twitter.com/_clarkio) - Developer Advocate @ Azure. Creator of VS Code release highlight videos
 - [@eamodio](https://twitter.com/eamodio) - GitLens creator
 - [@ErichGamma](https://twitter.com/ErichGamma) - VS Code Dev
 - [@IsidorN](https://twitter.com/@IsidorN) - VS Code Dev

@@ -26,8 +26,9 @@ An awesome list about Software Defined Networks (SDN)
   - [Paper](#paper)
 
 # Introduction
-  Software-defined networking (SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.
-  Wiki : [Software-Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking)
+
+Software-defined networking (SDN) is an approach to computer networking that allows network administrators to manage network services through abstraction of higher-level functionality.
+Wiki : [Software-Defined Networking](https://en.wikipedia.org/wiki/Software-defined_networking)
 
 # Network Operating System
 
@@ -38,7 +39,7 @@ An awesome list about Software Defined Networks (SDN)
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced capabilities such as MPLS and SDN
 - [Open Network Linux, ONL](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
 - [OpenSwitch](http://www.openswitch.net) - A linux network operating system from Dell EMC.
-- [OpenWrt](https://openwrt.org/) -  Is a Linux Operating System targeting embedded devices.
+- [OpenWrt](https://openwrt.org/) - Is a Linux Operating System targeting embedded devices.
 - [PicOS](http://www.pica8.com/products/picos) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
 - [SONiC](https://azure.github.io/SONiC/) - Software for Open Networking in the Cloud SONiC
 - [Stratum](https://stratumproject.org/) - An open source, silicon-independent switch operating system for software-defined networks
@@ -50,7 +51,7 @@ An awesome list about Software Defined Networks (SDN)
 # Software Switch
 
 - [BESS](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
-- [bmv2](https://github.com/p4lang/behavioral-model)-  A P4 software switch which is usually used as a tool to verify the funtions the developers describe in P4 language.
+- [bmv2](https://github.com/p4lang/behavioral-model)- A P4 software switch which is usually used as a tool to verify the funtions the developers describe in P4 language.
 - [CPqD](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
 - [FD.IO](https://fd.io/) - Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage
 - [Indigo](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
@@ -87,7 +88,7 @@ An awesome list about Software Defined Networks (SDN)
 - [lighty.io core](https://github.com/PantheonTechnologies/lighty-core) - lighty.io core components - An open source development framework for building Java-based SDN controllers.
 - [Netrack](https://github.com/netrack/openflow) - An OpenFlow controller framework in Go.
 - [NodeFlow](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
-- [NOX](https://github.com/noxrepo/nox) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
+- [NOX](https://github.com/noxrepo/nox) - An open source development platform for C++-based software-defined networking (_SDN_) control applications.
 - [OESS](https://github.com/globalnoc/oess) - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
 - [ONOS](http://onosproject.org) - Open Network Operating System.
 - [Open MUL](http://www.openmul.org/openmul-controller.html) - A lightweight SDN/Openflow controller written almost entirely in C from scratch.
@@ -95,7 +96,7 @@ An awesome list about Software Defined Networks (SDN)
 - [OpenContrail](https://tungsten.io/opencontrail-is-now-tungsten-fabric/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [OVN](http://www.openvswitch.org//support/slides/OVN-Vancouver.pdf) - OVN: Open Virtual Network for Open vSwitch
-- [POX](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (*SDN*) control applications.
+- [POX](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (_SDN_) control applications.
 - [Ravel](https://github.com/ravel-net/ravel) - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
 - [Ryu](https://ryu-sdn.org/) - A component-based software defined networking framework.
 - [Trema](https://trema.github.io/trema/) - A full-stack, easy-to-use framework for developing OpenFlow controllers in Ruby and C.
@@ -174,8 +175,7 @@ An awesome list about Software Defined Networks (SDN)
 - [DPDK](http://dpdk.org/) - DPDK is a set of libraries and drivers for fast packet processing.
 - [RDMA](https://en.wikipedia.org/wiki/Remote_direct_memory_access) - Remote direct memory access (RDMA) is a direct memory access from the memory of one computer into that of another without involving either one's operating system. This permits high-throughput, low-latency networking
 - [XDP](https://www.iovisor.org/technology/xdp) - XDP or eXpress Data Path provides a high performance, programmable network data path in the Linux kernel as part of the IO Visor Project.
-It is designed to run on any processors. The first supported CPU was Intel x86 and it is now extended to IBM POWER and ARM.
-
+  It is designed to run on any processors. The first supported CPU was Intel x86 and it is now extended to IBM POWER and ARM.
 
 # Userspace Network Stack
 
@@ -192,19 +192,20 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [SNAS](http://www.snas.io/) - Streaming Network Analytics System (project SNAS) is a framework to collect, track and access tens of millions of routing objects (routers, peers, prefixes) in real time.
 
 # Resources
+
 ## Books
 
 - [DevOps for Networking](https://www.packtpub.com/networking-and-servers/devops-networking)
 - [Network Algorithmics：An Interdisciplinary Approach to Designing Fast Networked Devices](https://doc.lagout.org/network/Network%20Algorithmics%20An%20Interdisciplinary%20Approach%20to%20Designing%20Fast%20Networked%20Devices.pdf)
 - [Network Programmability and Automation Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
 - [SDN: Software Defined Networks: An Authoritative Review of Network Programmability Technologies](https://www.oreilly.com/library/view/sdn-software-defined/9781449342425/)
-- [SDN网络指南](https://feisky.gitbooks.io/sdn/)(OpenSource Book in Chinese by Pengfei Ni)
-- [SDN核心技术剖析和实战指南](http://www.sdnlab.com/book/9480.html)
+- [SDN 网络指南](https://feisky.gitbooks.io/sdn/)(OpenSource Book in Chinese by Pengfei Ni)
+- [SDN 核心技术剖析和实战指南](http://www.sdnlab.com/book/9480.html)
 - [Software Defined Networking with OpenFlow](https://www.packtpub.com/networking-and-servers/software-defined-networking-openflow)
-- [圖解OpenFlow](http://www.books.com.tw/products/CN11301942)
-- [重构网络-SDN架构与实现](http://www.sdnlab.com/book/18762.html)
-- [深度解析SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
-- [软件定义网络:SDN与OpenFlow解析](http://www.sdnlab.com/book/9473.html)
+- [圖解 OpenFlow](http://www.books.com.tw/products/CN11301942)
+- [重构网络-SDN 架构与实现](http://www.sdnlab.com/book/18762.html)
+- [深度解析 SDN: 利益、战略、技术、实践](http://www.sdnlab.com/book/9470.html)
+- [软件定义网络:SDN 与 OpenFlow 解析](http://www.sdnlab.com/book/9473.html)
 
 ## Paper
 
@@ -215,4 +216,5 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [SDN A Comprehensive Survey](https://arxiv.org/pdf/1406.0440.pdf)
 
 ## Awesome Posts
-- [VXLAN L3应用EVPN，呈现完整overlay网络](https://www.sdnlab.com/19879.html)
+
+- [VXLAN L3 应用 EVPN，呈现完整 overlay 网络](https://www.sdnlab.com/19879.html)

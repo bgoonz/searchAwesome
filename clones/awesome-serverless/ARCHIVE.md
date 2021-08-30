@@ -454,7 +454,7 @@
 - [3 things we learned at ServerlessConf Austin](https://medium.com/adobe-io/three-things-we-learned-at-serverless-conf-austin-9692fa229d13) - Post about learnings gained during ServerlessConf Austin 2017.
 - [ServerlessConf 2017 TLDA](https://medium.com/@rylandgoldstein/serverless-conference-2017-tl-da-too-long-didnt-attend-65f311bf14b8) - Reflective blog post about ServerlessConf Austin 2017.
 - [State of serverless](https://medium.com/@wiggzz/state-of-serverless-f71df7866b2c) - Some quick thoughts from ServerlessConf Austin 2017.
-- [Your first serverless multi-tier web app on AWS](https://www.lambdatv.com/Your-first-serverless-multi-tier-web-app-on-AWS-(updated-for-2017)) - Step-by-step AWS Lambda tutorial.
+- [Your first serverless multi-tier web app on AWS](<https://www.lambdatv.com/Your-first-serverless-multi-tier-web-app-on-AWS-(updated-for-2017)>) - Step-by-step AWS Lambda tutorial.
 - [Watch out for serverless blind spots](http://www.infoworld.com/article/3196133/cloud-computing/watch-out-for-serverless-computings-blind-spot.html) - Post which discusses the potential problems when dealing with a serverless infrastructure.
 - [Drawbacks of serverless architectures](https://dzone.com/articles/the-drawbacks-of-serverless-architecture) - Post about problems one might face when dealing with serverless architectures.
 - [Alexa skill with FaaS](http://blog.alexellis.io/serverless-alexa-skill-mobymingle/) - How to build an Alexa skill with FaaS.
@@ -838,7 +838,7 @@
 - [Towards a serverless event-sourced Nordstrom](https://serverless.com/blog/rob-gruhl-serverless-event-sourced-nordstrom-emit-2017/) - How Nordstrom uses serverless computing (and the Serverless Framework) to create an event-sourced architecture.
 - [How Droplr scales to millions](https://serverless.com/blog/how-droplr-scales-to-millions-serverless-framework/) - How Droplr scales to millions with the Serverless Framework.
 - [Toward a functional programming analogy for microservices](https://serverless.com/blog/bobby-calderwood-functional-programming-microservices-emit-2017/) - How functional programming and thinking can help in a serverless microservice world.
-- [Microsoft launches Brigade -  An event-driven scripting tool for Kubernetes](https://thenewstack.io/microsoft-launches-brigade-event-driven-scripting-tool-kubernetes/) - Post about the recent [Brigade](http://brigade.sh) release by Microsoft.
+- [Microsoft launches Brigade - An event-driven scripting tool for Kubernetes](https://thenewstack.io/microsoft-launches-brigade-event-driven-scripting-tool-kubernetes/) - Post about the recent [Brigade](http://brigade.sh) release by Microsoft.
 - [Introducing the Graphcool Framework](https://blog.graph.cool/introducing-the-graphcool-framework-d9edab2a7816) - Announcement blog post about the [Graphcool Framework](https://github.com/graphcool/framework).
 - [Unikernels and event-driven serverless platforms](https://serverless.com/blog/madhuri-yechuri-unikernels-event-driven-serverless-emit-2017/) - How unikernels can provide value in a serverless environment.
 - [Introducing Jazz - T-Mobile's serverless development platform](https://medium.com/@dev.satishm/introducing-jazz-t-mobiles-serverless-development-platform-da4c27aaf855) - Announcement blog post about T-Mobile's serverless development platform called [Jazz](https://github.com/tmobile/jazz).
@@ -1143,7 +1143,7 @@
 - [Serverless technology use cases](https://cloudacademy.com/webinars/serverless-technology-use-cases-39) - Webinar about serverless technology use cases.
 - [The Serverless Framework and OpenWhisk](https://www.youtube.com/watch?v=GJY10W98Itc) - Tutorial on how to setup and use the OpenWhisk Serverless Framework integration.
 - [Serverless Slack app Part 1](https://www.youtube.com/watch?v=n4OerfEyTJ4) - How to build a Slack app with the Serverless Framework.
-- [Scope - The Serverless open source status board](https://www.youtube.com/playlist?list=PLIIjEI2fYC-BtxWcDeTziRp7cIZVEepB3) -  Video series about the serverless open source software ["Scope"](https://github.com/serverless/scope).
+- [Scope - The Serverless open source status board](https://www.youtube.com/playlist?list=PLIIjEI2fYC-BtxWcDeTziRp7cIZVEepB3) - Video series about the serverless open source software ["Scope"](https://github.com/serverless/scope).
 - [Serverless Slack app Part 2](https://www.youtube.com/watch?v=nKYoFSowQQI) - How to build a Slack app with the Serverless Framework.
 - [Getting started with Serverless](https://www.youtube.com/watch?v=1lYNuR2LwMw) - Getting started with the Serverless Framework, Lambda (Node.js), API Gateway, DynamoDB.
 - [Serverless Framework credentials setup](https://www.youtube.com/watch?v=HSd9uYj2LJA) - Video how to setup the credentials with the Serverless Framework.
@@ -1667,7 +1667,7 @@
 - [Node Lambda](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your Node.js application to AWS Lambda.
 - [Redsift](https://redsift.com) - A serverless, full stack, polyglot PaaS ([introduction blog post](https://medium.com/redsift-outbox/introducing-redsift-a-serverless-full-stack-polyglot-paas-7cdf3801c4b9)).
 - [Lambda TV](https://github.com/jeshan/lambdatv) - Sample code for demos on Lambda TV.
-- [Squeezer.IO](https://squeezer.io) - Event-Driven APIs and web apps on serverless microservices ([GitHub project]([Squeezer](https://github.com/SqueezerIO/squeezer))).
+- [Squeezer.IO](https://squeezer.io) - Event-Driven APIs and web apps on serverless microservices ([GitHub project](<[Squeezer](https://github.com/SqueezerIO/squeezer)>)).
 - [Nanoscale.io](https://www.nanoscale.io) - The fastest way to build microservices.
 - [Pyroclast](http://pyroclast.io) - Turn event streams into (micro) services.
 - [OpenWhisk Slackapp](https://github.com/IBM-Bluemix/openwhisk-slackapp) - Slack app built with Slack Events API and IBM Bluemix OpenWhisk.
@@ -1723,7 +1723,7 @@
 - [Serverless Atom dashboard](https://github.com/horike37/serverless-dashboard-for-atom) - Atom plugin which implements a dashboard for Serverless Framework applications.
 - [ReadMe Build](https://readme.build) - Build flexible, powerful APIs in seconds.
 - [Dashbird](https://www.dashbird.io) - Monitor, debug and optimize AWS Lambda functions.
-- [Fission Workflows](https://github.com/fission/fission-workflows) -  Fast, reliable and lightweight serverless function composition.
+- [Fission Workflows](https://github.com/fission/fission-workflows) - Fast, reliable and lightweight serverless function composition.
 - [AWS Mobile React Native starter](https://github.com/awslabs/aws-mobile-react-native-starter) - AWS Mobile React Native starter app which runs on a serverless infrastructure.
 - [Stackery](https://www.stackery.io) - Serverless operations console.
 - [Serverless chat](https://github.com/danilop/serverless-chat) - Web chat built using AWS Lambda, AWS IoT (for WebSockets) and Amazon DynamoDB.
@@ -1908,7 +1908,7 @@
 - [Lambda fanout](https://github.com/trek10inc/serverless-aws-lambda-fanout) - Quickly add a fanout Lambda with targets to a Serverless project.
 - [Browserifier](https://github.com/digitalmaas/serverless-plugin-browserifier) - Reduce the size and speed up your Node.js based Lambdas using Browserify.
 - [Shell](https://github.com/UnitedIncome/serverless-shell) - Drop to a runtime shell with all the environment variables set that you'd have in Lambda.
-[Offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing on Serverless projects.
+  [Offline](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing on Serverless projects.
 - [Stack output](https://github.com/sbstjn/serverless-stack-output) - Store output from your AWS CloudFormation Stack in JSON/YAML/TOML files, or to pass it to a JavaScript function for further processing.
 - [OpenAPI documentation](https://github.com/temando/serverless-openapi-documentation) - Generate OpenAPI V3 documentation from a Serverless configuration.
 - [Build substitute](https://github.com/zyrorl/serverless-build-substitute-plugin) - Build plugin to substitute files into a build (eg. AWS binaries into node_modules).

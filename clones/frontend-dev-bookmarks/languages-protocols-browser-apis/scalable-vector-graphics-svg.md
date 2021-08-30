@@ -8,11 +8,11 @@ An XML-based vector image format for two-dimensional graphics with support for i
 [![Gitter](https://img.shields.io/gitter/room/dypsilon/frontend-dev-bookmarks.svg?style=flat-square&maxAge=2592000)](https://gitter.im/dypsilon/frontend-dev-bookmarks)
 [![Twitter](https://img.shields.io/badge/follow-twitter-55acee.svg?style=flat-square)](https://twitter.com/FrontendDir)
 
------------------------------------------
-+ **[Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)**: This article will provide you with tools and resources to simplify editing, converting, optimizing, and delivering SVGs.
+---
 
+- **[Tools And Resources For Editing, Converting And Optimizing SVGs](https://www.smashingmagazine.com/2016/04/tools-and-resources-for-editing-converting-and-optimizing-svgs/)**: This article will provide you with tools and resources to simplify editing, converting, optimizing, and delivering SVGs.
 
-------------------
+---
 
 # License
 

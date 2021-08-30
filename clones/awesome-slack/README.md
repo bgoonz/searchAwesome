@@ -1,7 +1,9 @@
 # awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 > A curated list of awesome Slack related things
 
 ## Table of Contents
+
 - [Unofficial clients](#unofficial-clients)
 - [Lists](#lists)
 - [Third-party services](#third-party-services)
@@ -34,15 +36,18 @@
   - [Zephir](#zephir)
 
 ## Unofficial clients
+
 - Linux - [PlaidChat](https://github.com/plaidchat/plaidchat)
 - Linux - [ScudCloud](https://github.com/raelgc/scudcloud)
 - Windows - [SlackUI](https://github.com/rfgamaral/SlackUI)
 
 ## Lists
+
 - [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
 - [Community-built integrations](https://api.slack.com/community)
 
 ## Third-party services
+
 - [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier/server/overview) - Send notifications to a Slack channel when a repo push occurs
 - [Datadog](https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/) - Send notifications to slack when alerts trigger, and share graphs with your colleagues in chat.
 - [Drupal](https://www.drupal.org/project/slack) - Send messages from a Drupal website to Slack
@@ -55,6 +60,7 @@
 - [Wordpress Plugin: bbPress Slack](https://wordpress.org/plugins/bbpress-slack-integration/) - Send notifications of new bbPress topics and replies to Slack
 
 ## Themes
+
 - [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
 - [Sweet Themes are Made of These](http://sweetthemesaremadeofthe.se/) - site for sharing Slack custom palettes
 
@@ -130,7 +136,7 @@
 - [phoenix](https://github.com/ehazlett/phoenix) - Pluggable bot for Slack
 - [rmslack](https://github.com/mephux/rmslack) - Purge a slack channel of all messages
 - [slack](https://github.com/nlopes/slack) - Slack API in Go
-- [slack\_auth\_proxy](https://github.com/tappleby/slack_auth_proxy) - A reverse proxy providing authentication via a slack.com team
+- [slack_auth_proxy](https://github.com/tappleby/slack_auth_proxy) - A reverse proxy providing authentication via a slack.com team
 - [slack-cli](https://github.com/siddontang/slack-cli) - A command tool to communicate with Slack
 - [slack-fingerbumpbot](https://github.com/grantmd/slack-fingerbumpbot) - A bot for Slack that never leaves a finger bump hanging
 - [slack-markov](https://github.com/grantmd/slack-markov) - A markov chain bot for your Slack channel
@@ -373,7 +379,7 @@
 - [slack-emojis](https://github.com/jkloo/slack-emojis) - images for custom Slack emojis
 - [slack-imgur](https://github.com/juanpabloaj/slack-imgur) - A random image from Imgur to Slack
 - [slack-overflow](https://github.com/karan/slack-overflow) - Search Stack Overflow right from within Slack
-- [slack\_standup\_snitch](https://github.com/ramanshah/slack_standup_snitch) - A Slack bot that counts the days each user was active on a channel, calling out the inactive users
+- [slack_standup_snitch](https://github.com/ramanshah/slack_standup_snitch) - A Slack bot that counts the days each user was active on a channel, calling out the inactive users
 - [slack-w3w](https://github.com/samzhang111/slack-w3w) - Slack Webhook for linking to What3Words
 - [slack-workout](https://github.com/brandonshin/slackbot-workout) - A fun hack that gets Slackbot to force your teammates to work out!
 - [slack-zenoss](https://github.com/ssplatt/slack-zenoss) - A Slack incoming webhook to show events from Zenoss
@@ -411,7 +417,7 @@
 - [capistrano-slack](https://github.com/nextupdate/capistrano-slack) (II) - Send Capistrano deployment messages to Slack
 - [capistrano-slackify](https://github.com/onthebeach/capistrano-slackify) - Send Capistrano deployment messages to Slack
 - [chef-slack](https://github.com/risk-io/chef-slack) - Cookbook to send messages to Slack
-- [chef-slack\_handler](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack
+- [chef-slack_handler](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack
 - [dogetip-slack](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
 - [doorbell-server](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell
 - [fastlane](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
@@ -420,7 +426,7 @@
 - [kickslacker](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack
 - [lita-slack](https://github.com/kenjij/lita-slack) - Lita adapter for Slack
 - [lita-slack-handler](https://github.com/kenjij/lita-slack-handler) - Lita handler for Slack
-- [mina\_slack](https://github.com/mbajur/mina_slack) - Slack notifications for Mina
+- [mina_slack](https://github.com/mbajur/mina_slack) - Slack notifications for Mina
 - [Monit to Slack](https://gist.github.com/jlecour/9830941) - Post alerts from Monit to Slack
 - [mslabs-slack-bridge](https://github.com/ms-digital-labs/mslabs-slack-bridge) - Bridge between our cloud services and Slack
 - [omniauth-slack](https://github.com/kmrshntr/omniauth-slack) - Omniauth provider for Slack
@@ -431,7 +437,7 @@
 - [resque-slack](https://github.com/julienXX/resque-slack) - Post failed Rescue jobs notifications in a Slack channel
 - [semaphore-to-slack](https://github.com/flevour/semaphore-to-slack) - Post Semaphore status messages to Slack
 - [slack-gamebot](https://github.com/dblock/slack-gamebot) - A game bot for Slack
-- [slack\_notifier](https://github.com/nacyot/slack_notifier) - Send notifications to Slack
+- [slack_notifier](https://github.com/nacyot/slack_notifier) - Send notifications to Slack
 - [slack-notifier](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack
 - [slack-notify](https://github.com/sosedoff/slack-notify) - Send notifications to Slack
 - [slack-portals](https://github.com/atomic-app/slack-portals) - Link two different companies' Slacks together through a common channel
@@ -489,7 +495,7 @@
 - [slack-hack](https://github.com/steinn/slack-hack/) - Random bot
 - [slack-rails-ci](https://github.com/caiosba/slack-rails-ci) - Run a command; post it and its standard input, output, and error to Slack
 - [slacktee](https://github.com/course-hero/slacktee) - A bash script that works like _tee_ command
-- [stash\_slack](https://gist.github.com/linjer/2ee6146d3b320cbe9225) - Atlassian Stash integration with Slack through external web hooks
+- [stash_slack](https://gist.github.com/linjer/2ee6146d3b320cbe9225) - Atlassian Stash integration with Slack through external web hooks
 - [wercker-step-slack-notify](https://github.com/sherzberg/wercker-step-slack-notify) - Send a message to Slack
 - [wercker-step-slack-post](https://github.com/kobim/wercker-step-slack-post) - Post wercker deploy status to Slack
 - [zabbix-slack-alertscript](https://github.com/ericoc/zabbix-slack-alertscript) - Custom Zabbix AlertScript for Slack
@@ -502,12 +508,10 @@
 
 - [zephlack](https://github.com/linxlad/zephlack) - Slack Messaging extension written in Zephir
 
-
 ## Contribute
 
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 

@@ -2,7 +2,7 @@
 
 > [Wardley Mapping](https://en.wikipedia.org/wiki/Wardley_map) is a technique that helps you examine your environment, identify upcoming changes and properly choose your actions. By examining what is needed, what components will be in use, what are their dependencies and characteristics, you can build a visual representation of your world, play what-if games, and pick your direction and best actions to support it.
 
-This is a list of useful Wardley mapping resources and examples. Short URL: [list.wardleymaps.com](https://list.wardleymaps.com). Contributions welcome! [Contribution guidelines](https://list.wardleymaps.com/contributing) for adding something to the list. 
+This is a list of useful Wardley mapping resources and examples. Short URL: [list.wardleymaps.com](https://list.wardleymaps.com). Contributions welcome! [Contribution guidelines](https://list.wardleymaps.com/contributing) for adding something to the list.
 
 ## Contents
 
@@ -25,7 +25,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Investing in innovation](https://www.youtube.com/watch?v=Gfq3ocmadZo&list=PLP0vnsXbJsRVkWG7pjboonlrbISxtSN9I) - How situational awareness can put your business on the map (5:51).
 - [My basics for business strategy](https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216) - In 11 diagrams by [Simon Wardley](https://twitter.com/swardley).
 - [Getting Strategic on Peace and Justice](https://vimeo.com/363571089) - An engaging animation by [Sue Borchardt](https://vimeo.com/researchartist) (5:39).
-- [From Cloud to DevOps to Serverless in under 10 minutes using maps](https://www.youtube.com/watch?v=7DSfguWPPWA ) - A basic introduction to change in the IT industry using the concept of Wardley maps by Simon Wardley (9:56).
+- [From Cloud to DevOps to Serverless in under 10 minutes using maps](https://www.youtube.com/watch?v=7DSfguWPPWA) - A basic introduction to change in the IT industry using the concept of Wardley maps by Simon Wardley (9:56).
 
 ## Community
 
@@ -56,7 +56,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Wardley Maps on Vimeo](https://vimeo.com/channels/wardleymaps) - Talks by Simon Wardley and the Wardley mapping community.
 - [Wardley Maps BarCamp 2020](https://www.youtube.com/playlist?list=PLP0vnsXbJsRVZSbkzWUA-q0eRU5R5bBu1) - Over 10 hours of presentations by 17 speakers.
 - [Map Camp London 2019](https://www.infoq.com/Map-Camp-Conference-London-2019/presentations/) - Watch presentations and video recordings on InfoQ.
-  
+
 ## Courses
 
 - [Wardley Mapping](https://learn.leadingedgeforum.com/p/wardley-mapping/?product_id=277424) - Learn how to stimulate future ideas and strategies with the Leading Edge Forum.
@@ -71,6 +71,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 ## Maps in the Wild
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
+
 - [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap. Oct 22, 2020.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
@@ -119,7 +120,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Blue pill or red pill?](https://swardley.medium.com/blue-pill-or-red-pill-9249bed5918b) - Doctrine and doctrine phases by Simon Wardley. May 25, 2017.
 - [Is my diagram a map?](https://swardley.medium.com/is-my-diagram-a-map-7b30c10fb693) - By Simon Wardley. May 12, 2017.
 - [Gameplay for Data Flow](https://medium.com/digital-anatomy/gameplay-for-data-flow-518f72892629) - By James Urquhart. Mar 24, 2017.
-- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270) - By James Urquhart. Feb 4, 2017. 
+- [Applying doctrine to data flow](https://medium.com/digital-anatomy/applying-doctrine-to-data-flow-5733822d9270) - By James Urquhart. Feb 4, 2017.
 - [Designing for constant evolution](https://medium.com/hackernoon/designing-for-constant-evolution-41b216741974) - Pioneer, Settler and Town Planner (Wardley PST). Jan 31, 2017.
 - [Near field, far field and the crazy ideas](https://swardley.medium.com/near-field-far-field-and-the-crazy-ideas-356d84752ed9) - My future career as a Harmony Designer. Jan 17, 2017.
 - [Adding Context To The Wardley Map of Data Flow](https://medium.com/digital-anatomy/adding-context-to-the-wardley-map-of-data-flow-c818dc2960d6) - How do you extract value from the jumble of components and value relationships by James Urquhart. Jan 12, 2017.
@@ -206,11 +207,11 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
   - Germany
     - [Cologne](https://www.meetup.com/New-Business-Strategies-Wardley-Maps-OODA-Loops-and-more/)
     - [Hamburg](https://www.meetup.com/Strategic-Business-Map-Club-Hamburg/)
-    - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)    
+    - [Munich](https://www.meetup.com/Wardley-Mapping-Community-Muenchen/)
   - Netherlands
     - [Amsterdam](https://www.meetup.com/nl-NL/Strategic-Mapping-Meetup-AMS/)
   - Norway
-    - [Oslo](https://www.meetup.com/oslo-wardley-mapping)    
+    - [Oslo](https://www.meetup.com/oslo-wardley-mapping)
   - Serbia
     - [Belgrade](https://www.meetup.com/map-meetup-belgrade/)
   - Spain

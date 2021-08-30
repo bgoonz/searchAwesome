@@ -10,5 +10,5 @@ import React from "react"
 import GlobalState from "./src/context/globalState"
 
 export const wrapRootElement = ({ element }) => (
-	<GlobalState>{element}</GlobalState>
+  <GlobalState>{element}</GlobalState>
 )

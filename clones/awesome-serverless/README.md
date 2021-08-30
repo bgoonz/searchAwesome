@@ -2,9 +2,9 @@
 
 > A curated list of resources about all things serverless.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project.*
+_Inspired by the [awesome](https://github.com/sindresorhus/awesome) list project._
 
-**Say *hello* on [Twitter](https://twitter.com/pmmuens).**
+**Say _hello_ on [Twitter](https://twitter.com/pmmuens).**
 
 ## Table of contents
 

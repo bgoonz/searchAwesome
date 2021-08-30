@@ -1,7 +1,6 @@
 ### Index
 
-* [LaTeX](#latex)
-
+-   [LaTeX](#latex)
 
 #### Latex
 
