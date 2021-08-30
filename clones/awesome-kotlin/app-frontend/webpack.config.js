@@ -20,85 +20,92 @@ Build started with following configuration:
 
   return {
     entry: {
-      app: [
-        path.resolve(APP_DIR, "src", "main.tsx")
-      ]
+      app: [path.resolve(APP_DIR, "src", "main.tsx")],
     },
     output: {
       path: path.resolve(__dirname, "dist"),
       filename: "[name].js?[contenthash]",
       chunkFilename: "[name].bundle.js?[chunkhash]",
-      publicPath: "/"
+      publicPath: "/",
     },
     optimization: {
       splitChunks: {
-        chunks: "all"
-      }
+        chunks: "all",
+      },
     },
     resolve: {
-      extensions: [".ts", ".tsx", ".js"]
+      extensions: [".ts", ".tsx", ".js"],
     },
     bail: false,
     devtool: SOURCE_MAP,
     module: {
-      rules: [{
-        test: /\.tsx?$/,
-        use: [{
-          loader: "ts-loader"
-        }]
-      }, {
-        test: /\.less$/,
-        use: [{
-          loader: "style-loader"
-        }, {
-          loader: "css-loader"
-        }, {
-          loader: "postcss-loader",
-          options: {
-            postcssOptions: {
-              plugins: [["autoprefixer"]]
+      rules: [
+        {
+          test: /\.tsx?$/,
+          use: [
+            {
+              loader: "ts-loader",
             },
-          }
-        }, {
-          loader: "less-loader"
-        }]
-      }, {
-        test: /\.(png|jpg|gif|svg)$/,
-        type: "asset",
-        parser: {
-          dataUrlCondition: {
-            maxSize: 32768
-          }
-        }
-      }]
+          ],
+        },
+        {
+          test: /\.less$/,
+          use: [
+            {
+              loader: "style-loader",
+            },
+            {
+              loader: "css-loader",
+            },
+            {
+              loader: "postcss-loader",
+              options: {
+                postcssOptions: {
+                  plugins: [["autoprefixer"]],
+                },
+              },
+            },
+            {
+              loader: "less-loader",
+            },
+          ],
+        },
+        {
+          test: /\.(png|jpg|gif|svg)$/,
+          type: "asset",
+          parser: {
+            dataUrlCondition: {
+              maxSize: 32768,
+            },
+          },
+        },
+      ],
     },
-    plugins: createListOfPlugins({NODE_ENV}, APP_DIR),
+    plugins: createListOfPlugins({ NODE_ENV }, APP_DIR),
     devServer: {
       stats: {
         chunkModules: false,
-        colors: true
+        colors: true,
       },
       historyApiFallback: true,
-      inline: false
-    }
-  }
+      inline: false,
+    },
+  };
 };
 
-function createListOfPlugins({NODE_ENV}, APP_DIR) {
+function createListOfPlugins({ NODE_ENV }, APP_DIR) {
   return [
     new HtmlWebpackPlugin({
       template: path.resolve(APP_DIR, "index.html"),
-      hash: true
+      hash: true,
     }),
     new CopyWebpackPlugin({
-      patterns: [
-        {from: path.resolve(APP_DIR, "icons")}
-      ]
+      patterns: [{ from: path.resolve(APP_DIR, "icons") }],
     }),
     new webpack.DefinePlugin({
       "process.env": {
-        "NODE_ENV": JSON.stringify(NODE_ENV)
-      }
-    })
+        NODE_ENV: JSON.stringify(NODE_ENV),
+      },
+    }),
   ];
 }

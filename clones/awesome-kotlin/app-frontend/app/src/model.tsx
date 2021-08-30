@@ -14,8 +14,8 @@ export interface Link {
   readonly name: string;
   readonly href: string;
   readonly desc: string;
-  readonly platforms: PlatformType[]
-  readonly tags: string[]
+  readonly platforms: PlatformType[];
+  readonly tags: string[];
   readonly star: number | null;
   readonly update: string | null;
   readonly state: LinkState;
@@ -28,12 +28,12 @@ export enum PlatformType {
   JS = "JS",
   JVM = "JVM",
   NATIVE = "NATIVE",
-  WASM = "WASM"
+  WASM = "WASM",
 }
 
 export enum LinkState {
   AWESOME = "AWESOME",
   UNSUPPORTED = "UNSUPPORTED",
   ARCHIVED = "ARCHIVED",
-  DEFAULT = "DEFAULT"
+  DEFAULT = "DEFAULT",
 }

@@ -1,7 +1,6 @@
-Useful Articles
-=======================================================================
+# Useful Articles
 
-*A piece of writing included with others in a newspaper, magazine, or other publication*
+_A piece of writing included with others in a newspaper, magazine, or other publication_
 
 ### [Cloud Providers](#cloud-providers)
 
@@ -19,6 +18,7 @@ Useful Articles
 - [State of Managed Kubernetes 2020](https://medium.com/swlh/state-of-managed-kubernetes-2020-4be006643360) by [Yitaek Hwang](https://medium.com/@yitaek)
 
 ### [Logging](#logging)
+
 - [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Logging - Kafka topic by namespace](http://www.devoperandi.com/logging-kafka-topic-by-kubernetes-namespace/) by Michael Ward
 - [The Complete Guide to Kubernetes Logging](https://sematext.com/guides/kubernetes-logging/) by [Adnan Rahić](https://twitter.com/adnanrahic)
@@ -72,7 +72,9 @@ Useful Articles
 - [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) using [Semaphore](https://semaphoreci.com)
 - [How to Release Faster with Continuous Delivery for Google Kubernetes](https://semaphoreci.com/blog/continuous-delivery-google-kubernetes) using [Semaphore](https://semaphoreci.com)
 - [Build, Test & Deploy to Kubernetes](https://buddy.works/guides/how-optimize-kubernetes-workflow) by [Buddy](https://buddy.works)
+
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
+
 - [Kubernetes Deployments: The Ultimate Guide](https://semaphoreci.com/blog/kubernetes-deployment) by [Jérôme Petazzoni](https://twitter.com/jpetazzo)
 - [Deploying your apps in Kubernetes via GitLab CI/CD integration in werf](https://werf.io/documentation/guides/gitlab_ci_cd_integration.html)
 
@@ -95,35 +97,36 @@ Useful Articles
 - [Deploying Kubernetes with SaltStack](http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/) by [Jon Langemak](https://twitter.com/blinken_lichten)
 
 ### [Others](#others)
-* [Packaging Multiple Resources together](https://planet.jboss.org/post/kubernetes_application_package_multiple_resources_together) by Arun Gupta
-* [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) by [Carlos Sanchez](https://twitter.com/csanchez)
-* [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](http://access.redhat.com/articles/1353773) by [Chris Negus](https://twitter.com/linuxcricket)
-* [Containerizing Docker on Kubernetes](https://www.linkedin.com/pulse/containerizing-docker-kubernetes-ramit-surana/) by [Ramit Surana](https://twitter.com/ramitsurana)
-* [Quay: Introducing an Application Registry for Kubernetes](http://coreos.com/blog/quay-application-registry-for-kubernetes.html) by Antoine Legrand
-* [Play With Kubernetes Quickly Using Docker](http://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
-* [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
-* [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
-* [CoreOS + Kubernetes Step By Step](https://github.com/coreos/tectonic-docs/blob/master/Documentation/tutorials/kubernetes/getting-started.md) by [Coreos](https://github.com/coreos/)
-* [Deploying to Kubernetes with Panamax](http://www.ctl.io/developers/blog/post/deploying-to-kubernetes-with-panamax/) by [Brian DeHamer](https://twitter.com/bdehamer)
-* [Deploying a Bare Metal Kubernetes Cluster](http://blog.jameskyle.org/2014/08/deploying-baremetal-kubernetes-cluster/) by [James Kyle](https://twitter.com/jameskyle75)
-* [Kubernetes clusters with Oh-My-Vagrant](http://ttboj.wordpress.com/2015/05/02/kubernetes-clusters-with-oh-my-vagrant/) by [James](https://twitter.com/#!/purpleidea)
-* [Fleet Unit Files for Kubernetes on CoreOS](http://blog.michaelhamrah.com/2015/06/fleet-unit-files-for-kubernetes-on-coreos/) by [Michael Hamrah](https://twitter.com/mhamrah)
-* [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
-* [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
-* [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
-* [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
-* [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
-* [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
-* [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) by [Dan Pastusek](https://twitter.com/pastudan)
-* [Simplify your research experiments with Kubernetes](https://www.ovh.com/blog/simplify-your-research-experiments-with-kubernetes/) by [Parmentier Laurent](https://www.linkedin.com/in/laurent-parmentier-33187948/)
-* [Self-registering compact k3OS clusters to Rancher Server via cloud-init](https://medium.com/@jamesdavidbohrman/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8) by [James D. Bohrman](https://github.com/jdbohrman)
-* [Benchmarking 5 Popular Load Balancers: Nginx, HAProxy, Envoy, Traefik, and ALB](https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb/)
-* [Magento on Kubernetes](https://buddy.works/guides/magento-kubernetes)
-* [Wordpress in Docker with Kubernetes](https://buddy.works/guides/wordpress-docker-kubernetes-part-3)
-* [Kubernetes Operators Explained](https://pperzyna.com/blog/kubernetes-operators-explained/) by [Piotr Perzyna](https://twitter.com/PiotrPerzyna)
-* [Comparing Ingress controllers for Kubernetes](https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b) by [Andrey Radygin](https://github.com/andreyradygin)
-* [ConfigMaps in Kubernetes: how they work and what you should remember](https://medium.com/flant-com/configmaps-in-kubernetes-f9f6d0081dcb) by [Mikhail Nosov](https://github.com/drdeimos)
-* [Kubernetes Ingress Controller Overview](https://medium.com/swlh/kubernetes-ingress-controller-overview-81abbaca19ec) by [Yitaek Hwang](https://medium.com/@yitaek)
-* [Production Checklist for Redis on Kubernetes](https://medium.com/swlh/production-checklist-for-redis-on-kubernetes-60173d5a5325) by [Yitaek Hwang](https://medium.com/@yitaek)
-* [Ultimate Kubernetes Resource Planning Guide](https://medium.com/dev-genius/ultimate-kubernetes-resource-planning-guide-449a4fddd1d6) by [Yitaek Hwang](https://medium.com/@yitaek)
-* [Learn How to Mount a Local Drive in a Pod in minikube](https://thospfuller.com/2020/12/09/learn-how-to-mount-a-local-drive-in-a-pod-in-minikube-2021/) by [Thomas P. Fuller](https://thospfuller.com/)
+
+- [Packaging Multiple Resources together](https://planet.jboss.org/post/kubernetes_application_package_multiple_resources_together) by Arun Gupta
+- [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) by [Carlos Sanchez](https://twitter.com/csanchez)
+- [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](http://access.redhat.com/articles/1353773) by [Chris Negus](https://twitter.com/linuxcricket)
+- [Containerizing Docker on Kubernetes](https://www.linkedin.com/pulse/containerizing-docker-kubernetes-ramit-surana/) by [Ramit Surana](https://twitter.com/ramitsurana)
+- [Quay: Introducing an Application Registry for Kubernetes](http://coreos.com/blog/quay-application-registry-for-kubernetes.html) by Antoine Legrand
+- [Play With Kubernetes Quickly Using Docker](http://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
+- [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
+- [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) by [Kamal Marhubi](https://twitter.com/kamalmarhubi)
+- [CoreOS + Kubernetes Step By Step](https://github.com/coreos/tectonic-docs/blob/master/Documentation/tutorials/kubernetes/getting-started.md) by [Coreos](https://github.com/coreos/)
+- [Deploying to Kubernetes with Panamax](http://www.ctl.io/developers/blog/post/deploying-to-kubernetes-with-panamax/) by [Brian DeHamer](https://twitter.com/bdehamer)
+- [Deploying a Bare Metal Kubernetes Cluster](http://blog.jameskyle.org/2014/08/deploying-baremetal-kubernetes-cluster/) by [James Kyle](https://twitter.com/jameskyle75)
+- [Kubernetes clusters with Oh-My-Vagrant](http://ttboj.wordpress.com/2015/05/02/kubernetes-clusters-with-oh-my-vagrant/) by [James](https://twitter.com/#!/purpleidea)
+- [Fleet Unit Files for Kubernetes on CoreOS](http://blog.michaelhamrah.com/2015/06/fleet-unit-files-for-kubernetes-on-coreos/) by [Michael Hamrah](https://twitter.com/mhamrah)
+- [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
+- [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
+- [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
+- [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
+- [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
+- [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
+- [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) by [Dan Pastusek](https://twitter.com/pastudan)
+- [Simplify your research experiments with Kubernetes](https://www.ovh.com/blog/simplify-your-research-experiments-with-kubernetes/) by [Parmentier Laurent](https://www.linkedin.com/in/laurent-parmentier-33187948/)
+- [Self-registering compact k3OS clusters to Rancher Server via cloud-init](https://medium.com/@jamesdavidbohrman/self-registering-compact-k3os-clusters-to-rancher-server-via-cloud-init-d4a89028c1f8) by [James D. Bohrman](https://github.com/jdbohrman)
+- [Benchmarking 5 Popular Load Balancers: Nginx, HAProxy, Envoy, Traefik, and ALB](https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb/)
+- [Magento on Kubernetes](https://buddy.works/guides/magento-kubernetes)
+- [Wordpress in Docker with Kubernetes](https://buddy.works/guides/wordpress-docker-kubernetes-part-3)
+- [Kubernetes Operators Explained](https://pperzyna.com/blog/kubernetes-operators-explained/) by [Piotr Perzyna](https://twitter.com/PiotrPerzyna)
+- [Comparing Ingress controllers for Kubernetes](https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b) by [Andrey Radygin](https://github.com/andreyradygin)
+- [ConfigMaps in Kubernetes: how they work and what you should remember](https://medium.com/flant-com/configmaps-in-kubernetes-f9f6d0081dcb) by [Mikhail Nosov](https://github.com/drdeimos)
+- [Kubernetes Ingress Controller Overview](https://medium.com/swlh/kubernetes-ingress-controller-overview-81abbaca19ec) by [Yitaek Hwang](https://medium.com/@yitaek)
+- [Production Checklist for Redis on Kubernetes](https://medium.com/swlh/production-checklist-for-redis-on-kubernetes-60173d5a5325) by [Yitaek Hwang](https://medium.com/@yitaek)
+- [Ultimate Kubernetes Resource Planning Guide](https://medium.com/dev-genius/ultimate-kubernetes-resource-planning-guide-449a4fddd1d6) by [Yitaek Hwang](https://medium.com/@yitaek)
+- [Learn How to Mount a Local Drive in a Pod in minikube](https://thospfuller.com/2020/12/09/learn-how-to-mount-a-local-drive-in-a-pod-in-minikube-2021/) by [Thomas P. Fuller](https://thospfuller.com/)
