@@ -1,21 +1,18 @@
 ![light bulb icon](https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg)
 
-Советы профессионалов CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=====================================================================================================================================================================================
+# Советы профессионалов CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Коллекция советов, которые помогут вам стать лучше в CSS.
 
 > Вы найдете больше [классных списков](https://github.com/sindresorhus/awesome/) под кураторством <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/).
 
-Содержание
-----------
+## Содержание
 
--   [Профессиональные советы](#Профессиональные-советы)
--   [Поддержка](#Поддержка)
--   [Помощь проекту](../../CONTRIBUTING.md)
+- [Профессиональные советы](#Профессиональные-советы)
+- [Поддержка](#Поддержка)
+- [Помощь проекту](../../CONTRIBUTING.md)
 
-Профессиональные советы
------------------------
+## Профессиональные советы
 
 1.  [Используйте CSS Reset](#Используйте-css-reset)
 2.  [Наследуйте `box-sizing`](#Наследуйте-box-sizing)
@@ -159,7 +156,7 @@
 
 ### Добавьте `line-height` в `body`
 
-Вам вовсе не требуется добавлять свойство `line-height` к каждому `<р>`, `<h*>`, *и т.д.*. по отдельности. Вместо этого добавьте его в `body`:
+Вам вовсе не требуется добавлять свойство `line-height` к каждому `<р>`, `<h*>`, _и т.д._. по отдельности. Вместо этого добавьте его в `body`:
 
     body {
       line-height: 1.5;
@@ -290,7 +287,7 @@ SVG хорошо масштабируется для всех разрешени
 
 В этом примере все элементы в потоке документа, которые следуют другие элементы получат `margin-top: 1.5em`.
 
-Более подробную информацию о селекторе “Лоботомированная сова”, можно найти в [статье Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) на *A List Apart*.
+Более подробную информацию о селекторе “Лоботомированная сова”, можно найти в [статье Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) на _A List Apart_.
 
 #### [Демо](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -489,7 +486,7 @@ SVG хорошо масштабируется для всех разрешени
 
 ### Установите `font-size` для элементов формы, чтобы оптимизировать просмотр на мобильных устройствах
 
-Чтобы избежать масштабирования мобильными браузерами (iOS Safari, *и др*.) элементов HTML формы, когда раскрывающийся список `<select>` нажат, добавьте `font-size` правило селектору:
+Чтобы избежать масштабирования мобильными браузерами (iOS Safari, _и др_.) элементов HTML формы, когда раскрывающийся список `<select>` нажат, добавьте `font-size` правило селектору:
 
     input[type="text"],
     input[type="number"],
@@ -525,7 +522,6 @@ SVG хорошо масштабируется для всех разрешени
 
 <sup>[вернуться\ к\ оглавлению](#table-of-contents)</sup>
 
-Поддержка
----------
+## Поддержка
 
 Текущие версии Chrome, Firefox, Safari, Opera, Edge, и IE11.

@@ -1,14 +1,12 @@
-Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/arslanbilal/git-cheat-sheet.svg?branch=master)](https://travis-ci.org/arslanbilal/git-cheat-sheet)
-==================================================================================================================================================================================================================================================================================================================================
+# Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/arslanbilal/git-cheat-sheet.svg?branch=master)](https://travis-ci.org/arslanbilal/git-cheat-sheet)
 
-------------------------------------------------------------------------
+---
 
 <img src="./Img/git-logo.png" alt="Git" width="455" height="190" />
 
-------------------------------------------------------------------------
+---
 
-Other Available Languages:
-==========================
+# Other Available Languages:
 
 1.  [Arabic Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-ar.md)
 2.  [Chinese Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet/blob/master/other-sheets/git-cheat-sheet-zh.md)
@@ -24,29 +22,27 @@ Git cheat sheet saves you from learning all the commands by heart.
 
 Be free to contribute, update the grammar mistakes. You are also free to add your language file.
 
-------------------------------------------------------------------------
+---
 
-Git Cheat Sheet English
-=======================
+# Git Cheat Sheet English
 
 ### Index
 
--   [Set Up](#setup)
--   [Configuration Files](#configuration-files)
--   [Create](#create)
--   [Local Changes](#local-changes)
--   [Search](#search)
--   [Commit History](#commit-history)
--   [Branches & Tags](#branches--tags)
--   [Update & Publish](#update--publish)
--   [Merge & Rebase](#merge--rebase)
--   [Undo](#undo)
--   [Git Flow](#git-flow)
+- [Set Up](#setup)
+- [Configuration Files](#configuration-files)
+- [Create](#create)
+- [Local Changes](#local-changes)
+- [Search](#search)
+- [Commit History](#commit-history)
+- [Branches & Tags](#branches--tags)
+- [Update & Publish](#update--publish)
+- [Merge & Rebase](#merge--rebase)
+- [Undo](#undo)
+- [Git Flow](#git-flow)
 
-------------------------------------------------------------------------
+---
 
-Setup
------
+## Setup
 
 ##### Show current configuration:
 
@@ -80,10 +76,9 @@ Setup
 
     $ git config --global core.editor vi
 
-------------------------------------------------------------------------
+---
 
-Configuration Files
--------------------
+## Configuration Files
 
 ##### Repository specific configuration file \[–local\]:
 
@@ -97,10 +92,9 @@ Configuration Files
 
     /etc/gitconfig
 
-------------------------------------------------------------------------
+---
 
-Create
-------
+## Create
 
 ##### Clone an existing repository:
 
@@ -122,10 +116,9 @@ Via HTTP
 
     $ git init <directory>
 
-------------------------------------------------------------------------
+---
 
-Local Changes
--------------
+## Local Changes
 
 ##### Changes in working directory:
 
@@ -171,15 +164,15 @@ Local Changes
 
     $ git commit --date="`date --date='n day ago'`" -am "<Commit Message Here>"
 
-##### Change last commit: 
+##### Change last commit:
 
-*<sub>Don’t\ amend\ published\ commits!</sub>*
+_<sub>Don’t\ amend\ published\ commits!</sub>_
 
     $ git commit -a --amend
 
 ##### Amend with last commit but use the previous commit log message
 
-*<sub>Don’t\ amend\ published\ commits!</sub>*
+_<sub>Don’t\ amend\ published\ commits!</sub>_
 
     $ git commit --amend --no-edit
 
@@ -191,7 +184,7 @@ Local Changes
 
     $ git commit --amend --date="date"
 
-##### Move uncommitted changes from current branch to some other branch: 
+##### Move uncommitted changes from current branch to some other branch:
 
     $ git stash
     $ git checkout branch2
@@ -203,7 +196,7 @@ Local Changes
 
 #### Restore particular stash back to current branch:
 
--   *{stash\_number}* can be obtained from `git stash list`
+- _{stash_number}_ can be obtained from `git stash list`
 
 <!-- -->
 
@@ -213,10 +206,9 @@ Local Changes
 
     $ git stash drop
 
-------------------------------------------------------------------------
+---
 
-Search
-------
+## Search
 
 ##### A text search on all files in the directory:
 
@@ -234,10 +226,9 @@ Search
 
     $ git log -S 'keyword' --pickaxe-regex
 
-------------------------------------------------------------------------
+---
 
-Commit History
---------------
+## Commit History
 
 ##### Show all commits, starting with newest (it’ll show the hash, author information, date of commit and title of the commit):
 
@@ -271,10 +262,9 @@ Commit History
 
     $ git reflog delete
 
-------------------------------------------------------------------------
+---
 
-Move / Rename
--------------
+## Move / Rename
 
 ##### Rename a file:
 
@@ -282,10 +272,9 @@ Rename Index.txt to Index.html
 
     $ git mv Index.txt Index.html
 
-------------------------------------------------------------------------
+---
 
-Branches & Tags
----------------
+## Branches & Tags
 
 ##### List all local branches:
 
@@ -341,7 +330,7 @@ Branches & Tags
 
 ##### Force delete a local branch:
 
-*<sub>You\ will\ lose\ unmerged\ changes!</sub>*
+_<sub>You\ will\ lose\ unmerged\ changes!</sub>_
 
     $ git branch -D <branch>
 
@@ -365,10 +354,9 @@ Branches & Tags
 
     $ git tag -n
 
-------------------------------------------------------------------------
+---
 
-Update & Publish
-----------------
+## Update & Publish
 
 ##### List all current configured remotes:
 
@@ -382,7 +370,7 @@ Update & Publish
 
     $ git remote add <remote> <url>
 
-##### Rename a remote repository, from &lt;remote&gt; to &lt;new\_remote&gt;:
+##### Rename a remote repository, from &lt;remote&gt; to &lt;new_remote&gt;:
 
     $ git remote rename <remote> <new_remote>
 
@@ -390,7 +378,7 @@ Update & Publish
 
     $ git remote rm <remote>
 
-*<sub>Note:\ git\ remote\ rm\ does\ not\ delete\ the\ remote\ repository\ from\ the\ server.\ It\ simply\ removes\ the\ remote\ and\ its\ references\ from\ your\ local\ repository.</sub>*
+_<sub>Note:\ git\ remote\ rm\ does\ not\ delete\ the\ remote\ repository\ from\ the\ server.\ It\ simply\ removes\ the\ remote\ and\ its\ references\ from\ your\ local\ repository.</sub>_
 
 ##### Download all changes from &lt;remote&gt;, but don’t integrate into HEAD:
 
@@ -424,7 +412,7 @@ OR
 
     $ git push --tags
 
-------------------------------------------------------------------------
+---
 
 #### Configure the merge tool globally to meld (editor)
 
@@ -434,8 +422,7 @@ OR
 
     $ git mergetool
 
-Merge & Rebase
---------------
+## Merge & Rebase
 
 ##### Merge branch into your current HEAD:
 
@@ -445,9 +432,9 @@ Merge & Rebase
 
     $ git branch --merged
 
-##### Rebase your current HEAD onto &lt;branch&gt;: 
+##### Rebase your current HEAD onto &lt;branch&gt;:
 
-*<sub>Don’t\ rebase\ published\ commit!</sub>*
+_<sub>Don’t\ rebase\ published\ commit!</sub>_
 
     $ git rebase <branch>
 
@@ -481,10 +468,9 @@ to this,
     squash <commit_id2>
     squash <commit_id3>
 
-------------------------------------------------------------------------
+---
 
-Undo
-----
+## Undo
 
 ##### Discard all local changes in your working directory:
 
@@ -524,23 +510,22 @@ Undo
     $ git add .
     $ git commit -m "remove xyz file"
 
-------------------------------------------------------------------------
+---
 
-Git-Flow
---------
+## Git-Flow
 
 Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Index
 
--   [Setup](#setup)
--   [Getting Started](#getting-started)
--   [Features](#features)
--   [Make a Release](#make-a-release)
--   [Hotfixes](#hotfixes)
--   [Commands](#commands)
+- [Setup](#setup)
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [Make a Release](#make-a-release)
+- [Hotfixes](#hotfixes)
+- [Commands](#commands)
 
-------------------------------------------------------------------------
+---
 
 ### Setup
 
@@ -564,7 +549,7 @@ Improved [Git-flow](https://github.com/petervanderdoes/gitflow-avh)
 
     $ wget -q -O - --no-check-certificate https://raw.githubusercontent.com/petervanderdoes/gitflow/develop/contrib/gitflow-installer.sh install <state> | bash
 
-------------------------------------------------------------------------
+---
 
 ### Getting Started
 
@@ -580,7 +565,7 @@ OR \#\#\#\#\#\# To use default
 
     git flow init -d
 
-------------------------------------------------------------------------
+---
 
 ### Features
 
@@ -622,7 +607,7 @@ OR \#\#\#\#\#\# To use default
 
     git flow feature track MYFEATURE
 
-------------------------------------------------------------------------
+---
 
 ### Make a Release
 
@@ -656,7 +641,7 @@ OR \#\#\#\#\#\# To use default
 
 ###### Don’t forget to push your tags with `git push --tags`
 
-------------------------------------------------------------------------
+---
 
 ### Hotfixes
 
@@ -676,16 +661,16 @@ OR \#\#\#\#\#\# To use default
 
     git flow hotfix finish VERSION
 
-------------------------------------------------------------------------
+---
 
 ### Commands
 
 <img src="./Img/git-flow-commands.png" alt="Git" width="460" height="270" />
 
-------------------------------------------------------------------------
+---
 
 ### Git flow schema
 
 ![Git](Img/git-flow-commands-without-flow.png)
 
-------------------------------------------------------------------------
+---

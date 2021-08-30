@@ -1,21 +1,18 @@
 ![light bulb icon](https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg)
 
-Conseils d’expert en CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-====================================================================================================================================================================================
+# Conseils d’expert en CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Une collection de conseils pour vous aider à mener vos compétences CSS au niveau pro.
 
 > Pour d’autres listes géniales, consultez la liste organisée par <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/) des [listes impressionnantes](https://github.com/sindresorhus/awesome/).
 
-Table des matières
-------------------
+## Table des matières
 
--   [Conseils d’expert](#conseils-dexpert)
--   [Prise en charge par les navigateurs](#prise-en-charge-par-les-navigateurs)
--   [Directives pour les contributions](../../CONTRIBUTING.md)
+- [Conseils d’expert](#conseils-dexpert)
+- [Prise en charge par les navigateurs](#prise-en-charge-par-les-navigateurs)
+- [Directives pour les contributions](../../CONTRIBUTING.md)
 
-Conseils d’expert
------------------
+## Conseils d’expert
 
 1.  [Utilisez un Reset CSS](#utilisez-un-reset-css)
 2.  [Hériter de `box-sizing`](#hériter-de-box-sizing)
@@ -159,7 +156,7 @@ Pointe du chapeau à Adam Argyle pour avoir partagé ce protip et cette [démo](
 
 ### Ajouter `line-height` à `body`
 
-Vous n’avez pas besoin d’ajouter `line-height` à chaque `<p>`, `<h*>`, *et al*. séparément. Au lieu de cela, ajoutez-le à `body`:
+Vous n’avez pas besoin d’ajouter `line-height` à chaque `<p>`, `<h*>`, _et al_. séparément. Au lieu de cela, ajoutez-le à `body`:
 
     body {
       line-height: 1.5;
@@ -200,8 +197,8 @@ Non, ce n’est pas de la magie noire, vous pouvez vraiment centrer des élémen
     }
 
     body {
-      -webkit-align-items: center;  
-      -ms-flex-align: center;  
+      -webkit-align-items: center;
+      -ms-flex-align: center;
       align-items: center;
       display: -webkit-flex;
       display: flex;
@@ -290,7 +287,7 @@ Il a peut être un nom étrange, mais utiliser le sélecteur universel (`*`) ave
 
 Dans cet exemple, tous les éléments dans le flux du document qui suivent d’autres éléments recevront `margin-top: 1.5em`.
 
-Pour en savoir plus sur le sélecteur “chouette lobotomisée”, lire [la publication de Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) sur *A List Apart*.
+Pour en savoir plus sur le sélecteur “chouette lobotomisée”, lire [la publication de Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) sur _A List Apart_.
 
 #### [Démo](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
@@ -384,7 +381,7 @@ Pour créer une boîte avec une proportion intrinsèque, tout ce que vous devez 
     }
 
     .container div {
-      border: 2px dashed #ddd;  
+      border: 2px dashed #ddd;
       height: 100%;
       left: 0;
       position: absolute;
@@ -402,7 +399,7 @@ En utilisant 20% pour le rembourrage, cela rend la hauteur de la boîte égale �
 
 Faire des images cassées esthétiquement plus agréables avec un peu de CSS :
 
-    img {  
+    img {
       display: block;
       font-family: sans-serif;
       font-weight: 300;
@@ -415,13 +412,13 @@ Faire des images cassées esthétiquement plus agréables avec un peu de CSS :
 
 Maintenant, ajoutez les règles pseudo-éléments pour afficher un message d’utilisateur et une référence URL de l’image brisée :
 
-    img::before {  
+    img::before {
       content: "We're sorry, the image below is broken :(";
       display: block;
       margin-bottom: 10px;
     }
 
-    img::after {  
+    img::after {
       content: "(url: " attr(src) ")";
       display: block;
       font-size: 12px;
@@ -489,7 +486,7 @@ Maintenant, vous pouvez utiliser l’unitée de `root em` basée sur la valeur c
 
 ### Réglez `font-size` sur les Éléments de Formulaire pour une Meilleure Expérience Mobile
 
-Pour éviter aux navigateurs mobiles (iOS Safari, *et al*.) de zoomer sur des éléments de formulaire HTML quand un menu déroulant `<select>` est touché, ajoutez `font-size` à la règle de sélection :
+Pour éviter aux navigateurs mobiles (iOS Safari, _et al_.) de zoomer sur des éléments de formulaire HTML quand un menu déroulant `<select>` est touché, ajoutez `font-size` à la règle de sélection :
 
     input[type="text"],
     input[type="number"],
@@ -525,7 +522,6 @@ Comme [Harry Roberts l’a souligné](https://twitter.com/csswizardry/status/117
 
 <sup>[retour\ à\ la\ table\ des\ matières](#table-des-matières)</sup>
 
-Prise en charge par les navigateurs
------------------------------------
+## Prise en charge par les navigateurs
 
 Les versions actuelles de Chrome, Firefox, Safari, Opera, Edge, et IE11.

@@ -1,104 +1,98 @@
-Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-========================================================================================================================================================================
+# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
-Table of Content
-----------------
+## Table of Content
 
--   [Syntax](#syntax)
--   [Lint](#lint)
--   [Build](#build)
--   [Extensions](#extensions)
-    -   [Nuclide](#nuclide)
--   [Themes](http://enrmarc.github.io/atom-theme-gallery/)
--   [Collaboration](#collaboration)
-    -   [CodeSideStory](#codesidestory)
--   [Uncategorized](#uncategorized)
-    -   [Nuclide](#nuclide)
-    -   [Advanced Open File](#advanced-open-file)
-    -   [Atom Reverser](#atom-reverser)
-    -   [Atom Terminal](#atom-terminal)
-    -   [Autocomplete module import](#autocomplete-module-import)
-    -   [Beautify](#beautify)
-    -   [Code Peek](#code-peek)
-    -   [Color Picker](#color-picker)
-    -   [Copy Paste](#copy-paste)
-    -   [CSS Declaration Sorter](#css-declaration-sorter)
-    -   [Duplicate Selection](#duplicate-selection)
-    -   [Editor Config](#editor-config)
-    -   [Emmet](#emmet)
-    -   [File Icons](#file-icons)
-    -   [Fonts](#fonts)
-    -   [Git Time Machine](#git-time-machine)
-    -   [html-to-css](#html-to-css)
-    -   [iMDone](#imdone)
-    -   [Jumpy](#jumpy)
-    -   [Merge Conflicts](#merge-conflicts)
-    -   [Minimap](#minimap)
-    -   [Pigments](#pigments)
-    -   [Project Plus](#project-plus)
-    -   [Sort lines](#sort-lines)
-    -   [Sorter](#sorter)
-    -   [Sync Settings](#sync-settings)
-    -   [PlatformIO IDE Terminal](#platformio-ide-terminal)
-    -   [TernJS](#ternjs)
-    -   [Test Navigator](#test-navigator)
-    -   [Themer](#themer)
-    -   [Toggle Quotes](#toggle-quotes)
+- [Syntax](#syntax)
+- [Lint](#lint)
+- [Build](#build)
+- [Extensions](#extensions)
+  - [Nuclide](#nuclide)
+- [Themes](http://enrmarc.github.io/atom-theme-gallery/)
+- [Collaboration](#collaboration)
+  - [CodeSideStory](#codesidestory)
+- [Uncategorized](#uncategorized)
+  - [Nuclide](#nuclide)
+  - [Advanced Open File](#advanced-open-file)
+  - [Atom Reverser](#atom-reverser)
+  - [Atom Terminal](#atom-terminal)
+  - [Autocomplete module import](#autocomplete-module-import)
+  - [Beautify](#beautify)
+  - [Code Peek](#code-peek)
+  - [Color Picker](#color-picker)
+  - [Copy Paste](#copy-paste)
+  - [CSS Declaration Sorter](#css-declaration-sorter)
+  - [Duplicate Selection](#duplicate-selection)
+  - [Editor Config](#editor-config)
+  - [Emmet](#emmet)
+  - [File Icons](#file-icons)
+  - [Fonts](#fonts)
+  - [Git Time Machine](#git-time-machine)
+  - [html-to-css](#html-to-css)
+  - [iMDone](#imdone)
+  - [Jumpy](#jumpy)
+  - [Merge Conflicts](#merge-conflicts)
+  - [Minimap](#minimap)
+  - [Pigments](#pigments)
+  - [Project Plus](#project-plus)
+  - [Sort lines](#sort-lines)
+  - [Sorter](#sorter)
+  - [Sync Settings](#sync-settings)
+  - [PlatformIO IDE Terminal](#platformio-ide-terminal)
+  - [TernJS](#ternjs)
+  - [Test Navigator](#test-navigator)
+  - [Themer](#themer)
+  - [Toggle Quotes](#toggle-quotes)
 
-Syntax
-------
+## Syntax
 
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
--   [Angular](https://atom.io/packages/angularjs)
--   [Vue.js](https://atom.io/packages/language-vue)
--   [Dockerfile](https://atom.io/packages/language-docker)
--   [Markdown](https://atom.io/packages/language-markdown)
--   [React](https://atom.io/packages/react)
--   [Stylus](https://atom.io/packages/stylus)
--   [Pug](https://atom.io/packages/language-pug)
--   [Tcl](https://atom.io/packages/language-tcl)
--   [TypeScript](https://atom.io/packages/atom-typescript)
+- [Angular](https://atom.io/packages/angularjs)
+- [Vue.js](https://atom.io/packages/language-vue)
+- [Dockerfile](https://atom.io/packages/language-docker)
+- [Markdown](https://atom.io/packages/language-markdown)
+- [React](https://atom.io/packages/react)
+- [Stylus](https://atom.io/packages/stylus)
+- [Pug](https://atom.io/packages/language-pug)
+- [Tcl](https://atom.io/packages/language-tcl)
+- [TypeScript](https://atom.io/packages/atom-typescript)
 
-Lint
-----
+## Lint
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you: &gt; lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
 
 To enable linting, you’ll need the general [linter](https://atom.io/packages/linter) which provides the interface for the provider plugins for specific languages. The full list of current plugins can be found at [atomlinter.github.io](http://atomlinter.github.io/), a few examples being:
 
--   C++
-    -   [linter-clang](https://atom.io/packages/linter-clang)
-    -   [linter-cppcheck](https://atom.io/packages/linter-cppcheck)
-    -   [linter-gcc](https://atom.io/packages/linter-gcc) - on-the-fly linting!
-    -   [linter-cpplint](https://atom.io/packages/linter-cpplint) - checks against google style guide
--   [CSS](https://atom.io/packages/linter-stylelint) — stylelint
--   [JavaScript](https://atom.io/packages/linter-eslint) — eslint
--   [Python](https://atom.io/packages/linter-pylama) — pylama
--   [SASS](https://atom.io/packages/linter-sass-lint) — sass-lint
--   [Stylus](https://atom.io/packages/linter-stylint) — stylint
--   [TypeScript](https://atom.io/packages/linter-tslint) - tslint
+- C++
+  - [linter-clang](https://atom.io/packages/linter-clang)
+  - [linter-cppcheck](https://atom.io/packages/linter-cppcheck)
+  - [linter-gcc](https://atom.io/packages/linter-gcc) - on-the-fly linting!
+  - [linter-cpplint](https://atom.io/packages/linter-cpplint) - checks against google style guide
+- [CSS](https://atom.io/packages/linter-stylelint) — stylelint
+- [JavaScript](https://atom.io/packages/linter-eslint) — eslint
+- [Python](https://atom.io/packages/linter-pylama) — pylama
+- [SASS](https://atom.io/packages/linter-sass-lint) — sass-lint
+- [Stylus](https://atom.io/packages/linter-stylint) — stylint
+- [TypeScript](https://atom.io/packages/linter-tslint) - tslint
 
 ![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
 
-Build
------
+## Build
 
 To enable building, you’ll need the general [build](https://atom.io/packages/build) which provides the interface for the provider plugins for specific languages and adds integrates with [lint](#lint). The full list of current plugins can be found at [atombuild.github.io](http://atombuild.github.io/), a few examples being:
 
--   [AppleScript](https://atom.io/packages/build-applescript) — oscompile
--   [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
--   [CoffeeScript](https://atom.io/packages/build-coffee) - coffee
--   [GNU Make](https://github.com/AtomBuild/atom-build-make) - make
--   [Sass](https://atom.io/packages/build-sass) — sass
--   [TypeScript](https://atom.io/packages/build-tsc) - tsc
+- [AppleScript](https://atom.io/packages/build-applescript) — oscompile
+- [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
+- [CoffeeScript](https://atom.io/packages/build-coffee) - coffee
+- [GNU Make](https://github.com/AtomBuild/atom-build-make) - make
+- [Sass](https://atom.io/packages/build-sass) — sass
+- [TypeScript](https://atom.io/packages/build-tsc) - tsc
 
 ![atom-build](https://camo.githubusercontent.com/ca10be645c7a2024dddc550466e67d692fb411ed/68747470733a2f2f6e6f7365676c69642e6769746875622e696f2f746172676574732d6d616b652e676966)
 
-Extensions
-----------
+## Extensions
 
 #### [Nuclide](https://nuclide.io/)
 
@@ -106,8 +100,7 @@ Extensions
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
 
-Collaboration
--------------
+## Collaboration
 
 #### [CodeSideStory](https://atom.io/packages/codesidestory-atom)
 
@@ -115,8 +108,7 @@ Collaboration
 
 ![](https://storage.googleapis.com/codesidestory/static/media/atom_ss.c29b4b0b.png)
 
-Uncategorized
--------------
+## Uncategorized
 
 #### [Advanced Open File](https://atom.io/packages/advanced-open-file)
 

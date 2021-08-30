@@ -1,19 +1,16 @@
-모두가 알아야 할 jQuery 팁들 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-========================================================================================================================================================================================
+# 모두가 알아야 할 jQuery 팁들 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 당신의 jQuery 사용에 도움이 되는 간단한 팁들의 모음입니다.
 
 > <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)이 엄선한 [awesome lists](https://github.com/sindresorhus/awesome/)의 다른 훌륭한 리스트들 확인해보세요.
 
-목차
-----
+## 목차
 
--   [팁](#팁)
--   [지원](#지원)
--   [컨트리뷰션시 지켜야 할 사항](../../CONTRIBUTING.md)
+- [팁](#팁)
+- [지원](#지원)
+- [컨트리뷰션시 지켜야 할 사항](../../CONTRIBUTING.md)
 
-팁
---
+## 팁
 
 1.  [`noConflict()` 사용하기](#use-noconflict)
 2.  [jQuery가 로드되었는지 확인하기](#checking-if-jquery-loaded)
@@ -182,7 +179,7 @@ jQuery의 AJAX 메소드는 text, HTML, XML 또는 JSON을 요청하는 일반�
       $(this).removeClass('hover');
     });
 
-`toggleClass` 메소드를 사용하기 위해 더 *간단한* 방법을 원한다면. 당신은 필수적으로 CSS를 추가할 필요가 있습니다:
+`toggleClass` 메소드를 사용하기 위해 더 _간단한_ 방법을 원한다면. 당신은 필수적으로 CSS를 추가할 필요가 있습니다:
 
     $('.btn').on('hover', function () {
       $(this).toggleClass('hover');
@@ -286,7 +283,7 @@ jQuery에서 sliding과 fading은 일반적인 애니메이션입니다. 당신�
     });
     $columns.height(height);
 
-만일 *모든* 열의 높이를 같게 하고 싶다면:
+만일 _모든_ 열의 높이를 같게 하고 싶다면:
 
     var $rows = $('.same-height-columns');
     $rows.each(function () {
@@ -405,8 +402,7 @@ jQuery에서 체이닝과 [캐싱](#cache-jquery-selectors) 메소드는 길이�
 
 <sup>[목차로\ 돌아가기](#목차)</sup>
 
-지원
-----
+## 지원
 
 Chrome, Firefox, Safari, Opera, edge, and IE11의 최신버전.
 

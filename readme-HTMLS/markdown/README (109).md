@@ -1,25 +1,22 @@
 ![light bulb icon](https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg)
 
-CSSの便利な小技・テクニックのまとめ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===============================================================================================================================================================================================
+# CSS の便利な小技・テクニックのまとめ [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-CSSのプロのスキルになるようにアドバイスのリストを紹介します。
+CSS のプロのスキルになるようにアドバイスのリストを紹介します。
 
-> 他のリストのため： [Awesome リスト](https://github.com/sindresorhus/awesome/)　の　<span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)　をチェックSしてください。.
+> 他のリストのため： [Awesome リスト](https://github.com/sindresorhus/awesome/)　の　<span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)　をチェック S してください。.
 
-目次
-----
+## 目次
 
--   [プロチップス](#protips)
--   [サポート](#soutien)
--   [参考](#references)
--   [コントリビュート](../../CONTRIBUTING.md)
+- [プロチップス](#protips)
+- [サポート](#soutien)
+- [参考](#references)
+- [コントリビュート](../../CONTRIBUTING.md)
 
-プロチップス
-------------
+## プロチップス
 
-1.  [CSSのリセットを使用します](#use-a-css-reset)
-2.  [box-sizingをコンポーネントごとに変更](#inherit-box-sizing)
+1.  [CSS のリセットを使用します](#use-a-css-reset)
+2.  [box-sizing をコンポーネントごとに変更](#inherit-box-sizing)
 3.  [すべてのプロパティをリセットする代わりに `unset`を使う](#use-unset-instead-of-resetting-all-properties)
 4.  [`:not()` を使用 / ボーダーを削除](#use-not-to-applyunapply-borders-on-navigation)
 5.  [フォントがローカルにインストールされているかどうかを確認します](#check-if-font-is-installed-locally)
@@ -28,12 +25,12 @@ CSSのプロのスキルになるようにアドバイスのリストを紹介�
 8.  [天地の中央に配置](#vertically-center-anything)
 9.  [リストをカンマ区切りにする](#comma-separated-lists)
 10. [ネガティブな「:nth-child」を使用してアイテムを選択](#select-items-using-negative-nth-child)
-11. [SVGのアイコン](#use-svg-for-icons)
-12. [Owlを使用](#use-the-lobotomized-owl-selector)
-13. [CSSで実装されたスライダーにはmax-heightを使う](#use-max-height-for-pure-css-sliders)
+11. [SVG のアイコン](#use-svg-for-icons)
+12. [Owl を使用](#use-the-lobotomized-owl-selector)
+13. [CSS で実装されたスライダーには max-height を使う](#use-max-height-for-pure-css-sliders)
 14. [テーブルのセルの幅を均等にする](#equal-width-table-cells)
-15. [Flexboxのマージンハックを取り除く](#get-rid-of-margin-hacks-with-flexbox)
-16. [リンクにテキストが無い時はURLを表示](#use-attribute-selectors-with-empty-links)
+15. [Flexbox のマージンハックを取り除く](#get-rid-of-margin-hacks-with-flexbox)
+16. [リンクにテキストが無い時は URL を表示](#use-attribute-selectors-with-empty-links)
 17. [デフォルトのリンクをスタイル](#style-default-links)
 18. [内在比率のボックス](#intrinsic-ratio-boxes)
 19. [リンク切れの画像要素をスタイル](#style-broken-images)
@@ -44,9 +41,9 @@ CSSのプロのスキルになるようにアドバイスのリストを紹介�
 24. [ポインターイベントを使用してマウスイベントを制御する](#use-pointer-events-to-control-mouse-events)
 25. [間隔として使用される改行に「display：none」を設定します](#set-display-none-on-line-breaks-being-used-as-spacing)
 
-### CSSのリセットを使用します
+### CSS のリセットを使用します
 
-CSSのリセットはスタイリング要素のための白紙の状態で異なるブラウザ間でスタイルの一貫性を強化するのに役立ちます。あなたは[Normalize](http://necolas.github.io/normalize.css/)、\_et al.\_のようにCSSのリセットライブラリを使用するか、より簡略化リセットアプローチを使用することができます。
+CSS のリセットはスタイリング要素のための白紙の状態で異なるブラウザ間でスタイルの一貫性を強化するのに役立ちます。あなたは[Normalize](http://necolas.github.io/normalize.css/)、\_et al.\_のように CSS のリセットライブラリを使用するか、より簡略化リセットアプローチを使用することができます。
 
     *,
     *::before,
@@ -56,17 +53,17 @@ CSSのリセットはスタイリング要素のための白紙の状態で異�
       padding: 0;
     }
 
-今の要素は、マージンやパディングを剥奪し、`box-sizing`は、CSSボックスモデルとレイアウトを管理することができますされます。
+今の要素は、マージンやパディングを剥奪し、`box-sizing`は、CSS ボックスモデルとレイアウトを管理することができますされます。
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
-**注意：**あなたがあなたのCSSのリセットで[Inherit `box-sizing`](#inherit-box-sizing) プロパティが含まれていないことを選択する可能性があります下に`box-sizing`ヒントに従っている場合。
+**注意：**あなたがあなたの CSS のリセットで[Inherit `box-sizing`](#inherit-box-sizing) プロパティが含まれていないことを選択する可能性があります下に`box-sizing`ヒントに従っている場合。
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
 ### `box-sizing`をコンポーネントごとに変更
 
-`box-sizing`はhtml要素で指定し、継承して利用すると、コンポーネントで変える時に簡単です。
+`box-sizing`は html 要素で指定し、継承して利用すると、コンポーネントで変える時に簡単です。
 
     html {
       box-sizing: border-box;
@@ -103,7 +100,7 @@ CSSのリセットはスタイリング要素のための白紙の状態で異�
       all: unset;
     }
 
-**備考:** IE11では `all`および`unset`の省略形はサポートされていません。
+**備考:** IE11 では `all`および`unset`の省略形はサポートされていません。
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
@@ -129,7 +126,7 @@ CSSのリセットはスタイリング要素のための白紙の状態で異�
       border-right: 1px solid #666;
     }
 
-CSSセレクターは、境界線を人間が表現する方法で定義します。
+CSS セレクターは、境界線を人間が表現する方法で定義します。
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/LkymvO)
 
@@ -154,7 +151,7 @@ CSSセレクターは、境界線を人間が表現する方法で定義しま�
       font-family: "Dank Mono", system-ui-monospace;
     }
 
-このプロチップと[デモ](https://codepen.io/argyleink/pen/VwYJpgR)を共有してくれたAdam Argyleへの帽子のヒント.
+このプロチップと[デモ](https://codepen.io/argyleink/pen/VwYJpgR)を共有してくれた Adam Argyle への帽子のヒント.
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
@@ -199,14 +196,14 @@ CSSセレクターは、境界線を人間が表現する方法で定義しま�
     }
 
     body {
-      -webkit-align-items: center;  
-      -ms-flex-align: center;  
+      -webkit-align-items: center;
+      -ms-flex-align: center;
       align-items: center;
       display: -webkit-flex;
       display: flex;
     }
 
-…CSSグリッド:
+…CSS グリッド:
 
     body {
       display: grid;
@@ -217,7 +214,7 @@ CSSセレクターは、境界線を人間が表現する方法で定義しま�
 
 なんでも中央に揃いたいですか？ CSS-Tricks の[セントリングガイド](https://css-tricks.com/centering-css-complete-guide/) をチェックしてください。
 
-**備考:** IE11のFlexboxの [バグを気をつけてください](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items)
+**備考:** IE11 の Flexbox の [バグを気をつけてください](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items)
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
@@ -263,17 +260,17 @@ CSSセレクターは、境界線を人間が表現する方法で定義しま�
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-### SVGのアイコン
+### SVG のアイコン
 
-アイコンとしてSVGを使えない理由がないです！
+アイコンとして SVG を使えない理由がないです！
 
     .logo {
       background: url("logo.svg");
     }
 
-SVGは [IE9](http://caniuse.com/#search=svg)以降のすべてのブラウザでサポートされています。
+SVG は [IE9](http://caniuse.com/#search=svg)以降のすべてのブラウザでサポートされています。
 
-**備考:** ボタンがSVGだけで作られている場合、SVGがローディングされなかったらアクセシビリティのためこちらのコードを書いて見てください:
+**備考:** ボタンが SVG だけで作られている場合、SVG がローディングされなかったらアクセシビリティのためこちらのコードを書いて見てください:
 
     .no-svg .icon-only::after {
       content: attr(aria-label);
@@ -281,9 +278,9 @@ SVGは [IE9](http://caniuse.com/#search=svg)以降のすべてのブラウザで
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-### Owlを使用
+### Owl を使用
 
-変な名前ですが(`*`) と (`+`) を使用するとパワフルCSSセレクターになります！
+変な名前ですが(`*`) と (`+`) を使用するとパワフル CSS セレクターになります！
 
     * + * {
       margin-top: 1.5em;
@@ -291,15 +288,15 @@ SVGは [IE9](http://caniuse.com/#search=svg)以降のすべてのブラウザで
 
 全てのページの要素にある要素が`margin-top: 1.5em`をもらいます。
 
-Owlについて詳しくはこちら：*List Apart* の[ヘイドンピケリングの記事](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
+Owl について詳しくはこちら：_List Apart_ の[ヘイドンピケリングの記事](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/XKgOkR)
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-### CSSで実装されたスライダーには`max-height`を使う
+### CSS で実装されたスライダーには`max-height`を使う
 
-CSSで実装されたスライダーは、`max-height`を`overflow: hidden;`と一緒に使ってください。
+CSS で実装されたスライダーは、`max-height`を`overflow: hidden;`と一緒に使ってください。
 
     .slider {
       max-height: 200px;
@@ -330,7 +327,7 @@ CSSで実装されたスライダーは、`max-height`を`overflow: hidden;`と�
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-### Flexboxのマージンハックを取り除く
+### Flexbox のマージンハックを取り除く
 
 `flexbox`でカラムの溝をつくる時、`nth-`, `first-`, `last-child`などのハックで最後の溝を取り除くことができますが、それは`flexbox`の`space-between`プロパティを使うだけで解決します。
 
@@ -343,13 +340,13 @@ CSSで実装されたスライダーは、`max-height`を`overflow: hidden;`と�
       flex-basis: 23%;
     }
 
-columnのスペースが揃えている。
+column のスペースが揃えている。
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-### リンクにテキストが無い時はURLを表示
+### リンクにテキストが無い時は URL を表示
 
-リンクの`href`属性にはURLがあり、リンクのテキストがない場合に、下記のCSSを使用すると、リンク先のURLを表示します。
+リンクの`href`属性には URL があり、リンクのテキストがない場合に、下記の CSS を使用すると、リンク先の URL を表示します。
 
     a[href^="http"]:empty::before {
       content: attr(href);
@@ -370,7 +367,7 @@ columnのスペースが揃えている。
       text-decoration: underline;
     }
 
-CMSで挿入される通常class属性を持たないリンクに`:not`を使ってスタイルを定義します。
+CMS で挿入される通常 class 属性を持たないリンクに`:not`を使ってスタイルを定義します。
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
@@ -393,7 +390,7 @@ CMSで挿入される通常class属性を持たないリンクに`:not`を使っ
       width: 100%;
     }
 
-paddingに20%を使っているのは、そのボックスの高さを幅の20%と等しくします。ビューポートの幅に関わらず、子のdiv要素のアスペクト比は「100%:20%(5:1)」を保持します。
+padding に 20%を使っているのは、そのボックスの高さを幅の 20%と等しくします。ビューポートの幅に関わらず、子の div 要素のアスペクト比は「100%:20%(5:1)」を保持します。
 
 #### [デモ](http://codepen.io/AllThingsSmitty/pen/jALZvE)
 
@@ -403,7 +400,7 @@ paddingに20%を使っているのは、そのボックスの高さを幅の20%�
 
 よりよいユーザエクスペリエンスを提供するために、リンク切れの画像要素にスタイルを定義します。もちろんリンク切れがないのがベストですが、絶対に存在しない訳ではありません。
 
-    img {  
+    img {
       display: block;
       font-family: sans-serif;
       font-weight: 300;
@@ -416,13 +413,13 @@ paddingに20%を使っているのは、そのボックスの高さを幅の20%�
 
 疑似要素を使い、ユーザーの役に立つ情報を加えることもできます。
 
-    img::before {  
+    img::before {
       content: "We're sorry, the image below is broken :(";
       display: block;
       margin-bottom: 10px;
     }
 
-    img::after {  
+    img::after {
       content: "(url: " attr(src) ")";
       display: block;
       font-size: 12px;
@@ -490,7 +487,7 @@ paddingに20%を使っているのは、そのボックスの高さを幅の20%�
 
 ### スマホ向け、フォーム要素のフォントサイズの設定
 
-スマホでセレクト要素のドロップダウンをタップした時に、iOS Safariでフォーム要素にズームインするのを回避するために、フォントサイズを加えます。
+スマホでセレクト要素のドロップダウンをタップした時に、iOS Safari でフォーム要素にズームインするのを回避するために、フォントサイズを加えます。
 
     input[type="text"],
     input[type="number"],
@@ -518,7 +515,7 @@ paddingに20%を使っているのは、そのボックスの高さを幅の20%�
 
 ### 間隔として使用される改行に `display：none` を設定します
 
-[ハリー・ロバーツが指摘したように](https://twitter.com/csswizardry/status/1170835532584235008)、これはCMSユーザーがスペースのために余分な改行を使用するのを防ぐのに役立ちます：
+[ハリー・ロバーツが指摘したように](https://twitter.com/csswizardry/status/1170835532584235008)、これは CMS ユーザーがスペースのために余分な改行を使用するのを防ぐのに役立ちます：
 
     br + br {
       display: none;
@@ -526,7 +523,6 @@ paddingに20%を使っているのは、そのボックスの高さを幅の20%�
 
 <sup>[目次へ戻る](#table-of-contents)</sup>
 
-サポート
---------
+## サポート
 
-現在のChrome, Firefox, Safari, Opera と EdgeのバージョンとIE11.
+現在の Chrome, Firefox, Safari, Opera と Edge のバージョンと IE11.

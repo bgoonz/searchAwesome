@@ -1,19 +1,16 @@
-大家都應該知道的 jQuery 小技巧 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==========================================================================================================================================================================================
+# 大家都應該知道的 jQuery 小技巧 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一些簡單的小技巧讓您對 jQuery 更得心應手。
 
 > 也可以看看由 <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/) 整理，一些其他很不錯的清單集合： [awesome lists](https://github.com/sindresorhus/awesome/).
 
-目錄
-----
+## 目錄
 
--   [技巧](#技巧)
--   [瀏覽器支援](#瀏覽器支援)
--   [貢獻守則](../../CONTRIBUTING.md)
+- [技巧](#技巧)
+- [瀏覽器支援](#瀏覽器支援)
+- [貢獻守則](../../CONTRIBUTING.md)
 
-技巧
-----
+## 技巧
 
 1.  [使用 `noConflict()`](#使用-noconflict)
 2.  [檢查 jQuery 是否成功載入](#檢查-jquery-是否成功載入)
@@ -23,7 +20,7 @@
 6.  [預先載入圖片](#預先載入圖片)
 7.  [檢查圖片是否成功載入](#檢查圖片是否成功載入)
 8.  [自動修復載入失敗的圖片](#自動修復載入失敗的圖片)
-9.  [發布的AJAX表單](#post-a-form-with-ajax)
+9.  [發布的 AJAX 表單](#post-a-form-with-ajax)
 10. [透過 Hover 切換 Class](#透過-hover-切換-class)
 11. [讓 input field 無法輸入](#讓-input-field-無法輸入)
 12. [停止載入連結](#停止載入連結)
@@ -41,11 +38,11 @@
 
 ### 使用 `noConflict()`
 
-其他JavaScript库也使用jQuery使用的`$`别名。 为了确保jQuery不会与不同库的`$`对象发生冲突，请在文档的开头使用`noConflict()`方法：
+其他 JavaScript 库也使用 jQuery 使用的`$`别名。 为了确保 jQuery 不会与不同库的`$`对象发生冲突，请在文档的开头使用`noConflict()`方法：
 
     jQuery.noConflict();
 
-现在，您将使用`jQuery`变量名称而不是`$`来引用jQuery对象（例如`jQuery('div p').hide()`）。如果你在同一页面上有多个jQuery版本，你可以使用`noConflict（）`来设置一个特定版本的别名：
+现在，您将使用`jQuery`变量名称而不是`$`来引用 jQuery 对象（例如`jQuery('div p').hide()`）。如果你在同一页面上有多个 jQuery 版本，你可以使用`noConflict（）`来设置一个特定版本的别名：
 
     let $x = jQuery.noConflict();
 
@@ -65,7 +62,7 @@
 
 ### 檢查元素是否存在
 
-在使用HTML元素之前，您需要確保它是DOM的一部分。
+在使用 HTML 元素之前，您需要確保它是 DOM 的一部分。
 
     if ($("#selector").length) {
       //do something with element
@@ -154,9 +151,9 @@
 
 <sup>[回到目錄](#目錄)</sup>
 
-### 發布的AJAX表單
+### 發布的 AJAX 表單
 
-jQuery的AJAX方法來請求文本，HTML，XML或JSON的常用方法。如果你想通過AJAX發送的形式，你可以通過`val()`方法收集用戶輸入：
+jQuery 的 AJAX 方法來請求文本，HTML，XML 或 JSON 的常用方法。如果你想通過 AJAX 發送的形式，你可以通過`val()`方法收集用戶輸入：
 
     $.post('sign_up.php', {
       user_name: $('input[name=user_name]').val(),
@@ -164,7 +161,7 @@ jQuery的AJAX方法來請求文本，HTML，XML或JSON的常用方法。如果�
       password:  $('input[name=password]').val(),
     });
 
-然而，所有這些`val()`調用的是昂貴的。收集用戶輸入的一個更好的辦法是使用CSS`（）`函數，它收集用戶輸入一個字符串：
+然而，所有這些`val()`調用的是昂貴的。收集用戶輸入的一個更好的辦法是使用 CSS`（）`函數，它收集用戶輸入一個字符串：
 
     $.post('sign_up', $('#sign-up-form').serialize());
 
@@ -192,7 +189,7 @@ jQuery的AJAX方法來請求文本，HTML，XML或JSON的常用方法。如果�
 
 ### 讓 input field 無法輸入
 
-常常你會希望在使用者進行一些特定動作前， input field 是無法輸入，或是一個 form 的 submit 按鈕是無法點擊的。（例如：點選「我已經閱讀條約。」的checkbox），在 input 加上 `disabled` 的屬性你就能夠在你想要時開啟權限：
+常常你會希望在使用者進行一些特定動作前， input field 是無法輸入，或是一個 form 的 submit 按鈕是無法點擊的。（例如：點選「我已經閱讀條約。」的 checkbox），在 input 加上 `disabled` 的屬性你就能夠在你想要時開啟權限：
 
     $('input[type="submit"]').prop('disabled', true);
 
@@ -218,7 +215,7 @@ jQuery的AJAX方法來請求文本，HTML，XML或JSON的常用方法。如果�
 
     var blocks = $('#blocks').find('li');
 
-現在你能夠在任何地方使用 `blocks` 變數而不用每一次都搜尋整個DOM：
+現在你能夠在任何地方使用 `blocks` 變數而不用每一次都搜尋整個 DOM：
 
     $('#hideBlocks').on('click', function () {
       blocks.fadeOut();
@@ -291,7 +288,7 @@ Sliding 以及 fading 是我們經常使用 jQuery 來完成的動畫效果。�
       $(this).find('.column').height($(this).height());
     });
 
-**注意:** 這件事可以使用幾種方法完成，[使用 CSS](http://codepen.io/AllThingsSmitty/pen/KMPqoO) 這跟你的需求有關，但也值得知道如何使用 jQuery完成。
+**注意:** 這件事可以使用幾種方法完成，[使用 CSS](http://codepen.io/AllThingsSmitty/pen/KMPqoO) 這跟你的需求有關，但也值得知道如何使用 jQuery 完成。
 
 <sup>[回到目錄](#目錄)</sup>
 
@@ -403,8 +400,7 @@ jQuery 中串連以及[快取](#cache-jquery-selectors)的方法是最簡潔且�
 
 <sup>[回到目錄](#目錄)</sup>
 
-瀏覽器支援
-----------
+## 瀏覽器支援
 
 現今版本的 Chrome，Firefox，Safari，Opera，Edge 以及 IE11。
 

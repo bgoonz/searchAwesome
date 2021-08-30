@@ -1,5 +1,4 @@
-android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Lint](https://github.com/ashishb/android-security-awesome/workflows/Lint/badge.svg)](https://github.com/ashishb/android-security-awesome/actions) [![Test](https://github.com/ashishb/android-security-awesome/workflows/Test/badge.svg)](https://github.com/ashishb/android-security-awesome/actions)
-===================================================================================================================================================================================================================================================================================================================================================================================================================================================
+# android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Lint](https://github.com/ashishb/android-security-awesome/workflows/Lint/badge.svg)](https://github.com/ashishb/android-security-awesome/actions) [![Test](https://github.com/ashishb/android-security-awesome/workflows/Test/badge.svg)](https://github.com/ashishb/android-security-awesome/actions)
 
 A collection of android security related resources.
 
@@ -7,8 +6,7 @@ A collection of android security related resources.
 2.  [Academic/Research/Publications/Books](#academic)
 3.  [Exploits/Vulnerabilities/Bugs](#exploits)
 
-<span id="tools"></span>Tools
------------------------------
+## <span id="tools"></span>Tools
 
 ### Online Analyzers
 
@@ -208,8 +206,7 @@ A collection of android security related resources.
 4.  [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 5.  [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2)
 
-<span id="academic"></span>Academic/Research/Publications/Books
----------------------------------------------------------------
+## <span id="academic"></span>Academic/Research/Publications/Books
 
 ### Research Papers
 
@@ -230,8 +227,7 @@ A collection of android security related resources.
 5.  [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
 6.  <s>[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room which contains well categorised technical reading material about mobile penetration testing, mobile malware, mobile forensics and all kind of mobile security related topics</s>
 
-<span id="exploits"></span>Exploits/Vulnerabilities/Bugs
---------------------------------------------------------
+## <span id="exploits"></span>Exploits/Vulnerabilities/Bugs
 
 ### List
 
@@ -267,7 +263,6 @@ A collection of android security related resources.
 1.  [Android - reporting security issues](https://source.android.com/security/overview/updates-resources.html#report-issues)
 2.  [Android Reports and Resources](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
-Contributing
-------------
+## Contributing
 
 Your contributions are always welcome!

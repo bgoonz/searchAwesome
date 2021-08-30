@@ -1,30 +1,16 @@
-Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=================================================================================================================================================================================================
+# Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 All numbers are updated daily and include the overall usage of an extension across all browsers, the last publish date and stars of the GitHub repository! Contributions are welcome but first see [Contributing](./contributing.md)
 
-  
-  
-
     <b>Visit the <a href="https://stefanbuck.com/awesome-browser-extensions-for-github">awesome browser extensions for GitHub</a> web version with additional filter options.</b>
 
-  
-  
-
-Supporters
-----------
+## Supporters
 
 Thanks for those who are supporting my work via [GitHub Sponsors](https://github.com/sponsors/stefanbuck).
 
 [Your logo here?](https://github.com/sponsors/stefanbuck?frequency=one-time&sponsor=stefanbuck)
 
-  
-  
-
     <a href="https://jumpcat.dev"><img src="https://user-images.githubusercontent.com/1393946/129461213-47cc4860-e320-45fa-8549-3231d846c6e2.png" height="200" alt="Jumpcat "/></a>
-
-  
-  
 
 ### [Advanced GitHub Notifier](https://github.com/freaktechnik/advanced-github-notifier) [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" />](https://addons.mozilla.org/firefox/addon/advanced-github-notifier/?src=external-awesome)
 

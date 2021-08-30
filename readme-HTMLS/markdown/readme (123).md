@@ -1,21 +1,18 @@
 <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon" width="200" />
 
-CSS 프로팁 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-======================================================================================================================================================================
+# CSS 프로팁 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 CSS스킬을 프로처럼 만들어주는 팁 모음
 
 > 또 다른  꼭 확인해 볼 만한 <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)의 큐레이트 리스트  [awesome lists](https://github.com/sindresorhus/awesome/).
 
-목차
-----
+## 목차
 
--   [프로팁](#프로팁)
--   [지원](#지원)
--   [컨트리뷰션 가이드라인](../../CONTRIBUTING.md)
+- [프로팁](#프로팁)
+- [지원](#지원)
+- [컨트리뷰션 가이드라인](../../CONTRIBUTING.md)
 
-프로팁
-------
+## 프로팁
 
 1.  [CSS Reset을 사용](#use-a-css-reset)
 2.  [`box-sizing`을 컴포넌트마다 변경](#inherit-box-sizing)
@@ -45,7 +42,7 @@ CSS스킬을 프로처럼 만들어주는 팁 모음
 
 ### CSS Reset을 사용
 
-CSS reset은 스타일 요소들을 통해 백지 상태에서 다른 브라우저간의 스타일의 일관성을 강화하는데 도움을 줍니다. 또한 [Normalize](http://necolas.github.io/normalize.css/), *et al.*, 와 같은 CSS 리셋 라이브러리를 통해 더 쉽게 reset 형태를 취할 수 있습니다.
+CSS reset은 스타일 요소들을 통해 백지 상태에서 다른 브라우저간의 스타일의 일관성을 강화하는데 도움을 줍니다. 또한 [Normalize](http://necolas.github.io/normalize.css/), _et al._, 와 같은 CSS 리셋 라이브러리를 통해 더 쉽게 reset 형태를 취할 수 있습니다.
 
     *,
     *::before,
@@ -159,7 +156,7 @@ CSS 선택자는 사람이 설명하는 방식 그대로 경계를 정의합니�
 
 ### `body`에 `line-height` 넣기
 
-`body`요소에서`line-height`를 지정할 때 `p`,`h*`, *et al* 등에 그 값이 계승되기 때문에 각각`line-height`을 지정할 필요가 없습니다.
+`body`요소에서`line-height`를 지정할 때 `p`,`h*`, _et al_ 등에 그 값이 계승되기 때문에 각각`line-height`을 지정할 필요가 없습니다.
 
     body {
       line-height: 1.5;
@@ -480,7 +477,7 @@ CSS를 통해 링크가 깨진 이미지를 사용자 친화적으로 만듭니�
 
 ### 모바일 환경을 위한 `font-size` 요소 설정
 
-iOS Safari, *et al* 과 같은 모바일 브라우저에서 `<select>`드롭다운을 탭 할 때 HTML 폼 요소가 줌 인 되는 것을 피하기 위해 `font-size` 의 선택자 룰을 추가한다.
+iOS Safari, _et al_ 과 같은 모바일 브라우저에서 `<select>`드롭다운을 탭 할 때 HTML 폼 요소가 줌 인 되는 것을 피하기 위해 `font-size` 의 선택자 룰을 추가한다.
 
     input[type="text"],
     input[type="number"],
@@ -516,8 +513,7 @@ iOS Safari, *et al* 과 같은 모바일 브라우저에서 `<select>`드롭다�
 
 <sup>[목차로\ 돌아가기](#table-of-contents)</sup>
 
-지원
-----
+## 지원
 
 최신 버전의 Chrome, Firefox, Safari, Opera, Edge, IE11에서 지원됩니다..
 

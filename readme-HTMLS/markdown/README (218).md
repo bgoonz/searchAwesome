@@ -1,5 +1,4 @@
-.htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==============================================================================================================================================================================
+# .htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Une collection utile de fragments de configuration de fichier `.htaccess`, le tout regroupé dans un seul endroit.
 
@@ -7,56 +6,53 @@
 
 **IMPORTANT** : Apache 2.4 a introduit quelques changements de rupture, notamment dans la configuration de contrôle d’accès. Pour plus d’information, consultez le [document de mise à niveau](https://httpd.apache.org/docs/2.4/upgrading.html) ainsi que [cette issue](https://github.com/phanan/htaccess/issues/2).
 
-Crédits
--------
+## Crédits
 
 Ce que nous faisons ici est principalement la collection d’extraits pratiques en provenance d’un peu partout sur le web, par exemple, une bonne partie provient du dépôt [Apache Server Configs](https://github.com/h5bp/server-configs-apache). Bien qu’ayant essayé de créditer la bonne personne, des éléments peuvent être manquants. Si vous pensez que quelque chose ici provient de votre travail et que vous devriez en être crédité, faites le moi savoir, ou faites une PR.
 
-Table des matières
-------------------
+## Table des matières
 
--   [Réécriture et redirection](#réécriture-et-redirection)
-    -   [Forcer www](#forcer-www)
-    -   [Forcer www d’une manière générique](#forcer-www-dune-manière-générique)
-    -   [Forcer non-www](#forcer-non-www)
-    -   [Forcer non-www d’une manière générique](#forcer-non-www-dune-manière-générique)
-    -   [Forcer HTTPS](#forcer-https)
-    -   [Forcer HTTPS derrière un proxy](#forcer-https-derrière-un-proxy)
-    -   [Forcer le slash de fin](#forcer-le-slash-de-fin)
-    -   [Supprimer le slash de fin](#supprimer-le-slash-de-fin)
-    -   [Rediriger une seule page](#rediriger-une-seule-page)
-    -   [Alias pour un seul dossier](#alias-pour-un-seul-dossier)
-    -   [Alias de chemins vers un script](#alias-de-chemins-vers-un-script)
-    -   [Rediriger un site entier](#rediriger-un-site-entier)
-    -   [Alias en URLs propres](#alias-en-urls-propres)
--   [Sécurité](#securité)
-    -   [Refuser tout accès](#refuser-tout-accès)
-    -   [Refuser tout accès sauf soi-même](#refuser-tout-accès-sauf-soi-même)
-    -   [Autoriser tout accès sauf aux spammeurs’](#autoriser-tout-accès-sauf-aux-spammeurs)
-    -   [Refuser l’accès aux fichiers et répertoires cachés](#refuser-laccès-aux-fichiers-et-dossiers-cachés)
-    -   [Refuser l’accès aux sources et fichiers de sauvegarde](#refuser-laccès-aux-sources-et-fichiers-de-sauvegarde)
-    -   [Désactiver la navigation de dossier](#désactiver-la-navigation-de-dossier)
-    -   [Désactiver le hotlink des images](#désactiver-le-hotlink-des-images)
-    -   [Désactiver le hotlink des images pour des domaines spécifiques](#désactiver-le-hotlink-des-images-pour-des-domaines-spécifiques)
-    -   [Protéger un dossier par mot de passe](#protéger-un-dossier-par-mot-de-passe)
-    -   [Protéger un ou plusieurs fichiers par mot de passe](#protéger-un-ou-plusieurs-fichiers-par-mot-de-passe)
--   [Performance](#performance)
-    -   [Compresser les fichiers texte](#compresser-les-fichiers-texte)
-    -   [Ajouter l’en-tête “Expires”](#ajouter-len-tête-expires)
-    -   [Désactiver eTags](#désactiver-etags)
--   [Divers](#divers)
-    -   [Définir des variables PHP](#définir-des-variables-php)
-    -   [Pages d’erreur personnalisées](#pages-derreur-personnalisées)
-    -   [Forcer le téléchargement](#forcer-le-téléchargement)
-    -   [Empêcher le téléchargement](#empêcher-le-téléchargement)
-    -   [Autoriser les polices Cross-Domain](#autoriser-les-polices-cross-domain)
-    -   [Encodage UTF-8 automatique](#encodage-utf-8-automatique)
-    -   [Basculer vers une autre version de PHP](#basculer-vers-une-autre-version-de-php)
-    -   [Désactiver le mode de compatibilité pour Internet Explorer](#désactiver-le-mode-de-compatibilité-pour-internet-explorer)
-    -   [Servir des images WebP](#servir-des-images-webp)
+- [Réécriture et redirection](#réécriture-et-redirection)
+  - [Forcer www](#forcer-www)
+  - [Forcer www d’une manière générique](#forcer-www-dune-manière-générique)
+  - [Forcer non-www](#forcer-non-www)
+  - [Forcer non-www d’une manière générique](#forcer-non-www-dune-manière-générique)
+  - [Forcer HTTPS](#forcer-https)
+  - [Forcer HTTPS derrière un proxy](#forcer-https-derrière-un-proxy)
+  - [Forcer le slash de fin](#forcer-le-slash-de-fin)
+  - [Supprimer le slash de fin](#supprimer-le-slash-de-fin)
+  - [Rediriger une seule page](#rediriger-une-seule-page)
+  - [Alias pour un seul dossier](#alias-pour-un-seul-dossier)
+  - [Alias de chemins vers un script](#alias-de-chemins-vers-un-script)
+  - [Rediriger un site entier](#rediriger-un-site-entier)
+  - [Alias en URLs propres](#alias-en-urls-propres)
+- [Sécurité](#securité)
+  - [Refuser tout accès](#refuser-tout-accès)
+  - [Refuser tout accès sauf soi-même](#refuser-tout-accès-sauf-soi-même)
+  - [Autoriser tout accès sauf aux spammeurs’](#autoriser-tout-accès-sauf-aux-spammeurs)
+  - [Refuser l’accès aux fichiers et répertoires cachés](#refuser-laccès-aux-fichiers-et-dossiers-cachés)
+  - [Refuser l’accès aux sources et fichiers de sauvegarde](#refuser-laccès-aux-sources-et-fichiers-de-sauvegarde)
+  - [Désactiver la navigation de dossier](#désactiver-la-navigation-de-dossier)
+  - [Désactiver le hotlink des images](#désactiver-le-hotlink-des-images)
+  - [Désactiver le hotlink des images pour des domaines spécifiques](#désactiver-le-hotlink-des-images-pour-des-domaines-spécifiques)
+  - [Protéger un dossier par mot de passe](#protéger-un-dossier-par-mot-de-passe)
+  - [Protéger un ou plusieurs fichiers par mot de passe](#protéger-un-ou-plusieurs-fichiers-par-mot-de-passe)
+- [Performance](#performance)
+  - [Compresser les fichiers texte](#compresser-les-fichiers-texte)
+  - [Ajouter l’en-tête “Expires”](#ajouter-len-tête-expires)
+  - [Désactiver eTags](#désactiver-etags)
+- [Divers](#divers)
+  - [Définir des variables PHP](#définir-des-variables-php)
+  - [Pages d’erreur personnalisées](#pages-derreur-personnalisées)
+  - [Forcer le téléchargement](#forcer-le-téléchargement)
+  - [Empêcher le téléchargement](#empêcher-le-téléchargement)
+  - [Autoriser les polices Cross-Domain](#autoriser-les-polices-cross-domain)
+  - [Encodage UTF-8 automatique](#encodage-utf-8-automatique)
+  - [Basculer vers une autre version de PHP](#basculer-vers-une-autre-version-de-php)
+  - [Désactiver le mode de compatibilité pour Internet Explorer](#désactiver-le-mode-de-compatibilité-pour-internet-explorer)
+  - [Servir des images WebP](#servir-des-images-webp)
 
-Réécriture et redirection
--------------------------
+## Réécriture et redirection
 
 Remarque: On suppose avoir le module `mod_rewrite` installé et activé.
 
@@ -73,7 +69,7 @@ Remarque: On suppose avoir le module `mod_rewrite` installé et activé.
     RewriteCond %{HTTPS}s ^on(s)|
     RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-Cela fonctionne pour *tous* les domaines. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
+Cela fonctionne pour _tous_ les domaines. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
 
 ### Forcer non-www
 
@@ -158,8 +154,7 @@ Ce snippet vous permet d’utiliser des “URLs propres” –celles sans extens
 
 [Source](http://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
 
-Securité
---------
+## Securité
 
 ### Refuser tout accès
 
@@ -235,7 +230,7 @@ Ces fichiers peuvent être laissés par certains éditeurs de texte/html (comme 
 ### Désactiver le hotlink des images
 
     RewriteEngine on
-    # Enlever la ligne ci-dessous si vous souhaitez bloquer le referrer vide 
+    # Enlever la ligne ci-dessous si vous souhaitez bloquer le referrer vide
     RewriteCond %{HTTP_REFERER} !^$
 
     RewriteCond %{HTTP_REFERER} !^http(s)?://(.+\.)?votredomaine.com [NC]
@@ -285,8 +280,7 @@ Ensuite, vous pouvez utiliser ceci pour activer l’authentification :
     Require valid-user
     </FilesMatch>
 
-Performance
------------
+## Performance
 
 ### Compresser les fichiers texte
 
@@ -331,7 +325,7 @@ Performance
 
 ### Ajouter l’en-tête “Expires”
 
-L’en-tête *Expires* indique au navigateur s’il doit effectuer une requête au serveur pour récupérer un fichier spécifique ou bien se contenter du cache. On peut conseiller pour les contenus statiques un en-tête d’expiration loin dans le futur.
+L’en-tête _Expires_ indique au navigateur s’il doit effectuer une requête au serveur pour récupérer un fichier spécifique ou bien se contenter du cache. On peut conseiller pour les contenus statiques un en-tête d’expiration loin dans le futur.
 
 Si vous n’utilisez pas la méthode du nom de fichier modifié par un système de contrôle de version, vous devriez diminuer le temps de cache des ressources telles que les fichiers CSS ou JS vers quelque chose proche de la semaine.
 
@@ -398,8 +392,7 @@ En retirant l’en-tête “eTag”, vous empêchez le cache et les navigateurs 
     </IfModule>
     FileETag None
 
-Divers
-------
+## Divers
 
 ### Définir des variables PHP
 

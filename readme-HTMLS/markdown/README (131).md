@@ -1,7 +1,6 @@
 ![light bulb icon](https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg)
 
-CSS 專家密技 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-========================================================================================================================================================================
+# CSS 專家密技 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 這裡收集了一系列 CSS 專家密技，幫助你提升 CSS 技能點數。
 
@@ -9,15 +8,13 @@ CSS 專家密技 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 
 > 正體中文由 [Will 保哥](http://blog.miniasp.com/) 翻譯，歡迎造訪 [Will 保哥的技術交流中心](https://www.facebook.com/will.fans)
 
-目錄
-----
+## 目錄
 
--   [專家密技](#專家密技)
--   [瀏覽器支援度](#瀏覽器支援度)
--   [貢獻準則](../../CONTRIBUTING.md)
+- [專家密技](#專家密技)
+- [瀏覽器支援度](#瀏覽器支援度)
+- [貢獻準則](../../CONTRIBUTING.md)
 
-專家密技
---------
+## 專家密技
 
 1.  [使用 CSS Reset](#使用-css-reset)
 2.  [繼承 `box-sizing`](#繼承-box-sizing)
@@ -104,7 +101,7 @@ CSS Reset 可以幫你在不同的瀏覽器上維持一致的樣式風格。你�
       all: unset;
     }
 
-**注意：** IE11不支持`all`和`unset`的简写。
+**注意：** IE11 不支持`all`和`unset`的简写。
 
 <sup>[回到目錄](#table-of-contents)</sup>
 
@@ -130,7 +127,7 @@ CSS Reset 可以幫你在不同的瀏覽器上維持一致的樣式風格。你�
       border-right: 1px solid #666;
     }
 
-CSS選擇器以人類描述它的方式定義邊界。
+CSS 選擇器以人類描述它的方式定義邊界。
 
 #### [示範](http://codepen.io/AllThingsSmitty/pen/LkymvO)
 
@@ -294,7 +291,7 @@ SVG 在所有解析度下都可以良好縮放，並且支援 IE9 之後的所�
 
 在此範例中，在檔案中所有的元素，只要緊接著其他元素，就會套用一個 `margin-top: 1.5em` 樣式。
 
-更多 “貓頭鷹” (Lobotomized Owl) 選擇器，可參考 *A List Apart* 上面關於 [Heydon Pickering 的文章](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
+更多 “貓頭鷹” (Lobotomized Owl) 選擇器，可參考 _A List Apart_ 上面關於 [Heydon Pickering 的文章](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
 
 #### [示範](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -521,7 +518,7 @@ SVG 在所有解析度下都可以良好縮放，並且支援 IE9 之後的所�
 
 ### 在用作間距的換行符上設置`display: none`
 
-正如[Harry Roberts指出](https://twitter.com/csswizardry/status/1170835532584235008)，這有助於防止CMS用戶使用額外的換行符
+正如[Harry Roberts 指出](https://twitter.com/csswizardry/status/1170835532584235008)，這有助於防止 CMS 用戶使用額外的換行符
 
     br + br {
       display: none;
@@ -529,7 +526,6 @@ SVG 在所有解析度下都可以良好縮放，並且支援 IE9 之後的所�
 
 <sup>[回目錄](#目錄)</sup>
 
-瀏覽器支援度
-------------
+## 瀏覽器支援度
 
 以上技巧支援 Chrome, Firefox, Safari, Opera, Edge 最新版本與 IE11 瀏覽器。

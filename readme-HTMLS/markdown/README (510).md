@@ -1,5 +1,4 @@
-Awesome Kotlin (<https://kotlin.link>)
-======================================
+# Awesome Kotlin (<https://kotlin.link>)
 
 A curated list of awesome Kotlin related stuff inspired by awesome-java. :octocat:
 
@@ -13,8 +12,7 @@ Discuss this project in [Kotlin Slack](http://slack.kotlinlang.org/), channel: *
 
 :octocat: [Awesome Kotlin - README.md](https://github.com/KotlinBy/awesome-kotlin/blob/readme/README.md) - README with links
 
-Spread Awesome Kotlin!
-----------------------
+## Spread Awesome Kotlin!
 
 Here is the awesome badge for your project:
 

@@ -1,21 +1,18 @@
 ![light bulb icon](https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg)
 
-CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=======================================================================================================================================================================
+# CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Uma coleção de dicas para aumentar suas habilidades no CSS.
 
 > Dê uma olhada em mais algumas [listas fantásticas](https://github.com/sindresorhus/awesome/) mantidas por <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/).
 
-Índice
-------
+## Índice
 
--   [Protips](#protips)
--   [Suporte](#suporte)
--   [Contribuições](../../CONTRIBUTING.md)
+- [Protips](#protips)
+- [Suporte](#suporte)
+- [Contribuições](../../CONTRIBUTING.md)
 
-Protips
--------
+## Protips
 
 1.  [Use um Reset CSS](#use-um-reset-css)
 2.  [Herde o `box-sizing`](#herde-o-box-sizing)
@@ -122,7 +119,7 @@ Ao invés de colocar a borda…
       border-right: none;
     }
 
-…utilize a *pseudo-classe* `:not()` para aplicar a borda apenas nos elementos corretos:
+…utilize a _pseudo-classe_ `:not()` para aplicar a borda apenas nos elementos corretos:
 
     .nav li:not(:last-child) {
       border-right: 1px solid #666;
@@ -159,7 +156,7 @@ Dica de chapéu para Adam Argyle por compartilhar este protip e [exemplo](https:
 
 ### Defina o `line-height` no `body`
 
-Você não precisa adicionar o `line-height` para cada `<p>`, `<h*>`, *et al*. separadamente. Apenas adicione ao `body`:
+Você não precisa adicionar o `line-height` para cada `<p>`, `<h*>`, _et al_. separadamente. Apenas adicione ao `body`:
 
     body {
       line-height: 1.5;
@@ -232,7 +229,7 @@ Transforme listas normais em listas separadas por vírgula:
       content: ",";
     }
 
-Utilize a *pseudo-classe* `:not()` para evitar que a vírgula seja adicionada depois do último item.
+Utilize a _pseudo-classe_ `:not()` para evitar que a vírgula seja adicionada depois do último item.
 
 **Aviso:** Se considerarmos acessibilidade essa dica pode não ser ideal, especialmente para usuários de leitores de tela. Além disso, copiar e/ou colar não funcionam em conteúdo criado com CSS. Proceda com cautela.
 
@@ -251,7 +248,7 @@ Utilize `nth-child` negativo no CSS para selecionar itens de 1 a n.
       display: block;
     }
 
-Já que você aprendeu um pouquinho sobre como usar a *pseudo-classe* [using `:not()`](#use-not-to-applyunapply-borders-on-navigation), você pode tentar:
+Já que você aprendeu um pouquinho sobre como usar a _pseudo-classe_ [using `:not()`](#use-not-to-applyunapply-borders-on-navigation), você pode tentar:
 
     /* selecione todos os itens, exceto os primeiros 3 e exiba-os */
     li:not(:nth-child(-n+3)) {
@@ -292,7 +289,7 @@ O nome é super estranho (coruja lobotomizada), mas o uso do seletor universal (
 
 Nesse exemplo, todos os elementos acompanhados de outros elementos recebem `margin-top: 1.5em`.
 
-Para mais exemplos utilizando o seletor “lobotomized owl”, leia [o artigo escrito por Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) no site *A List Apart*.
+Para mais exemplos utilizando o seletor “lobotomized owl”, leia [o artigo escrito por Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) no site _A List Apart_.
 
 #### [Exemplo](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -300,7 +297,7 @@ Para mais exemplos utilizando o seletor “lobotomized owl”, leia [o artigo es
 
 ### Sliders em CSS com `max-height`
 
-Crie *sliders* usando apenas CSS com `max-height` e `overflow-y: hidden`:
+Crie _sliders_ usando apenas CSS com `max-height` e `overflow-y: hidden`:
 
     .slider {
       max-height: 200px;
@@ -313,7 +310,7 @@ Crie *sliders* usando apenas CSS com `max-height` e `overflow-y: hidden`:
       overflow-y: scroll;
     }
 
-O elemento se expandirá ao valor definido no `max-height` no *hover* e você terá um *slider* devido ao uso do overflow.
+O elemento se expandirá ao valor definido no `max-height` no _hover_ e você terá um _slider_ devido ao uso do overflow.
 
 <sup>[voltar\ ao\ índice](#Índice)</sup>
 
@@ -394,7 +391,7 @@ Para criar uma div com proporção de tela fixa, tudo que você precisa fazer é
       width: 100%;
     }
 
-Se você usar 20% no `padding` a altura da div vai ser igual a 20% de sua largura. Independente da largura do *viewport*, a div filho vai sempre manter a proporção de tela (100% / 20% = 5:1).
+Se você usar 20% no `padding` a altura da div vai ser igual a 20% de sua largura. Independente da largura do _viewport_, a div filho vai sempre manter a proporção de tela (100% / 20% = 5:1).
 
 #### [Exemplo](http://codepen.io/AllThingsSmitty/pen/jALZvE)
 
@@ -415,7 +412,7 @@ Faça com que imagens quebradas fiquem esteticamente mais agradáveis com um pou
       width: 100%;
     }
 
-Agora adicione regras com *pseudo-elementos* para mostrar uma mensagem e a URL da imagem quebrada:
+Agora adicione regras com _pseudo-elementos_ para mostrar uma mensagem e a URL da imagem quebrada:
 
     img::before {
       content: "Desculpe, a imagem abaixo não pode ser carregada :(";
@@ -461,19 +458,19 @@ Assim fica mais fácil de estilizar e manter cada módulo, além de ser flexíve
 
 ### Esconda Vídeos em Autoplay Que Não Estejam no Mudo
 
-Ótima dica para uma *stylesheet* personalizada. Evite sobrecarregar o usuário com som de vídeos em autoplay. Se o som não estiver no mudo, esconda o vídeo:
+Ótima dica para uma _stylesheet_ personalizada. Evite sobrecarregar o usuário com som de vídeos em autoplay. Se o som não estiver no mudo, esconda o vídeo:
 
     video[autoplay]:not([muted]) {
       display: none;
     }
 
-E aqui mais uma entre as muitas vantagens de usar a *pseudo-classe* [`:not()`](#use-not-to-applyunapply-borders-on-navigation).
+E aqui mais uma entre as muitas vantagens de usar a _pseudo-classe_ [`:not()`](#use-not-to-applyunapply-borders-on-navigation).
 
 <sup>[voltar\ ao\ índice](#Índice)</sup>
 
 ### Use `:root` para uma Tipografia Flexível
 
-O tamanho de fonte de um site *responsivo* deveria ser ajustável de acordo com cada *viewport*. Você pode calcular o tamanho da fonte baseado na largura e na altura do *viewport* usando `:root`:
+O tamanho de fonte de um site _responsivo_ deveria ser ajustável de acordo com cada _viewport_. Você pode calcular o tamanho da fonte baseado na largura e na altura do _viewport_ usando `:root`:
 
     :root {
       font-size: calc(1vw + 1vh + .5vmin);
@@ -491,7 +488,7 @@ Assim você pode utilizar a unidade de medida `root em` baseada no valor calcula
 
 ### Defina `font-size` em Elementos de Formulário para uma Melhor Experiência Mobile
 
-Para evitar zoom indesejado em elementos de formulários de navegadores mobile (iOS Safari, *et al*) quando um `<select>` é selecionado, adicione `font-size` no seletor:
+Para evitar zoom indesejado em elementos de formulários de navegadores mobile (iOS Safari, _et al_) quando um `<select>` é selecionado, adicione `font-size` no seletor:
 
     input[type="text"],
     input[type="number"],
@@ -527,7 +524,6 @@ Como [Harry Roberts apontou](https://twitter.com/csswizardry/status/117083553258
 
 <sup>[voltar\ ao\ índice](#Índice)</sup>
 
-Suporte
--------
+## Suporte
 
 Versões atuais do Chrome, Firefox, Safari, Opera, Edge, e IE11.

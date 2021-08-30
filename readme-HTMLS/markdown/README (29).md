@@ -1,125 +1,122 @@
-Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=====================================================================================================================================================================================
+# Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists](https://github.com/sindresorhus/awesome) thing.
 
-Index
------
+## Index
 
--   [Awesome Hacking Spots](#awesome-hacking-spots-)
-    -   [Index](#index)
-    -   [Contribute 🌟](#contribute-)
-    -   [Template](#template)
-    -   [Hackerspaces](#hackerspaces)
-    -   [CoWorking](#coworking)
--   [Austria 🇦🇹](#austria-)
-    -   [Vienna](#vienna)
--   [Belgium 🇧🇪](#belgium-)
-    -   [Brussels](#brussels)
--   [Brazil 🇧🇷](#brazil-)
-    -   [Rio de Janeiro](#rio-de-janeiro)
--   [Bulgaria 🇧🇬](#bulgaria-)
-    -   [Sofia](#sofia)
--   [Cameroon 🇨🇲](#cameroon-)
-    -   [Buea](#buea)
--   [Canada 🇨🇦](#canada-)
-    -   [Hamilton](#hamilton)
-    -   [Montréal](#montreal)
--   [Denmark 🇩🇰](#denmark-)
-    -   [Copenhagen](#copenhagen)
--   [Estonia 🇪🇪](#estonia-)
-    -   [Tallinn](#tallinn)
--   [France 🇫🇷](#france-)
-    -   [Paris](#paris)
--   [Germany 🇩🇪](#germany-)
-    -   [Berlin](#berlin)
-    -   [Dresden](#dresden)
-    -   [Hamburg](#hamburg)
-    -   [Jena](#jena)
-    -   [Munich](#munich)
--   [Hong Kong 🇭🇰](#hong-kong-)
--   [India 🇮🇳](#india-)
-    -   [Hyderabad](#hyderabad)
--   [Italy 🇮🇹](#italy-)
-    -   [Rome](#rome)
--   [Japan 🇯🇵](#japan-)
-    -   [Nagoya](#nagoya)
-    -   [Tokyo](#tokyo)
-    -   [Kyoto](#kyoto)
--   [Lithuania 🇱🇹](#lithuania-)
-    -   [Vilnius](#vilnius)
--   [Netherlands 🇳🇱](#netherlands-)
-    -   [Amsterdam](#amsterdam)
-    -   [Delft](#delft)
--   [Norway 🇳🇴](#norway-)
-    -   [Stavanger](#stavanger)
-    -   [Tromsø](#tromsø)
-    -   [Ålesund](#ålesund)
--   [Poland 🇵🇱](#poland-)
-    -   [Krakow](#krakow)
-    -   [Gliwice](#gliwice)
--   [Portugal 🇵🇹](#portugal-)
-    -   [Aveiro](#aveiro)
-    -   [Braga](#braga)
-    -   [Guimarães](#guimarães)
-    -   [Lisbon](#lisbon)
-    -   [Porto](#porto)
-    -   [Viana do Castelo](#viana-do-castelo)
--   [Singapore 🇸🇬](#singapore-)
-    -   [Outram Park](#outram-park)
--   [Slovenia 🇸🇮](#slovenia-)
--   [South Korea 🇰🇷](#south-korea-)
-    -   [Seoul](#seoul)
--   [Spain 🇪🇸](#spain-)
-    -   [Barcelona](#barcelona)
-    -   [Oviedo](#oviedo)
--   [Sweden 🇸🇪](#sweden-)
-    -   [Stockholm](#stockholm)
-    -   [Uppsala](#uppsala)
--   [Switzerland 🇨🇭](#switzerland-)
-    -   [Zurich](#zurich)
--   [Turkey 🇹🇷](#turkey-)
-    -   [Istanbul](#istanbul)
--   [United Kingdom 🇬🇧](#united-kingdom-)
-    -   [England](#england)
-        -   [London](#london)
-    -   [Scotland](#scotland)
-        -   [Edinburgh](#edinburgh)
--   [United States 🇺🇸](#united-states-)
-    -   [Arizona](#arizona) <span id="arizona"></span>
-    -   [California](#california-) <span id="california"></span>
-        -   [Los Angeles, CA](#los-angeles-ca-) <span id="los-angeles-ca"></span>
-        -   [San Diego, CA](#san-diego-ca-) <span id="san-diego-ca"></span>
-        -   [Mountain View, CA](#mountain-view-ca-) <span id="mountain-view-ca"></span>
-        -   [Oakland, CA](#oakland-ca-) <span id="oakland-ca"></span>
-        -   [Palo Alto, CA](#palo-alto-ca-) <span id="palo-alto-ca"></span>
-        -   [San Francisco, CA](#san-francisco-ca)
-        -   [San Jose, CA](#san-jose-ca)
-        -   [Santa Monica, CA](#santa-monica-ca-) <span id="santa-monica-ca"></span>
-    -   [Illinois](#illinois)
-        -   [Chicago, IL](#chicago-il-) <span id="chicago-il"></span>
-    -   [Maryland](#maryland)
-        -   [Baltimore, MD](#baltimore-md-) <span id="baltimore-md"></span>
-    -   [Massachusetts](#massachusetts-) <span id="massachusetts"></span>
-        -   [Boston, MA](#boston-ma-) <span id="boston-ma"></span>
-        -   [Cambridge, MA](#cambridge-ma-) <span id="cambridge-ma"></span>
-        -   [Somerville, MA](#somerville-ma-) <span id="somerville-ma"></span>
-    -   [Minnesota](#minnesota-) <span id="minnesota"></span>
-        -   [Minneapolis, MN](#minneapolis-mn-) <span id="minneapolis-mn"></span>
-    -   [South Carolina](#south-carolina-) <span id="south-carolina"></span>
-        -   [Columbia, SC](#columbia-sc-) <span id="columbia-sc"></span>
-    -   [Texas](#Texas)
-        -   [Austin, TX](#austin-tx)
-    -   [New York](#new-york-) <span id="new-york"></span>
-        -   [New York, NY](#new-york-ny-) <span id="new-york-ny"></span>
-    -   [Virginia](#virginia-) <span id="virginia"></span>
-        -   [Richmond, VA](#richmond-va-) <span id="richmond-va"></span>
-    -   [Washington](#washington-) <span id="washington"></span>
-        -   [Bellevue, WA](#bellevue-wa-) <span id="bellevue-wa"></span>
-        -   [Seattle, WA](#seattle-wa-) <span id="seattle-wa"></span>
+- [Awesome Hacking Spots](#awesome-hacking-spots-)
+  - [Index](#index)
+  - [Contribute 🌟](#contribute-)
+  - [Template](#template)
+  - [Hackerspaces](#hackerspaces)
+  - [CoWorking](#coworking)
+- [Austria 🇦🇹](#austria-)
+  - [Vienna](#vienna)
+- [Belgium 🇧🇪](#belgium-)
+  - [Brussels](#brussels)
+- [Brazil 🇧🇷](#brazil-)
+  - [Rio de Janeiro](#rio-de-janeiro)
+- [Bulgaria 🇧🇬](#bulgaria-)
+  - [Sofia](#sofia)
+- [Cameroon 🇨🇲](#cameroon-)
+  - [Buea](#buea)
+- [Canada 🇨🇦](#canada-)
+  - [Hamilton](#hamilton)
+  - [Montréal](#montreal)
+- [Denmark 🇩🇰](#denmark-)
+  - [Copenhagen](#copenhagen)
+- [Estonia 🇪🇪](#estonia-)
+  - [Tallinn](#tallinn)
+- [France 🇫🇷](#france-)
+  - [Paris](#paris)
+- [Germany 🇩🇪](#germany-)
+  - [Berlin](#berlin)
+  - [Dresden](#dresden)
+  - [Hamburg](#hamburg)
+  - [Jena](#jena)
+  - [Munich](#munich)
+- [Hong Kong 🇭🇰](#hong-kong-)
+- [India 🇮🇳](#india-)
+  - [Hyderabad](#hyderabad)
+- [Italy 🇮🇹](#italy-)
+  - [Rome](#rome)
+- [Japan 🇯🇵](#japan-)
+  - [Nagoya](#nagoya)
+  - [Tokyo](#tokyo)
+  - [Kyoto](#kyoto)
+- [Lithuania 🇱🇹](#lithuania-)
+  - [Vilnius](#vilnius)
+- [Netherlands 🇳🇱](#netherlands-)
+  - [Amsterdam](#amsterdam)
+  - [Delft](#delft)
+- [Norway 🇳🇴](#norway-)
+  - [Stavanger](#stavanger)
+  - [Tromsø](#tromsø)
+  - [Ålesund](#ålesund)
+- [Poland 🇵🇱](#poland-)
+  - [Krakow](#krakow)
+  - [Gliwice](#gliwice)
+- [Portugal 🇵🇹](#portugal-)
+  - [Aveiro](#aveiro)
+  - [Braga](#braga)
+  - [Guimarães](#guimarães)
+  - [Lisbon](#lisbon)
+  - [Porto](#porto)
+  - [Viana do Castelo](#viana-do-castelo)
+- [Singapore 🇸🇬](#singapore-)
+  - [Outram Park](#outram-park)
+- [Slovenia 🇸🇮](#slovenia-)
+- [South Korea 🇰🇷](#south-korea-)
+  - [Seoul](#seoul)
+- [Spain 🇪🇸](#spain-)
+  - [Barcelona](#barcelona)
+  - [Oviedo](#oviedo)
+- [Sweden 🇸🇪](#sweden-)
+  - [Stockholm](#stockholm)
+  - [Uppsala](#uppsala)
+- [Switzerland 🇨🇭](#switzerland-)
+  - [Zurich](#zurich)
+- [Turkey 🇹🇷](#turkey-)
+  - [Istanbul](#istanbul)
+- [United Kingdom 🇬🇧](#united-kingdom-)
+  - [England](#england)
+    - [London](#london)
+  - [Scotland](#scotland)
+    - [Edinburgh](#edinburgh)
+- [United States 🇺🇸](#united-states-)
+  - [Arizona](#arizona) <span id="arizona"></span>
+  - [California](#california-) <span id="california"></span>
+    - [Los Angeles, CA](#los-angeles-ca-) <span id="los-angeles-ca"></span>
+    - [San Diego, CA](#san-diego-ca-) <span id="san-diego-ca"></span>
+    - [Mountain View, CA](#mountain-view-ca-) <span id="mountain-view-ca"></span>
+    - [Oakland, CA](#oakland-ca-) <span id="oakland-ca"></span>
+    - [Palo Alto, CA](#palo-alto-ca-) <span id="palo-alto-ca"></span>
+    - [San Francisco, CA](#san-francisco-ca)
+    - [San Jose, CA](#san-jose-ca)
+    - [Santa Monica, CA](#santa-monica-ca-) <span id="santa-monica-ca"></span>
+  - [Illinois](#illinois)
+    - [Chicago, IL](#chicago-il-) <span id="chicago-il"></span>
+  - [Maryland](#maryland)
+    - [Baltimore, MD](#baltimore-md-) <span id="baltimore-md"></span>
+  - [Massachusetts](#massachusetts-) <span id="massachusetts"></span>
+    - [Boston, MA](#boston-ma-) <span id="boston-ma"></span>
+    - [Cambridge, MA](#cambridge-ma-) <span id="cambridge-ma"></span>
+    - [Somerville, MA](#somerville-ma-) <span id="somerville-ma"></span>
+  - [Minnesota](#minnesota-) <span id="minnesota"></span>
+    - [Minneapolis, MN](#minneapolis-mn-) <span id="minneapolis-mn"></span>
+  - [South Carolina](#south-carolina-) <span id="south-carolina"></span>
+    - [Columbia, SC](#columbia-sc-) <span id="columbia-sc"></span>
+  - [Texas](#Texas)
+    - [Austin, TX](#austin-tx)
+  - [New York](#new-york-) <span id="new-york"></span>
+    - [New York, NY](#new-york-ny-) <span id="new-york-ny"></span>
+  - [Virginia](#virginia-) <span id="virginia"></span>
+    - [Richmond, VA](#richmond-va-) <span id="richmond-va"></span>
+  - [Washington](#washington-) <span id="washington"></span>
+    - [Bellevue, WA](#bellevue-wa-) <span id="bellevue-wa"></span>
+    - [Seattle, WA](#seattle-wa-) <span id="seattle-wa"></span>
 
-Contribute 🌟
-------------
+## Contribute 🌟
 
 This is a community curated list, please submit your PR with the spots you know and love for hacking!
 
@@ -127,8 +124,7 @@ This is a community curated list, please submit your PR with the spots you know 
 
 A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of somekind (unless that membership can be done at the of the visit moment and it doesn’t require a long term commitment).
 
-Template
---------
+## Template
 
     #### NAME OF THE AWESOME HACKING SPOT
 
@@ -140,26 +136,21 @@ Template
     ---- | ----- | -------------- | ------- | ----------
     ✔ | ✘ | ❄️/♨️ | [ADDRESS](GOOGLE MAPS SHORT URL) | OPEN HOURS
 
-Hackerspaces
-------------
+## Hackerspaces
 
 Hackerspaces are great places to hack, and in fact they are so great that they have their own list curated for many years now, if you are looking for a hackerspace, please consult:
 
--   https://wiki.hackerspaces.org/List\_of\_Hacker\_Spaces
+- https://wiki.hackerspaces.org/List\_of\_Hacker\_Spaces
 
-CoWorking
----------
+## CoWorking
 
 CoWorking offices are awesome, but typically require a long term commitment, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
 
-—————————————————————
----------------------
+## —————————————————————
 
-Austria 🇦🇹
-==========
+# Austria 🇦🇹
 
-Vienna
-------
+## Vienna
 
 #### MetaLab
 
@@ -169,14 +160,11 @@ Webpage: https://metalab.at
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://metalab.at/">Rathausstraße 6, 1010 Wien</a></td><td>All time as long as a Key member is present</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Belgium 🇧🇪
-==========
+# Belgium 🇧🇪
 
-Brussels
---------
+## Brussels
 
 #### Workshop Café
 
@@ -196,14 +184,11 @@ Webpage: https://hsbxl.be/
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/7UqJcxPrsar">Rue des Goujons 152, 1070 Brussels</a></td><td>Tue 19:00-00:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Brazil 🇧🇷
-=========
+# Brazil 🇧🇷
 
-Rio de Janeiro
---------------
+## Rio de Janeiro
 
 #### Grama
 
@@ -213,14 +198,11 @@ Webpage: http://grama.cc/
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>ask</td><td>✔</td><td><a href="https://goo.gl/maps/vPa8ZRbAjUx">Rua Sorocaba 190, Botafogo, Rio de Janeiro</a></td><td>Mon-Fri 11:00-20:00, ask for a different time</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Bulgaria 🇧🇬
-===========
+# Bulgaria 🇧🇬
 
-Sofia
------
+## Sofia
 
 #### Fabrika Daga
 
@@ -238,14 +220,11 @@ Webpage: http://soho.bg/
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/X5X42uPqFJu">4 Iskar str., Sofia, Bulgaria</a></td><td>Mon-Fri 9:00-19:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Cameroon 🇨🇲
-===========
+# Cameroon 🇨🇲
 
-Buea
-----
+## Buea
 
 #### ActivSpaces
 
@@ -253,14 +232,11 @@ Webpage: https://activspaces.com
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://activspaces.com/">ActivSpaces Buea, Fako Ship Plaza</a></td><td>Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Canada 🇨🇦
-=========
+# Canada 🇨🇦
 
-Hamilton
---------
+## Hamilton
 
 #### Mulberry Street Coffeehouse
 
@@ -270,11 +246,9 @@ Webpage: http://www.mulberrycoffeehouse.com/
 
 <table style="width:97%;"><colgroup><col style="width: 3%" /><col style="width: 3%" /><col style="width: 37%" /><col style="width: 54%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/zWdNUs9jNMy">193 James St N, Hamilton, ON L8R 2L2, Canada</a></td><td>Mon-Tue 7:00-22:00, Wed-Fri 7:00-23:30, Sat 8:00-23:30, Sun 8:00-20:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Montréal <span id="montreal"></span>
-------------------------------------
+## Montréal <span id="montreal"></span>
 
 #### Café Replika
 
@@ -284,11 +258,9 @@ Webpage: http://cafereplika.com
 
 <table style="width:97%;"><colgroup><col style="width: 3%" /><col style="width: 3%" /><col style="width: 37%" /><col style="width: 54%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/SJfZronENoT2">252 Rue Rachel E, Montréal, QC H2W 1E5</a></td><td>Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00</td></tr></tbody></table>
 
-Denmark 🇩🇰
-==========
+# Denmark 🇩🇰
 
-Copenhagen
-----------
+## Copenhagen
 
 #### The Black Diamond
 
@@ -350,35 +322,29 @@ Webpage: http://www.bevars.dk
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/9x8KcbPzN7B2">Ravnsborggade 10B, 2200 København</a></td><td>Mon 9:30—23:00, Tue-Wed 9:30—24:00, Thu 9:30—2:00, Fri 9:30—3:00, Sat 10:00—3:00, Sun 10:00—21:30</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Estonia 🇪🇪
-==========
+# Estonia 🇪🇪
 
-Tallinn
--------
+## Tallinn
 
 #### [K-Space](https://k-space.ee/)
 
--   Chaostreff weekly on Thursdays @ 18:00
--   The only hackerspace with a server room (according to [hackerspaces.org](https://wiki.hackerspaces.org/K-space.ee))
--   Various equipment to print, engrave and cut (everything but yourself)
--   Bees, honey
--   Quiet office, if you don’t have time for fun
+- Chaostreff weekly on Thursdays @ 18:00
+- The only hackerspace with a server room (according to [hackerspaces.org](https://wiki.hackerspaces.org/K-space.ee))
+- Various equipment to print, engrave and cut (everything but yourself)
+- Bees, honey
+- Quiet office, if you don’t have time for fun
 
 <table><thead><tr class="header"><th>Net</th><th>Power</th><th>Coffee</th><th>Food</th><th>Shower</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>10G+10G</td><td>25kW + UPS</td><td>✔</td><td>✔</td><td>✔</td><td><a href="https://what3words.com/firm.promises.dolphins">Akadeemia tee 21/1</a></td><td>24/7</td></tr></tbody></table>
 
 Food: Vending Machine + Cafés and Diners + Convenience stores
 
-—————————————————————
----------------------
+## —————————————————————
 
-France 🇫🇷
-=========
+# France 🇫🇷
 
-Paris
------
+## Paris
 
 #### KB CafeShop
 
@@ -432,14 +398,11 @@ Webpage: http://www-bsg.univ-paris1.fr
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/UpYmgQVLzML2">10 place du Panthéon (Rue Valette) 75005 Paris</a></td><td>Mon–Sat 10:00 AM–10:00 PM</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Germany 🇩🇪
-==========
+# Germany 🇩🇪
 
-Berlin
-------
+## Berlin
 
 #### c-base
 
@@ -465,8 +428,7 @@ Webpage: http://sanktoberholz.de/en/coffee/
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/vWXWvD">Rosenthaler Str. 72A, 10437 Berlin</a></td><td>Mon-Thu 08:00-00:00, Fri 08:03:00, Sat 09:00-03:00, Sun 09:00-00:00</td></tr></tbody></table>
 
-Dresden
--------
+## Dresden
 
 #### ascii
 
@@ -476,8 +438,7 @@ Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>(eduroam only)</td><td>✔</td><td><a href="https://goo.gl/maps/74VwX2opdDG2">Nöthnitzerstr. 46, 01187 Dresden</a></td><td>Mon-Thu 9:00-17:00; Fri 9:00-15:00</td></tr></tbody></table>
 
-Hamburg
--------
+## Hamburg
 
 #### attraktor
 
@@ -495,8 +456,7 @@ Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/kBtfZNjEfjv">Zeiseweg 9, 22765 Hamburg</a></td><td><a href="https://wiki.hamburg.ccc.de/Calendar">Variable</a></td></tr></tbody></table>
 
-Jena
-----
+## Jena
 
 #### Café Rossi
 
@@ -504,8 +464,7 @@ Jena
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/kGtrdrehFHy">Krautgasse 26, 07743 Jena</a></td><td>Mon-Fri 07:30–19:00; Sat 10:00–17:00</td></tr></tbody></table>
 
-Munich
-------
+## Munich
 
 #### Lost Weekend
 
@@ -515,11 +474,9 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/XjseoLrhLS92">Schellingstr. 3, 80799 Munich</a></td><td>Mon-Fri 8:00-20:00; Sat 10:00-20:00; Sun 12:00-18:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Hong Kong 🇭🇰
-============
+# Hong Kong 🇭🇰
 
 #### Pink Coffee
 
@@ -529,14 +486,11 @@ Webpage: https://www.facebook.com/PinkCoffeeHK
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/SuyKBeM86752">Shop 305, D2 Place, Lai Chi Kok</a></td><td>Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-India 🇮🇳
-========
+# India 🇮🇳
 
-Hyderabad
----------
+## Hyderabad
 
 #### Whiteboard Cafe
 
@@ -546,14 +500,11 @@ Webpage: http://www.whiteboard.cafe, [Zomato](https://www.zomato.com/whiteboardc
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/XkwPfawQWrp">Plot 15/1, 1st Floor, Sector 2, Opposite Cyber Gateway, Hitech City, Hyderabad</a></td><td>Mon-Sun 8:00-22:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Italy 🇮🇹
-========
+# Italy 🇮🇹
 
-Rome
-----
+## Rome
 
 #### Cafe Peru
 
@@ -563,14 +514,11 @@ Webpage: http://www.caffeperu.it/
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/HXioZUdXoPS2">Via di Monserrato, 46, 00186 Roma</a></td><td>Mon-Thu 6:00-14:00, Fri-Sat 6:00-14:30, Sun 9:00-21:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Japan 🇯🇵
-========
+# Japan 🇯🇵
 
-Nagoya
-------
+## Nagoya
 
 #### Trunk Coffee
 
@@ -580,12 +528,11 @@ Webpage: http://www.trunkcoffee.com
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/HbL87xYSzsA2">2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture</a></td><td>月～木／9:30-21:00　金／9:30-22:00</td></tr></tbody></table>
 
-　土／9:00-22:00　日・祝／9:00-19:00
+土／9:00-22:00 　日・祝／9:00-19:00
 
 ![](http://www.speedtest.net/result/5777729518.png)
 
-Tokyo
------
+## Tokyo
 
 #### Fuglen
 
@@ -613,8 +560,7 @@ Webpage: http://unir-coffee-akasaka.com
 
 ![](http://www.speedtest.net/result/5787230824.png)
 
-Kyoto
------
+## Kyoto
 
 #### Mos Cafe
 
@@ -624,14 +570,11 @@ Webapage: https://www.mos.jp/shop/detail/02388/
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/7fMyyAVBkmWomHM17">〒604-8162 Kyoto, Nakagyō-ku, Shichikannoncho, 烏丸通六角下る253-1 読売京都ビル</a></td><td>Daily: 10:00-21:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Lithuania 🇱🇹
-============
+# Lithuania 🇱🇹
 
-Vilnius
--------
+## Vilnius
 
 > There are plenty of “Caffeine” branded cafes around that have pretty good wifi and service. English speakers are hit and miss, be prepared for a lot of random pointing and confusion. If you’re paying with a credit card, expect people freaking out about what to do with a receipt that requires signing (no POS systems here support PINs).
 
@@ -643,14 +586,11 @@ Webpage: https://vaga.lt/knygynas/draugyste-knygynas-gedimino-pr-2-vilnius
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/cyxVp2RshEy">Gedimino pr. 2-4, Vilnius 01103, Lithuania</a></td><td>9–21</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Netherlands 🇳🇱
-==============
+# Netherlands 🇳🇱
 
-Amsterdam
----------
+## Amsterdam
 
 #### Dwaze Zaken
 
@@ -676,8 +616,7 @@ Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://g.page/public-space-amsterdam">Bercylaan 301, 1031 KP Amsterdam, Netherlands</a></td><td>Mon-Fri 9:00-17:00, Sun 10:00-17:00</td></tr></tbody></table>
 
-Delft
------
+## Delft
 
 #### Kek
 
@@ -687,14 +626,11 @@ Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/PUKMd1YMKPD2">Voldersgracht 27, Delft, Netherlands</a></td><td>Mon-Fri 8:30-18:00, Sat-Sun 9:00-18:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Norway 🇳🇴
-=========
+# Norway 🇳🇴
 
-Stavanger
----------
+## Stavanger
 
 #### Coffeeberry
 
@@ -720,8 +656,7 @@ Webpage: https://www.facebook.com/Bluebirdkaffebar/
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/PJDE5hSi3BJ2">Kongsgata 48</a></td><td>Mon-Fri 8:00-18:00, Sat 10:00-17:00, Sun Closed.</td></tr></tbody></table>
 
-Tromsø
-------
+## Tromsø
 
 #### Lugar 34
 
@@ -731,8 +666,7 @@ Webpage: https://facebook.com/lugar34
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/x2h8ApkDiSw">Storgata 34</a></td><td>09–01</td></tr></tbody></table>
 
-Ålesund
--------
+## Ålesund
 
 #### Racoon coffee and More
 
@@ -740,14 +674,11 @@ Webpage: https://www.facebook.com/Racoon-Coffee-More-as-303455009847582/
 
 <table style="width:99%;"><colgroup><col style="width: 3%" /><col style="width: 6%" /><col style="width: 37%" /><col style="width: 53%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://her.is/2qR96l4">Kongens gate 6</a></td><td>Mon-Thu 7:30-17:00, Fri 7:30-23:00, Sat 10:00-17:00, Sun 12:00-17:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Poland 🇵🇱
-=========
+# Poland 🇵🇱
 
-Krakow
-------
+## Krakow
 
 #### Karma Coffee
 
@@ -805,8 +736,7 @@ Webpage: http://ogniwo.org/
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/Xhwzcabr9Wp">Paulińska 28, first floor, 31-065 Kraków</a></td><td>Mon-Sun 16:00-22:00</td></tr></tbody></table>
 
-Gliwice
--------
+## Gliwice
 
 #### Kafo
 
@@ -816,14 +746,11 @@ Webpage: http://kafo.info/
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/3KBX4BrxovL2">Józefa Wieczorka 14, 44-100 Gliwice</a></td><td>Mon-Fri 7:00-20:00, Sat 9:00-20:00, Sun 10:00-20:00</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Portugal 🇵🇹
-===========
+# Portugal 🇵🇹
 
-Aveiro
-------
+## Aveiro
 
 #### Mercado Negro
 
@@ -843,8 +770,7 @@ Webpage: [natalisboa.com](https://natalisboa.com)
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://g.page/nata-lisboa-aveiro">Praça Marquês de Pombal 3, 3810-076 Aveiro</a></td><td>Tue-Sun 09:00-19:00</td></tr></tbody></table>
 
-Braga
------
+## Braga
 
 #### Nórdico Coffee Shop & Brunch
 
@@ -882,8 +808,7 @@ Webpage: http://www.novaarcada.pt/
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/gGLiRqiWK9k">Avenida de Lamas, nº 100 União de Freguesias Real, Dume e Semelhe 4700 Braga</a></td><td>Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00</td></tr></tbody></table>
 
-Guimarães
----------
+## Guimarães
 
 #### Espaço Guimarães
 
@@ -893,8 +818,7 @@ Webpage: https://espaco-guimaraes.klepierre.pt
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/nQwiW3qHkvUkJz46A">R. 25 de Abril 210, 4835-400 Silvares</a></td><td>Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00</td></tr></tbody></table>
 
-Lisbon
-------
+## Lisbon
 
 #### Amélia
 
@@ -1046,8 +970,7 @@ Webpage: https://www.facebook.com/erickayserportugal
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/zxuU8HZMJbRwNpPWA">Amoreiras Plaza Rua Professor, R. Carlos Alberto da Mota Pinto 9, 1250-252 Lisboa</a></td><td>Sat-Sun 08:00 - 20:00, Mon-Fri 07:30 - 20:30</td></tr></tbody></table>
 
-Porto
------
+## Porto
 
 #### Bop
 
@@ -1123,8 +1046,7 @@ Webpage: http://www.cafevitoria.com/
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/HT8dioSQPnDGecsMA">Rua de José Falcão 156, Porto, Portugal</a></td><td>Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am</td></tr></tbody></table>
 
-Viana do Castelo
-----------------
+## Viana do Castelo
 
 #### Pastelaria Jardim
 
@@ -1146,14 +1068,11 @@ Webpage: https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1bf
 
 ![](http://www.speedtest.net/result/5644569150.png)
 
-—————————————————————
----------------------
+## —————————————————————
 
-Singapore 🇸🇬
-============
+# Singapore 🇸🇬
 
-Outram Park
------------
+## Outram Park
 
 #### Just Want Coffee
 
@@ -1171,8 +1090,7 @@ Webpage: http://breadandhearth.com/
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>?</td><td><a href="https://goo.gl/maps/hyWVdRe7Dys">18 Keong Saik Road, 089125</a></td><td>Daily 8:30AM–9.30PM</td></tr></tbody></table>
 
-one north
----------
+## one north
 
 #### Jimmy Monkey
 
@@ -1182,19 +1100,15 @@ Webpage: http://www.jimmymonkey.com/
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/oJ85HFm9QKQ2">9 one-north gateway, #01-51 one-north residences, Singapore 138643</a></td><td>Daily 7:00AM–6.00PM</td></tr></tbody></table>
 
-Slovenia 🇸🇮
-===========
+# Slovenia 🇸🇮
 
 See https://github.com/otobrglez/awesome-workplaces-slovenia
 
-—————————————————————
----------------------
+## —————————————————————
 
-South Korea 🇰🇷
-==============
+# South Korea 🇰🇷
 
-Seoul
------
+## Seoul
 
 #### Hollys Coffee, Line 9, Sinnonhyeon station
 
@@ -1216,14 +1130,11 @@ Naver Map: http://naver.me/FjThMRso
 
 ![](http://www.speedtest.net/result/7264247601.png)
 
-—————————————————————
----------------------
+## —————————————————————
 
-Spain 🇪🇸
-========
+# Spain 🇪🇸
 
-Barcelona
----------
+## Barcelona
 
 #### Ideal
 
@@ -1269,8 +1180,7 @@ Webpage: http://federalcafe.es/barcelona-gotic/
 
 ![Speedtest result](https://www.speedtest.net/result/11650923969.png)
 
-Oviedo
-------
+## Oviedo
 
 #### 26Grados
 
@@ -1282,16 +1192,13 @@ Webpage: http://www.26grados.com/
 
 ![](http://www.speedtest.net/result/5453643373.png)
 
-—————————————————————
----------------------
+## —————————————————————
 
-Sweden 🇸🇪
-=========
+# Sweden 🇸🇪
 
 > In general, you can go to any Wayne’s Coffee or Espresso House to get wifi and a power point. Wayne’s Coffee wifi is usually a bit spotty compared with the Espresso Houses that I tried, and Espresso House often caters for laptop users with power points under chairs or near tables.
 
-Stockholm
----------
+## Stockholm
 
 #### Café Fåtöljen
 
@@ -1309,8 +1216,7 @@ Webpage: https://cafepascal.se
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>Some</td><td>Norrtullsgatan 4, 113 29 Stockholm, Sweden</td><td>7–19</td></tr></tbody></table>
 
-Uppsala
--------
+## Uppsala
 
 #### Cafe Linne
 
@@ -1320,14 +1226,11 @@ Webpage: https://www.facebook.com/cafelinne/
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>Some</td><td>Svartbäcksgatan 22, 75 332 Uppsala, Sweden</td><td>8–22</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-Switzerland 🇨🇭
-==============
+# Switzerland 🇨🇭
 
-Zurich
-------
+## Zurich
 
 #### Boreal Coffee Shop - Talacker
 
@@ -1339,14 +1242,11 @@ Webpage: http://www.borealcoffee.ch/
 
 ![](http://www.speedtest.net/result/7234244439.png)
 
-—————————————————————
----------------------
+## —————————————————————
 
-Turkey 🇹🇷
-=========
+# Turkey 🇹🇷
 
-Istanbul
---------
+## Istanbul
 
 #### Istanbul HS
 
@@ -1354,8 +1254,7 @@ Webpage: https://istanbulhs.org
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://istanbulhs.org/wiki/iletisim/">Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy</a></td><td></td></tr></tbody></table>
 
-Denizli
--------
+## Denizli
 
 #### Denizli HS
 
@@ -1365,14 +1264,11 @@ Webpage: http://www.denizlihs.org/
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://www.google.com.tr/maps/@37.7382126,29.0916182,18z">Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli</a></td><td>24/7</td></tr></tbody></table>
 
-—————————————————————
----------------------
+## —————————————————————
 
-United Kingdom 🇬🇧
-=================
+# United Kingdom 🇬🇧
 
-England
--------
+## England
 
 ### London
 
@@ -1384,8 +1280,7 @@ Webpage: https://london.hackspace.org.uk/
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/iyzxMYzKocw">447 Hackney Road, London, E2 9DY</a></td><td>24/7 (Members Only)</td></tr></tbody></table>
 
-Scotland
---------
+## Scotland
 
 ### Edinburgh
 
@@ -1407,14 +1302,11 @@ Webpage: www.brewlabcoffee.co.uk
 
 ![](http://www.speedtest.net/result/5370523932.png)
 
-—————————————————————
----------------------
+## —————————————————————
 
-United States 🇺🇸
-================
+# United States 🇺🇸
 
-Arizona <span id="arizona"></span>
-----------------------------------
+## Arizona <span id="arizona"></span>
 
 ### Tucson, AZ <span id="tucson-az"></span>
 
@@ -1424,8 +1316,7 @@ Arizona <span id="arizona"></span>
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/WUJjwGczYS42">21 E Broadway Blvd, Tucson, AZ 85701</a></td><td>24/7</td></tr></tbody></table>
 
-California <span id="california"></span>
-----------------------------------------
+## California <span id="california"></span>
 
 ### Los Angeles, CA <span id="los-angeles-ca"></span>
 
@@ -1513,7 +1404,7 @@ Webpage: https://blackhammerbrewing.com
 
 #### Caffe Frascati
 
-> Nice decor & theming, upstairs seating, and friendly staff. Wifi is *decent*.
+> Nice decor & theming, upstairs seating, and friendly staff. Wifi is _decent_.
 
 <table style="width:98%;"><colgroup><col style="width: 12%" /><col style="width: 16%" /><col style="width: 16%" /><col style="width: 22%" /><col style="width: 32%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Coffee</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>ask</td><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/VRUZDfDBakM2">315 S 1st St, San Jose, CA 95113</a></td><td>Mon-Thu 7:30-22:00, Fri-Sat 8:00-00:00, Sun 8:00-21:00</td></tr></tbody></table>
 
@@ -1521,14 +1412,13 @@ Webpage: https://blackhammerbrewing.com
 
 #### Refinery
 
-> Great coffee and usually has available seating. Wifi is *bad*.
+> Great coffee and usually has available seating. Wifi is _bad_.
 
 Webpage: http://the-refinery.cafes-city.com/
 
 <table style="width:97%;"><colgroup><col style="width: 12%" /><col style="width: 15%" /><col style="width: 18%" /><col style="width: 21%" /><col style="width: 31%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Coffee</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>(✔)</td><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/uBJQacVNWd62">413 Santa Monica Blvd, Santa Monica, CA 90401</a></td><td>Mon-Fri 7:30-18:00, Sat 8:00-18:00, Sun <em>closed</em></td></tr></tbody></table>
 
-Illinois
---------
+## Illinois
 
 ### Chicago, IL <span id="chicago-il"></span>
 
@@ -1548,8 +1438,7 @@ Webpage: http://www.perfectcupchicago.com/
 
 <table style="width:98%;"><colgroup><col style="width: 15%" /><col style="width: 19%" /><col style="width: 26%" /><col style="width: 38%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/CVzWt8xiXyG2">4700 N Damen Ave, Chicago, IL 60625</a></td><td>Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00</td></tr></tbody></table>
 
-Maryland <span id="maryland"></span>
-------------------------------------
+## Maryland <span id="maryland"></span>
 
 ### Baltimore, MD <span id="baltimore-md"></span>
 
@@ -1559,8 +1448,7 @@ Maryland <span id="maryland"></span>
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/yfasgrqVjjJ2">239 W Read St, Baltimore, MD 21201</a></td><td>7 days 7am-3am</td></tr></tbody></table>
 
-Massachusetts <span id="massachusetts"></span>
-----------------------------------------------
+## Massachusetts <span id="massachusetts"></span>
 
 ### Boston, MA <span id="boston-ma"></span>
 
@@ -1628,8 +1516,7 @@ Webpage: http://www.forgebakingco.com/
 
 <table><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Coffee</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>paying</td><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/gKjnLGtTYE62">626 Somerville Ave, Somerville, MA 02143</a></td><td>Mon-Fri 07:00-19:00</td></tr></tbody></table>
 
-Minnesota <span id="minnesota"></span>
---------------------------------------
+## Minnesota <span id="minnesota"></span>
 
 ### Minneapolis, MN <span id="minneapolis-mn-"></span>
 
@@ -1641,8 +1528,7 @@ Webpage: https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/
 
 <table style="width:97%;"><colgroup><col style="width: 12%" /><col style="width: 15%" /><col style="width: 18%" /><col style="width: 21%" /><col style="width: 31%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Coffee</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>open</td><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/YaHLw8SkRLtYhG9q6">3262 Minnehaha Ave, Minneapolis, MN 55406</a></td><td>Mon-Fri 06:30AM-08:00PM, Sat 07:00AM-08:00PM, Sun 8:00AM-8:00PM</td></tr></tbody></table>
 
-South Carolina <span id="south-carolina-"></span>
--------------------------------------------------
+## South Carolina <span id="south-carolina-"></span>
 
 ### Columbia, South Carolina <span id="columbia-sc-"></span>
 
@@ -1654,8 +1540,7 @@ Webpage: https://yoghut.com/
 
 <table style="width:99%;"><colgroup><col style="width: 10%" /><col style="width: 12%" /><col style="width: 35%" /><col style="width: 17%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Climatization</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td>❄️/♨️</td><td><a href="https://goo.gl/maps/CPWuqG7QcVH2">601 Main St, Columbia, SC 29201</a></td><td>Mon-Sat 9:30AM-11PM, Sun 10:30AM-1PM</td></tr></tbody></table>
 
-Texas
------
+## Texas
 
 ### Austin, TX
 
@@ -1667,8 +1552,7 @@ Webpage: https://www.houndstoothcoffee.com/
 
 <table style="width:99%;"><colgroup><col style="width: 10%" /><col style="width: 12%" /><col style="width: 35%" /><col style="width: 17%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Climatization</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>✔</td><td>✔</td><td>❄️/♨️</td><td><a href="https://goo.gl/maps/irEZayEujm32">401 CONGRESS AVE STE 100C AUSTIN, TX 78701</a></td><td>MON – FRI: 6:30 AM – 7 PM SAT &amp; SUN: 8:00 AM – 5 PM</td></tr></tbody></table>
 
-New York <span id="new-york"></span>
-------------------------------------
+## New York <span id="new-york"></span>
 
 ### New York, NY <span id="new-york-ny"></span>
 
@@ -1696,8 +1580,7 @@ Webpage: http://www.pushcartcoffee.com/
 
 <table style="width:99%;"><colgroup><col style="width: 12%" /><col style="width: 15%" /><col style="width: 21%" /><col style="width: 21%" /><col style="width: 30%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Coffee</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>open, password on Wall</td><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/52PdznrXbsF2">401 W 25th St, New York, NY 10001</a></td><td>Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm</td></tr></tbody></table>
 
-Virginia <span id="virginia"></span>
-------------------------------------
+## Virginia <span id="virginia"></span>
 
 ### Richmond, VA <span id="richmond-va"></span>
 
@@ -1709,8 +1592,7 @@ Webpage: https://ironcladcoffee.com/
 
 <table style="width:99%;"><colgroup><col style="width: 10%" /><col style="width: 12%" /><col style="width: 35%" /><col style="width: 17%" /><col style="width: 25%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Climatization</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>open, password on wall</td><td>✔</td><td>❄️/♨️</td><td><a href="https://goo.gl/maps/eXyASDqE7432">1805 E Grace St, Richmond, VA 23223</a></td><td>Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays</td></tr></tbody></table>
 
-Washington <span id="washington"></span>
-----------------------------------------
+## Washington <span id="washington"></span>
 
 ### Bellevue, WA <span id="bellevue-wa"></span>
 
@@ -1720,8 +1602,7 @@ Washington <span id="washington"></span>
 
 <table style="width:97%;"><colgroup><col style="width: 12%" /><col style="width: 15%" /><col style="width: 18%" /><col style="width: 21%" /><col style="width: 31%" /></colgroup><thead><tr class="header"><th>Wifi</th><th>Power</th><th>Coffee</th><th>Address</th><th>Open Hours</th></tr></thead><tbody><tr class="odd"><td>open</td><td>✔</td><td>✔</td><td><a href="https://goo.gl/maps/MECUJ6BM2JG2">1111 110th Ave NE, Bellevue, WA 98004</a></td><td>Mon-Thu 9:00-21:00, Fri-Sat 10:00-18:00, Sun 12:00-20:00</td></tr></tbody></table>
 
-Seattle, WA <span id="seattle-wa"></span>
------------------------------------------
+## Seattle, WA <span id="seattle-wa"></span>
 
 #### Seattle Public Library
 

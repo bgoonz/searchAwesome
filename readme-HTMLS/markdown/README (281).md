@@ -1,20 +1,18 @@
-R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===================================================================================================================================================================
+# R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of books about different aspects and applications of [R](https://www.r-project.org/) programming language and an attempt to modernize [R Books]() in a more user friendly way. Inspired by [GoBooks]().
 
--   [R Books](#r-books)
-    -   [Beginner Books](#beginner-books)
-    -   [Advanced Books](#advanced-books)
-    -   [Data Science](#data-science)
-    -   [Finance](#finance)
-    -   [Machine Learning](#machine-learning)
-    -   [R Development](#r-development)
-    -   [Reports](#reports)
-    -   [Visualization](#visualization)
+- [R Books](#r-books)
+  - [Beginner Books](#beginner-books)
+  - [Advanced Books](#advanced-books)
+  - [Data Science](#data-science)
+  - [Finance](#finance)
+  - [Machine Learning](#machine-learning)
+  - [R Development](#r-development)
+  - [Reports](#reports)
+  - [Visualization](#visualization)
 
-Beginner Books
---------------
+## Beginner Books
 
 #### Learning R [\[Amazon\]](www.amazon.com/Learning-R-Richard-Cotton/dp/1449357105/)
 
@@ -52,7 +50,7 @@ With more than 200 practical recipes, this book helps you perform data analysis 
 
 ‘Learn R in a Day’ provides the reader with key programming skills through an examples-oriented approach and is ideally suited for academics, scientists, mathematicians and engineers. The book assumes no prior knowledge of computer programming and progressively covers all the essential steps needed to become confident and proficient in using R within a day. Topics include how to input, manipulate, format, iterate (loop), query, perform basic statistics on, and plot data, via a step-by-step technique and demonstrations using in-built datasets which the reader is encouraged to replicate on their computer. Each chapter also includes exercises (with solutions) to practice key skills and empower the reader to build on the essentials gained during this introductory course.
 
-#### R Inferno [\[Online\]](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) *Free*
+#### R Inferno [\[Online\]](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) _Free_
 
 <img src="http://www.burns-stat.com/wp-content/uploads/2012/11/R_inferno_cover.jpg" width="200" />
 
@@ -74,16 +72,15 @@ Data Munging with R shows you how to take raw data and transform it for use in c
 
 You’ll discover the ins and outs of using the data-oriented R programming language and its many task-specific packages. With dozens of practical examples to follow, learn to fill in missing values, make predictions, and visualize data as graphs. By the time you’re done, you’ll be a master munger, with a robust, reproducible workflow and the skills to use data to strengthen your conclusions!
 
-#### R for Data Science [\[Online\]](http://r4ds.had.co.nz/) *Free*
+#### R for Data Science [\[Online\]](http://r4ds.had.co.nz/) _Free_
 
 <img src="http://ecx.images-amazon.com/images/I/51XHOt2Tt8L._SY344_BO1,204,203,200_.jpg" width="200" />
 
-Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the *[tidyverse](https://www.tidyverse.org/)*, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.
+Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the _[tidyverse](https://www.tidyverse.org/)_, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.
 
-Advanced Books
---------------
+## Advanced Books
 
-#### Advanced R [\[Online\]](http://adv-r.had.co.nz/) [\[Amazon\]](http://www.amazon.com/dp/1466586966/) *Free*
+#### Advanced R [\[Online\]](http://adv-r.had.co.nz/) [\[Amazon\]](http://www.amazon.com/dp/1466586966/) _Free_
 
 <img src="http://ecx.images-amazon.com/images/I/41Lb4gmBobL._SY344_BO1,204,203,200_.jpg" width="200" />
 
@@ -99,8 +96,7 @@ The primary focus on group-wise data manipulation with the split-apply-combine s
 
 By the end of this book, you will have learned about text manipulation using stringr, how to extract data from twitter using twitteR library, how to clean raw data, and how to structure your raw data for data mining.
 
-Data Science
-------------
+## Data Science
 
 #### Mastering Data Science with R [\[Packt\]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-analysis-r)
 
@@ -124,20 +120,19 @@ This book is accessible to readers without a background in data science. Some fa
 
 With more than 200 practical recipes, this book helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. This collection of concise, task-oriented recipes makes you productive with R immediately, with solutions ranging from basic tasks to input and output, general statistics, graphics, and linear regression.
 
-#### R Programming for Data Science [\[Leanpub\]](https://leanpub.com/rprogramming) *Free*
+#### R Programming for Data Science [\[Leanpub\]](https://leanpub.com/rprogramming) _Free_
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/rprogramming/large?1437358922" width="200" />
 
 R in Action, Second Edition teaches you how to use the R language by presenting examples relevant to scientific, technical, and business developers. Focusing on practical solutions, the book offers a crash course in statistics, including elegant methods for dealing with messy and incomplete data. You’ll also master R’s extensive graphical capabilities for exploring and presenting data visually. And this expanded second edition includes new chapters on forecasting, data mining, and dynamic report writing.
 
-#### Exploratory Data Analysis with R [\[Leanpub\]](https://leanpub.com/exdata) *Free*
+#### Exploratory Data Analysis with R [\[Leanpub\]](https://leanpub.com/exdata) _Free_
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/exdata/large?1437682450" width="200" />
 
 This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization, the most widely subscribed data science training program ever created.
 
-Finance
--------
+## Finance
 
 #### Introduction to R for Quantitative Finance [\[Packt\]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-quantitative-finance)
 
@@ -159,8 +154,7 @@ The book is organized as a step-by-step practical guide to using R. Starting wit
 
 The book pragmatically introduces both the quantitative finance concepts and their modeling in R, enabling you to build a tailor-made trading system on your own. By the end of the book, you will be well versed with various financial techniques using R and will be able to place good bets while making financial decisions.
 
-Machine Learning
-----------------
+## Machine Learning
 
 #### Machine Learning with R [\[Amazon\]](http://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143) [\[O’Reilly\]](http://shop.oreilly.com/product/9781782162148.do)
 
@@ -168,8 +162,7 @@ Machine Learning
 
 “Machine Learning with R” is a practical tutorial that uses hands-on examples to step through real-world application of machine learning. Without shying away from the technical details, we will explore Machine Learning with R using clear and practical examples. Well-suited to machine learning beginners or those with experience. Explore R to find the answer to all of your questions.
 
-R Development
--------------
+## R Development
 
 #### R Packages [\[Online\]](http://r-pkgs.had.co.nz/) [\[Amazon\]](http://www.amazon.com/dp/1491910593/)
 
@@ -177,8 +170,7 @@ R Development
 
 Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.
 
-Reports
--------
+## Reports
 
 #### Dynamic Documents with R and knitr, Second Edition [\[Amazon\]](http://www.amazon.com/dp/1498716962/)
 
@@ -186,14 +178,13 @@ Reports
 
 Suitable for both beginners and advanced users, Dynamic Documents with R and knitr, Second Edition makes writing statistical reports easier by integrating computing directly with reporting. Reports range from homework, projects, exams, books, blogs, and web pages to virtually any documents related to statistical graphics, computing, and data analysis. The book covers basic applications for beginners while guiding power users in understanding the extensibility of the knitr package.
 
-#### Report Writing for Data Science in R [\[Leanpub\]](https://leanpub.com/reportwriting) *Free*
+#### Report Writing for Data Science in R [\[Leanpub\]](https://leanpub.com/reportwriting) _Free_
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/reportwriting/large?1440030475" width="200" />
 
 This book teaches the fundamental concepts and tools behind reporting modern data analyses in a reproducible manner. As data analyses become increasingly complex, the need for clear and reproducible report writing is greater than ever. The material for this book was developed as part of the industry-leading Johns Hopkins Data Science Specialization.
 
-Visualization
--------------
+## Visualization
 
 #### R Data Visualization Cookbook [\[Amazon\]](http://www.amazon.com/dp/1466586966/)
 
@@ -209,13 +200,11 @@ This practical guide provides more than 150 recipes to help you generate high-qu
 
 Most of the recipes use the ggplot2 package, a powerful and flexible way to make graphs in R. If you have a basic understanding of the R language, you’re ready to get started.
 
-Contributing
-============
+# Contributing
 
 Your contributions are always welcome and greately appreciated, just follow [the rules](https://github.com/RomanTsegelskyi/rbooks/blob/master/CONTRIBUTING.md)!
 
-License
-=======
+# License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

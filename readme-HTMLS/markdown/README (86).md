@@ -1,5 +1,4 @@
-Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==========================================================================================================================================================================
+# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about application security. Contains books, websites, blog posts, and self-assessment quizzes.
 
@@ -7,146 +6,142 @@ Maintained by [Paragon Initiative Enterprises](https://paragonie.com) with contr
 
 If you are an absolute beginner to the topic of software security, you may benefit from reading [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security).
 
-Contributing
-============
+# Contributing
 
 [Please refer to the contributing guide for details](CONTRIBUTING.md).
 
-Application Security Learning Resources
-=======================================
+# Application Security Learning Resources
 
--   [General](#general)
-    -   [Articles](#articles)
-        -   [How to Safely Generate a Random Number](#how-to-safely-generate-a-random-number-2014) (2014)
-        -   [Salted Password Hashing - Doing it Right](#salted-password-hashing-doing-it-right-2014) (2014)
-        -   [A good idea with bad usage: /dev/urandom](#a-good-idea-with-bad-usage-devurandom-2014) (2014)
-        -   [Why Invest in Application Security?](#why-invest-in-application-security-2015) (2015)
-        -   [Be wary of one-time pads and other crypto unicorns](#be-wary-of-one-time-pads-and-other-crypto-unicorns-2015) (2015)
-    -   [Books](#books)
-        -   [Web Application Hacker’s Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](img/nonfree.png)
-        -   [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
-        -   [Securing DevOps](#-securing-devops-2018) (2018) ![nonfree](img/nonfree.png)
-        -   [Gray Hat Python: Programming for Hackers and Reverse Engineers](#-gray-hat-python-programming-for-hackers-and-reverse-engineers-2009) (2009) ![nonfree](img/nonfree.png)
-        -   [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](#-the-art-of-software-security-assessment-identifying-and-preventing-software-vulnerabilities-2006) (2006) ![nonfree](img/nonfree.png)
-        -   [C Interfaces and Implementations: Techniques for Creating Reusable Software](#-c-interfaces-and-implementations-techniques-for-creating-reusable-software-1996) (1996) ![nonfree](img/nonfree.png)
-        -   [Reversing: Secrets of Reverse Engineering](#-reversing-secrets-of-reverse-engineering-2005) (2005) ![nonfree](img/nonfree.png)
-        -   [JavaScript: The Good parts](#-javascript-the-good-parts-2008) (2008) ![nonfree](img/nonfree.png)
-        -   [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition](#-windows-internals-including-windows-server-2008-and-windows-vista-fifth-edition-2007) (2007) ![nonfree](img/nonfree.png)
-        -   [The Mac Hacker’s Handbook](#-the-mac-hackers-handbook-2009) (2009) ![nonfree](img/nonfree.png)
-        -   [The IDA Pro Book: The Unofficial Guide to the World’s Most Popular Disassembler](#-the-ida-pro-book-the-unofficial-guide-to-the-worlds-most-popular-disassembler-2008) (2008) ![nonfree](img/nonfree.png)
-        -   [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](#-internetworking-with-tcpip-vol-ii-ansi-c-version-design-implementation-and-internals-3rd-edition-1998) (1998) ![nonfree](img/nonfree.png)
-        -   [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](#-network-algorithmics-an-interdisciplinary-approach-to-designing-fast-networked-devices-2004) (2004) ![nonfree](img/nonfree.png)
-        -   [Computation Structures (MIT Electrical Engineering and Computer Science)](#-computation-structures-mit-electrical-engineering-and-computer-science-1989) (1989) ![nonfree](img/nonfree.png)
-        -   [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](img/nonfree.png)
-        -   [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
-        -   [Security Engineering - Second Edition](#security-engineering-second-edition-2008) (2008)
-        -   [Bulletproof SSL and TLS](#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](img/nonfree.png)
-        -   [Holistic Info-Sec for Web Developers (Fascicle 0)](#holistic-info-sec-for-web-developers-fascicle-0-2016) (2016)
-        -   [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
-    -   [Classes](#classes)
-        -   [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
-        -   [Hack Night](#hack-night)
-    -   [Websites](#websites)
-        -   [Hack This Site!](#hack-this-site)
-        -   [Enigma Group](#enigma-group)
-        -   [Web App Sec Quiz](#web-app-sec-quiz)
-        -   [SecurePasswords.info](#securepasswords-info)
-        -   [Security News Feeds Cheat-Sheet](#security-news-feeds-cheat-sheet)
-        -   [Open Security Training](#open-security-training)
-        -   [MicroCorruption](#microcorruption)
-        -   [The Matasano Crypto Challenges](#the-matasano-crypto-challenges)
-        -   [PentesterLab](#pentesterlab)
-        -   [Juice Shop](#juice-shop)
-        -   [Supercar Showdown](#supercar-showdown)
-        -   [OWASP NodeGoat](#owasp-nodegoat)
-        -   [Blogs](#blogs)
-            -   [Crypto Fails](#crypto-fails)
-            -   [NCC Group - Blog](#ncc-group-blog)
-            -   [Scott Helme](#scott-helme)
-            -   [Cossack Labs blog](#cossack-labs-blog-2018) (2018)
-        -   [Wiki pages](#wiki-pages)
-            -   [OWASP Top Ten Project](#owasp-top-ten-project)
-        -   [Tools](#tools)
-            -   [Qualys SSL Labs](#qualys-ssl-labs)
-            -   [securityheaders.io](#securityheaders-io)
-            -   [report-uri.io](#report-uri-io)
--   [Android](#android)
-    -   [Books and ebooks](#books-and-ebooks)
-        -   [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
--   [C](#c)
-    -   [Books and ebooks](#books-and-ebooks-1)
-        -   [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
-        -   [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2018) (2018)
--   [C++](#c-1)
-    -   [Books and ebooks](#books-and-ebooks-2)
-        -   [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
--   [C Sharp](#c-sharp)
-    -   [Books and ebooks](#books-and-ebooks-3)
-        -   [Security Driven .NET](#-security-driven-net-2015) (2015) ![nonfree](img/nonfree.png)
--   [Go](#go)
-    -   [Articles](#articles-1)
-        -   [Memory Security in Go - cryptolosophy.io](#memory-security-in-go-cryptolosophy-io-2017) (2017)
--   [Java](#java)
-    -   [Books and ebooks](#books-and-ebooks-4)
-        -   [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
-        -   [Secure Coding Guidelines for Java SE](#secure-coding-guidelines-for-java-se-2014) (2014)
--   [Node.js](#node-js)
-    -   [Articles](#articles-2)
-        -   [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
-    -   [Books and ebooks](#books-and-ebooks-5)
-        -   [Essential Node.js Security](#-essential-node-js-security-2017) (2017) ![nonfree](img/nonfree.png)
-    -   [Training](#training)
-        -   [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
-        -   [Security Training from BinaryMist](#-security-training-from-binarymist) ![nonfree](img/nonfree.png)
--   [PHP](#php)
-    -   [Articles](#articles-3)
-        -   [It’s All About Time](#its-all-about-time-2014) (2014)
-        -   [Secure Authentication in PHP with Long-Term Persistence](#secure-authentication-in-php-with-long-term-persistence-2015) (2015)
-        -   [20 Point List For Preventing Cross-Site Scripting In PHP](#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (2013)
-        -   [25 PHP Security Best Practices For Sys Admins](#25-php-security-best-practices-for-sys-admins-2011) (2011)
-        -   [PHP data encryption primer](#php-data-encryption-primer-2014) (2014)
-        -   [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](#preventing-sql-injection-in-php-applications-the-easy-and-definitive-guide-2014) (2014)
-        -   [You Wouldn’t Base64 a Password - Cryptography Decoded](#you-wouldnt-base64-a-password-cryptography-decoded-2015) (2015)
-        -   [A Guide to Secure Data Encryption in PHP Applications](#a-guide-to-secure-data-encryption-in-php-applications-2015) (2015)
-        -   [The 2018 Guide to Building Secure PHP Software](#the-2018-guide-to-building-secure-php-software-2017) (2017)
-    -   [Books and ebooks](#books-and-ebooks-6)
-        -   [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](img/nonfree.png)
-        -   [Using Libsodium in PHP Projects](#using-libsodium-in-php-projects)
-    -   [Useful libraries](#useful-libraries)
-        -   [defuse/php-encryption](#defusephp-encryption)
-        -   [ircmaxell/password\_compat](#ircmaxellpassword-compat)
-        -   [ircmaxell/RandomLib](#ircmaxellrandomlib)
-        -   [thephpleague/oauth2-server](#thephpleagueoauth2-server)
-        -   [paragonie/random\_compat](#paragonierandom-compat)
-        -   [psecio/gatekeeper](#pseciogatekeeper)
-        -   [openwall/phpass](#openwallphpass)
-    -   [Websites](#websites-1)
-        -   [websec.io](#websec-io)
-        -   [Blogs](#blogs-1)
-            -   [Paragon Initiative Enterprises Blog](#paragon-initiative-enterprises-blog)
-            -   [ircmaxell’s blog](#ircmaxells-blog)
-            -   [Pádraic Brady’s Blog](#p%C3%A1draic-bradys-blog)
-        -   [Mailing lists](#mailing-lists)
-            -   [Securing PHP Weekly](#securing-php-weekly)
--   [Perl](#perl)
-    -   [Books and ebooks](#books-and-ebooks-7)
-        -   [SEI CERT Perl Coding Standard](#sei-cert-perl-coding-standard-2011) (2011)
--   [Python](#python)
-    -   [Books and ebooks](#books-and-ebooks-8)
-        -   [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
-        -   [Black Hat Python: Python Programming for Hackers and Pentesters](#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](img/nonfree.png)
-        -   [Violent Python](#-violent-python) ![nonfree](img/nonfree.png)
-    -   [Websites](#websites-2)
-        -   [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
--   [Ruby](#ruby)
-    -   [Books and ebooks](#books-and-ebooks-9)
-        -   [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
+- [General](#general)
+  - [Articles](#articles)
+    - [How to Safely Generate a Random Number](#how-to-safely-generate-a-random-number-2014) (2014)
+    - [Salted Password Hashing - Doing it Right](#salted-password-hashing-doing-it-right-2014) (2014)
+    - [A good idea with bad usage: /dev/urandom](#a-good-idea-with-bad-usage-devurandom-2014) (2014)
+    - [Why Invest in Application Security?](#why-invest-in-application-security-2015) (2015)
+    - [Be wary of one-time pads and other crypto unicorns](#be-wary-of-one-time-pads-and-other-crypto-unicorns-2015) (2015)
+  - [Books](#books)
+    - [Web Application Hacker’s Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](img/nonfree.png)
+    - [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
+    - [Securing DevOps](#-securing-devops-2018) (2018) ![nonfree](img/nonfree.png)
+    - [Gray Hat Python: Programming for Hackers and Reverse Engineers](#-gray-hat-python-programming-for-hackers-and-reverse-engineers-2009) (2009) ![nonfree](img/nonfree.png)
+    - [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](#-the-art-of-software-security-assessment-identifying-and-preventing-software-vulnerabilities-2006) (2006) ![nonfree](img/nonfree.png)
+    - [C Interfaces and Implementations: Techniques for Creating Reusable Software](#-c-interfaces-and-implementations-techniques-for-creating-reusable-software-1996) (1996) ![nonfree](img/nonfree.png)
+    - [Reversing: Secrets of Reverse Engineering](#-reversing-secrets-of-reverse-engineering-2005) (2005) ![nonfree](img/nonfree.png)
+    - [JavaScript: The Good parts](#-javascript-the-good-parts-2008) (2008) ![nonfree](img/nonfree.png)
+    - [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition](#-windows-internals-including-windows-server-2008-and-windows-vista-fifth-edition-2007) (2007) ![nonfree](img/nonfree.png)
+    - [The Mac Hacker’s Handbook](#-the-mac-hackers-handbook-2009) (2009) ![nonfree](img/nonfree.png)
+    - [The IDA Pro Book: The Unofficial Guide to the World’s Most Popular Disassembler](#-the-ida-pro-book-the-unofficial-guide-to-the-worlds-most-popular-disassembler-2008) (2008) ![nonfree](img/nonfree.png)
+    - [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](#-internetworking-with-tcpip-vol-ii-ansi-c-version-design-implementation-and-internals-3rd-edition-1998) (1998) ![nonfree](img/nonfree.png)
+    - [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](#-network-algorithmics-an-interdisciplinary-approach-to-designing-fast-networked-devices-2004) (2004) ![nonfree](img/nonfree.png)
+    - [Computation Structures (MIT Electrical Engineering and Computer Science)](#-computation-structures-mit-electrical-engineering-and-computer-science-1989) (1989) ![nonfree](img/nonfree.png)
+    - [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](img/nonfree.png)
+    - [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
+    - [Security Engineering - Second Edition](#security-engineering-second-edition-2008) (2008)
+    - [Bulletproof SSL and TLS](#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](img/nonfree.png)
+    - [Holistic Info-Sec for Web Developers (Fascicle 0)](#holistic-info-sec-for-web-developers-fascicle-0-2016) (2016)
+    - [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
+  - [Classes](#classes)
+    - [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
+    - [Hack Night](#hack-night)
+  - [Websites](#websites)
+    - [Hack This Site!](#hack-this-site)
+    - [Enigma Group](#enigma-group)
+    - [Web App Sec Quiz](#web-app-sec-quiz)
+    - [SecurePasswords.info](#securepasswords-info)
+    - [Security News Feeds Cheat-Sheet](#security-news-feeds-cheat-sheet)
+    - [Open Security Training](#open-security-training)
+    - [MicroCorruption](#microcorruption)
+    - [The Matasano Crypto Challenges](#the-matasano-crypto-challenges)
+    - [PentesterLab](#pentesterlab)
+    - [Juice Shop](#juice-shop)
+    - [Supercar Showdown](#supercar-showdown)
+    - [OWASP NodeGoat](#owasp-nodegoat)
+    - [Blogs](#blogs)
+      - [Crypto Fails](#crypto-fails)
+      - [NCC Group - Blog](#ncc-group-blog)
+      - [Scott Helme](#scott-helme)
+      - [Cossack Labs blog](#cossack-labs-blog-2018) (2018)
+    - [Wiki pages](#wiki-pages)
+      - [OWASP Top Ten Project](#owasp-top-ten-project)
+    - [Tools](#tools)
+      - [Qualys SSL Labs](#qualys-ssl-labs)
+      - [securityheaders.io](#securityheaders-io)
+      - [report-uri.io](#report-uri-io)
+- [Android](#android)
+  - [Books and ebooks](#books-and-ebooks)
+    - [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
+- [C](#c)
+  - [Books and ebooks](#books-and-ebooks-1)
+    - [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
+    - [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2018) (2018)
+- [C++](#c-1)
+  - [Books and ebooks](#books-and-ebooks-2)
+    - [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
+- [C Sharp](#c-sharp)
+  - [Books and ebooks](#books-and-ebooks-3)
+    - [Security Driven .NET](#-security-driven-net-2015) (2015) ![nonfree](img/nonfree.png)
+- [Go](#go)
+  - [Articles](#articles-1)
+    - [Memory Security in Go - cryptolosophy.io](#memory-security-in-go-cryptolosophy-io-2017) (2017)
+- [Java](#java)
+  - [Books and ebooks](#books-and-ebooks-4)
+    - [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
+    - [Secure Coding Guidelines for Java SE](#secure-coding-guidelines-for-java-se-2014) (2014)
+- [Node.js](#node-js)
+  - [Articles](#articles-2)
+    - [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
+  - [Books and ebooks](#books-and-ebooks-5)
+    - [Essential Node.js Security](#-essential-node-js-security-2017) (2017) ![nonfree](img/nonfree.png)
+  - [Training](#training)
+    - [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
+    - [Security Training from BinaryMist](#-security-training-from-binarymist) ![nonfree](img/nonfree.png)
+- [PHP](#php)
+  - [Articles](#articles-3)
+    - [It’s All About Time](#its-all-about-time-2014) (2014)
+    - [Secure Authentication in PHP with Long-Term Persistence](#secure-authentication-in-php-with-long-term-persistence-2015) (2015)
+    - [20 Point List For Preventing Cross-Site Scripting In PHP](#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (2013)
+    - [25 PHP Security Best Practices For Sys Admins](#25-php-security-best-practices-for-sys-admins-2011) (2011)
+    - [PHP data encryption primer](#php-data-encryption-primer-2014) (2014)
+    - [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](#preventing-sql-injection-in-php-applications-the-easy-and-definitive-guide-2014) (2014)
+    - [You Wouldn’t Base64 a Password - Cryptography Decoded](#you-wouldnt-base64-a-password-cryptography-decoded-2015) (2015)
+    - [A Guide to Secure Data Encryption in PHP Applications](#a-guide-to-secure-data-encryption-in-php-applications-2015) (2015)
+    - [The 2018 Guide to Building Secure PHP Software](#the-2018-guide-to-building-secure-php-software-2017) (2017)
+  - [Books and ebooks](#books-and-ebooks-6)
+    - [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](img/nonfree.png)
+    - [Using Libsodium in PHP Projects](#using-libsodium-in-php-projects)
+  - [Useful libraries](#useful-libraries)
+    - [defuse/php-encryption](#defusephp-encryption)
+    - [ircmaxell/password_compat](#ircmaxellpassword-compat)
+    - [ircmaxell/RandomLib](#ircmaxellrandomlib)
+    - [thephpleague/oauth2-server](#thephpleagueoauth2-server)
+    - [paragonie/random_compat](#paragonierandom-compat)
+    - [psecio/gatekeeper](#pseciogatekeeper)
+    - [openwall/phpass](#openwallphpass)
+  - [Websites](#websites-1)
+    - [websec.io](#websec-io)
+    - [Blogs](#blogs-1)
+      - [Paragon Initiative Enterprises Blog](#paragon-initiative-enterprises-blog)
+      - [ircmaxell’s blog](#ircmaxells-blog)
+      - [Pádraic Brady’s Blog](#p%C3%A1draic-bradys-blog)
+    - [Mailing lists](#mailing-lists)
+      - [Securing PHP Weekly](#securing-php-weekly)
+- [Perl](#perl)
+  - [Books and ebooks](#books-and-ebooks-7)
+    - [SEI CERT Perl Coding Standard](#sei-cert-perl-coding-standard-2011) (2011)
+- [Python](#python)
+  - [Books and ebooks](#books-and-ebooks-8)
+    - [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
+    - [Black Hat Python: Python Programming for Hackers and Pentesters](#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](img/nonfree.png)
+    - [Violent Python](#-violent-python) ![nonfree](img/nonfree.png)
+  - [Websites](#websites-2)
+    - [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
+- [Ruby](#ruby)
+  - [Books and ebooks](#books-and-ebooks-9)
+    - [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
 
-General
-=======
+# General
 
-Articles
---------
+## Articles
 
 ### [How to Safely Generate a Random Number](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/) (2014)
 
@@ -182,8 +177,7 @@ Investing more time and personnel to develop secure software is, for most compan
 
 A **must-read** for anyone looking to build their own cryptography features.
 
-Books
------
+## Books
 
 ### ![nonfree](img/nonfree.png) [Web Application Hacker’s Handbook](http://mdsec.net/wahh) (2011)
 
@@ -273,8 +267,7 @@ The first part of a three part book series providing broad and in-depth coverage
 
 The second part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, VPS, networks, cloud and web applications, that are delivered continuously, on time, with no nasty surprises.
 
-Classes
--------
+## Classes
 
 ### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
 
@@ -286,8 +279,7 @@ A vulnerability research and exploit development class by Owen Redwood of Florid
 
 Developed from the materials of NYU Poly’s old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
-Websites
---------
+## Websites
 
 ### [Hack This Site!](http://www.hackthissite.org)
 
@@ -377,11 +369,9 @@ Quickly and easily assess the security of your HTTP response headers.
 
 A free CSP and HPKP reporting service.
 
-Android
-=======
+# Android
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard) (2015)
 
@@ -389,11 +379,9 @@ Books and ebooks
 
 A community-maintained Wiki detailing secure coding standards for Android development.
 
-C
-=
+# C
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard) (2006)
 
@@ -407,11 +395,9 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
-C++
-===
+# C++
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637) (2006)
 
@@ -419,11 +405,9 @@ Books and ebooks
 
 A community-maintained Wiki detailing secure coding standards for C++ programming.
 
-C Sharp
-=======
+# C Sharp
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### ![nonfree](img/nonfree.png) [Security Driven .NET](http://securitydriven.net/) (2015)
 
@@ -431,11 +415,9 @@ Books and ebooks
 
 An introduction to developing secure applications targeting version 4.5 of the .NET Framework, specifically covering cryptography and security engineering topics.
 
-Go
-==
+# Go
 
-Articles
---------
+## Articles
 
 ### [Memory Security in Go - cryptolosophy.io](https://cryptolosophy.io/memory-security-go/) (2017)
 
@@ -443,11 +425,9 @@ Articles
 
 A guide to managing sensitive data in memory.
 
-Java
-====
+# Java
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### [SEI CERT Java Coding Standard](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java) (2007)
 
@@ -461,11 +441,9 @@ A community-maintained Wiki detailing secure coding standards for Java programmi
 
 Secure Java programming guidelines straight from Oracle.
 
-Node.js
-=======
+# Node.js
 
-Articles
---------
+## Articles
 
 ### [Node.js Security Checklist - Rising Stack Blog](https://blog.risingstack.com/node-js-security-checklist/) (2015)
 
@@ -473,8 +451,7 @@ Articles
 
 Covers a lot of useful information for developing secure Node.js applications.
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### ![nonfree](img/nonfree.png) [Essential Node.js Security](https://leanpub.com/nodejssecurity) (2017)
 
@@ -482,8 +459,7 @@ Books and ebooks
 
 Hands-on and abundant with source code for a practical guide to Securing Node.js web applications.
 
-Training
---------
+## Training
 
 ### ![nonfree](img/nonfree.png) [Security Training by ^Lift Security](https://liftsecurity.io/training)
 
@@ -493,11 +469,9 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 We run many types of info-sec security training, covering Physical, People, VPS, Networs, Cloud, Web Applications. Most of the content is sourced from the [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) Kim has been working on for several years. More info can be found [here](https://binarymist.io/#services)
 
-PHP
-===
+# PHP
 
-Articles
---------
+## Articles
 
 ### [It’s All About Time](http://blog.ircmaxell.com/2014/11/its-all-about-time.html) (2014)
 
@@ -555,25 +529,23 @@ Discusses the importance of end-to-end network-layer encryption (HTTPS) as well 
 
 This guide should serve as a complement to the e-book, [PHP: The Right Way](http://www.phptherightway.com), with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### ![nonfree](img/nonfree.png) [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts)
 
-*Securing PHP: Core Concepts* acts as a guide to some of the most common security terms and provides some examples of them in every day PHP.
+_Securing PHP: Core Concepts_ acts as a guide to some of the most common security terms and provides some examples of them in every day PHP.
 
 ### [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
 You shouldn’t need a Ph.D in Applied Cryptography to build a secure web application. Enter libsodium, which allows developers to develop fast, secure, and reliable applications without needing to know what a stream cipher even is.
 
-Useful libraries
-----------------
+## Useful libraries
 
 ### [defuse/php-encryption](https://github.com/defuse/php-encryption)
 
 Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
 
-### [ircmaxell/password\_compat](https://github.com/ircmaxell/password_compat)
+### [ircmaxell/password_compat](https://github.com/ircmaxell/password_compat)
 
 If you’re using PHP 5.3.7+ or 5.4, use this to hash passwords
 
@@ -585,7 +557,7 @@ Useful for generating random strings or numbers
 
 A secure OAuth2 server implementation
 
-### [paragonie/random\_compat](https://github.com/paragonie/random_compat)
+### [paragonie/random_compat](https://github.com/paragonie/random_compat)
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 
@@ -597,8 +569,7 @@ A secure authentication and authorization library that implements Role-Based Acc
 
 A portable public domain password hashing framework for use in PHP applications.
 
-Websites
---------
+## Websites
 
 ### [websec.io](http://websec.io)
 
@@ -624,11 +595,9 @@ Pádraic Brady is a Zend Framework security expert
 
 A weekly newsletter about PHP, security, and the community.
 
-Perl
-====
+# Perl
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### [SEI CERT Perl Coding Standard](https://www.securecoding.cert.org/confluence/display/perl/SEI+CERT+Perl+Coding+Standard) (2011)
 
@@ -636,11 +605,9 @@ Books and ebooks
 
 A community-maintained Wiki detailing secure coding standards for Perl programming.
 
-Python
-======
+# Python
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
 
@@ -654,8 +621,7 @@ Black Hat Python by Justin Seitz from NoStarch Press is a great book for the off
 
 Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
-Websites
---------
+## Websites
 
 ### [OWASP Python Security Wiki](https://github.com/ebranca/owasp-pysec/wiki) (2014)
 
@@ -663,11 +629,9 @@ Websites
 
 A wiki maintained by the OWASP Python Security project.
 
-Ruby
-====
+# Ruby
 
-Books and ebooks
-----------------
+## Books and ebooks
 
 ### [Secure Ruby Development Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Secure_Ruby_Development_Guide/index.html) (2014)
 

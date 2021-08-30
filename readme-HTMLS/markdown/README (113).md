@@ -1,21 +1,18 @@
 ![light bulb icon](https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg)
 
-Consejos Profesionales para CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===========================================================================================================================================================================================
+# Consejos Profesionales para CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Una colección de consejos para ayudarte a mejorar tus conocimientos profesionales de CSS.
 
 > Para ver otras listas geniales, echa un vistazo a la lista curada por <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/) de [listas Awesome](https://github.com/sindresorhus/awesome/).
 
-Tabla de contenido
-------------------
+## Tabla de contenido
 
--   [Consejos Profesionales](#consejos-profesionales)
--   [Soporte](#soporte)
--   [Pautas para contribuir](../../CONTRIBUTING.md)
+- [Consejos Profesionales](#consejos-profesionales)
+- [Soporte](#soporte)
+- [Pautas para contribuir](../../CONTRIBUTING.md)
 
-Consejos Profesionales
-----------------------
+## Consejos Profesionales
 
 1.  [Utilizar un CSS Reset](#utilizar-un-css-reset)
 2.  [Heredar `box-sizing`](#heredar-box-sizing)
@@ -160,7 +157,7 @@ Felicitaciones a Adam Argyle por compartir este protip y [demo](https://codepen.
 
 ### Añadir `line-height` al `body`
 
-No es necesario añadir `line-height` a cada`<p>`,`<h *>`, *et al*. por separado. En su lugar, agregalo al `body`:
+No es necesario añadir `line-height` a cada`<p>`,`<h *>`, _et al_. por separado. En su lugar, agregalo al `body`:
 
     body {
       line-height: 1.5;
@@ -293,7 +290,7 @@ Puede que tenga un nombre extraño, pero utilizando el selector universal (`*`) 
 
 En este ejemplo, todos los elementos del flujo del documento que siguen otros elementos recibirán `margin-top: 1.5em`.
 
-Para más información sobre el selector “búho lobotomizado”, lee el [post de Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) en *A List Apart*.
+Para más información sobre el selector “búho lobotomizado”, lee el [post de Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) en _A List Apart_.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -417,7 +414,7 @@ Usando un 20% de padding hace que la altura de la caja sea igual al 20% de su an
 
 Haz que las imágenes rotas sean estéticamente más agradables con un poco de CSS:
 
-    img {  
+    img {
       display: block;
       font-family: sans-serif;
       font-weight: 300;
@@ -430,13 +427,13 @@ Haz que las imágenes rotas sean estéticamente más agradables con un poco de C
 
 Ahora añade propiedades desde los pseudo-elementos para mostrar un mensaje al usuario y una referencia de dirección URL de la imagen rota:
 
-    img::before {  
+    img::before {
       content: "We're sorry, the image below is broken :(";
       display: block;
       margin-bottom: 10px;
     }
 
-    img::after {  
+    img::after {
       content: "(url: " attr(src) ")";
       display: block;
       font-size: 12px;
@@ -502,7 +499,7 @@ Ahora se puede utilizar la unidad de `root em` basado en el valor calculado por 
 
 ### Definir `font-size` en los elementos de formulario para una mejor experiencia móvil
 
-Para evitar que los navegadores móviles (iOS Safari, *et al*.) hagan zoom sobre los elementos de un formulario HTML cuando un `<select>` desplegable es pulsado, agrega `font-size` a la regla del selector:
+Para evitar que los navegadores móviles (iOS Safari, _et al_.) hagan zoom sobre los elementos de un formulario HTML cuando un `<select>` desplegable es pulsado, agrega `font-size` a la regla del selector:
 
     input[type="text"],
     input[type="number"],
@@ -538,7 +535,6 @@ Como señaló \[Harry Roberts\] (https://twitter.com/csswizardry/status/11708355
 
 <sup>[volver\ al\ índice\ de\ contenidos](#tabla-de-contenido)</sup>
 
-Soporte
--------
+## Soporte
 
 Las versiones actuales de Chrome, Firefox, Safari, Opera, Edge y IE11.

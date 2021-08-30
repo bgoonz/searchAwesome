@@ -1,21 +1,18 @@
 <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon" width="200" />
 
-Wskazówki CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=========================================================================================================================================================================
+# Wskazówki CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Zbiór porad, które pomogą Ci rozwinąć zawansowane umiejętności CSS.
 
 > Sprawdż takze inne wspaniałe listy <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/) z [zaufanych list](https://github.com/sindresorhus/awesome/).
 
-Powrót do spisu treści
-----------------------
+## Powrót do spisu treści
 
--   [Wskazówki](#Wskazowki)
--   [Wsparcie](#Wsparcie)
--   [Wskazówki dotyczące kontrybucji do tego projektu](../../CONTRIBUTING.md)
+- [Wskazówki](#Wskazowki)
+- [Wsparcie](#Wsparcie)
+- [Wskazówki dotyczące kontrybucji do tego projektu](../../CONTRIBUTING.md)
 
-Wskazówki
----------
+## Wskazówki
 
 1.  [Użyj resetowania CSS](#użyj-resetowania-css)
 2.  [Dziedziczenie `box-sizing`](#dziedziczenie-box-sizing)
@@ -157,7 +154,7 @@ Czapka dla Adama Argyle’a za podzielenie się tym prototypem i [demonstracją]
 
 ### Dodaj `line-height` do `body`
 
-Nie musisz dodawać `wysokości linii` do każdego `<p>`, `<h*>`, *et al*. osobno. Zamiast tego dodaj go do `body`:
+Nie musisz dodawać `wysokości linii` do każdego `<p>`, `<h*>`, _et al_. osobno. Zamiast tego dodaj go do `body`:
 
     body {
       line-height: 1.5;
@@ -290,7 +287,7 @@ Być może “Lobotomized Owl” to dziwna nazwa dla selektora, ale użycie uniw
 
 W tym przykładzie wszystkie elementy, które śledzą inne elementy, otrzymają `margin-top: 1.5em`.
 
-Dowiedź sie wiecej na temat selektora “lobotomized owl” czytajac [artykul Heydon’a Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) *A List Apart*.
+Dowiedź sie wiecej na temat selektora “lobotomized owl” czytajac [artykul Heydon’a Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) _A List Apart_.
 
 #### [Demonstracja](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -525,8 +522,7 @@ Jak zauważył [Harry Roberts](https://twitter.com/csswizardry/status/1170835532
 
 <sup>[Powrót\ do\ spisu\ treści](#Powrót-do-spisu-treści)</sup>
 
-Wsparcie
---------
+## Wsparcie
 
 Wersje aktualne Chrome, Firefox, Safari, Opera, Edge, and IE11.
 

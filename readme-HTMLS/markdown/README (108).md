@@ -1,19 +1,16 @@
-jQuery tippek, amiket mindenkinek tudni érdemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===========================================================================================================================================================================================================
+# jQuery tippek, amiket mindenkinek tudni érdemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Egyszerű tippek gyűjteménye, a jQuery-ben való elmélyülésed segítendő.
 
 > További nagyszerű listákért tekintsd meg <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/) válogatott [listáját](https://github.com/sindresorhus/awesome/).
 
-Tartalomjegyzék
----------------
+## Tartalomjegyzék
 
--   [Tippek](#tippek)
--   [Támogatás](#t%C3%A1mogat%C3%A1s)
--   [Közreműködési útmutató (angolul)](../../CONTRIBUTING.md)
+- [Tippek](#tippek)
+- [Támogatás](#t%C3%A1mogat%C3%A1s)
+- [Közreműködési útmutató (angolul)](../../CONTRIBUTING.md)
 
-Tippek
-------
+## Tippek
 
 1.  [Használat `noConflict()`](#használat-noconflict)
 2.  [Betöltött-e a jQuery? - Ellenőrzés](#bet%C3%B6lt%C3%B6tt-e-a-jquery---ellen%C5%91rz%C3%A9s)
@@ -184,7 +181,7 @@ Elemedhez hozzáadhatsz egy vagy több CSS osztályt ilyen esetekben; amikor a f
       $(this).removeClass('hover');
     });
 
-Innentől már csak a szükséges CSS-t kell hozzáadnod. Viszont egy *még egyszerűbb* módszerért használhatod a `toggleClass` eljárást is:
+Innentől már csak a szükséges CSS-t kell hozzáadnod. Viszont egy _még egyszerűbb_ módszerért használhatod a `toggleClass` eljárást is:
 
     $('.btn').on('hover', function () {
       $(this).toggleClass('hover');
@@ -290,7 +287,7 @@ Egy rugalmasabb megoldás ciklusban végigmenni elemek egy adott halmazán, és 
     });
     $columns.height(height);
 
-Ha *minden* minden oszop magasságát egyformára akarod:
+Ha _minden_ minden oszop magasságát egyformára akarod:
 
     var $rows = $('.same-height-columns');
     $rows.each(function () {
@@ -409,8 +406,7 @@ Ha le szeretnéd tiltani a jobb-klikket, az egész oldalra megteheted…
 
 <sup>[vissza\ a\ tartalomjegyzékhez](#tartalomjegyz%C3%A9k)</sup>
 
-Támogatás
----------
+## Támogatás
 
 A Chrome, Firefox, Safari, Opera, Edge és IE11 böngészők jelenlegi verziói.
 

@@ -1,14 +1,12 @@
-Quick Look plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-=================================================================================
+# Quick Look plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 
-Install
--------
+## Install
 
 ### Using [Homebrew](https://brew.sh)
 
--   Run `brew install <package>`
+- Run `brew install <package>`
 
 #### Install all
 
@@ -28,12 +26,11 @@ And run this to remove the attributes:
 
 ### Manually
 
--   Click “download manually”
--   Move the downloaded .qlgenerator file to `~/Library/QuickLook`
--   Run `qlmanage -r`
+- Click “download manually”
+- Move the downloaded .qlgenerator file to `~/Library/QuickLook`
+- Run `qlmanage -r`
 
-Plugins
--------
+## Plugins
 
 ### [QLColorCode](https://github.com/anthonygelibert/QLColorCode)
 
@@ -119,10 +116,9 @@ Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QL
 
 [![](screenshots/QLVideo.png)](https://github.com/Marginal/QLVideo)
 
-More
-----
+## More
 
-*These are not included in [Install all](#install-all).*
+_These are not included in [Install all](#install-all)._
 
 ### [ProvisionQL](https://github.com/ealeksandrov/ProvisionQL)
 
@@ -158,8 +154,7 @@ Run `brew install webpquicklook` or [download manually](https://github.com/dches
 
 [![](screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
-License
--------
+## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

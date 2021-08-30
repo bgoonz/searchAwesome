@@ -1,106 +1,102 @@
 <embed src="images/awesome_programming_discord.webp" width="205" />
 
-Awesome Discord Communities [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-===============================================================================================
+# Awesome Discord Communities [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome Discord communities for developers, game engineers, hackers, hobbyists, mathematicians and tech enthusiasts. [Discord](FAQ.md#what-is-discordcom-exactly) at heart, is a community-oriented instant messaging, voice and video call application. [**This is not a Discord listing, promotional, or affiliated site!**](FAQ.md#how-is-this-list-any-different-from-discord-listing-sites)
 
-Contents
---------
+## Contents
 
--   [How to Navigate](#how-to-navigate)
--   [Programming in General](#programming-in-general)
-    -   [Support Communities](#support-communities)
-    -   [Competitive Programming](#competitive-programming)
--   [Art of Computer Science](#art-of-computer-science)
-    -   [Computer Science](#computer-science)
-    -   [Mathematics](#mathematics)
-    -   [Physics](#physics)
-    -   [Other Sciences](#other-sciences)
--   [Electrical](#electrical)
-    -   [Engineering](#engineering)
-    -   [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
-    -   [DIY](#diy)
-    -   [Internet of Things](#internet-of-things)
-    -   [IoT Applications](#iot-applications)
--   [Hardware](#hardware)
-    -   [Phones](#phones)
-    -   [Smartwatches](#smartwatches)
-    -   [Keyboards](#keyboards)
-    -   [Retro Computers](#retro-computers)
--   [Programming Languages](#programming-languages)
-    -   [Language Paradigms](#language-paradigms)
-    -   [Assembly](#assembly)
-    -   [C and C++](#c-and-c)
-    -   [C\#](#c)
-    -   [Clojure](#clojure)
-    -   [CSS](#css)
-    -   [Elixir](#elixir)
-    -   [Go](#go)
-    -   [Haxe](#haxe)
-    -   [Java](#java)
-    -   [JavaScript](#javascript)
-    -   [Lisp](#lisp)
-    -   [Lua](#lua)
-    -   [PHP](#php)
-    -   [Python](#python)
-    -   [Ruby](#ruby)
-    -   [Rust](#rust)
-    -   [Scala](#scala)
-    -   [Swift](#swift)
-    -   [TypeScript](#typescript)
-    -   [V](#v)
-    -   [WebAssembly](#webassembly)
--   [Web Development](#web-development)
-    -   [Web Frameworks](#web-frameworks)
-    -   [Node.js](#nodejs)
-    -   [React.js](#reactjs)
-    -   [Vue.js](#vuejs)
-    -   [WebAssembly Frameworks](#webassembly-frameworks)
-    -   [Web Libraries](#web-libraries)
-    -   [WordPress](#wordpress)
--   [Development Environments](#development-environments)
--   [Design and Illustrations](#design-and-illustrations)
--   [Operating Systems](#operating-systems)
-    -   [Android](#android)
-    -   [Apple Systems](#apple-systems)
-    -   [Windows](#windows)
-    -   [Linux](#linux)
-    -   [Linux Distributions](#linux-distributions)
-    -   [Other OS](#other-os)
--   [DevOps and System Administration](#devops-and-system-administration)
-    -   [Data Management](#data-management)
-    -   [API](#api)
-    -   [Containers](#containers)
-    -   [Server Applications](#server-applications)
--   [Computer Security](#computer-security)
-    -   [Security Tools](#security-tools)
--   [Blockchain and Cryptocurrency](#blockchain-and-cryptocurrency)
-    -   [Currencies](#currencies)
--   [Simulation](#simulation)
-    -   [Flight Simulation](#flight-simulation)
--   [Game Development](#game-development)
-    -   [Game Design](#game-design)
-    -   [Game Engines](#game-engines)
-    -   [Game Development Tools](#game-development-tools)
-    -   [Gaming on Linux](#gaming-on-linux)
--   [Virtual Reality](#virtual-reality)
--   [Machine Learning](#machine-learning)
-    -   [Data Science](#data-science)
--   [Career](#career)
--   [Discord Development](#discord-development)
--   [Attribution](#attribution)
+- [How to Navigate](#how-to-navigate)
+- [Programming in General](#programming-in-general)
+  - [Support Communities](#support-communities)
+  - [Competitive Programming](#competitive-programming)
+- [Art of Computer Science](#art-of-computer-science)
+  - [Computer Science](#computer-science)
+  - [Mathematics](#mathematics)
+  - [Physics](#physics)
+  - [Other Sciences](#other-sciences)
+- [Electrical](#electrical)
+  - [Engineering](#engineering)
+  - [Microprocessors and Microcontrollers](#microprocessors-and-microcontrollers)
+  - [DIY](#diy)
+  - [Internet of Things](#internet-of-things)
+  - [IoT Applications](#iot-applications)
+- [Hardware](#hardware)
+  - [Phones](#phones)
+  - [Smartwatches](#smartwatches)
+  - [Keyboards](#keyboards)
+  - [Retro Computers](#retro-computers)
+- [Programming Languages](#programming-languages)
+  - [Language Paradigms](#language-paradigms)
+  - [Assembly](#assembly)
+  - [C and C++](#c-and-c)
+  - [C\#](#c)
+  - [Clojure](#clojure)
+  - [CSS](#css)
+  - [Elixir](#elixir)
+  - [Go](#go)
+  - [Haxe](#haxe)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Lisp](#lisp)
+  - [Lua](#lua)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Swift](#swift)
+  - [TypeScript](#typescript)
+  - [V](#v)
+  - [WebAssembly](#webassembly)
+- [Web Development](#web-development)
+  - [Web Frameworks](#web-frameworks)
+  - [Node.js](#nodejs)
+  - [React.js](#reactjs)
+  - [Vue.js](#vuejs)
+  - [WebAssembly Frameworks](#webassembly-frameworks)
+  - [Web Libraries](#web-libraries)
+  - [WordPress](#wordpress)
+- [Development Environments](#development-environments)
+- [Design and Illustrations](#design-and-illustrations)
+- [Operating Systems](#operating-systems)
+  - [Android](#android)
+  - [Apple Systems](#apple-systems)
+  - [Windows](#windows)
+  - [Linux](#linux)
+  - [Linux Distributions](#linux-distributions)
+  - [Other OS](#other-os)
+- [DevOps and System Administration](#devops-and-system-administration)
+  - [Data Management](#data-management)
+  - [API](#api)
+  - [Containers](#containers)
+  - [Server Applications](#server-applications)
+- [Computer Security](#computer-security)
+  - [Security Tools](#security-tools)
+- [Blockchain and Cryptocurrency](#blockchain-and-cryptocurrency)
+  - [Currencies](#currencies)
+- [Simulation](#simulation)
+  - [Flight Simulation](#flight-simulation)
+- [Game Development](#game-development)
+  - [Game Design](#game-design)
+  - [Game Engines](#game-engines)
+  - [Game Development Tools](#game-development-tools)
+  - [Gaming on Linux](#gaming-on-linux)
+- [Virtual Reality](#virtual-reality)
+- [Machine Learning](#machine-learning)
+  - [Data Science](#data-science)
+- [Career](#career)
+- [Discord Development](#discord-development)
+- [Attribution](#attribution)
 
-How to Navigate
----------------
+## How to Navigate
 
 If you’re familiar with other popular [awesome lists](https://github.com/sindresorhus/awesome/blob/main/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](./CONTRIBUTING.md). Read this [FAQ](./FAQ.md#what-about-discords-poor-privacy-policy) about Discord’s **privacy policy** and answers to other frequent questions.
 
--   A quick lookup from browser `ctrl + f` may help to find communities by a topic
--   Click on the [<embed src="images/badges/homepage.webp" width="18" height="18" />](#) or [<embed src="images/badges/git.webp" width="18" height="18" />](#) icon to visit the community’s official website or git repository page
+- A quick lookup from browser `ctrl + f` may help to find communities by a topic
+- Click on the [<embed src="images/badges/homepage.webp" width="18" height="18" />](#) or [<embed src="images/badges/git.webp" width="18" height="18" />](#) icon to visit the community’s official website or git repository page
 
-Programming in General
-----------------------
+## Programming in General
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -136,8 +132,7 @@ Language: English
 
 [**Programmers Palace**](https://discord.com/invite/48Zxcpy)  
 Notable Channels: `#recruitment-hiring`, `#java`, `#python`, `#c_langs`,`#javascript`, `#lua`, `#web-dev`, `#php`, `#other-support`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/programming.webp" width="94" height="94" />
 
@@ -155,8 +150,7 @@ Language: English
 
 [**r/CodingHelp**](https://discord.com/invite/dbe5NnA) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/CodingHelp/)  
 Notable Channels: `#general`, `#html-css`, `#javascript`, `#php`, `#java`, `#python`, `#csharp`, `#c-cpp`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/the_coding_den.webp" width="94" height="94" />
 
@@ -178,7 +172,7 @@ Language: English
 
 <embed src="images/server_icons/webdev_and_web_design.webp" width="94" height="94" />
 
-[**webdev and web\_design**](https://discord.com/invite/keD8rZp) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/webdev/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/ljosberinn/webdev-support-bot)  
+[**webdev and web_design**](https://discord.com/invite/keD8rZp) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/webdev/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/ljosberinn/webdev-support-bot)  
 Notable Channels: `#dev-help`, `#dev-chat`, `#app-feedback`,`#design`, `#user-experience`, `#html`, `#css`, `#javascript`, `#typescript`, `js-framework`, `#react`, `#vue`, `#php`, `#dot-net`, `#devops`, **[`so much more`](badges.md#so-much-more)**  
 Language: English
 
@@ -190,8 +184,7 @@ Language: English
 Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet`  
 Language: English
 
-Art of Computer Science
------------------------
+## Art of Computer Science
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -259,8 +252,7 @@ Language: English
 Notable Channels: `#astronomy`, `#biology`, `#chemistry` `#engineering`, `#environment`, `#mathematics`, `#geometry`, `#calculus`, `#physics`, `#psychology`, `#technology`, **[`so much more`](badges.md#so-much-more)**  
 Language: English
 
-Electrical
-----------
+## Electrical
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -338,8 +330,7 @@ Language: English
 
 [**/r/Home Automation**](https://discord.com/invite/homeautomation) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/homeautomation/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/dgparker/rosie-the-bot)  
 Notable Channels: `#suggestions`, `#smartspeakers`, `#smarthub`, `#lighting`, `#security`, `#iot-dev`, `#buy-sell-trade`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/home_assistant.webp" width="94" height="94" />
 
@@ -365,29 +356,25 @@ Language: English
 
 [**AppDaemon**](https://discord.com/invite/Mx5qafB) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/hassio-addons/addon-appdaemon)  
 Notable Channels: `#appdaemon`, `#hadashboard`  
-Language: English, Deutsch, Nederlands  
-  
+Language: English, Deutsch, Nederlands
 
 <embed src="images/server_icons/deconz.webp" width="94" height="94" />
 
 [**deCONZ**](https://discord.com/invite/QFhTxqN) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/dresden-elektronik/deconz-rest-plugin)  
 Notable Channels: `#advice`, `#device-issues`, `#home-assisstant-issues`, `#setup-issues`, `#other-issues`, `#phoscon`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/esphome.webp" width="94" height="94" />
 
 [**ESPHome**](https://discord.com/invite/KhAMKrd) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://esphome.io/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/esphome)  
 Notable Channels: `#general`, `#devs`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/tasmota.webp" width="94" height="94" />
 
 [**Tasmota**](https://discord.com/invite/Ks2Kzd4) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://tasmota.github.io/docs/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/arendst/tasmota)  
 Notable Channels: `#general`, `#issues`, `#3d-prints-and-cnc`, `#projects-gallery`, `#deals-and-promotions`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/zigbee2mqtt.webp" width="94" height="94" />
 
@@ -395,8 +382,7 @@ Language: English
 Notable Channels: `#release-branch`, `#development-branch`, `#installation-hassio`, `#installation-docker`, `#zigbee2mqtt`, `#zigbee-shepherd`, `#documentation`, `#hardware`  
 Language: English
 
-Hardware
---------
+## Hardware
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -424,8 +410,7 @@ Language: English
 
 [**Monitor Enthusiasts**](https://discord.com/invite/MZwg5cQ) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/Monitors/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/DWF967/MonitorBot)  
 Notable Channels: `#monitors-discussion`, `#ultrawide-discussion`, `#mounts-and-desks`, `#help`, `#setups-and-battlestations`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/pc_master_race.webp" width="94" height="94" />
 
@@ -445,8 +430,7 @@ Language: English
 
 [**r/GooglePixel**](https://discord.com/invite/googlepixel) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/GooglePixel/)  
 Notable Channels: `#tech-support`, `#pixelography`, `#themes`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/r_iphone.webp" width="94" height="94" />
 
@@ -464,8 +448,7 @@ Language: English
 
 [**r/Samsung**](https://discord.com/invite/qWUgeUk) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/samsung/)  
 Notable Channels: `#samsung`, `#purchase-advice`, `#accessories`, `#roms`, `#support`  
-Language: English  
-  
+Language: English
 
 ### Smartwatches
 
@@ -485,8 +468,7 @@ Language: English
 
 [**Smartwatch**](https://discord.com/invite/nPEHdsyjDg)  
 Notable Channels: `#general`, `#support`, `#purchase-advice`, `#showcase`, `#activity`, `#smartwatch-by-brands`  
-Language: English  
-  
+Language: English
 
 ### Keyboards
 
@@ -516,8 +498,7 @@ Language: English
 Notable Channels: `#general`, `#amigashell`, `#next-gen`, `#emulation-and-fpga`, `#hardware`, `#multimedia`, `#coding`, `#accessory-port`  
 Language: English
 
-Programming Languages
----------------------
+## Programming Languages
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -527,8 +508,7 @@ Programming languages used in embedded systems, web frameworks, automation and m
 
 [**Programming Language Development**](https://discord.com/invite/HDyqM2n)  
 Notable Channels: `#langdev`, `#programming`, `#projects`, `#resources`  
-Language: English  
-  
+Language: English
 
 ### Language Paradigms
 
@@ -550,8 +530,7 @@ Language: English
 
 [**Assemblers Assemble**](https://discord.com/invite/Km5VzKj)  
 Notable Channels: `#x86`, `#arm`, `#z80`, `#6502`, `#jvm`, `#mips`, `#m68k`, `#brainfu*k`, `#nand-nor`, `#other`  
-Language: English  
-  
+Language: English
 
 ### C and C++
 
@@ -565,8 +544,7 @@ Language: English
 
 [**C++ Help**](https://discord.com/invite/J5hBe8F) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/Eelis/geordi)  
 Notable Channels: `#cpp-questions`, `#help`, `#advanced`, `#gamedev`, `#project-showcase`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/together_c_and_c_plus_plus.webp" width="94" height="94" />
 
@@ -592,15 +570,13 @@ Language: English
 
 [**Entitas**](https://discord.com/invite/uHrVx5Z) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://twitter.com/entitas_csharp) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/sschmid/Entitas-CSharp)  
 Notable Channels: `#general`, `#showcase`, `#variants`, `#unity`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/opentk.webp" width="94" height="94" />
 
 [**opentk**](https://discord.com/invite/6HqD48s) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://opentk.net/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/opentk)  
 Notable Channels: `#general`, `#support`, `#development`, `#showcase`, `#showcase-discussion`  
-Language: English  
-  
+Language: English
 
 ### Clojure
 
@@ -608,8 +584,7 @@ Language: English
 
 [**Clojurians**](https://discord.com/invite/v9QMy9D)  
 Notable Channels: `#general`, `#clojure`, `#clojurescript`, `#emacs`, `#editors`, `#interop-therapy`, `#boot`  
-Language: English  
-  
+Language: English
 
 ### CSS
 
@@ -631,8 +606,7 @@ Language: English
 
 [**Elixir Language**](https://discord.com/invite/elixir) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://elixir-lang.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/elixir-lang)  
 Notable Channels: `#elixir`, `#erlang`, `#ecto`, `#nerves`, `#phoenix`, `#absinthe`, `#alchemy`, `#frontend`, `#jobs`  
-Language: English  
-  
+Language: English
 
 ### Go
 
@@ -656,8 +630,7 @@ Language: English
 
 [**Java**](https://join.javadiscord.net) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://javadiscord.net) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/Java-Discord)  
 Notable Channels: `#question-of-the-week`, `#share-knowledge`, `#community-jam`, `#resources`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/together_java.webp" width="94" height="94" />
 
@@ -673,8 +646,7 @@ Language: English
 
 [**Deno**](https://discord.com/invite/deno) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://deno.land/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/denoland)  
 Notable Channels: `#general`, `#showcase`, `#help`, `#dev`, `#rust-libs`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/electron.webp" width="94" height="94" />
 
@@ -686,15 +658,13 @@ Language: English
 
 [**ESLint**](https://discord.com/invite/8szcydm) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://eslint.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/eslint)  
 Notable Channels: `#tsc-meetings`, `#general`, `#help`, `#lookwhatimade`, `#developers`, `#season-of-docs`  
-Language: English, 日本語  
-  
+Language: English, 日本語
 
 <embed src="images/server_icons/js_programming_language_community.webp" width="94" height="94" />
 
 [**JS Programming Language Community**](https://discord.com/invite/Y8Mqbkk)  
 Notable Channels: `#general`, `#beginners`, `#nodejs`, `#web-dom`, `#react`, `#vue`, `#gatsby`, `#webassembly`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/reasonml.webp" width="94" height="94" />
 
@@ -722,15 +692,13 @@ Language: English
 
 [**Lua Scripters**](https://discord.com/invite/7wu7ZsW)  
 Notable Channels: `#scripting`, `#creations`, `#roblox`, `#gmod`, `#wow`, `#fivem`, `#luajit`, `#lua-c`, `#terra`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/luvit_io.webp" width="94" height="94" />
 
 [**Luvit.io**](https://discord.com/invite/luvit) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://luvit.io/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/luvit/luvit)  
 Notable Channels: `#general`, `#lua`, `#luvit`, `#luvi`, `#luv`, `#lit`  
-Language: English  
-  
+Language: English
 
 ### PHP
 
@@ -738,15 +706,13 @@ Language: English
 
 [**Flarum**](https://discord.com/invite/3fnPSjA) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://flarum.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/flarum)  
 Notable Channels: `#chitchat`, `#support`, `#extensions`, `#extend`, `#internals`, `#docs`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/grav.webp" width="94" height="94" />
 
 [**Grav**](https://discord.com/invite/5VhYVkR) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://getgrav.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/getgrav)  
 Notable Channels: `#general`, `#theming`, `#development`, `#documentation`, `#plugin-requests`, `#social`, `#testing`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/laravel.webp" width="94" height="94" />
 
@@ -758,8 +724,7 @@ Language: English
 
 [**Tenancy**](https://discord.com/invite/4amsQJ7) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://tenancy.dev/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/tenancy)  
 Notable Channels: `#brewery`, `#coding`, `#support`, `#internals`, `#multi-tenant-support`  
-Language: English  
-  
+Language: English
 
 ### Python
 
@@ -767,8 +732,7 @@ Language: English
 
 [**microsoft-python**](https://discord.com/invite/b8YJQPx) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://twitter.com/pythonvscode) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/microsoft/vscode-python)  
 Notable Channels: `#python-virtual-labs`, `#azure`, `#data-science`, `#iot`, `#postgres`, `#vscode`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/python.webp" width="94" height="94" />
 
@@ -782,15 +746,13 @@ Language: English
 
 [**Kivy**](https://discord.com/invite/djPtTRJ) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://kivy.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/kivy)  
 Notable Channels: `#general`, `#support`, `#your-projects`, `#dev`, `#python-for-android`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/kivymd.webp" width="94" height="94" />
 
 [**KivyMD**](https://discord.com/invite/wu3qBST) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.youtube.com/channel/UCl72hvzwQ0rXUMBKTsKjRAA) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/HeaTTheatR/KivyMD)  
 Notable Channels: `#general`, `#support`, `#suggestions-for-improvements`, `#users-gallery`, `#kivymd-studio`  
-Language: English, русский  
-  
+Language: English, русский
 
 ### Ruby
 
@@ -874,8 +836,7 @@ Language: English, Deutsch, français, 中文, español, 日本語, dansk, 한�
 
 [**AssemblyScript**](https://discord.com/invite/assemblyscript) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.assemblyscript.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/AssemblyScript)  
 Notable Channels: `#general`, `#help`, `#built-with-assemblyscript`, `#development`, `#community-group`, `#as-pect`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/webassembly.webp" width="94" height="94" />
 
@@ -883,8 +844,7 @@ Language: English
 Notable Channels: `#general`, `#beginners`, `#cg`, `#jobs`, `#events`, `#summit`, `#wasm`, `#wasi`, `#web`, `#standalone`, `#generic`, `#emscripten`, `#javascript`, `#rust`, `#go`  
 Language: English
 
-Web Development
----------------
+## Web Development
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -910,15 +870,13 @@ Language: English, français, Deutsch, português, pусский, español
 
 [**FastAPI**](https://discord.com/invite/VQjSZaeJmf) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://fastapi.tiangolo.com/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/tiangolo/fastapi)  
 Notable Channels: `#discussion`, `#documentation`, `#advanced-questions`, `#articles-videos-podcasts`, `#showcase`  
-Language: English, español, 中文, русский, português, italiano, Türkçe, Українська  
-  
+Language: English, español, 中文, русский, português, italiano, Türkçe, Українська
 
 <embed src="images/server_icons/fomantic-ui.webp" width="94" height="94" />
 
 [**Fomantic-UI**](https://discord.com/invite/UgzHNZF) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://fomantic-ui.com) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/fomantic)  
 Notable Channels: `#general`, `#discussion`, `#need-help`, `#bugs`, `#feature-request`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/pallets_project.webp" width="94" height="94" />
 
@@ -968,8 +926,7 @@ Language: English, 日本語
 
 [**Nodeiflux**](https://discord.com/invite/vUsrbjd) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://nodejs.org/en/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/nodejs)  
 Notable Channels: `#general`, `#need-help`, `#i-made-this`, `#news-and-links`, `#libraries`, `#ops`, `#react`, `#jobs`  
-Language: English  
-  
+Language: English
 
 ### React.js
 
@@ -1003,15 +960,13 @@ Language: English
 
 [**BootstrapVue**](https://discord.com/invite/j2Mtcny) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://bootstrap-vue.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/bootstrap-vue)  
 Notable Channels: `#general`, `#i-made-this`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/buefy.webp" width="94" height="94" />
 
 [**Buefy**](https://discord.com/invite/ZkdFJMr) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://buefy.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/buefy)  
 Notable Channels: `#general`, `#need-help`, `#feature-request`, `#i-made-this`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/gridsome.webp" width="94" height="94" />
 
@@ -1041,8 +996,7 @@ Language: English, Deutsch, français, 汉语, español, 日本語, dansk, 한�
 
 [**Vue Material**](https://discord.com/invite/vuematerial) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://vuematerial.io/) [<embed src="images/badges/git.webp" width="16" height="16" />](http://github.com/vuematerial)  
 Notable Channels: `#general`, `#need-help`, `#bugs`, `#ideas`, `#i-made-this`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/vuesax.webp" width="94" height="94" />
 
@@ -1064,8 +1018,7 @@ Language: English, Deutsch, français, español, 日本語, 한국어, portuguê
 
 [**seed-rs**](https://discord.com/invite/JHHcHp5) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://seed-rs.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/seed-rs)  
 Notable Channels: `#app-architecture`, `#hooks-and-style`, `#devel`, `#support`, `#showcase`, `#documentation`, `#jobs`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/yew.webp" width="94" height="94" />
 
@@ -1079,29 +1032,25 @@ Language: English, 中文
 
 [**docsify**](https://discord.com/invite/anXTEZk) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://docsify.js.org/#/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/docsifyjs)  
 Notable Channels: `#general`, `#showcase`, `#help`, `#contribution-guidelines`, `#docsify-themeable`, `#plugins`, `#docsify-labs`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/egoist_oss.webp" width="94" height="94" />
 
 [**EGOIST OSS**](https://discord.com/invite/2t5mdCz) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://poi.js.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/egoist/poi)  
 Notable Channels: `#ream`, `#saber`, `#poi`, `#cac`, `#bili`, `#sao`, `#codepan`, `#docup`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/solidjs.webp" width="94" height="94" />
 
 [**SolidJS**](https://discord.com/invite/solidjs) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://solidjs.com/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/ryansolid/solid)  
 Notable Channels: `#help`, `#reactivity`, `#ssr`, `#tooling`, `#typescript`, `#articles`, `#jobs`, `#showcase`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/storybook.webp" width="94" height="94" />
 
 [**storybook**](https://discord.gg/UUt2PJb) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://storybook.js.org/community/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/storybookjs/)  
 Notable Channels: `#general`, `#support`, `#maintenance`, `#design`, `#presets`, `#documentation`, `#addons`, `#jobs`, `#frameworks`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/testing_library.webp" width="94" height="94" />
 
@@ -1113,8 +1062,7 @@ Language: English
 
 [**yarnpkg**](https://discord.com/invite/yarnpkg) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://classic.yarnpkg.com/en/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/yarnpkg)  
 Notable Channels: `#contributing`, `#prs`, `#issues`, `#support`, `#general`  
-Language: English  
-  
+Language: English
 
 ### WordPress
 
@@ -1130,8 +1078,7 @@ Language: English
 Notable Channels: `#security`, `#general`, `#devops`, `#plugin-development`, `#theme-development`, `#coding-questions`, `#css`, `#wp-cli`, `#seo`, `#beginner-help`, **[`so much more`](badges.md#so-much-more)**  
 Language: English
 
-Development Environments
-------------------------
+## Development Environments
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -1141,8 +1088,7 @@ Sketchbooks for software engineers; IDEs, text editors, modular editors, GUI ter
 
 [**Blink**](https://discord.com/invite/ZTtMfvK) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://blink.sh/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/blinksh)  
 Notable Channels: `#support`, `#themes-and-fonts`, `#shortcuts`, `#tips-and-tricks`, `#general`, `#dev`, `#design`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/doom_emacs.webp" width="94" height="94" />
 
@@ -1154,15 +1100,13 @@ Language: English
 
 [**Files**](https://discord.com/invite/mr5hVu8) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://files-community.github.io/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/files-community)  
 Notable Channels: `#general`, `#design`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/gitea.webp" width="94" height="94" />
 
 [**Gitea**](https://discord.com/invite/gitea) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://gitea.io) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/go-gitea)  
 Notable Channels: `#configuration`, `#docker`, `#drone-integration`, `#reverse-proxies`, `#develop`, `#helm-chart`, `#tea`  
-Language: English, Deutsch, português, 中文, français, español, Nederlands, русский, Czech  
-  
+Language: English, Deutsch, português, 中文, français, español, Nederlands, русский, Czech
 
 <embed src="images/server_icons/jetbrains_community.webp" width="94" height="94" />
 
@@ -1174,18 +1118,15 @@ Language: English
 
 [**MS Paint IDE**](https://discord.com/invite/RXmPkPJ) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://ms-paint-i.de/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/MSPaintIDE)  
 Notable Channels: `#support`, `#ide-development`, `#newocr-development`, `#share-your-projects`, `#java`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/ohmyzsh.webp" width="94" height="94" />
 
 [**ohmyzsh**](https://discord.com/invite/ohmyzsh) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://ohmyz.sh/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/ohmyzsh)  
 Notable Channels: `#discussion`, `#terminal-setups`, `#tech-support`, `#code`, `#suggestions`, `#wiki-rewrite`  
-Language: English  
-  
+Language: English
 
-Design and Illustrations
-------------------------
+## Design and Illustrations
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -1221,8 +1162,7 @@ Language: English
 Notable Channels: `#the-spotlight`, `#discussions`, `#critique`, `#showcase`, `#tech-help`, `#resources`, `#inspiration`, `#traditional`, `#illustration`, `#photography`  
 Language: English
 
-Operating Systems
------------------
+## Operating Systems
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -1232,8 +1172,7 @@ The underlying kernels that are responsible for managing application processes.
 
 [**Operating System Development**](https://discord.com/invite/RnCtsqD)  
 Notable Channels: `#osdev`, `#programming`, `#beginner`, `#bootloader-dev`, `#wiki`, `#projects`, `#resources`  
-Language: English  
-  
+Language: English
 
 ### Android
 
@@ -1247,22 +1186,19 @@ Language: English
 
 [**/r/AndroidRoot**](https://discord.gg/Uq7r6kF) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/androidroot/)  
 Notable Channels: `#root`, `#custom-roms`, `#theming`, `#development`, `#magisk`, `#twrp`, `#substratum`, `#support-room`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/r_flutterdev.webp" width="94" height="94" />
 
 [**/r/FlutterDev**](https://discord.com/invite/N7Yshp4) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/FlutterDev/)  
 Notable Channels: `#beginner`, `#intermediate`, `#general`, `#android`, `#ios`, `#web`, `#desktop`, `#app-showcase`, `#hiring`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/android_discord.webp" width="94" height="94" />
 
 [**Android Discord**](https://discord.com/invite/android) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/Android/)  
 Notable Channels: `#android`, `#whatphone`, `#tech-support`, `#phone-questions`, `#themes`, `#phonetography`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/xda-developers.webp" width="94" height="94" />
 
@@ -1276,8 +1212,7 @@ Language: English
 
 [**/r/Hackintosh Paradise**](https://discord.com/invite/Wxam8aH) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/hackintosh/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/)  
 Notable Channels: `#hackintosh-help`, `#laptop-prebuilt`, `#smbios`, `#macos`, `#linux`, `#windows`, `#retro-gaming`, `#hardware`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/amd_os_x.webp" width="94" height="94" />
 
@@ -1289,8 +1224,7 @@ Language: English
 
 [**Apple Betas**](https://discord.com/invite/4EEkWjS) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/iOSBeta/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/23Aaron/JeffBot)  
 Notable Channels: `#releases`, `#general`, `#ios`, `#ipados`, `#macos`, `#watchos`, `#tvos`, `#xcode`, `#development`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/unsupported_macs.webp" width="94" height="94" />
 
@@ -1336,8 +1270,7 @@ Language: English
 
 [\_\_\*nix nest\_\_](https://discord.com/invite/svhXktFkAG) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/nixnest)  
 Notable Channels: `#home`, `#dev-random`, `#support`, `#unixporn`, `#programming`, `#media`, `#hardware`, `#gaming`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/discord_linux.webp" width="94" height="94" />
 
@@ -1355,15 +1288,13 @@ Language: English
 
 [**Linux For All**](https://discord.gg/gewCYyN) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://twitter.com/lfa_linux/)  
 Notable Channels: `#linux-news`, `#general`, `#linux`, `#gaming`, `#suggestions`, `#developers`, `#themes`, `#support`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/r_unixporn.webp" width="94" height="94" />
 
 [**r/unixporn**](https://discord.com/invite/TnJ4h5K) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/unixporn/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/unixporn)  
 Notable Channels: `#showcase`, `#ricing-theming`, `#tools`, `#wallpapers`, `#tech-support`, `#programming`, `#hardware`  
-Language: English  
-  
+Language: English
 
 ### Linux Distributions
 
@@ -1373,8 +1304,7 @@ Language: English
 
 [**Arch Linux \[unofficial\]**](https://discord.com/invite/MrhPdhn)  
 Notable Channels: `#news`, `#home`, `#arch-support`, `#other-distros`, `#programming`, `#ricing`, `#wallpapers`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/fedora_linux.webp" width="94" height="94" />
 
@@ -1386,8 +1316,7 @@ Language: English
 
 [**Gentoo Linux**](https://discord.com/invite/Gentoo) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.gentoo.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/gentoo)  
 Notable Channels: `#chat`, `#support`, `#screenshots`, `#general-development`, `#ebuilds`, `#resources`, `#containers`  
-Language: English, 日本語  
-  
+Language: English, 日本語
 
 <embed src="images/server_icons/linux_mint_community.webp" width="94" height="94" />
 
@@ -1405,8 +1334,7 @@ Language: English
 
 [**openSUSE**](https://discord.com/invite/openSUSE) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.opensuse.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/openSUSE)  
 Notable Channels: `#support`, `#chat`, `#project`, `#packaging`, `#factory`, `#admin`, `#artwork`, `#docs`, `#gnome`, `#xfce`  
-Language: English, français, Deutsch, italiano, polski, español, Nederlands  
-  
+Language: English, français, Deutsch, italiano, polski, español, Nederlands
 
 <embed src="images/server_icons/ubuntu_hideout.webp" width="94" height="94" />
 
@@ -1428,8 +1356,7 @@ Language: English
 Notable Channels: `#chromeos`, `#chromium`, `#crostini`, `#purchase-advice`, `#dev-mode`, `#enterprise`, `#android`, `#gaming`, `#support`  
 Language: English
 
-DevOps and System Administration
---------------------------------
+## DevOps and System Administration
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -1439,8 +1366,7 @@ DevOps and System Administration
 
 [**/r/sysadmin**](https://discord.com/invite/sysadmin) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/sysadmin)  
 Notable Channels: `#sysadmin`, `#help`, `#security`, `#scripting`, `#microsoft`, `#linux`, `#career-advice`, `#networking`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/amazon_web_services_aws_cloud.webp" width="94" height="94" />
 
@@ -1458,15 +1384,13 @@ Language: English
 
 [**Eddie Jaoude Community**](https://discord.com/invite/jZQs6Wu) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](http://eddiejaoudecommunity.github.io) [<embed src="images/badges/git.webp" width="16" height="16" />](http://github.com/EddieJaoudeCommunity)  
 Notable Channels: `#opensource`, `#first-timers`, `#help`, `#livestream`, `#hackathons`, `#careers`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/homelab.webp" width="94" height="94" />
 
 [**Homelab**](https://discord.com/invite/homelab) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/homelab/)  
 Notable Channels: `#general`, `#labpics`, `#homelabquotes`, `#code`  
-Language: English, Deutsch, français, Nederlands  
-  
+Language: English, Deutsch, français, Nederlands
 
 ### Data Management
 
@@ -1494,8 +1418,7 @@ Language: English
 
 [**disease.sh**](https://discord.com/invite/uypdG2h) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://disease.sh/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/disease-sh)  
 Notable Channels: `#showcase`, `#feedback-suggestions`, `#commands`, `#api-support`, `#public-development`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/hasurahq.webp" width="94" height="94" />
 
@@ -1507,8 +1430,7 @@ Language: English
 
 [**SpaceUpTech**](https://discord.com/invite/RkGjW93) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://spaceuptech.com/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/spaceuptech)  
 Notable Channels: `#general`, `#contributions`  
-Language: English  
-  
+Language: English
 
 ### Containers
 
@@ -1516,15 +1438,13 @@ Language: English
 
 [**Cryb**](https://discord.com/invite/xdhEgD5) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://cryb.app/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/crybapp)  
 Notable Channels: `#cryb`, `#getting-started`, `#support`, `#tech-support`, `#updates`, `#community`, `#interests`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/linuxserver_io.webp" width="94" height="94" />
 
 [**Linuxserver.io**](https://discord.com/invite/YWrKVTn) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.linuxserver.io/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/linuxserver)  
 Notable Channels: `#general-support`, `#docker-support`, `#heimdall`, `#linux-chat`, `#other-support`, `#hardware`  
-Language: English  
-  
+Language: English
 
 ### Server Applications
 
@@ -1532,32 +1452,27 @@ Language: English
 
 [**/r/Plex**](https://discord.com/invite/plex) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/PleX/)  
 Notable Channels: `#general`, `#software`, `#hardware`, `#media-suggestions`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/librenms.webp" width="94" height="94" />
 
 [**LibreNMS**](https://discord.com/invite/librenms) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.librenms.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/librenms)  
 Notable Channels: `#general`, `#devel`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/organizr.webp" width="94" height="94" />
 
 [**Organizr**](https://discord.com/invite/TrNtY7N) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://organizr.app/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/causefx/Organizr)  
 Notable Channels: `#general`, `#customization-theming`, `#groups`, `#organizr-support`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/pi_hole.webp" width="94" height="94" />
 
 [**Pi-Hole**](https://discord.gg/VzThBmB)  
 Notable Channels: `#general`, `#tech`, `#share-your-setup`, `#pi-hole-setup`, `#other-support`  
-Language: English  
-  
+Language: English
 
-Computer Security
------------------
+## Computer Security
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -1578,9 +1493,8 @@ Language: English
 <embed src="images/server_icons/defcon.webp" width="94" height="94" />
 
 [**DEFCON**](https://discord.com/invite/defcon) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.defcon.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://media.defcon.org/)  
-Notable Channels: *Will open on August 5-8, 2021*  
-Language: English  
-  
+Notable Channels: _Will open on August 5-8, 2021_  
+Language: English
 
 <embed src="images/server_icons/hacker101.webp" width="94" height="94" />
 
@@ -1592,8 +1506,7 @@ Language: English
 
 [**InfoSec & Coding**](https://discord.gg/zSaDzRW)  
 Notable Channels: `#general`, `#questions`, `#programming`, `#hacking`, `#webdev`, `#opearting-systems`, `#ctf`, `#resources`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/locke.webp" width="94" height="94" />
 
@@ -1625,18 +1538,15 @@ Language: English
 
 [**GHIDRA**](https://discord.gg/S4tQnUB) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://ghidra.re/)  
 Notable Channels: `#general`, `#development`  
-Language: English, русский  
-  
+Language: English, русский
 
 <embed src="images/server_icons/pince.webp" width="94" height="94" />
 
 [**PINCE**](https://discord.com/invite/KCNDp9m) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/korcankaraokcu/PINCE)  
 Notable Channels: `#general`, `#issues`  
-Language: English  
-  
+Language: English
 
-Blockchain and Cryptocurrency
------------------------------
+## Blockchain and Cryptocurrency
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -1692,8 +1602,7 @@ Language: English, español, русский, bahasa Indonesia, italiano, Deutsch
 Notable Channels: `#general`, `#trading`, `#marketing`, `#development`, `#mining-help`, `#mining-rig-discussion`  
 Language: English, 한국어, русский
 
-Simulation
-----------
+## Simulation
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -1703,15 +1612,13 @@ Computationally model natural or supernatural phenomena using the rigorous laws 
 
 [**Manim**](https://discord.com/invite/mMRrZQW) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.manim.community) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/ManimCommunity)  
 Notable Channels: `#3blue1brown`, `#manim-help`, `#python-help`, `#math-discussion`, `#manim-dev`, `#projects`, `#docs`  
-Language: English, español, português, français, Deutsch, русский  
-  
+Language: English, español, português, français, Deutsch, русский
 
 <embed src="images/server_icons/dimforge.webp" width="94" height="94" />
 
 [**dimforge**](https://discord.com/invite/vt9DJSW) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.dimforge.com/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/dimforge)  
 Notable Channels: `#rapier`, `#bevy_rapier`, `#rapier-js`, `#parry`, `#salva`, `#nalgebra`, `#simba`, `#nphysics`, `#simba`  
-Language: English  
-  
+Language: English
 
 ### Flight Simulation
 
@@ -1727,8 +1634,7 @@ Language: English
 Notable Channels: `#help`, `#aviation-chat`, `#hardware-chat`, `#a32nx-chat`, `#a380x-chat`, `#dev-support`, `#atsu-api`, `#lighting`, `#modeling`, `#sound`, `#your-controls`  
 Language: English
 
-Game Development
-----------------
+## Game Development
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -1788,8 +1694,7 @@ Language: English, Deutsch, português, español, Nederlands, suomi, Magyar, sve
 
 [**Shadertoy**](https://discord.com/invite/XtmMN6E) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.shadertoy.com)  
 Notable Channels: `#shader-programming`, `#beginners`, `#mathematics`, `#showcase`, `#live-coding-streams`, `#resources`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/ttrpg_design_and_playtesting.webp" width="94" height="94" />
 
@@ -1809,21 +1714,19 @@ Language: English, Deutsch, français, 日本語, русский, 中文, dansk
 
 [**Armory**](https://discord.com/invite/axq6qWV) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://armory3d.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/armory3d)  
 Notable Channels: `#armory`, `#armor-paint`, `#general`, `#armory-dev`, `#haxe`, `#logic-nodes`, `#showcase`  
-Language: English, français  
-  
+Language: English, français
 
 <embed src="images/server_icons/bevy.webp" width="94" height="94" />
 
 [**Bevy Engine**](https://discord.com/invite/gMUk5Ph) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://bevyengine.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/bevyengine/)  
 Notable Channels: `#general`, `#help`, `#code-review`, `#showcase`, `#tutorials`, `#dev-general`, `#assets`, `#audio`, `#documentation`, `#ecs`, `#ui`, `#rendering`  
-Language: English  
+Language: English
 
 <embed src="images/server_icons/construct_community.webp" width="94" height="94" />
 
 [**Construct Community**](https://discord.com/invite/8RJBHbX) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/WebCreationClub)  
 Notable Channels: `#general`, `#feedback`, `#ask`, `#js`, `#tips`, `#tools`, `#job-offers`, `#addons`, `#effects`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/cryengine_community.webp" width="94" height="94" />
 
@@ -1859,15 +1762,13 @@ Language: English
 
 [**Panda3D**](https://discord.com/invite/UyepRMm) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.panda3d.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/panda3d)  
 Notable Channels: `#general`, `#development`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/renpy.webp" width="94" height="94" />
 
 [**Ren’Py**](https://discord.com/invite/6ckxWYm) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](http://www.renpy.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/renpy)  
 Notable Channels: `#renpy`, `#ontopic`, `#todayidid`, `#social`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/twine_games.webp" width="94" height="94" />
 
@@ -1905,15 +1806,13 @@ Language: English
 
 [**IntellectualSites**](https://discord.com/invite/KxkjDVg) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://intellectualsites.com/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/IntellectualSites)  
 Notable Channels: `#fawe-support`, `#fawe-developer-chat`, `#ps-developer-chat`, `#hv-general-chat`, `#is-web`, `#programming`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/linuxgsm_.webp" width="94" height="94" />
 
 [**LinuxGSM**](https://discord.com/invite/UM4VTpK) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://linuxgsm.com/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/GameServerManagers)  
 Notable Channels: `#linuxgsm`, `#linux`, `#game-server`, `#general`, `#battlestations`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/raylib.webp" width="94" height="94" />
 
@@ -1925,15 +1824,13 @@ Language: English
 
 [**RPCS3**](https://discord.com/invite/a6zm2T8) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://rpcs3.net/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/rpcs3)  
 Notable Channels: `#rpcs3`, `#help`, `#development`, `#media`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/steam_rom_manager.webp" width="94" height="94" />
 
 [**Steam ROM Manager**](https://discord.com/invite/vrd6385) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://dozennn.github.io/steam-rom-manager/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://discord.com/invite/vrd6385)  
 Notable Channels: `#srm_discussion`, `#parser_support`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/tes3mp.webp" width="94" height="94" />
 
@@ -1975,8 +1872,7 @@ Language: English
 Notable Channels: `#protondb-website`, `#proton-game-support`, `#proton`, `#linux`, `#linux-support`, `#general-game-support`  
 Language: English
 
-Virtual Reality
----------------
+## Virtual Reality
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -2000,8 +1896,7 @@ Language: English, Deutsch, اَلْعَرَبِيَّةُ‎, français, 汉语
 Notable Channels: `#vr-dev`, `#tech-advice`, `#oculus-quest`, `#oculus-rift`, `#oculus-go`, `#valve-index`, `#pimax-vr`, `#htc-vive`, `#windows-mixed-reality`, `#playstation-vr`, `#vr-flightsims`  
 Language: English
 
-Machine Learning
-----------------
+## Machine Learning
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -2023,8 +1918,7 @@ Language: English
 
 [**Sentdex**](https://discord.com/invite/sentdex) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.youtube.com/user/sentdex) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/Sentdex)  
 Notable Channels: `#__main__`, `#help`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/tensorflow.webp" width="94" height="94" />
 
@@ -2044,15 +1938,13 @@ Language: English
 
 [**Data Version Control**](https://discord.com/invite/dvwXA2N) [<embed src="images/badges/official.webp" width="16" height="16" />](badges.md#official-identification-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://dvc.org/) [<embed src="images/badges/git.webp" width="16" height="16" />](https://github.com/iterative/dvc)  
 Notable Channels: `#q-and-a`, `#need-help`, `#general`, `#dev-talk`, `#dev-docs`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/r_dataisbeautiful.webp" width="94" height="94" />
 
 [**r/DataIsBeautiful**](https://discord.com/invite/NRnrWE7) [<embed src="images/badges/reddit.webp" width="16" height="16" />](badges.md#reddit-badge) [<embed src="images/badges/homepage.webp" width="16" height="16" />](https://www.reddit.com/r/dataisbeautiful/)  
 Notable Channels: `#dataviz`, `#datascience`, `#looking-for-help`  
-Language: English  
-  
+Language: English
 
 <embed src="images/server_icons/the_data_share.webp" width="94" height="94" />
 
@@ -2060,8 +1952,7 @@ Language: English
 Notable Channels: `#machine-learning`, `#natural-language-processing`, `#analytics`, `#programming`, `#data-engineering`, `#visualizations`, `#community`  
 Language: English
 
-Career
-------
+## Career
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
@@ -2073,15 +1964,13 @@ Discussions on interview challenges, resume reviews, job opportunities in the fi
 Notable Channels: `#big-n-discussion`, `#experienced`, `#resume-review`, `#career-questions`, `#ask-a-manager`, `#students`, `#meetups`, `#programming-challenges`  
 Language: English
 
-Discord Development
--------------------
+## Discord Development
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 
 All the utilities needed in your tool bag to build a Discord bot or automation through their APIs. However, this list is quite long and diverse that it calls for its own awesome list. You can read this [official wiki](https://www.reddit.com/r/discordapp/wiki/developers) about the notable development kit.
 
-Attribution
------------
+## Attribution
 
 [<img src="images/up_arrow.png" alt="Back to top" width="16" height="16" />](#contents)
 

@@ -1,5 +1,4 @@
-.htaccess-Ausschnitte
-=====================
+# .htaccess-Ausschnitte
 
 Eine Sammlung nützlicher .htaccess-Ausschnitte, alle an einem Ort.
 
@@ -7,58 +6,55 @@ Eine Sammlung nützlicher .htaccess-Ausschnitte, alle an einem Ort.
 
 **WICHTIG**: Apache 2.4 führt einige Änderungen ein, welche die Konfiguration zerstören könnten, hauptsächlich im Bereich der Zugangskontrolle. Für mehr Informationen sehen Sie sich das [“Upgrading”-Dokument](https://httpd.apache.org/docs/2.4/upgrading.html) und [dieses Ticket](https://github.com/phanan/htaccess/issues/2) an.
 
-Danksagungen
-------------
+## Danksagungen
 
 Wir sammeln hier hauptsächlich nützliche Ausschnitte aus dem Internet (beispielsweise aus [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) an einem Ort. Obwohl wir versuchen, alle Autoren zu erwähnen, ist es möglich, dass einige vergessen wurden. Sollten Sie glauben, dass etwas hiervon Ihre Arbeit ist und Sie erwähnt werden sollten, lassen Sie uns dies wissen oder erstellen Sie einfach eine Pull-Anfrage.
 
-Inhalt
-------
+## Inhalt
 
--   [Umschreibung und Weiterleitung](#umschreibung-und-weiterleitung)
-    -   [www erzwingen](#www-erzwingen)
-    -   [www allgemein erzwingen](#www-allgemein-erzwingen)
-    -   [nicht-www erzwingen](#nicht-www-erzwingen)
-    -   [nicht-www allgemein erzwingen](#nicht-www-allgemein-erzwingen)
-    -   [HTTPS erzwingen](#https-erzwingen)
-    -   [HTTPS hinter einem Proxy erzwingen](#https-hinter-einem-proxy-erzwingen)
-    -   [Abschließende Querstriche erzwingen](#abschlie%C3%9Fende-querstriche-erzwingen)
-    -   [Abschließende Querstriche entfernen](#abschlie%C3%9Fende-querstriche-entfernen)
-    -   [Eine einzelne Seite weiterleiten](#eine-einzelne-seite-weiterleiten)
-    -   [Alias für ein einzelnes Verzeichnis hinzufügen](#alias-f%C3%BCr-ein-einzelnes-verzeichnis-hinzuf%C3%BCgen)
-    -   [Verzeichnisalias für ein Skript hinzufügen](#verzeichnisalias-f%C3%BCr-ein-skript-hinzuf%C3%BCgen)
-    -   [Eine komplette Seite weiterleiten](#eine-komplette-seite-weiterleiten)
-    -   [Alias für “saubere” URLs hinzufügen](#alias-f%C3%BCr-saubere-urls-hinzuf%C3%BCgen)
--   [Sicherheit](#sicherheit)
-    -   [Kompletten Zugriff verbieten](#kompletten-zugriff-verbieten)
-    -   [Kompletten Zugriff außer Ihren verbieten](#kompletten-zugriff-au%C3%9Fer-ihren-verbieten)
-    -   [Zugriff erlauben, außer von Spammern](#zugriff-erlauben-au%C3%9Fer-von-spammern)
-    -   [Zugriff zu versteckten Dateien und Verzeichnissen verbieten](#zugriff-zu-versteckten-dateien-und-verzeichnissen-verbieten)
-    -   [Zugriff zu Backup- und Quelldateien verbieten](#zugriff-zu-backup--und-quelldateien-verbieten)
-    -   [Verzeichnis-Auflistung abschalten](#verzeichnis-auflistung-abschalten)
-    -   [Bild-Hotlinking abschalten](#bild-hotlinking-abschalten)
-    -   [Bild-Hotlinking für spezielle Domains abschalten](#bild-hotlinking-f%C3%BCr-spezielle-domains-abschalten)
-    -   [Ein Verzeichnis mit Passwort schützen](#ein-verzeichnis-mit-passwort-sch%C3%BCtzen)
-    -   [Eine oder mehrere Dateien mit Passwort schützen](#eine-oder-mehrere-dateien-mit-passwort-sch%C3%BCtzen)
-    -   [Besucher nach Referrer blockieren](#besucher-nach-referrer-blockieren)
-    -   [Verbieten, die Seite in Frames zu verwenden](#verbieten-die-seite-in-frames-zu-verwenden)
--   [Leistung](#leistung)
-    -   [Textdateien komprimieren](#textdateien-komprimieren)
-    -   [Ablaufdatum im Header setzen](#ablaufdatum-im-header-setzen)
-    -   [eTags abschalten](#etags-abschalten)
--   [Verschiedenes](#verschiedenes)
-    -   [PHP Variablen setzen](#php-variablen-setzen)
-    -   [Eigene Fehlerseiten](#eigene-fehlerseiten)
-    -   [Download erzwingen](#download-erzwingen)
-    -   [Download verhindern](#download-verhindern)
-    -   [Domainübergreifende Schriftarten erlauben](#domain%C3%BCbergreifende-schriftarten-erlauben)
-    -   [Automatische UTF-8-Kodierung](#automatische-utf-8-kodierung)
-    -   [Zu einer anderen PHP-Version wechseln](#zu-einer-anderen-php-version-wechseln)
-    -   [Kompatibilitätsansicht des Internet Explorer deaktivieren](#kompatibilit%C3%A4tsansicht-des-internet-explorer-deaktivieren)
-    -   [WebP-Bilder bereitstellen](#webp-bilder-bereitstellen)
+- [Umschreibung und Weiterleitung](#umschreibung-und-weiterleitung)
+  - [www erzwingen](#www-erzwingen)
+  - [www allgemein erzwingen](#www-allgemein-erzwingen)
+  - [nicht-www erzwingen](#nicht-www-erzwingen)
+  - [nicht-www allgemein erzwingen](#nicht-www-allgemein-erzwingen)
+  - [HTTPS erzwingen](#https-erzwingen)
+  - [HTTPS hinter einem Proxy erzwingen](#https-hinter-einem-proxy-erzwingen)
+  - [Abschließende Querstriche erzwingen](#abschlie%C3%9Fende-querstriche-erzwingen)
+  - [Abschließende Querstriche entfernen](#abschlie%C3%9Fende-querstriche-entfernen)
+  - [Eine einzelne Seite weiterleiten](#eine-einzelne-seite-weiterleiten)
+  - [Alias für ein einzelnes Verzeichnis hinzufügen](#alias-f%C3%BCr-ein-einzelnes-verzeichnis-hinzuf%C3%BCgen)
+  - [Verzeichnisalias für ein Skript hinzufügen](#verzeichnisalias-f%C3%BCr-ein-skript-hinzuf%C3%BCgen)
+  - [Eine komplette Seite weiterleiten](#eine-komplette-seite-weiterleiten)
+  - [Alias für “saubere” URLs hinzufügen](#alias-f%C3%BCr-saubere-urls-hinzuf%C3%BCgen)
+- [Sicherheit](#sicherheit)
+  - [Kompletten Zugriff verbieten](#kompletten-zugriff-verbieten)
+  - [Kompletten Zugriff außer Ihren verbieten](#kompletten-zugriff-au%C3%9Fer-ihren-verbieten)
+  - [Zugriff erlauben, außer von Spammern](#zugriff-erlauben-au%C3%9Fer-von-spammern)
+  - [Zugriff zu versteckten Dateien und Verzeichnissen verbieten](#zugriff-zu-versteckten-dateien-und-verzeichnissen-verbieten)
+  - [Zugriff zu Backup- und Quelldateien verbieten](#zugriff-zu-backup--und-quelldateien-verbieten)
+  - [Verzeichnis-Auflistung abschalten](#verzeichnis-auflistung-abschalten)
+  - [Bild-Hotlinking abschalten](#bild-hotlinking-abschalten)
+  - [Bild-Hotlinking für spezielle Domains abschalten](#bild-hotlinking-f%C3%BCr-spezielle-domains-abschalten)
+  - [Ein Verzeichnis mit Passwort schützen](#ein-verzeichnis-mit-passwort-sch%C3%BCtzen)
+  - [Eine oder mehrere Dateien mit Passwort schützen](#eine-oder-mehrere-dateien-mit-passwort-sch%C3%BCtzen)
+  - [Besucher nach Referrer blockieren](#besucher-nach-referrer-blockieren)
+  - [Verbieten, die Seite in Frames zu verwenden](#verbieten-die-seite-in-frames-zu-verwenden)
+- [Leistung](#leistung)
+  - [Textdateien komprimieren](#textdateien-komprimieren)
+  - [Ablaufdatum im Header setzen](#ablaufdatum-im-header-setzen)
+  - [eTags abschalten](#etags-abschalten)
+- [Verschiedenes](#verschiedenes)
+  - [PHP Variablen setzen](#php-variablen-setzen)
+  - [Eigene Fehlerseiten](#eigene-fehlerseiten)
+  - [Download erzwingen](#download-erzwingen)
+  - [Download verhindern](#download-verhindern)
+  - [Domainübergreifende Schriftarten erlauben](#domain%C3%BCbergreifende-schriftarten-erlauben)
+  - [Automatische UTF-8-Kodierung](#automatische-utf-8-kodierung)
+  - [Zu einer anderen PHP-Version wechseln](#zu-einer-anderen-php-version-wechseln)
+  - [Kompatibilitätsansicht des Internet Explorer deaktivieren](#kompatibilit%C3%A4tsansicht-des-internet-explorer-deaktivieren)
+  - [WebP-Bilder bereitstellen](#webp-bilder-bereitstellen)
 
-Umschreibung und Weiterleitung
-------------------------------
+## Umschreibung und Weiterleitung
 
 Anmerkung: Es wird vorausgesetzt, dass Sie `mod_rewrite` installiert und aktiviert haben.
 
@@ -75,7 +71,7 @@ Anmerkung: Es wird vorausgesetzt, dass Sie `mod_rewrite` installiert und aktivie
     RewriteCond %{HTTPS}s ^on(s)|
     RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-Dies funktioniert für *jede* Domain. [Quelle](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
+Dies funktioniert für _jede_ Domain. [Quelle](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
 
 ### nicht-www erzwingen
 
@@ -165,8 +161,7 @@ Dieser Ausschnitt erlaubt Ihnen, “saubere URLs”, also URLs ohne Dateinamense
 
 [Quelle](http://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
 
-Sicherheit
-----------
+## Sicherheit
 
 ### Kompletten Zugriff verbieten
 
@@ -307,8 +302,7 @@ Dies schützt die Webseite davor, in einem Frame (z.B. einem iframe) dargestellt
     SetEnvIf Request_URI "/starry-night" allow_framing=true
     Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 
-Leistung
---------
+## Leistung
 
 ### Textdateien komprimieren
 
@@ -353,7 +347,7 @@ Leistung
 
 ### Ablaufdatum im Header setzen
 
-*Expire headers* (Ablauf-Header) teilen dem Browser mit, ob er eine bestimmte Datei vom Server oder aus dem Cache laden soll. Es ist ratsam, das Ablaufdatum von statischen Inhalten weit in die Zukunft zu legen. Wenn Sie die Versionierung nicht durch Dateinamen kontrollieren, ziehen Sie in Betracht, die Cachezeit für Ressourcen wie CSS und JS auf ca. eine Woche zu verringern. [Quelle](https://github.com/h5bp/server-configs-apache)
+_Expire headers_ (Ablauf-Header) teilen dem Browser mit, ob er eine bestimmte Datei vom Server oder aus dem Cache laden soll. Es ist ratsam, das Ablaufdatum von statischen Inhalten weit in die Zukunft zu legen. Wenn Sie die Versionierung nicht durch Dateinamen kontrollieren, ziehen Sie in Betracht, die Cachezeit für Ressourcen wie CSS und JS auf ca. eine Woche zu verringern. [Quelle](https://github.com/h5bp/server-configs-apache)
 
     <IfModule mod_expires.c>
         ExpiresActive on
@@ -414,8 +408,7 @@ Durch das Entfernen des `ETag`-Headers können Sie Caches und Browser davon abha
     </IfModule>
     FileETag None
 
-Verschiedenes
--------------
+## Verschiedenes
 
 ### PHP-Variablen setzen
 

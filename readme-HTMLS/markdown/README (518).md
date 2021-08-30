@@ -8,15 +8,15 @@
 
 ### Table of Contents
 
--   [Awesome PostCSS](#awesome-postcss)
-    -   [Articles](topics/articles.md)
-    -   [Community](topics/community.md)
-    -   [Guides](topics/guides.md)
-    -   [Official Resources](topics/official-resources.md)
-    -   [Podcast](topics/podcast.md)
-    -   [Plugins](topics/plugins.md)
-    -   [Presentations](topics/presentations.md)  
-    -   [Task Runner](topics/task-runner.md)
+- [Awesome PostCSS](#awesome-postcss)
+  - [Articles](topics/articles.md)
+  - [Community](topics/community.md)
+  - [Guides](topics/guides.md)
+  - [Official Resources](topics/official-resources.md)
+  - [Podcast](topics/podcast.md)
+  - [Plugins](topics/plugins.md)
+  - [Presentations](topics/presentations.md)
+  - [Task Runner](topics/task-runner.md)
 
 ### Contributing
 
@@ -24,13 +24,13 @@ Your contributions are always welcome. But, please take a quick gander at the [C
 
 ### Who to follow
 
--   [Azat S.](https://twitter.com/azat_io)
--   [Andrey Sitnik](https://twitter.com/andreysitnik)
--   [Evil Martians](https://twitter.com/evilmartians)
--   [Max Stoiber](https://twitter.com/mxstbr)
--   [Maxime Thirouin](https://twitter.com/MoOx)
--   [Ray Villalobos](https://twitter.com/planetoftheweb)
--   [Sean King](https://twitter.com/seaneking)
+- [Azat S.](https://twitter.com/azat_io)
+- [Andrey Sitnik](https://twitter.com/andreysitnik)
+- [Evil Martians](https://twitter.com/evilmartians)
+- [Max Stoiber](https://twitter.com/mxstbr)
+- [Maxime Thirouin](https://twitter.com/MoOx)
+- [Ray Villalobos](https://twitter.com/planetoftheweb)
+- [Sean King](https://twitter.com/seaneking)
 
 ### License
 

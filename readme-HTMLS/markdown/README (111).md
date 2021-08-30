@@ -1,19 +1,16 @@
-JQuery Conseils Tout le monde devrait savoir [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-========================================================================================================================================================================================================
+# JQuery Conseils Tout le monde devrait savoir [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Une collection de conseils simples pour aider votre jeu jQuery.
 
 > Pour les autres grandes listes vérifier <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/) de la liste curated des [listes impressionnantes](https://github.com/sindresorhus/awesome/).
 
-Table des matières
-------------------
+## Table des matières
 
--   [Conseils](#conseils)
--   [Soutien](#soutien)
--   [Lignes directrices des contributions](../../CONTRIBUTING.md)
+- [Conseils](#conseils)
+- [Soutien](#soutien)
+- [Lignes directrices des contributions](../../CONTRIBUTING.md)
 
-Conseils
---------
+## Conseils
 
 1.  [Utilisez `noConflict()`](#use-noconflict)
 2.  [Vérification Si jQuery Loaded](#checking-if-jquery-loaded)
@@ -180,7 +177,7 @@ Disons que vous voulez changer le visuel d’un élément cliquable sur votre pa
       $(this).removeClass('hover');
     });
 
-Vous avez juste besoin d’ajouter le CSS nécessaire. Si vous voulez une manière encore *simpler* utiliser la méthode `toggleClass`:
+Vous avez juste besoin d’ajouter le CSS nécessaire. Si vous voulez une manière encore _simpler_ utiliser la méthode `toggleClass`:
 
     $('.btn').hover(function () {
       $(this).toggleClass('hover');
@@ -284,7 +281,7 @@ Cet exemple définit la `min-height` ce qui signifie qu’il peut être plus gra
     });
     $columns.height(height);
 
-Si vous voulez *all* colonnes ont la même hauteur:
+Si vous voulez _all_ colonnes ont la même hauteur:
 
     var $rows = $('.same-height-columns');
     $rows.each(function () {
@@ -403,8 +400,7 @@ Si desea desactivar botón derecho del ratón, se puede hacer por una página en
 
 <sup>[retour\ à\ la\ table\ des\ matières](#table-of-contents)</sup>
 
-Soutien
--------
+## Soutien
 
 Les versions actuelles de Chrome, Firefox, Safari, Opera, Edge, et IE11.
 

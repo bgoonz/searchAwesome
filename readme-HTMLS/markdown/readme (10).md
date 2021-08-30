@@ -1,5 +1,4 @@
-Hacker News Tools of the Trade [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=========================================================================================================================================================
+# Hacker News Tools of the Trade [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
@@ -29,122 +28,120 @@ I’ve collected more data from Hacker News, AngelList and Quora, to make the 20
 
 It’s on GitHub for a reason! Please submit pull requests.
 
-Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
--------------------------------------------------------------------------------------------------------------------------------
+## Supported with ❤️ by [Instabug](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
 
 ### Understand How Your App is Doing with Real-Time Contextual Insights From Your Users
 
 [![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=toolsofthetrade&utm_medium=spon&utm_content=banner) &gt;Instabug helps Android developers easily collect bugs and feedback from beta testers and users to iterate faster and ship quality apps. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. &gt; Mobile teams accelerate their workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk and much more. [Instabug is offering Tools of the Trade community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=get-started) &gt;[![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
 
-Contents
---------
+## Contents
 
--   Business
-    -   Payments
-        -   [Accounting/Invoicing](#accountinginvoicing)
-        -   [Billing & Payment Processing](#billing--payment-processing)
-        -   [Payroll](#payroll)
-    -   Marketing
-        -   [Remote Collaboration](#remote-collaboration)
-        -   [Remote Workers](#remote-workers)
-        -   [SEO Tools](#seo-tools)
-        -   [Social Media Marketing](#social-media-marketing)
-        -   [Email Marketing](#email-marketing)
-        -   [Sources of Clicks/Ad Platforms](#sources-of-clicksad-platforms)
-        -   [Transactional Email](#transactional-email)
-    -   Productivity
-        -   [Group Communication/Chat Tools](#group-communicationchat-tools)
-        -   [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
-        -   [Password Management](#password-management)
-        -   [Personal Productivity](#personal-productivity)
-        -   [Planning & Project Management](#planning--project-management)
-        -   [Time Tracking](#time-tracking)
-    -   For Founders
-        -   [Fundraising / Investor Relations](#fundraising--investor-relations)
-        -   [Naming](#naming)
-        -   [Presentations / Slides](#presentations--slides)
-        -   [Privacy Policy, Terms & Conditions, Legal Documents](#privacy-policy-terms--conditions-legal-documents)
-        -   [Space Rental](#space-rental)
-    -   Business Tracking & Analytics
-        -   [Dashboards](#dashb)
-        -   [Business & Traffic Analytics](#business--traffic-analytics)
-        -   [Income Analytics](#income-analytics)
-    -   Design
-        -   [Business Cards and Print Material](#business-cards-and-print-material)
-        -   [Content Creation/Infographics](#content-creationinfographics)
-        -   [Design Collaboration](#design-collaboration)
-        -   [Designers](#designers)
-        -   [Prototyping/Mockups](#prototypingmockups)
-    -   UX
-        -   [Conversion Optimization & A/B Testing](#conversion-optimization--ab-testing)
-        -   [User Feedback](#user-feedback)
-        -   [User Management](#user-management)
-        -   [User Testing](#user-testing)
-        -   [Customer Feedback](customer-feedback)
-        -   [Forms / Surveys](#forms--surveys)
-    -   Others
-        -   [CRM/Sales Tools](#crmsales-tools)
-        -   [Customer Support/Help Desks](#customer-supporthelp-desks)
-        -   [Community Tools](#community-tools)
-        -   [HR](#hr)
-        -   [Phone/PBX/SMS](#phonepbxsms)
-        -   [Shipping](#shipping)
--   Tech
-    -   Data
-        -   [Data](#data)
-        -   [Database-aaS](#database-aas)
-        -   [Database](#database)
-        -   [Storage](#storage)
-    -   Programming Productivity
-        -   [Documentation](#documentation)
-        -   [Engineering Metrics](#engineering-metrics)
-        -   [Notes](#notes)
-    -   API
-        -   [API Builder](#api-builder)
-        -   [Other APIs](#other-apis)
-    -   Testing & Monitoring
-        -   [Browser/Email Testing](#browseremail-testing)
-        -   [Load Testing](#load-testing)
-        -   [Server Monitoring](#server-monitoring)
-        -   [System Monitoring](#system-monitoring)
-        -   [Log Monitoring](#log-monitoring)
-        -   [Status Blogs/User Alerts](#status-blogsuser-alerts)
-        -   [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
-    -   As a Service
-        -   [Backend-aaS](#backend-aas)
-        -   [Database-aaS](#database-aas)
-        -   [PaaS](#paas)
-        -   [WebSockets-aaS](#websockets-aas)
-    -   DevSecOps
-        -   [App Developer Tools](#app-developer-tools)
-        -   [Application Performance](#application-performance)
-        -   [Continuous Integration/Code Quality](#continuous-integrationcode-quality)
-        -   [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
-        -   [Security](#security)
-        -   [Bug/Issue Tracking](#bugissue-tracking)
-        -   [Source Code Hosting](#source-code-hosting)
-    -   Simple
-        -   [Email Collection/Landing Page Apps](#email-collectionlanding-page-apps)
-        -   [Boilerplates](#boilerplates)
-    -   Hosting
-        -   [AWS Tools](#aws-tools)
-        -   [Heroku Tools](#heroku-tools)
-        -   [Video Hosting](#video-hosting)
-        -   [Source Code Hosting](#source-code-hosting)
-    -   Others
-        -   [Application Distribution](#application-distribution)
-        -   [Deployment](#deployment)
-        -   [DNS](#dns)
-        -   [Error/Exception Handling](#errorexception-handling)
-        -   [Geocoding](#geocoding)
-        -   [Identity Verification](#identity-verification)
-        -   [Localization & Internationalization](#localization--internationalization)
-        -   [Offsite Backups](#offsite-backups)
-        -   [Personal Machine Backups](#personal-machine-backups)
-        -   [Search](#search)
-        -   [Site Search](#site-search)
-        -   [Task Scheduling](#task-scheduling)
-        -   [VPS](#vps)
+- Business
+  - Payments
+    - [Accounting/Invoicing](#accountinginvoicing)
+    - [Billing & Payment Processing](#billing--payment-processing)
+    - [Payroll](#payroll)
+  - Marketing
+    - [Remote Collaboration](#remote-collaboration)
+    - [Remote Workers](#remote-workers)
+    - [SEO Tools](#seo-tools)
+    - [Social Media Marketing](#social-media-marketing)
+    - [Email Marketing](#email-marketing)
+    - [Sources of Clicks/Ad Platforms](#sources-of-clicksad-platforms)
+    - [Transactional Email](#transactional-email)
+  - Productivity
+    - [Group Communication/Chat Tools](#group-communicationchat-tools)
+    - [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
+    - [Password Management](#password-management)
+    - [Personal Productivity](#personal-productivity)
+    - [Planning & Project Management](#planning--project-management)
+    - [Time Tracking](#time-tracking)
+  - For Founders
+    - [Fundraising / Investor Relations](#fundraising--investor-relations)
+    - [Naming](#naming)
+    - [Presentations / Slides](#presentations--slides)
+    - [Privacy Policy, Terms & Conditions, Legal Documents](#privacy-policy-terms--conditions-legal-documents)
+    - [Space Rental](#space-rental)
+  - Business Tracking & Analytics
+    - [Dashboards](#dashb)
+    - [Business & Traffic Analytics](#business--traffic-analytics)
+    - [Income Analytics](#income-analytics)
+  - Design
+    - [Business Cards and Print Material](#business-cards-and-print-material)
+    - [Content Creation/Infographics](#content-creationinfographics)
+    - [Design Collaboration](#design-collaboration)
+    - [Designers](#designers)
+    - [Prototyping/Mockups](#prototypingmockups)
+  - UX
+    - [Conversion Optimization & A/B Testing](#conversion-optimization--ab-testing)
+    - [User Feedback](#user-feedback)
+    - [User Management](#user-management)
+    - [User Testing](#user-testing)
+    - [Customer Feedback](customer-feedback)
+    - [Forms / Surveys](#forms--surveys)
+  - Others
+    - [CRM/Sales Tools](#crmsales-tools)
+    - [Customer Support/Help Desks](#customer-supporthelp-desks)
+    - [Community Tools](#community-tools)
+    - [HR](#hr)
+    - [Phone/PBX/SMS](#phonepbxsms)
+    - [Shipping](#shipping)
+- Tech
+  - Data
+    - [Data](#data)
+    - [Database-aaS](#database-aas)
+    - [Database](#database)
+    - [Storage](#storage)
+  - Programming Productivity
+    - [Documentation](#documentation)
+    - [Engineering Metrics](#engineering-metrics)
+    - [Notes](#notes)
+  - API
+    - [API Builder](#api-builder)
+    - [Other APIs](#other-apis)
+  - Testing & Monitoring
+    - [Browser/Email Testing](#browseremail-testing)
+    - [Load Testing](#load-testing)
+    - [Server Monitoring](#server-monitoring)
+    - [System Monitoring](#system-monitoring)
+    - [Log Monitoring](#log-monitoring)
+    - [Status Blogs/User Alerts](#status-blogsuser-alerts)
+    - [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
+  - As a Service
+    - [Backend-aaS](#backend-aas)
+    - [Database-aaS](#database-aas)
+    - [PaaS](#paas)
+    - [WebSockets-aaS](#websockets-aas)
+  - DevSecOps
+    - [App Developer Tools](#app-developer-tools)
+    - [Application Performance](#application-performance)
+    - [Continuous Integration/Code Quality](#continuous-integrationcode-quality)
+    - [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
+    - [Security](#security)
+    - [Bug/Issue Tracking](#bugissue-tracking)
+    - [Source Code Hosting](#source-code-hosting)
+  - Simple
+    - [Email Collection/Landing Page Apps](#email-collectionlanding-page-apps)
+    - [Boilerplates](#boilerplates)
+  - Hosting
+    - [AWS Tools](#aws-tools)
+    - [Heroku Tools](#heroku-tools)
+    - [Video Hosting](#video-hosting)
+    - [Source Code Hosting](#source-code-hosting)
+  - Others
+    - [Application Distribution](#application-distribution)
+    - [Deployment](#deployment)
+    - [DNS](#dns)
+    - [Error/Exception Handling](#errorexception-handling)
+    - [Geocoding](#geocoding)
+    - [Identity Verification](#identity-verification)
+    - [Localization & Internationalization](#localization--internationalization)
+    - [Offsite Backups](#offsite-backups)
+    - [Personal Machine Backups](#personal-machine-backups)
+    - [Search](#search)
+    - [Site Search](#site-search)
+    - [Task Scheduling](#task-scheduling)
+    - [VPS](#vps)
 
 ### Identity Verification
 
@@ -486,26 +483,23 @@ Contents
 
 <table style="width:98%;"><colgroup><col style="width: 22%" /><col style="width: 22%" /><col style="width: 22%" /><col style="width: 32%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Service</th><th style="text-align: left;">Twitter</th><th style="text-align: left;">Pricing</th><th style="text-align: left;">Description</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="https://captable.io">Captable.io</a></td><td style="text-align: left;"><span class="citation" data-cites="captable_io">[@captable_io]</span>(https://twitter.com/captable_io)</td><td style="text-align: left;">Free</td><td style="text-align: left;">Captable.io is a free, fully-featured cap table management tool that enables step-by-step creation, easy collaboration &amp; sharing, convertible note &amp; option calculators, and powerful round &amp; exit modeling.</td></tr><tr class="even"><td style="text-align: left;"><a href="https://startupdisclosure.io">Disclosure</a></td><td style="text-align: left;"><span class="citation" data-cites="ltse">[@ltse]</span>(https://twitter.com/ltse)</td><td style="text-align: left;">Free</td><td style="text-align: left;">Helps startups fulfill investor update requests, so investors can manage and aggregate portfolio information. It replaces today’s cumbersome email based processes.</td></tr><tr class="odd"><td style="text-align: left;"><a href="https://notegenie.io">NoteGenie</a> / <a href="https://safegenie.io">SAFEGenie</a></td><td style="text-align: left;"><span class="citation" data-cites="ltse">[@ltse]</span>(https://twitter.com/ltse)</td><td style="text-align: left;">Free</td><td style="text-align: left;">A calculator for exploring the impact of convertible notes and SAFEs on founder ownership.</td></tr><tr class="even"><td style="text-align: left;"><a href="https://ipo-ready.com">IPO Ready</a></td><td style="text-align: left;"><span class="citation" data-cites="ltse">[@ltse]</span>(https://twitter.com/ltse)</td><td style="text-align: left;">Free</td><td style="text-align: left;">Quickly assess your startup’s IPO readiness. Learn what it takes to prepare for an IPO.</td></tr></tbody></table>
 
-Use
----
+## Use
 
 The best ways to use this list are:
 
--   by browsing the [contents](#contents)
--   by using command + F to search the contents
+- by browsing the [contents](#contents)
+- by using command + F to search the contents
 
 This list also uses tags to help when searching the contents:
 
--   **Hosted?** `Hosted`, `Self-hosted`
+- **Hosted?** `Hosted`, `Self-hosted`
 
-See also
---------
+## See also
 
--   [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments
--   [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
+- [Awesome Online IDEs](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments
+- [Data Extractor for Tools of The Trade](https://www.apify.com/metamn/2MS8r-api-https-github-com-cjbarber-toolsofthetrade) - Data extracted with Apify to JSON/CSV/XLS
 
-Credits
--------
+## Credits
 
 **[Chris Barber](https://www.chrisbarber.co)**
 

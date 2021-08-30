@@ -1,21 +1,18 @@
 ![light bulb icon](https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg)
 
-CSS suggerimenti per esperti [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-========================================================================================================================================================================================
+# CSS suggerimenti per esperti [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Una collezione di dritte per aiutarti a migliorare le tue capacità con CSS.
 
 > Per altre fantastiche liste di questo tipo guarda la [lista di fantastiche liste](https://github.com/sindresorhus/awesome/) curata da <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/).
 
-Sommario
---------
+## Sommario
 
--   [Suggerimenti per esperti](#suggerimenti-per-esperti)
--   [Supporto](#supporto)
--   [Linee guida per contribuire](../../CONTRIBUTING.md)
+- [Suggerimenti per esperti](#suggerimenti-per-esperti)
+- [Supporto](#supporto)
+- [Linee guida per contribuire](../../CONTRIBUTING.md)
 
-Suggerimenti per esperti
-------------------------
+## Suggerimenti per esperti
 
 1.  [Utilizzare un reset CSS](#utilizzare-un-reset-css)
 2.  [Eredita il `box-sizing`](#eredita-il-box-sizing)
@@ -159,7 +156,7 @@ Punta del cappello ad Adam Argyle per aver condiviso questo prototipo e questa [
 
 ### Aggiungi `line-height` al `body`
 
-Non è necessario aggiungere `line-height` a ogni `<p>`,`<h *>`, *et al*. separatamente. Invece, aggiungilo a `body`:
+Non è necessario aggiungere `line-height` a ogni `<p>`,`<h *>`, _et al_. separatamente. Invece, aggiungilo a `body`:
 
     body {
       line-height: 1.5;
@@ -292,7 +289,7 @@ Sebbene il suo nome sia un po’ strano, l’uso del selettore universale (`*`) 
 
 In questo esempio, tutti gli elementi nel flusso del documento che seguono altri elementi riceveranno la proprietà `margin-top: 1.5em`.
 
-Per saperne di più sul selettore detto “lobotomized owl”, leggi [l’articolo di Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) su *A List Apart*.
+Per saperne di più sul selettore detto “lobotomized owl”, leggi [l’articolo di Heydon Pickering](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) su _A List Apart_.
 
 #### [Dimostrazione](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -491,7 +488,7 @@ Adesso puoi usare l’unità basata su `root em` sul valore calcolato da `:root`
 
 ### Imposta il `font-size` sugli elementi dei form per una migliore esperienza da mobile
 
-Per evitare lo zoom sugli elementi dei form dai browser mobile (iOS Safari, *et al*.) quando si tocca una `<select>`, aggiungi `font-size` alle regole del selettore:
+Per evitare lo zoom sugli elementi dei form dai browser mobile (iOS Safari, _et al_.) quando si tocca una `<select>`, aggiungi `font-size` alle regole del selettore:
 
     input[type="text"],
     input[type="number"],
@@ -527,7 +524,6 @@ Come [Harry Roberts ha sottolineato](https://twitter.com/csswizardry/status/1170
 
 <sup>[torna\ al\ sommario](#sommario)</sup>
 
-Supporto
---------
+## Supporto
 
 Le attuali versioni di Chrome, Firefox, Safari, Opera, Edge ed IE11.

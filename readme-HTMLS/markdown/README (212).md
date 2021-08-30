@@ -1,5 +1,4 @@
-.htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==============================================================================================================================================================================
+# .htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Una collezione di esempi utili di .htaccess.
 
@@ -7,59 +6,56 @@ Una collezione di esempi utili di .htaccess.
 
 **IMPORTANTE**: Apache 2.4 introduce alcuni cambiamenti, in particolare la configurazione del controllo degli accessi. Per maggiori informazioni potete consultare il [documento sull’aggiornamento](https://httpd.apache.org/docs/2.4/upgrading.html) oltre a [questa problematica](https://github.com/phanan/htaccess/issues/2).
 
-Riconoscimenti
---------------
+## Riconoscimenti
 
 Ciò che stiamo facendo è mettere insieme esempi utili da tutto il web (ad esempio, una buona parte viene da [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) in un solo posto. Anche se abbiamo cercato di dare riconoscimento, dove previsto, potrebbe mancare qualche riferimento. Se credete che sia presente del vostro lavoro e volete che venga riconosciuto fatecelo sapere e inviateci un PR.
 
-Sommario
---------
+## Sommario
 
--   [Rewrite e Redirection](#rewrite-and-redirection)
-    -   [Forza www](#force-www)
-    -   [Forza www in maniera generica](#force-www-in-a-generic-way)
-    -   [Forza non-www](#force-non-www)
-    -   [Forza non-www in maniera generica](#force-non-www-in-a-generic-way)
-    -   [Forza HTTPS](#force-https)
-    -   [Forza HTTPS se dietro Proxy](#force-https-behind-a-proxy)
-    -   [Forza lo Slash finale](#force-trailing-slash)
-    -   [Rimuovi lo Slash finale](#remove-trailing-slash)
-    -   [Rimuovi lo Slash finale da percorsi arbitrari](#remove-trailing-slash-from-arbitrary-paths)
-    -   [Redireziona una singola pagina](#redirect-a-single-page)
-    -   [Alias a singole Cartelle](#alias-a-single-directory)
-    -   [Percorsi Alias a Script](#alias-paths-to-script)
-    -   [Redireziona un Intero Sito](#redirect-an-entire-site)
-    -   [Alias per URL “Pulite”](#alias-clean-urls)
--   [Sicurezza](#security)
-    -   [Nega tutti gli accessi](#deny-all-access)
-    -   [Nega l’accesso a tutti tranne per te stesso](#deny-all-access-except-yours)
-    -   [Permetti a tutti l’accesso tranne agli Spammer](#allow-all-access-except-spammers)
-    -   [Nega l’accesso a Cartelle e File Nascosti](#deny-access-to-hidden-files-and-directories)
-    -   [Nega l’accesso a Backup e File Sorgenti](#deny-access-to-backup-and-source-files)
-    -   [Disabilita l’Esplorazione delle Cartelle](#disable-directory-browsing)
-    -   [Disabilita Hotlinking delle Immagini](#disable-image-hotlinking)
-    -   [Disabilita Hotlinking delle Immagini per Domini Specifici](#disable-image-hotlinking-for-specific-domains)
-    -   [Proteggi una Cartella con Password](#password-protect-a-directory)
-    -   [Proteggi uno o più file con Password](#password-protect-a-file-or-several-files)
-    -   [Blocca i visitatori in base al Referrer](#block-visitors-by-referrer)
-    -   [Previeni l’inclusione del Sito tramite frame (framing)](#prevent-framing-the-site)
--   [Prestazioni](#performance)
-    -   [Comprimi i File di Testo](#compress-text-files)
-    -   [Imposta header expires](#set-expires-headers)
-    -   [Disabilita gli eTags](#turn-etags-off)
--   [Miscellanea](#miscellaneous)
-    -   [Imposta variabili PHP](#set-php-variables)
-    -   [Pagine di Errore Personalizzate](#custom-error-pages)
-    -   [Forza il Download](#force-downloading)
-    -   [Previeni il Download](#prevent-downloading)
-    -   [Permetti i Web Font da domini differenti](#allow-cross-domain-fonts)
-    -   [Codifica automaticamente in UTF-8](#auto-utf-8-encode)
-    -   [Passa a una versione diversa di PHP](#switch-to-another-php-version)
-    -   [Disabilita Visualizzazione Compatibilità di Internet Explorer](#disable-internet-explorer-compatibility-view)
-    -   [Rendere disponibili immagini in formato WebP](#serve-webp-images)
+- [Rewrite e Redirection](#rewrite-and-redirection)
+  - [Forza www](#force-www)
+  - [Forza www in maniera generica](#force-www-in-a-generic-way)
+  - [Forza non-www](#force-non-www)
+  - [Forza non-www in maniera generica](#force-non-www-in-a-generic-way)
+  - [Forza HTTPS](#force-https)
+  - [Forza HTTPS se dietro Proxy](#force-https-behind-a-proxy)
+  - [Forza lo Slash finale](#force-trailing-slash)
+  - [Rimuovi lo Slash finale](#remove-trailing-slash)
+  - [Rimuovi lo Slash finale da percorsi arbitrari](#remove-trailing-slash-from-arbitrary-paths)
+  - [Redireziona una singola pagina](#redirect-a-single-page)
+  - [Alias a singole Cartelle](#alias-a-single-directory)
+  - [Percorsi Alias a Script](#alias-paths-to-script)
+  - [Redireziona un Intero Sito](#redirect-an-entire-site)
+  - [Alias per URL “Pulite”](#alias-clean-urls)
+- [Sicurezza](#security)
+  - [Nega tutti gli accessi](#deny-all-access)
+  - [Nega l’accesso a tutti tranne per te stesso](#deny-all-access-except-yours)
+  - [Permetti a tutti l’accesso tranne agli Spammer](#allow-all-access-except-spammers)
+  - [Nega l’accesso a Cartelle e File Nascosti](#deny-access-to-hidden-files-and-directories)
+  - [Nega l’accesso a Backup e File Sorgenti](#deny-access-to-backup-and-source-files)
+  - [Disabilita l’Esplorazione delle Cartelle](#disable-directory-browsing)
+  - [Disabilita Hotlinking delle Immagini](#disable-image-hotlinking)
+  - [Disabilita Hotlinking delle Immagini per Domini Specifici](#disable-image-hotlinking-for-specific-domains)
+  - [Proteggi una Cartella con Password](#password-protect-a-directory)
+  - [Proteggi uno o più file con Password](#password-protect-a-file-or-several-files)
+  - [Blocca i visitatori in base al Referrer](#block-visitors-by-referrer)
+  - [Previeni l’inclusione del Sito tramite frame (framing)](#prevent-framing-the-site)
+- [Prestazioni](#performance)
+  - [Comprimi i File di Testo](#compress-text-files)
+  - [Imposta header expires](#set-expires-headers)
+  - [Disabilita gli eTags](#turn-etags-off)
+- [Miscellanea](#miscellaneous)
+  - [Imposta variabili PHP](#set-php-variables)
+  - [Pagine di Errore Personalizzate](#custom-error-pages)
+  - [Forza il Download](#force-downloading)
+  - [Previeni il Download](#prevent-downloading)
+  - [Permetti i Web Font da domini differenti](#allow-cross-domain-fonts)
+  - [Codifica automaticamente in UTF-8](#auto-utf-8-encode)
+  - [Passa a una versione diversa di PHP](#switch-to-another-php-version)
+  - [Disabilita Visualizzazione Compatibilità di Internet Explorer](#disable-internet-explorer-compatibility-view)
+  - [Rendere disponibili immagini in formato WebP](#serve-webp-images)
 
-Rewrite e Redirection
----------------------
+## Rewrite e Redirection
 
 Nota: Si presume che `mod_rewrite` sia installato e abilitato.
 
@@ -76,7 +72,7 @@ Nota: Si presume che `mod_rewrite` sia installato e abilitato.
     RewriteCond %{HTTPS}s ^on(s)|
     RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-Funziona per *qualsiasi* dominio. [Sorgente](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
+Funziona per _qualsiasi_ dominio. [Sorgente](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
 
 ### Forza non-www
 
@@ -150,7 +146,7 @@ Questo esempio redirezionerà i percorsi che finiscono con gli slash ai rispetti
 
     FallbackResource /index.fcgi
 
-Questo esempio presenta un file `index.fcgi` in alcune cartelle e ogni richiesta fallita nel risolvere un file/cartella verrà inviata allo script `index.fcgi`. Va bene se volete che `baz.foo/some/cool/path` venga gestito da `baz.foo/index.fcgi` (che supporta anche richieste verso `baz.foo`) mantenendo `baz.foo/css/style.css` e simili. Accedi al percorso originale dalla variabile d’ambiente PATH\_INFO come previsto dal vostro ambiente di scripting.
+Questo esempio presenta un file `index.fcgi` in alcune cartelle e ogni richiesta fallita nel risolvere un file/cartella verrà inviata allo script `index.fcgi`. Va bene se volete che `baz.foo/some/cool/path` venga gestito da `baz.foo/index.fcgi` (che supporta anche richieste verso `baz.foo`) mantenendo `baz.foo/css/style.css` e simili. Accedi al percorso originale dalla variabile d’ambiente PATH_INFO come previsto dal vostro ambiente di scripting.
 
     RewriteEngine On
     RewriteRule ^$ index.fcgi/ [QSA,L]
@@ -176,8 +172,7 @@ Questo esempio ti permette di utilizzare URL “pulite” – URL senza estensio
 
 [Sorgente](http://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
 
-Sicurezza
----------
+## Sicurezza
 
 ### Nega tutti gli Accessi
 
@@ -318,8 +313,7 @@ Previene la possibilità di inserimento del sito web tramite frame (es. inserito
     SetEnvIf Request_URI "/starry-night" allow_framing=true
     Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 
-Prestazioni
------------
+## Prestazioni
 
 ### Comprimi i File di Testo
 
@@ -364,7 +358,7 @@ Prestazioni
 
 ### Imposta gli Header “Expires”
 
-*Expires headers* indicano al browser se devono richiedere il file al server o caricarli dalla cache. E’ consigliabile impostare gli header expires per i contenuti statici con una data futura abbastanza ampia. Se non controlli la versione del file in base al nome imposta la cache per risorse come CSS e JS a qualcosa come 1 settimana . [Sorgente](https://github.com/h5bp/server-configs-apache)
+_Expires headers_ indicano al browser se devono richiedere il file al server o caricarli dalla cache. E’ consigliabile impostare gli header expires per i contenuti statici con una data futura abbastanza ampia. Se non controlli la versione del file in base al nome imposta la cache per risorse come CSS e JS a qualcosa come 1 settimana . [Sorgente](https://github.com/h5bp/server-configs-apache)
 
     <IfModule mod_expires.c>
         ExpiresActive on
@@ -425,8 +419,7 @@ Rimuovendo l’intestazione `ETag` vegono disabilitate le cache del browser per 
     </IfModule>
     FileETag None
 
-Miscellanea
------------
+## Miscellanea
 
 ### Set PHP Variables
 

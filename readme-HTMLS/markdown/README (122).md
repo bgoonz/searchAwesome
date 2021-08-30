@@ -1,19 +1,16 @@
-Conselhos para a jQuery que toda a gente devia saber [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-================================================================================================================================================================================================================
+# Conselhos para a jQuery que toda a gente devia saber [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Uma colecção de dicas simples para ajudar-te com a jQuery.
 
 > Para outras grandes listas aqui visita <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)’s lista detalhada de [listas impresionantes](https://github.com/sindresorhus/awesome/).
 
-Tabela de conteúdo
-------------------
+## Tabela de conteúdo
 
--   [Conselhos](#conselhos)
--   [Apoio](#apoio)
--   [Tabelas de contribuições](../../CONTRIBUTING.md)
+- [Conselhos](#conselhos)
+- [Apoio](#apoio)
+- [Tabelas de contribuições](../../CONTRIBUTING.md)
 
-Conselhos
----------
+## Conselhos
 
 1.  [Utilizar `noConflict()`](#utilizar-noconflict)
 2.  [Verificando a jQuery Carrgada](#verificando-a-jquery-carrgada)
@@ -284,7 +281,7 @@ Este exmplo establece a `min-height` característica que significa que pode ser 
     });
     $columns.height(height);
 
-Se deseja *todas* columnas tenham a mesma altura:
+Se deseja _todas_ columnas tenham a mesma altura:
 
     var $rows = $('.same-height-columns');
     $rows.each(function () {
@@ -403,8 +400,7 @@ Se desejas desactivar o botao direito do rato, podes fazer-lo para uma página i
 
 <sup>[Regressar\ ao\ índice\ de\ conteudos](#table-of-contents)</sup>
 
-Apoio
------
+## Apoio
 
 As versoes actuais de Chrome, Firefox, Safari, Opera, Edge e EI11.
 

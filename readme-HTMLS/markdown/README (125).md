@@ -1,22 +1,19 @@
 <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon" width="200" />
 
-CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=======================================================================================================================================================================
+# CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Một bộ gồm những tips để giúp kỹ năng CSS trở nên pro
 
 > For other great lists check out <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)’s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
-Table of Contents
------------------
+## Table of Contents
 
--   [Protips](#protips)
--   [Support](#support)
--   [Translations](#translations)
--   [Contribution Guidelines](CONTRIBUTING.md)
+- [Protips](#protips)
+- [Support](#support)
+- [Translations](#translations)
+- [Contribution Guidelines](CONTRIBUTING.md)
 
-Protips
--------
+## Protips
 
 1.  [Dùng CSS Reset](#dùng-css-reset)
 2.  [Thừa kế `box-sizing`](#thừa-kế-box-sizing)
@@ -34,7 +31,7 @@ Protips
 14. [Các ô trong bảng có chiều rộng bằng nhau](#các-ô-trong-bảng-có-chiều-rộng-bằng-nhau)
 15. [Get Rid of Margin Hacks With Flexbox](#get-rid-of-margin-hacks-with-flexbox)
 16. [Sử dụng thuộc tính Selectors với các liên kết trống](#sử-dụng-thuộc-tính-selectors-với-liên-kết-trống)
-17. [Style “Default” Links](#style-default-links)  
+17. [Style “Default” Links](#style-default-links)
 18. [Intrinsic Ratio Boxes](#intrinsic-ratio-boxes)
 19. [Hình ảnh bị vỡ](#hình-ảnh-bị-vỡ)
 20. [Dùng `rem` cho toàn cục; dùng `em` cho cục bộ](#dùng-rem-cho-toàn-cục-dùng-em-cho-cục-bộ)
@@ -139,7 +136,7 @@ Thay vì đặt trên border…
 
 Bạn có thể kiểm tra xem phông chữ có được cài đặt cục bộ hay không trước khi tìm nạp từ xa, đây cũng là một mẹo hiệu suất tốt.
 
-\`\`\`css <span class="citation" data-cites="font-face">@font-face</span> { font-family: “Dank Mono”; src: /\* Full name */ local(“Dank Mono”), /* Postscript name */ local(“Dank Mono”), /* Otherwise, download it! \*/ url(“//…a.server/fonts/DankMono.woff”); }
+\`\`\`css <span class="citation" data-cites="font-face">@font-face</span> { font-family: “Dank Mono”; src: /\* Full name _/ local(“Dank Mono”), /_ Postscript name _/ local(“Dank Mono”), /_ Otherwise, download it! \*/ url(“//…a.server/fonts/DankMono.woff”); }
 
 code { font-family: “Dank Mono”, system-ui-monospace; }
 
@@ -515,7 +512,6 @@ Như [Harry Roberts pointed out](https://twitter.com/csswizardry/status/11708355
 
 <sup>[back\ to\ table\ of\ contents](#table-of-contents)</sup>
 
-Support
--------
+## Support
 
 versions hiện tại Chrome, Firefox, Safari, Opera, Edge, and IE11.

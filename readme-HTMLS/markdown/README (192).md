@@ -1,74 +1,70 @@
-.htaccess Snippets
-==================
+# .htaccess Snippets
 
 `.htaccess`の便利なスニペットのまとめ
 
 **免責事項**: スニペットを`.htaccess`で利用した場合、たいていは十分機能するはずですが、一定の修正が必要になることもあります。ご自身の責任で使用してください。
 
-**重要**: Apache2.4ではいくつかの破壊的変更点があり、それはアクセスコントロールの設定において顕著です。より詳しい情報を知りたい場合は次のリンクをチェックしてください。 [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html)　こちらもどうぞ。 [this issue](https://github.com/phanan/htaccess/issues/2).
+**重要**: Apache2.4 ではいくつかの破壊的変更点があり、それはアクセスコントロールの設定において顕著です。より詳しい情報を知りたい場合は次のリンクをチェックしてください。 [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html)　こちらもどうぞ。 [this issue](https://github.com/phanan/htaccess/issues/2).
 
-クレジット
-----------
+## クレジット
 
-まとめている、便利なスニペットの大部分はインターネットを通じて収集されたものです。（例えば、かなりの部分は、[Apache Server Configs](https://github.com/h5bp/server-configs-apache)からのものです）。Source等などを正確にクレジットしようと努めていますが、不足してることも考えられます。もしも、ご自分の制作物などがクレジットされるべきだという方がいれば私たちに知らせてください。
+まとめている、便利なスニペットの大部分はインターネットを通じて収集されたものです。（例えば、かなりの部分は、[Apache Server Configs](https://github.com/h5bp/server-configs-apache)からのものです）。Source 等などを正確にクレジットしようと努めていますが、不足してることも考えられます。もしも、ご自分の制作物などがクレジットされるべきだという方がいれば私たちに知らせてください。
 
-目次
-----
+## 目次
 
--   [URL書き換え&リダイレクト](#rewrite-and-redirection)
-    -   [wwwありに統一](#force-www)
-    -   [wwwありに統一（包括的に）](#force-www-in-a-generic-way)
-    -   [wwwなしに統一](#force-non-www)
-    -   [wwwなしに統一（包括的に）](#force-non-www-in-a-generic-way)
-    -   [httpsに統一](#force-https)
-    -   [httpsに統一する（リバースプロキシー経由）](#force-https-behind-a-proxy)
-    -   [URL末尾をスラッシュ（/）で統一する](#force-trailing-slash)
-    -   [末尾のスラッシュ（/）を取り除く](#remove-trailing-slash)
-    -   [決められたページにリダイレクトさせる](#redirect-a-single-page)
-    -   [ディレクトリエイリアス設定](#alias-a-single-directory)
-    -   [スクリプトへのエイリアスパス](#alias-paths-to-script)
-    -   [とにかくリダイレクトする](#redirect-an-entire-site)
-    -   [クリーンURLエイリアス](#alias-clean-urls)
--   [セキュリティ](#security)
-    -   [全アクセス拒否](#deny-all-access)
-    -   [特定のIPを除いたアクセスの拒否](#deny-all-access-except-yours)
-    -   [特定のIPのみアクセスを拒否](#allow-all-access-except-spammers)
-    -   [隠しファイル、隠しディレクトリへのアクセス拒否](#deny-access-to-hidden-files-and-directories)
-    -   [バックアップファイルやソースファイルにアクセスするのを防ぐ](#deny-access-to-backup-and-source-files)
-    -   [ディレクトリ下のファイル一覧の表示禁止](#disable-directory-browsing)
-    -   [画像直リンクの禁止](#disable-image-hotlinking)
-    -   [特定のドメインからの画像直リンクの禁止](#disable-image-hotlinking-for-specific-domains)
-    -   [ディレクトリをパスワードで保護する](#password-protect-a-directory)
-    -   [一つか複数かのファイルをパスワードで保護する](#password-protect-a-file-or-several-files)
-    -   [特定の他所のサイトからアクセスをブロック](#block-visitors-by-referrer)
-    -   [フレーミングされるのを防ぐ](#prevent-framing-the-site)
--   [パフォーマンス](#performance)
-    -   [テキストファイルの圧縮](#compress-text-files)
-    -   [Expires(有効期限)ヘッダを設定する](#set-expires-headers)
-    -   [Etagをオフにする](#turn-etags-off)
--   [その他の項目](#miscellaneous)
-    -   [PHPの環境変数をセットする](#set-php-variables)
-    -   [カスタムのエラーページ](#custom-error-pages)
-    -   [強制ダウンロード](#force-downloading)
-    -   [ダウンロードを防ぐ](#prevent-downloading)
-    -   [WEBフォントに対する他のドメインからのアクセスを許可する](#allow-cross-domain-fonts)
-    -   [自動的にUTF8エンコードにする](#auto-utf-8-encode)
-    -   [別のPHPのバージョンに切り替える](#switch-to-another-php-version)
-    -   [インターネットエクスプローラーの互換表示をさせない](#disable-internet-explorer-compatibility-view)
-    -   [WebP画像の配信](#serve-webp-images)
+- [URL 書き換え&リダイレクト](#rewrite-and-redirection)
+  - [www ありに統一](#force-www)
+  - [www ありに統一（包括的に）](#force-www-in-a-generic-way)
+  - [www なしに統一](#force-non-www)
+  - [www なしに統一（包括的に）](#force-non-www-in-a-generic-way)
+  - [https に統一](#force-https)
+  - [https に統一する（リバースプロキシー経由）](#force-https-behind-a-proxy)
+  - [URL 末尾をスラッシュ（/）で統一する](#force-trailing-slash)
+  - [末尾のスラッシュ（/）を取り除く](#remove-trailing-slash)
+  - [決められたページにリダイレクトさせる](#redirect-a-single-page)
+  - [ディレクトリエイリアス設定](#alias-a-single-directory)
+  - [スクリプトへのエイリアスパス](#alias-paths-to-script)
+  - [とにかくリダイレクトする](#redirect-an-entire-site)
+  - [クリーン URL エイリアス](#alias-clean-urls)
+- [セキュリティ](#security)
+  - [全アクセス拒否](#deny-all-access)
+  - [特定の IP を除いたアクセスの拒否](#deny-all-access-except-yours)
+  - [特定の IP のみアクセスを拒否](#allow-all-access-except-spammers)
+  - [隠しファイル、隠しディレクトリへのアクセス拒否](#deny-access-to-hidden-files-and-directories)
+  - [バックアップファイルやソースファイルにアクセスするのを防ぐ](#deny-access-to-backup-and-source-files)
+  - [ディレクトリ下のファイル一覧の表示禁止](#disable-directory-browsing)
+  - [画像直リンクの禁止](#disable-image-hotlinking)
+  - [特定のドメインからの画像直リンクの禁止](#disable-image-hotlinking-for-specific-domains)
+  - [ディレクトリをパスワードで保護する](#password-protect-a-directory)
+  - [一つか複数かのファイルをパスワードで保護する](#password-protect-a-file-or-several-files)
+  - [特定の他所のサイトからアクセスをブロック](#block-visitors-by-referrer)
+  - [フレーミングされるのを防ぐ](#prevent-framing-the-site)
+- [パフォーマンス](#performance)
+  - [テキストファイルの圧縮](#compress-text-files)
+  - [Expires(有効期限)ヘッダを設定する](#set-expires-headers)
+  - [Etag をオフにする](#turn-etags-off)
+- [その他の項目](#miscellaneous)
+  - [PHP の環境変数をセットする](#set-php-variables)
+  - [カスタムのエラーページ](#custom-error-pages)
+  - [強制ダウンロード](#force-downloading)
+  - [ダウンロードを防ぐ](#prevent-downloading)
+  - [WEB フォントに対する他のドメインからのアクセスを許可する](#allow-cross-domain-fonts)
+  - [自動的に UTF8 エンコードにする](#auto-utf-8-encode)
+  - [別の PHP のバージョンに切り替える](#switch-to-another-php-version)
+  - [インターネットエクスプローラーの互換表示をさせない](#disable-internet-explorer-compatibility-view)
+  - [WebP 画像の配信](#serve-webp-images)
 
-URL書き換え&リダイレクト
-------------------------
+## URL 書き換え&リダイレクト
 
 注: `mod_rewrite`がインストールされていて有効になってることを前提とします。
 
-### wwwありに統一
+### www ありに統一
 
     RewriteEngine on
     RewriteCond %{HTTP_HOST} ^example\.com [NC]
     RewriteRule ^(.*)$ http://www.example.com/$1 [L,R=301,NC]
 
-### wwwありに統一（包括的に）
+### www ありに統一（包括的に）
 
     RewriteCond %{HTTP_HOST} !^$
     RewriteCond %{HTTP_HOST} !^www\. [NC]
@@ -77,15 +73,15 @@ URL書き換え&リダイレクト
 
 上記の設定はどんなドメインでも動作します。 [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
 
-### wwwなしに統一
+### www なしに統一
 
-参考 [still](http://www.sitepoint.com/domain-www-or-no-www/) [open](https://devcenter.heroku.com/articles/apex-domains) [for](http://yes-www.org/) [debate](http://no-www.org/) wwwのついたドメインかついてないドメインかは好きなほうにすればよいです。
+参考 [still](http://www.sitepoint.com/domain-www-or-no-www/) [open](https://devcenter.heroku.com/articles/apex-domains) [for](http://yes-www.org/) [debate](http://no-www.org/) www のついたドメインかついてないドメインかは好きなほうにすればよいです。
 
     RewriteEngine on
     RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
     RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
 
-### wwwなしに統一（包括的に）
+### www なしに統一（包括的に）
 
     RewriteEngine on
     RewriteCond %{HTTP_HOST} ^www\.
@@ -93,7 +89,7 @@ URL書き換え&リダイレクト
     RewriteCond http%1://%{HTTP_HOST} ^(https?://)(www\.)?(.+)$
     RewriteRule ^ %1%3%{REQUEST_URI} [R=301,L]
 
-### httpsに統一
+### https に統一
 
     RewriteEngine on
     RewriteCond %{HTTPS} !on
@@ -106,14 +102,14 @@ URL書き換え&リダイレクト
         Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
     </IfModule>
 
-### httpsに統一する（リバースプロキシー経由）
+### https に統一する（リバースプロキシー経由）
 
-リバースプロキシーを経由してhttpsじゃなくなってるいる場合に便利です。
+リバースプロキシーを経由して https じゃなくなってるいる場合に便利です。
 
     RewriteCond %{HTTP:X-Forwarded-Proto} !https
     RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
-### URL末尾をスラッシュ（/）で統一する
+### URL 末尾をスラッシュ（/）で統一する
 
     RewriteCond %{REQUEST_URI} /+[^\.]+$
     RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
@@ -139,7 +135,7 @@ URL書き換え&リダイレクト
 
     FallbackResource /index.fcgi
 
-存在しないディレクトリまたはファイルへのリクエストがあれば、スクリプト `index.fcgi` へ転送させるような時に使います。`baz.foo/css/style.css`のような実際にファイルがある時はそちらにアクセスさせておいて、`baz.foo/some/cool/path`のようなクールなURL表現で、`baz.foo/index.fcgi` (`baz.foo`へのリクエストでも同じく扱える)へリクエストを転送させるさせるような時に便利です。あなたのスクリプト環境にさらされるように、PATH\_INFO環境変数から元のパスへのアクセスを取得します。
+存在しないディレクトリまたはファイルへのリクエストがあれば、スクリプト `index.fcgi` へ転送させるような時に使います。`baz.foo/css/style.css`のような実際にファイルがある時はそちらにアクセスさせておいて、`baz.foo/some/cool/path`のようなクールな URL 表現で、`baz.foo/index.fcgi` (`baz.foo`へのリクエストでも同じく扱える)へリクエストを転送させるさせるような時に便利です。あなたのスクリプト環境にさらされるように、PATH_INFO 環境変数から元のパスへのアクセスを取得します。
 
     RewriteEngine On
     RewriteRule ^$ index.fcgi/ [QSA,L]
@@ -147,7 +143,7 @@ URL書き換え&リダイレクト
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^(.*)$ index.fcgi/$1 [QSA,L]
 
-上記の設定はFallbackResourceより非効率ですが（mod\_rewriteは`FallbackResource`を扱うより複雑なため）、より柔軟な設定が可能です。
+上記の設定は FallbackResource より非効率ですが（mod_rewrite は`FallbackResource`を扱うより複雑なため）、より柔軟な設定が可能です。
 
 ### とにかくリダイレクトする
 
@@ -155,9 +151,9 @@ URL書き換え&リダイレクト
 
 この方法はそっくりそのまま別のサイトにリダイレクトさせます。`www.oldsite.com/some/crazy/link.html`にアクセスした場合、`www.newsite.com/some/crazy/link.html`にリダイレクトさせます。新しいドメインに引っ越したときなど、非常に役に立ちます。 [Source](http://css-tricks.com/snippets/htaccess/301-redirects/)
 
-### クリーンURLエイリアス
+### クリーン URL エイリアス
 
-このスニペットは、クリーンURL用です。拡張子がPHPで、`example.com/users.php`というURLをではなく`example.com/users`というURLとしてあつかえます。
+このスニペットは、クリーン URL 用です。拡張子が PHP で、`example.com/users.php`という URL をではなく`example.com/users`という URL としてあつかえます。
 
     RewriteEngine On
     RewriteCond %{SCRIPT_FILENAME} !-d
@@ -165,8 +161,7 @@ URL書き換え&リダイレクト
 
 [Source](http://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
 
-セキュリティ
-------------
+## セキュリティ
 
 ### 全アクセス拒否
 
@@ -178,7 +173,7 @@ URL書き換え&リダイレクト
 
 あなたも同様にコンテンツをみれなくなるのでよく考えて利用してください。
 
-### 特定のIPを除いたアクセスの拒否
+### 特定の IP を除いたアクセスの拒否
 
     ## Apache 2.2
     Order deny,allow
@@ -189,11 +184,11 @@ URL書き換え&リダイレクト
     # Require all denied
     # Require ip xxx.xxx.xxx.xxx
 
-`xxx.xxx.xxx.xxx`はあなたのIPです。あなたが例えば12桁のIPのうち最後の3桁を0/12で交換する場合、同じネットワーク内のIPの範囲を指定することになり、別途許可IPを全てリストアップしなければいけないような面倒を回避します。 [Source](http://speckyboy.com/2013/01/08/useful-htaccess-snippets-and-hacks/)
+`xxx.xxx.xxx.xxx`はあなたの IP です。あなたが例えば 12 桁の IP のうち最後の 3 桁を 0/12 で交換する場合、同じネットワーク内の IP の範囲を指定することになり、別途許可 IP を全てリストアップしなければいけないような面倒を回避します。 [Source](http://speckyboy.com/2013/01/08/useful-htaccess-snippets-and-hacks/)
 
 もちろん逆のバージョンもあります。
 
-### 特定のIPのみアクセスを拒否
+### 特定の IP のみアクセスを拒否
 
     ## Apache 2.2
     Order deny,allow
@@ -214,13 +209,13 @@ URL書き換え&リダイレクト
     RewriteCond %{SCRIPT_FILENAME} -f
     RewriteRule "(^|/)\." - [F]
 
-攻撃者に手がかりを与える代わりに、404エラーページを表示させることができます。
+攻撃者に手がかりを与える代わりに、404 エラーページを表示させることができます。
 
     RedirectMatch 404 /\..*$
 
 ### バックアップファイルやソースファイルにアクセスするのを防ぐ
 
-これらのファイルはviやvimによって置かれたり、公にさらされると、セキュリティ上の危険をもたらすファイルである可能性があります。
+これらのファイルは vi や vim によって置かれたり、公にさらされると、セキュリティ上の危険をもたらすファイルである可能性があります。
 
     <FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
         ## Apache 2.2
@@ -303,13 +298,12 @@ URL書き換え&リダイレクト
 
 ### フレーミングされるのを防ぐ
 
-下記の設定はウェブサイトがフレーム内に表示(IEでは`iframe`を使う)されるのを防止しています。同時に特定のURIの時には許可しています。
+下記の設定はウェブサイトがフレーム内に表示(IE では`iframe`を使う)されるのを防止しています。同時に特定の URI の時には許可しています。
 
     SetEnvIf Request_URI "/starry-night" allow_framing=true
     Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 
-パフォーマンス
---------------
+## パフォーマンス
 
 ### テキストファイルの圧縮
 
@@ -354,7 +348,7 @@ URL書き換え&リダイレクト
 
 ### Expires(有効期限)ヘッダを設定する
 
-ブラウザはexpires （有効期限）ヘッダをみてコンテンツをサーバーから取得すべきか、キャッシュから取得するかを判断します。静的コンテンツの有効期限はいくらか遠い未来に設定したほうがよいといえます。
+ブラウザは expires （有効期限）ヘッダをみてコンテンツをサーバーから取得すべきか、キャッシュから取得するかを判断します。静的コンテンツの有効期限はいくらか遠い未来に設定したほうがよいといえます。
 
     <IfModule mod_expires.c>
         ExpiresActive on
@@ -406,7 +400,7 @@ URL書き換え&リダイレクト
         ExpiresByType image/svg+xml                         "access plus 1 month"
     </IfModule>
 
-### Etagをオフにする
+### Etag をオフにする
 
 `ETag`ヘッダを取り除くことによって、ブラウザ側が持っているキャッシュファイルと、サーバー側にある実ファイルの内容、更新日などが同じかどうか等の検証作業を無効にして、`Cache-Control` と `Expires` ヘッダを利用するようにします。
 
@@ -415,10 +409,9 @@ URL書き換え&リダイレクト
     </IfModule>
     FileETag None
 
-その他の項目
-------------
+## その他の項目
 
-### PHPの環境変数をセットする
+### PHP の環境変数をセットする
 
     php_value <key> <val>
 
@@ -451,9 +444,9 @@ Now there is a yang to this yin:
         Header set Content-Type text/plain
     </FilesMatch>
 
-### WEBフォントに対する他のドメインからのアクセスを許可する
+### WEB フォントに対する他のドメインからのアクセスを許可する
 
-IE, Firefoxのだとクロスドメイン制約のため、WEBフォントが正常に機能しない可能性があります。[CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)　このスニペットはその問題を解決します。
+IE, Firefox のだとクロスドメイン制約のため、WEB フォントが正常に機能しない可能性があります。[CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)　このスニペットはその問題を解決します。
 
     <IfModule mod_headers.c>
         <FilesMatch "\.(eot|otf|ttc|ttf|woff|woff2)$">
@@ -463,9 +456,9 @@ IE, Firefoxのだとクロスドメイン制約のため、WEBフォントが正
 
 [Source](https://github.com/h5bp/server-configs-apache/issues/32)
 
-### 自動的にUTF8エンコードにする
+### 自動的に UTF8 エンコードにする
 
-あなたのテキストコンテンツを常にUTF-8エンコードする時は次の設定をご利用ください。
+あなたのテキストコンテンツを常に UTF-8 エンコードする時は次の設定をご利用ください。
 
     # text/plain か text/htmlを配信する時はUTF-8を使用します。
     AddDefaultCharset utf-8
@@ -475,9 +468,9 @@ IE, Firefoxのだとクロスドメイン制約のため、WEBフォントが正
 
 [Source](https://github.com/h5bp/server-configs-apache)
 
-### 別のPHPのバージョンに切り替える
+### 別の PHP のバージョンに切り替える
 
-もしも、あなたが共有のホストを利用している場合、おそらく複数のバージョンのPHPがインストールされている可能性があり、時には自分のウェブサイトで特定のバージョンのPHPを使いたくなるかもしれません。例えば、ララベルではPHP5.4以上である必要があります。次のスニペットを使えば自分のウェブサイト用のPHPバージョンに切り替える事ができます。
+もしも、あなたが共有のホストを利用している場合、おそらく複数のバージョンの PHP がインストールされている可能性があり、時には自分のウェブサイトで特定のバージョンの PHP を使いたくなるかもしれません。例えば、ララベルでは PHP5.4 以上である必要があります。次のスニペットを使えば自分のウェブサイト用の PHP バージョンに切り替える事ができます。
 
     AddHandler application/x-httpd-php55 .php
 
@@ -486,16 +479,16 @@ IE, Firefoxのだとクロスドメイン制約のため、WEBフォントが正
 
 ### インターネットエクスプローラーの互換表示をさせない
 
-IEの互換表示モードはIEにおけるウェブサイトの表示に影響があたえることがあります。次のスニペットを使用することで、IEに最新のエンジンでページをレンダリングさせて、互換表示をさせなくすることができます。
+IE の互換表示モードは IE におけるウェブサイトの表示に影響があたえることがあります。次のスニペットを使用することで、IE に最新のエンジンでページをレンダリングさせて、互換表示をさせなくすることができます。
 
     <IfModule mod_headers.c>
         BrowserMatch MSIE is-msie
         Header set X-UA-Compatible IE=edge env=is-msie
     </IfModule>
 
-### WebP画像の配信
+### WebP 画像の配信
 
-もしも、[WebP images](https://developers.google.com/speed/webp/?csw=1) がサポートされていて、同じでディレクトリ下に、同じ名前のファイル名で、.webp と jpg/pngの拡張子のファイルがあった場合、WebP画像(.webp)が優先して配信されます。
+もしも、[WebP images](https://developers.google.com/speed/webp/?csw=1) がサポートされていて、同じでディレクトリ下に、同じ名前のファイル名で、.webp と jpg/png の拡張子のファイルがあった場合、WebP 画像(.webp)が優先して配信されます。
 
     RewriteEngine On
     RewriteCond %{HTTP_ACCEPT} image/webp

@@ -1,5 +1,4 @@
-Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-===============================================================================
+# Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Awesome speakers in the programming and design communities
 
@@ -7,21 +6,18 @@ Let’s make it more transparent and easy to find awesome speakers for meetups a
 
 Please add to the list and help make the community better connected and richer.
 
-Contents
---------
+## Contents
 
--   [Africa](#africa)
--   [Asia](#asia)
--   [Australia](#australia)
--   [Europe](#europe)
--   [North America](#north-america)
--   [South America](#south-america)
+- [Africa](#africa)
+- [Asia](#asia)
+- [Australia](#australia)
+- [Europe](#europe)
+- [North America](#north-america)
+- [South America](#south-america)
 
-Africa
-======
+# Africa
 
-Nigeria 🇳🇬
-----------
+## Nigeria 🇳🇬
 
 ### Lagos
 
@@ -61,8 +57,7 @@ https://twitter.com/unicodeveloper
 Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance  
 https://twitter.com/developerayo
 
-South Africa 🇿🇦
----------------
+## South Africa 🇿🇦
 
 ### Johannesburg
 
@@ -72,11 +67,9 @@ South Africa 🇿🇦
 Topics: Android, Android Things, Firebase, IoT  
 https://twitter.com/riggaroo
 
-Asia
-====
+# Asia
 
-India 🇮🇳
---------
+## India 🇮🇳
 
 ### Bangalore
 
@@ -152,8 +145,7 @@ https://twitter.com/amdsouza92
 Topics: Mobile Web, PWAs, Flask, Blockchain  
 https://twitter.com/aviaryan123
 
-Indonesia 🇮🇩
-------------
+## Indonesia 🇮🇩
 
 ### Jakarta
 
@@ -163,8 +155,7 @@ Indonesia 🇮🇩
 Topics: CDN, Cloud, SaaS, DNS, Web Performance & Security  
 https://twitter.com/fransallen
 
-Lebanon 🇱🇧
-----------
+## Lebanon 🇱🇧
 
 ### Tyre
 
@@ -174,8 +165,7 @@ Lebanon 🇱🇧
 Topics: Animations, CSS, SVG  
 https://twitter.com/sarasoueidan
 
-Pakistan 🇵🇰
------------
+## Pakistan 🇵🇰
 
 ### Karachi
 
@@ -221,8 +211,7 @@ Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ec
 Topics: Android, Open Source, Java, Kotlin  
 https://twitter.com/WajahatKarim
 
-Singapore 🇸🇬
-------------
+## Singapore 🇸🇬
 
 ### Singapore
 
@@ -244,11 +233,9 @@ https://twitter.com/hj\_chen
 Topics: CSS, JavaScript  
 https://twitter.com/zellwk
 
-Australia
-=========
+# Australia
 
-Australia 🇦🇺
-------------
+## Australia 🇦🇺
 
 ### Melbourne
 
@@ -276,11 +263,9 @@ https://twitter.com/markdalgleish
 Topics: JavaScript, Web Development, Progressive Web Apps  
 https://twitter.com/philnash
 
-Europe
-======
+# Europe
 
-Austria 🇦🇹
-----------
+## Austria 🇦🇹
 
 ### Linz
 
@@ -402,8 +387,7 @@ https://twitter.com/thefubhy
 Topics: React, Composition, Android, RXJava, Kotlin  
 https://twitter.com/thecurlydev
 
-Belgium 🇧🇪
-----------
+## Belgium 🇧🇪
 
 ### Hasselt
 
@@ -413,8 +397,7 @@ Belgium 🇧🇪
 Topics: Web Audio, Browser APIs  
 https://twitter.com/sambego
 
-Bulgaria 🇧🇬
------------
+## Bulgaria 🇧🇬
 
 ### Sofia
 
@@ -424,8 +407,7 @@ Bulgaria 🇧🇬
 Topics: React, Redux, Ruby, Testing, GraphQL  
 https://twitter.com/rstankov
 
-Czech Republic 🇨🇿
------------------
+## Czech Republic 🇨🇿
 
 ### Prague
 
@@ -435,8 +417,7 @@ Czech Republic 🇨🇿
 Topics: React, Forms, CSS Grid  
 https://twitter.com/kettanaito
 
-Denmark 🇩🇰
-----------
+## Denmark 🇩🇰
 
 ### Copenhagen
 
@@ -458,8 +439,7 @@ https://twitter.com/enthusiasto
 Topics: Elm, Visualizations  
 https://twitter.com/tereza\_sokol
 
-Finland 🇫🇮
-----------
+## Finland 🇫🇮
 
 ### Helsinki
 
@@ -507,8 +487,7 @@ https://twitter.com/varya\_en
 Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing  
 https://twitter.com/bebraw
 
-France 🇫🇷
----------
+## France 🇫🇷
 
 ### Lille
 
@@ -534,8 +513,7 @@ https://twitter.com/manekinekko
 Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science  
 https://twitter.com/svensauleau
 
-Germany 🇩🇪
-----------
+## Germany 🇩🇪
 
 ### Augsburg
 
@@ -697,8 +675,7 @@ https://twitter.com/fhinkel
 Topics: JavaScript (TC39), V8, Chrome  
 https://twitter.com/mathias
 
-Greece 🇬🇷
----------
+## Greece 🇬🇷
 
 ### Athens
 
@@ -708,8 +685,7 @@ Greece 🇬🇷
 Topics: F\#  
 https://twitter.com/NickPalladinos
 
-Ireland 🇮🇪
-----------
+## Ireland 🇮🇪
 
 ### Cork
 
@@ -893,8 +869,7 @@ https://twitter.com/markconroy
 Topics: Node.js, Microservices  
 https://twitter.com/rjrodger
 
-Israel 🇮🇱
----------
+## Israel 🇮🇱
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/nirgn975" width="70" height="70" />
 
@@ -920,8 +895,7 @@ https://twitter.com/UriShaked
 Topics: React, MobX, MobX State Tree, React-Native  
 https://twitter.com/yoniweisbrod
 
-Italy 🇮🇹
---------
+## Italy 🇮🇹
 
 ### Milan
 
@@ -931,8 +905,7 @@ Italy 🇮🇹
 Topics: Web Components, Polymer, Progressive Web Apps  
 https://twitter.com/granze
 
-Verona
-------
+## Verona
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/cef62" width="70" height="70" />
 
@@ -940,8 +913,7 @@ Verona
 Topics: React, JavaScript, Flow, Web Architectures, Frontend Ops  
 https://twitter.com/cef62
 
-Netherlands 🇳🇱
---------------
+## Netherlands 🇳🇱
 
 ### Amsterdam
 
@@ -1033,8 +1005,7 @@ https://twitter.com/gklijs
 Topics: Component Libraries, React, Storybook, Open Source, Communities  
 https://twitter.com/NorbertdeLangen
 
-Norway 🇳🇴
----------
+## Norway 🇳🇴
 
 ### Oslo
 
@@ -1044,8 +1015,7 @@ Norway 🇳🇴
 Topics: Terraform, AWS, Devops  
 https://twitter.com/antonbabenko
 
-Poland 🇵🇱
----------
+## Poland 🇵🇱
 
 ### Gdańsk
 
@@ -1135,8 +1105,7 @@ https://twitter.com/michal\_chudziak
 Topics: React, React Native, CSS in JS, Tooling  
 https://twitter.com/satya164
 
-Portugal 🇵🇹
------------
+## Portugal 🇵🇹
 
 ### Aveiro
 
@@ -1168,8 +1137,7 @@ https://twitter.com/daviddias
 Topics: Ember, JavaScript  
 https://twitter.com/maskedwarrior
 
-Romania 🇷🇴
-----------
+## Romania 🇷🇴
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/martonkodok" width="70" height="70" />
 
@@ -1177,8 +1145,7 @@ Romania 🇷🇴
 Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture  
 https://twitter.com/martonkodok
 
-Russia 🇷🇺
----------
+## Russia 🇷🇺
 
 ### Moscow
 
@@ -1214,8 +1181,7 @@ https://twitter.com/chicoxyzzy
 Topics: HTML, CSS, Web Standards, Accessibility  
 <https://twitter.com/pepelsbey_>
 
-Serbia 🇷🇸
----------
+## Serbia 🇷🇸
 
 ### Belgrade
 
@@ -1231,8 +1197,7 @@ https://twitter.com/simalexan
 Topics: Serverless, Offline Web, Chat Bots  
 <https://twitter.com/slobodan_>
 
-Spain 🇪🇸
---------
+## Spain 🇪🇸
 
 ### Alicante
 
@@ -1266,8 +1231,7 @@ https://twitter.com/D3DVincent
 Topics: React, Redux, Redux-Form, Forms  
 https://twitter.com/erikras
 
-Sweden
-------
+## Sweden
 
 ### Stockholm
 
@@ -1277,8 +1241,7 @@ Sweden
 Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps  
 https://twitter.com/muhd\_ahsanayaz
 
-Switzerland 🇨🇭
---------------
+## Switzerland 🇨🇭
 
 ### Zurich
 
@@ -1288,8 +1251,7 @@ Switzerland 🇨🇭
 Topics: Virtual Reality, Web Performance  
 https://twitter.com/g33konaut
 
-Ukraine 🇺🇦
-----------
+## Ukraine 🇺🇦
 
 ### Chernivtsi
 
@@ -1379,8 +1341,7 @@ Topics: Web Performance, Dev Tools
 Topics: Progressive Web Apps, Modern Browser APIs  
 https://twitter.com/geek\_timofey
 
-United Kingdom 🇬🇧
------------------
+## United Kingdom 🇬🇧
 
 ### Birmingham
 
@@ -1568,8 +1529,7 @@ https://twitter.com/sebawita
 Topics: Design Systems, Responsive Web Design, Design Leadership, UI  
 https://twitter.com/yaili
 
-Norwich
--------
+## Norwich
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/heydonworks" width="70" height="70" />
 
@@ -1577,8 +1537,7 @@ Norwich
 Topics: Accessibility, Performance, Web  
 https://twitter.com/heydonworks
 
-Oxford
-------
+## Oxford
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ninjanails" height="70" />
 
@@ -1586,11 +1545,9 @@ Oxford
 Topics: Accessibility  
 https://twitter.com/ninjanails
 
-North America
-=============
+# North America
 
-Canada 🇨🇦
----------
+## Canada 🇨🇦
 
 ### Hamilton
 
@@ -1644,8 +1601,7 @@ https://twitter.com/halathinkeths
 Topics: CSS Grids, React, Redux, Firebase, Flexbox  
 https://twitter.com/tiffhaxell
 
-United States of America 🇺🇸
----------------------------
+## United States of America 🇺🇸
 
 ### Boston
 
@@ -2106,11 +2062,9 @@ https://twitter.com/DevWithTheHair
 Topics: Accessibility  
 https://twitter.com/ShellELittle
 
-South America
-=============
+# South America
 
-Argentina 🇦🇷
-------------
+## Argentina 🇦🇷
 
 ### Buenos Aires
 
@@ -2120,8 +2074,7 @@ Argentina 🇦🇷
 Topics: CSS, Animations  
 https://twitter.com/evaferreira92
 
-Brazil 🇧🇷
----------
+## Brazil 🇧🇷
 
 ### Belo Horizonte
 
@@ -2181,8 +2134,7 @@ https://twitter.com/JoaoVictor\_AC
 Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain  
 https://twitter.com/sseraphini
 
-License
-=======
+# License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

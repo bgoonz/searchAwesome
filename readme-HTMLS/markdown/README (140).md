@@ -1,23 +1,20 @@
 ![light bulb icon](https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg)
 
-CSS 专业技巧 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-========================================================================================================================================================================
+# CSS 专业技巧 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一个帮你提升 CSS 技巧的收藏集。
 
 > 对于其他收藏集合可以查看 <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/) 创建的收藏集合 [Awesome Lists](https://github.com/sindresorhus/awesome/).
 
-目录
-----
+## 目录
 
--   [专业技巧](#专业技巧)
--   [支持情况](#支持情况)
--   [贡献准则](../../CONTRIBUTING.md)
+- [专业技巧](#专业技巧)
+- [支持情况](#支持情况)
+- [贡献准则](../../CONTRIBUTING.md)
 
-专业技巧
---------
+## 专业技巧
 
-1.  [使用CSS复位](#使用css复位)
+1.  [使用 CSS 复位](#使用css复位)
 2.  [继承 `box-sizing`](#继承-box-sizing)
 3.  [使用`unset`而不是重置所有属性](#使用unset而不是重置所有属性)
 4.  [使用 `:not()` 选择器来决定表单是否显示边框](#使用-not-选择器来决定表单是否显示边框)
@@ -43,9 +40,9 @@ CSS 专业技巧 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 24. [使用指针事件來控制鼠标事件](#使用指针事件來控制鼠标事件)
 25. [在用作间距的换行符上设置`display-none`](#在用作间距的换行符上设置display-none)
 
-### 使用CSS复位
+### 使用 CSS 复位
 
-CSS复位可以在不同的浏览器上保持一致的样式风格。您可以使用CSS reset 库[Normalize](http://necolas.github.io/normalize.css/)等，也可以使用一个更简化的复位方法：
+CSS 复位可以在不同的浏览器上保持一致的样式风格。您可以使用 CSS reset 库[Normalize](http://necolas.github.io/normalize.css/)等，也可以使用一个更简化的复位方法：
 
     *,
     *::before,
@@ -55,7 +52,7 @@ CSS复位可以在不同的浏览器上保持一致的样式风格。您可以�
       padding: 0;
     }
 
-现在元素的 margin 和 padding 已为0，`box-sizing`可以管理您的CSS盒模型布局。
+现在元素的 margin 和 padding 已为 0，`box-sizing`可以管理您的 CSS 盒模型布局。
 
 #### [演示](http://codepen.io/AllThingsSmitty/pen/kkrkLL)
 
@@ -102,7 +99,7 @@ CSS复位可以在不同的浏览器上保持一致的样式风格。您可以�
       all: unset;
     }
 
-**注意：** IE11不支持`all`和`unset`的簡寫。
+**注意：** IE11 不支持`all`和`unset`的簡寫。
 
 <sup>[回目录](#目录)</sup>
 
@@ -128,7 +125,7 @@ CSS复位可以在不同的浏览器上保持一致的样式风格。您可以�
       border-right: 1px solid #666;
     }
 
-CSS选择器以人类描述它的方式定义边界。
+CSS 选择器以人类描述它的方式定义边界。
 
 #### [演示](http://codepen.io/AllThingsSmitty/pen/LkymvO)
 
@@ -153,7 +150,7 @@ CSS选择器以人类描述它的方式定义边界。
       font-family: "Dank Mono", system-ui-monospace;
     }
 
-H亞當·阿蓋爾（Adam Argyle）的帽子技巧，分享了這個技巧和[例子](https://codepen.io/argyleink/pen/VwYJpgR).
+H 亞當·阿蓋爾（Adam Argyle）的帽子技巧，分享了這個技巧和[例子](https://codepen.io/argyleink/pen/VwYJpgR).
 
 <sup>[回目录](#目录)</sup>
 
@@ -200,14 +197,14 @@ H亞當·阿蓋爾（Adam Argyle）的帽子技巧，分享了這個技巧和[�
     }
 
     body {
-      -webkit-align-items: center;  
-      -ms-flex-align: center;  
+      -webkit-align-items: center;
+      -ms-flex-align: center;
       align-items: center;
       display: -webkit-flex;
       display: flex;
     }
 
-…還有CSS Grid:
+…還有 CSS Grid:
 
     body {
       display: grid;
@@ -234,7 +231,7 @@ H亞當·阿蓋爾（Adam Argyle）的帽子技巧，分享了這個技巧和[�
 
 因最后一项不加逗号，可以使用 `:not()` 伪类。
 
-**注意：** 这一技巧对于无障碍，特别是屏幕阅读器而言并不理想。而且复制粘贴并不会带走CSS生成的内容，需要注意。
+**注意：** 这一技巧对于无障碍，特别是屏幕阅读器而言并不理想。而且复制粘贴并不会带走 CSS 生成的内容，需要注意。
 
 <sup>[回目录](#目录)</sup>
 
@@ -292,7 +289,7 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 [IE9](https:
 
 在此示例中，文档流中的所有的相邻兄弟元素将都将设置 `margin-top: 1.5em` 的样式。
 
-更多 “形似猫头鹰” 的选择器，可参考 *A List Apart* 上面 [Heydon Pickering 的文章](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
+更多 “形似猫头鹰” 的选择器，可参考 _A List Apart_ 上面 [Heydon Pickering 的文章](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls)
 
 #### [演示](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -386,7 +383,7 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 [IE9](https:
     }
 
     .container div {
-      border: 2px dashed #ddd;  
+      border: 2px dashed #ddd;
       height: 100%;
       left: 0;
       position: absolute;
@@ -402,9 +399,9 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 [IE9](https:
 
 ### 为图裂定义样式
 
-只要一点CSS就可以美化破损的图片：
+只要一点 CSS 就可以美化破损的图片：
 
-    img {  
+    img {
       display: block;
       font-family: sans-serif;
       font-weight: 300;
@@ -415,15 +412,15 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 [IE9](https:
       width: 100%;
     }
 
-以添加伪元素的法则来显示用户信息和URL的引用：
+以添加伪元素的法则来显示用户信息和 URL 的引用：
 
-    img::before {  
+    img::before {
       content: "We're sorry, the image below is broken :(";
       display: block;
       margin-bottom: 10px;
     }
 
-    img::after {  
+    img::after {
       content: "(url: " attr(src) ")";
       display: block;
       font-size: 12px;
@@ -437,7 +434,7 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 [IE9](https:
 
 在根元素设置基本字体大小后 (`html { font-size: 100%; }`), 使用 `em` 设置文本元素的字体大小:
 
-    h2 { 
+    h2 {
       font-size: 2em;
     }
 
@@ -519,7 +516,7 @@ SVG 在所有分辨率下都可以良好缩放，并且支持所有 [IE9](https:
 
 ### 在用作间距的换行符上设置`display: none`
 
-正如[Harry Roberts指出](https://twitter.com/csswizardry/status/1170835532584235008)，这有助于防止CMS用户使用额外的换行符
+正如[Harry Roberts 指出](https://twitter.com/csswizardry/status/1170835532584235008)，这有助于防止 CMS 用户使用额外的换行符
 
     br + br {
       display: none;

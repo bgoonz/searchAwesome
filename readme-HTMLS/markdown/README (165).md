@@ -1,5 +1,4 @@
-ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===================================================================================================================================================================
+# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
 
@@ -11,37 +10,36 @@ continuous delivery
 software integration  
 devops
 
--   [ciandcd](#ciandcd)
--   [Theory](#theory)
--   [Build And Release System](#build-and-release-system)
--   [Online Build System](#online-build-system)
--   [Infrastructure](#infrastructure)
--   [dev env](#dev-env)
--   [Source Code Management](#source-code-management)
--   [Code Review](#code-review)
--   [Build](#build)
--   [Static Check](#static-check)
--   [Dynamic Check](#dynamic-check)
--   [Performance Analysis](#performance-analysis)
--   [Coverage](#coverage)
--   [Testing](#testing)
--   [Package](#package)
--   [Deploy](#deploy)
--   [Delivery](#delivery)
--   [Provisioning Tools](#provisioning-tools)
--   [secure-tools](#secure-tools)
--   [Web Server](#web-server)
--   [Applications And Container](#applications-and-container)
--   [OS And Shell](#os-and-shell)
--   [Database Version Control](#database-version-control)
--   [Useful Sites](#useful-sites)
--   [Conference And Submit](#conference-and-submit)
--   [Books](#books)
--   [Other Awesome Lists](#other-awesome-lists)
--   [Contact](#contact)
+- [ciandcd](#ciandcd)
+- [Theory](#theory)
+- [Build And Release System](#build-and-release-system)
+- [Online Build System](#online-build-system)
+- [Infrastructure](#infrastructure)
+- [dev env](#dev-env)
+- [Source Code Management](#source-code-management)
+- [Code Review](#code-review)
+- [Build](#build)
+- [Static Check](#static-check)
+- [Dynamic Check](#dynamic-check)
+- [Performance Analysis](#performance-analysis)
+- [Coverage](#coverage)
+- [Testing](#testing)
+- [Package](#package)
+- [Deploy](#deploy)
+- [Delivery](#delivery)
+- [Provisioning Tools](#provisioning-tools)
+- [secure-tools](#secure-tools)
+- [Web Server](#web-server)
+- [Applications And Container](#applications-and-container)
+- [OS And Shell](#os-and-shell)
+- [Database Version Control](#database-version-control)
+- [Useful Sites](#useful-sites)
+- [Conference And Submit](#conference-and-submit)
+- [Books](#books)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contact](#contact)
 
-Theory
-------
+## Theory
 
 The theory for continuous integration and continuous deliver  
 \* [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
@@ -49,10 +47,9 @@ The theory for continuous integration and continuous deliver
 \* [software integration](https://en.wikipedia.org/wiki/System_integration)  
 \* [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline) \* [devopsdays](http://www.devopsdays.org)  
 \* [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)  
-\* [devops\_roadmap](https://github.com/kamranahmedse/developer-roadmap)
+\* [devops_roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-Build And Release System
-------------------------
+## Build And Release System
 
 The system for software build and release, continuous integration and continuous delivery  
 \* [Jenkins](http://jenkins-ci.org) An extendable open source continuous integration server  
@@ -79,8 +76,7 @@ and developer-friendly build server out of the box
 \* [cds](https://ovh.github.io/cds) CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang). \* [Drone CI](https://drone.io/) Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.  
 \* [Luigi](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.
 
-Online Build System
--------------------
+## Online Build System
 
 Online build release system  
 \* [appcircle.io](https://appcircle.io) — Automated mobile CI/CD/CT for iOS and Android with online device emulators. \* [closeheat](http://closeheat.com) Static website integration with GitHub and Cloud development environment \* [travis-ci](https://travis-ci.org) ci server for github and bitbuckets  
@@ -103,14 +99,12 @@ Online build release system
 \* [Cirrus CI](https://cirrus-ci.org) Free for open source, supports Linux, Windows, macOS and FreeBSD, flexible hosted CI service  
 \* [DeployPlace](https://deployplace.com) - Complex deployments become simple. Deploy your applications from git or CI in minutes. \* [Buildkite](https://buildkite.com) - Lightning fast testing and delivery for all your software projects
 
-Monitoring
-----------
+## Monitoring
 
 Tools for monitoring the status continuous integration and continuous delivery  
 \* [CatLight](https://catlight.io) Build status monitor for Jenkins, TeamCity, Travis CI, Appveyor and TFS
 
-Infrastructure
---------------
+## Infrastructure
 
 The hardware,virtual machines, fram management, docker  
 \* [GridWiki](http://wiki.gridengine.info/wiki/index.php/Main_Page) wiki page for Grid  
@@ -123,16 +117,14 @@ The hardware,virtual machines, fram management, docker
 \* [amazon](http://aws.amazon.com/ec2/) Scalable, pay-as-you-go compute capacity in the cloud  
 \* [mesosphere-dc/os](mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.
 
-Dev env
--------
+## Dev env
 
--   [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  
--   [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) A boilerplate to setup a Docker Swarm environment with Ansible
--   [vagrantup](https://www.vagrantup.com/) Create and configure lightweight, reproducible, and portable development environments.  
--   [veewee](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes
+- [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.
+- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) A boilerplate to setup a Docker Swarm environment with Ansible
+- [vagrantup](https://www.vagrantup.com/) Create and configure lightweight, reproducible, and portable development environments.
+- [veewee](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes
 
-Source Code Management
-----------------------
+## Source Code Management
 
 Version control and source code management tools  
 \* [git](http://git-scm.com) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency  
@@ -147,8 +139,7 @@ Version control and source code management tools
 \* [phabricator](http://phabricator.org/) Phabricator is a collection of open source web applications that help software companies build better software.  
 \* [IBM DevOps Services](https://hub.jazz.net) - Store, manage, edit, and collaborate on your source code. Then deploy onto the IBM Bluemix cloud platform.
 
-Code Review
------------
+## Code Review
 
 Code review tools  
 \* [codecollaborator](http://smartbear.com/product/collaborator/overview/) Collaborator helps development, testing and management teams work together to produce high quality code  
@@ -160,8 +151,7 @@ Code review tools
 \* [Codebrag](http://www.codebrag.com/) Codebrag is a simple code review tool that makes the process work for your team.  
 \* [Upsource](https://www.jetbrains.com/upsource/) Polyglot Code Review Tool, featuring code insight for PHP, JavaScript and Kotlin, GitHub integration, automated workflows, integration with CI servers \* [Ebert](https://ebertapp.io) Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what’s important and deliver better software.
 
-Build
------
+## Build
 
 Build tools  
 \* [gnumake](http://www.gnu.org/software/make/) GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program’s source files  
@@ -176,8 +166,7 @@ Build tools
 \* [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator) Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 \* [SBT](http://www.scala-sbt.org/index.html) sbt is an open source build tool for Scala and Java projects. \* [do](https://github.com/8gears/do) The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 
-Static Check
-------------
+## Static Check
 
 Software static check tools  
 \* [static tools wiki](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) wiki page  
@@ -188,27 +177,23 @@ Software static check tools
 \* [findbugs](http://findbugs.sourceforge.net) Find Bugs in Java Programs  
 \* [checkstyle](http://checkstyle.sourceforge.net) Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard
 
-Dynamic Check
--------------
+## Dynamic Check
 
 Software dynamic check tools  
 \* [dynamic tools wiki](https://en.wikipedia.org/wiki/Dynamic_program_analysis) wiki page  
 \* [valgrind](http://valgrind.org) automatically detect many memory management and threading bugs, and profile your programs in detail
 
-Performance Analysis
---------------------
+## Performance Analysis
 
 Software performance analysis tools  
 \* [performance tools wiki](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools) wiki page
 
-Coverage
---------
+## Coverage
 
 Software testing coverage tools  
 \* [code coverage wiki](https://en.wikipedia.org/wiki/Code_coverage) wiki page
 
-Testing
--------
+## Testing
 
 Software testing framework and tools  
 \* [Testingautomation](https://en.wikipedia.org/wiki/Test_automation) test automation wiki page  
@@ -217,8 +202,7 @@ Software testing framework and tools
 \* [opensourcetesting](http://www.opensourcetesting.org) open source software testing tools, news and disccussions  
 \* [selenium](http://www.seleniumhq.org) Selenium automates browsers \* [Monkey Test It](https://monkeytest.it) Free automated website tester with CURLable API \* [Assertible](https://assertible.com) Continuous post deployment testing for GitHub \* [Macaca](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 
-Package
--------
+## Package
 
 The tools for software package and installation  
 \* [installshield](http://www.installshield.com) World’s \#1 Software Installation Solution-Build Reliable MSI Installers for Windows Applications  
@@ -229,8 +213,7 @@ The tools for software package and installation
 \* [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience.  
 \* [packer](https://www.packer.io/) Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 
-Deploy
-------
+## Deploy
 
 The tools for web site deploy  
 \* [jfrog](https://www.jfrog.com/) s the first Binary Repository Management solution, Artifactory has changed the way binaries are controlled, stored and managed throughout the software release cycle  
@@ -238,8 +221,7 @@ The tools for web site deploy
 \* [Jenkinsdeployplugin](https://wiki.jenkins-ci.org/display/JENKINS/Deploy%20Plugin) deploy to tomcat  
 \* [bintray](https://bintray.com) The fastest and most reliable way to automate the distribution of your software releases
 
-Delivery
---------
+## Delivery
 
 The tools for software delivery  
 \* [sl-release](https://xebialabs.com/products/xl-release) Orchestrate your Continuous Delivery pipelines. Simple. Flexible. End-to-End  
@@ -250,21 +232,18 @@ The tools for software delivery
 \* [herd](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter’s Murder  
 \* [murder](https://github.com/lg/murder) Large scale server deploys using BitTorrent and the BitTornado library from twitter.com
 
-Provisioning Tools
-------------------
+## Provisioning Tools
 
 Provision tools \* [Ansible](http://www.ansible.com) Simple infrastructure management tool via human readable playbooks \* [Puppet]() Build, destroy and rebuild servers on any public or private cloud  
 \* [Chef](https://www.chef.io/chef/) Fast, scalable and flexible software for data center automation  
 \* [SaltStack](http://saltstack.com/community/) Radically simple configuration-management, application deployment, task-execution, and multi-node orchestration engine  
 \* [terraform](https://www.terraform.io) Use Infrastructure as Code to provision and manage any cloud, infrastructure, or service
 
-secure tools
-------------
+## secure tools
 
 Secure tools \* [Deepfence Enterprise](https://deepfence.io) - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. \* [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. \* [whitesource](https://www.whitesourcesoftware.com/) The simplest way to secure and manage open source components in your software.
 
-Web Server
-----------
+## Web Server
 
 Common used web server  
 \* [apache](https://httpd.apache.org) Apache httpd has been the most popular web server on the Internet since April 1996  
@@ -274,8 +253,7 @@ Common used web server
 Jetty provides a Web server and javax.servlet container, plus support for SPDY, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations  
 \* [HAProxy](http://www.haproxy.org/) - Software based load Balancing, SSL offloading and performance optimization, compression, and general web routing.
 
-OS And Shell
-------------
+## OS And Shell
 
 Linux shell, perl, python  
 \* [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
@@ -283,15 +261,13 @@ Linux shell, perl, python
 \* [awesome-perl](https://github.com/hachiojipm/awesome-perl)  
 \* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
-Applications And Container
---------------------------
+## Applications And Container
 
 VM application and container  
 \* [docker](https://www.docker.com) Docker - An open platform for distributed applications for developers and sysadmins  
 \* [suseapplication](https://www.suse.com/products/susestudio/) tools to create suse applications
 
-Database Version Control
-------------------------
+## Database Version Control
 
 Database version control system  
 \* [liquibase](http://www.liquibase.org) source control for your database  
@@ -299,27 +275,23 @@ Database version control system
 \* [dbdeploy](http://dbdeploy.com) dbdeploy is a Database Change Management tool. It’s for developers or DBAs who want to evolve their database design – or refactor their database – in a simple, controlled, flexible and frequent manner  
 \* [dbmaestro](http://www.dbmaestro.com/) Controlled Database Continuous Delivery is Our Business
 
-Useful Sites
-------------
+## Useful Sites
 
 Other useful pages  
 \* [infoq](http://www.infoq.com)  
 \* [stackoverflow](http://stackoverflow.com)
 
-Conference And Submit
----------------------
+## Conference And Submit
 
 Conference and submit  
 \* [devops submit](http://devopssummit.sys-con.com)
 
-Books
------
+## Books
 
--   [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.
--   [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
+- [Securing DevOps](https://manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) - A book on utilizing CI/CD techniques to improve the security of web applications and their infrastructure.
+- [Learning Continuous Integraion with TeamCity](https://www.packtpub.com/web-development/learning-continuous-integration-teamcity-raw) - Master the principles and practices behind Continuous Integration by setting it up for different technology stacks using TeamCity
 
-Other Awesome Lists
--------------------
+## Other Awesome Lists
 
 Other amazingly awesome lists can be found in  
 \* [awesome](https://github.com/sindresorhus/awesome)  
@@ -329,8 +301,7 @@ Other amazingly awesome lists can be found in
 \* [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 \* [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md) \* [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services) \* [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
-Contact
--------
+## Contact
 
 Welcome To add new items about continuous integration and continuous delivery.  
 my email is: itech001@126.com.

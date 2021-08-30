@@ -1,5 +1,4 @@
-Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
-=====================================================================================================================================================================================================================================================================================================
+# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
 
 > Useful resources for creating Offline-First web apps
 
@@ -9,23 +8,21 @@ Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-Table of Contents
------------------
+## Table of Contents
 
--   [W3C Specification](#w3c-specification)
--   [Newsletter](#newsletter)
--   [Posts](#posts)
--   [Presentations](#presentations)
-    -   [Videos](#videos)
-    -   [Slides](#slides)
--   [Tools](#tools)
--   [Books](#books)
--   [Showcase](#showcase)
--   [Who to Follow](#who-to-follow)
--   [Contributing](#contributing)
+- [W3C Specification](#w3c-specification)
+- [Newsletter](#newsletter)
+- [Posts](#posts)
+- [Presentations](#presentations)
+  - [Videos](#videos)
+  - [Slides](#slides)
+- [Tools](#tools)
+- [Books](#books)
+- [Showcase](#showcase)
+- [Who to Follow](#who-to-follow)
+- [Contributing](#contributing)
 
-W3C Specification
------------------
+## W3C Specification
 
 [Offline Web Applications](http://www.w3.org/TR/offline-webapps/) &gt; This specification highlights features (SQL, offline application caching APIs as well as online/offline events, status, and the localStorage API) from HTML5 and provides brief tutorials on how these features might be used to create Web applications that work offline.
 
@@ -35,13 +32,11 @@ W3C Specification
 
 [WebStorage](http://www.w3.org/TR/webstorage/) &gt; This specification defines an API for persistent data storage of key-value pair data in Web clients.
 
-Newsletter
-----------
+## Newsletter
 
 [The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
 
-Posts
------
+## Posts
 
 [Accessibility Testing for Offline First Applications](https://medium.com/ibm-watson-data-lab/accessibility-testing-for-offline-first-applications-d8d2bfd24a6e) (Maureen McElaney - Nov 6, 2017)
 
@@ -405,8 +400,7 @@ Posts
 
 [Let’s take this offline](http://diveintohtml5.info/offline.html) (Mark Pilgrim)
 
-Presentations
--------------
+## Presentations
 
 ### Videos
 
@@ -574,8 +568,7 @@ Presentations
 
 [Offline First Re-Imagining Web Development For The Real World](https://qconlondon.com/london-2014/dl/qcon-london-2014/slides/CaolanMcMahon_OfflineFirstReImaginingWebDevelopmentForTheRealWorld.pdf) (Caolan McMahon - Mar, 2014)
 
-Tools
------
+## Tools
 
 [offline-plugin](https://github.com/NekR/offline-plugin/): Offline plugin (ServiceWorker, AppCache) for webpack.
 
@@ -625,8 +618,7 @@ Tools
 
 [workbox](https://github.com/GoogleChrome/workbox): JavaScript libraries for Offline Caching
 
-Books
------
+## Books
 
 [The Offline First Book](https://neighbourhood.ie/offline-first/book/) (by Neighbourhoodie)
 
@@ -640,8 +632,7 @@ Books
 
 [Pro HTML5 Programming - Chapter 12: Creating HTML5 Offline Web Applications](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html) (by Peter Lubbers, Brian Albers and Frank Salim)
 
-Showcase
---------
+## Showcase
 
 [Minutes.io](https://minutes.io): Awesome offline first minute taking app built with [Hoodie](http://hood.ie/).
 
@@ -653,28 +644,24 @@ Showcase
 
 [Soundslice](https://www.soundslice.com/): Learn and teach music better with interactive notation with [offline mode](https://www.soundslice.com/blog/29/introducing-soundslice-offline-mode/).
 
-Who to Follow
--------------
+## Who to Follow
 
--   [Matthew Riley](https://github.com/tofumatt): Works at mozilla, creator of localForage (localstroage, IndexedDb and WebSQL Wrapper)
--   [Jake Archibald](https://github.com/jakearchibald): Self described service worker fanatic, works at google helping make offline web apps a thing.
+- [Matthew Riley](https://github.com/tofumatt): Works at mozilla, creator of localForage (localstroage, IndexedDb and WebSQL Wrapper)
+- [Jake Archibald](https://github.com/jakearchibald): Self described service worker fanatic, works at google helping make offline web apps a thing.
 
-Contributing
-------------
+## Contributing
 
 Sharing, suggestions and contributions are always welcome! If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
 Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/contributors).
 
-Maintained by
--------------
+## Maintained by
 
--   Guille Paz (Front-end developer | Web standards lover)
--   E-mail: <guille87paz@gmail.com>
--   Twitter: <span class="citation" data-cites="pazguille">\[@pazguille\]</span>(https://twitter.com/pazguille)
--   Web: <https://pazguille.me/>
+- Guille Paz (Front-end developer | Web standards lover)
+- E-mail: <guille87paz@gmail.com>
+- Twitter: <span class="citation" data-cites="pazguille">\[@pazguille\]</span>(https://twitter.com/pazguille)
+- Web: <https://pazguille.me/>
 
-License
--------
+## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

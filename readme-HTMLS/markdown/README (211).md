@@ -1,5 +1,4 @@
-.htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==============================================================================================================================================================================
+# .htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of useful .htaccess snippets, all in one place.
 
@@ -9,60 +8,57 @@ A collection of useful .htaccess snippets, all in one place.
 
 **IMPORTANT**: Apache 2.4 introduces a few breaking changes, most notably in access control configuration. For more information, check the [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html) as well as [this issue](https://github.com/phanan/htaccess/issues/2).
 
-Credits
--------
+## Credits
 
 What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
 
-Table of Contents
------------------
+## Table of Contents
 
--   [Rewrite and Redirection](#rewrite-and-redirection)
-    -   [Force www](#force-www)
-    -   [Force www in a Generic Way](#force-www-in-a-generic-way)
-    -   [Force non-www](#force-non-www)
-    -   [Force non-www in a Generic Way](#force-non-www-in-a-generic-way)
-    -   [Force HTTPS](#force-https)
-    -   [Force HTTPS Behind a Proxy](#force-https-behind-a-proxy)
-    -   [Force Trailing Slash](#force-trailing-slash)
-    -   [Remove Trailing Slash](#remove-trailing-slash)
-    -   [Redirect a Single Page](#redirect-a-single-page)
-    -   [Redirect Using RedirectMatch](#redirect-using-redirectmatch)
-    -   [Alias a Single Directory](#alias-a-single-directory)
-    -   [Alias Paths to Script](#alias-paths-to-script)
-    -   [Redirect an Entire Site](#redirect-an-entire-site)
-    -   [Alias “Clean” URLs](#alias-clean-urls)
-    -   [Exclude a URL from Redirection](#exclude-url-from-redirection)
--   [Security](#security)
-    -   [Deny All Access](#deny-all-access)
-    -   [Deny All Access Except Yours](#deny-all-access-except-yours)
-    -   [Allow All Access Except Spammers’](#allow-all-access-except-spammers)
-    -   [Deny Access to Hidden Files and Directories](#deny-access-to-hidden-files-and-directories)
-    -   [Deny Access to Backup and Source Files](#deny-access-to-backup-and-source-files)
-    -   [Disable Directory Browsing](#disable-directory-browsing)
-    -   [Disable Image Hotlinking](#disable-image-hotlinking)
-    -   [Disable Image Hotlinking for Specific Domains](#disable-image-hotlinking-for-specific-domains)
-    -   [Password Protect a Directory](#password-protect-a-directory)
-    -   [Password Protect a File or Several Files](#password-protect-a-file-or-several-files)
-    -   [Block Visitors by Referrer](#block-visitors-by-referrer)
-    -   [Prevent Framing the Site](#prevent-framing-the-site)
--   [Performance](#performance)
-    -   [Compress Text Files](#compress-text-files)
-    -   [Set Expires Headers](#set-expires-headers)
-    -   [Turn eTags Off](#turn-etags-off)
--   [Miscellaneous](#miscellaneous)
-    -   [Set PHP Variables](#set-php-variables)
-    -   [Custom Error Pages](#custom-error-pages)
-    -   [Force Downloading](#force-downloading)
-    -   [Prevent Downloading](#prevent-downloading)
-    -   [Allow Cross-Domain Fonts](#allow-cross-domain-fonts)
-    -   [Auto UTF-8 Encode](#auto-utf-8-encode)
-    -   [Switch to Another PHP Version](#switch-to-another-php-version)
-    -   [Disable Internet Explorer Compatibility View](#disable-internet-explorer-compatibility-view)
-    -   [Serve WebP Images](#serve-webp-images)
+- [Rewrite and Redirection](#rewrite-and-redirection)
+  - [Force www](#force-www)
+  - [Force www in a Generic Way](#force-www-in-a-generic-way)
+  - [Force non-www](#force-non-www)
+  - [Force non-www in a Generic Way](#force-non-www-in-a-generic-way)
+  - [Force HTTPS](#force-https)
+  - [Force HTTPS Behind a Proxy](#force-https-behind-a-proxy)
+  - [Force Trailing Slash](#force-trailing-slash)
+  - [Remove Trailing Slash](#remove-trailing-slash)
+  - [Redirect a Single Page](#redirect-a-single-page)
+  - [Redirect Using RedirectMatch](#redirect-using-redirectmatch)
+  - [Alias a Single Directory](#alias-a-single-directory)
+  - [Alias Paths to Script](#alias-paths-to-script)
+  - [Redirect an Entire Site](#redirect-an-entire-site)
+  - [Alias “Clean” URLs](#alias-clean-urls)
+  - [Exclude a URL from Redirection](#exclude-url-from-redirection)
+- [Security](#security)
+  - [Deny All Access](#deny-all-access)
+  - [Deny All Access Except Yours](#deny-all-access-except-yours)
+  - [Allow All Access Except Spammers’](#allow-all-access-except-spammers)
+  - [Deny Access to Hidden Files and Directories](#deny-access-to-hidden-files-and-directories)
+  - [Deny Access to Backup and Source Files](#deny-access-to-backup-and-source-files)
+  - [Disable Directory Browsing](#disable-directory-browsing)
+  - [Disable Image Hotlinking](#disable-image-hotlinking)
+  - [Disable Image Hotlinking for Specific Domains](#disable-image-hotlinking-for-specific-domains)
+  - [Password Protect a Directory](#password-protect-a-directory)
+  - [Password Protect a File or Several Files](#password-protect-a-file-or-several-files)
+  - [Block Visitors by Referrer](#block-visitors-by-referrer)
+  - [Prevent Framing the Site](#prevent-framing-the-site)
+- [Performance](#performance)
+  - [Compress Text Files](#compress-text-files)
+  - [Set Expires Headers](#set-expires-headers)
+  - [Turn eTags Off](#turn-etags-off)
+- [Miscellaneous](#miscellaneous)
+  - [Set PHP Variables](#set-php-variables)
+  - [Custom Error Pages](#custom-error-pages)
+  - [Force Downloading](#force-downloading)
+  - [Prevent Downloading](#prevent-downloading)
+  - [Allow Cross-Domain Fonts](#allow-cross-domain-fonts)
+  - [Auto UTF-8 Encode](#auto-utf-8-encode)
+  - [Switch to Another PHP Version](#switch-to-another-php-version)
+  - [Disable Internet Explorer Compatibility View](#disable-internet-explorer-compatibility-view)
+  - [Serve WebP Images](#serve-webp-images)
 
-Rewrite and Redirection
------------------------
+## Rewrite and Redirection
 
 Note: It is assumed that you have `mod_rewrite` installed and enabled.
 
@@ -79,7 +75,7 @@ Note: It is assumed that you have `mod_rewrite` installed and enabled.
     RewriteCond %{HTTPS}s ^on(s)|
     RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-This works for *any* domain. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
+This works for _any_ domain. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
 
 ### Force non-www
 
@@ -163,7 +159,7 @@ This snippet will redirect paths ending in slashes to their non-slash-terminated
 
     FallbackResource /index.fcgi
 
-This example has an `index.fcgi` file in some directory, and any requests within that directory that fail to resolve a filename/directory will be sent to the `index.fcgi` script. It’s good if you want `baz.foo/some/cool/path` to be handled by `baz.foo/index.fcgi` (which also supports requests to `baz.foo`) while maintaining `baz.foo/css/style.css` and the like. Get access to the original path from the PATH\_INFO environment variable, as exposed to your scripting environment.
+This example has an `index.fcgi` file in some directory, and any requests within that directory that fail to resolve a filename/directory will be sent to the `index.fcgi` script. It’s good if you want `baz.foo/some/cool/path` to be handled by `baz.foo/index.fcgi` (which also supports requests to `baz.foo`) while maintaining `baz.foo/css/style.css` and the like. Get access to the original path from the PATH_INFO environment variable, as exposed to your scripting environment.
 
     RewriteEngine On
     RewriteRule ^$ index.fcgi/ [QSA,L]
@@ -196,8 +192,7 @@ This snippet allows you to exclude a URL from redirection. For example, if you h
     RewriteEngine On
     RewriteRule ^robots.txt - [L]
 
-Security
---------
+## Security
 
 ### Deny All Access
 
@@ -338,8 +333,7 @@ This prevents the website to be framed (i.e. put into an `iframe` tag), when st
     SetEnvIf Request_URI "/starry-night" allow_framing=true
     Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 
-Performance
------------
+## Performance
 
 ### Compress Text Files
 
@@ -384,7 +378,7 @@ Performance
 
 ### Set Expires Headers
 
-*Expires headers* tell the browser whether they should request a specific file from the server or just grab it from the cache. It is advisable to set static content’s expires headers to something far in the future.
+_Expires headers_ tell the browser whether they should request a specific file from the server or just grab it from the cache. It is advisable to set static content’s expires headers to something far in the future.
 
 If you don’t control versioning with filename-based cache busting, consider lowering the cache time for resources like CSS and JS to something like 1 week. [Source](https://github.com/h5bp/server-configs-apache)
 
@@ -447,8 +441,7 @@ By removing the `ETag` header, you disable caches and browsers from being able t
     </IfModule>
     FileETag None
 
-Miscellaneous
--------------
+## Miscellaneous
 
 ### Set PHP Variables
 

@@ -1,5 +1,4 @@
-Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===========================================================================================================================================================================================
+# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
@@ -7,8 +6,7 @@ Created with a view to connecting people to information, this list below contain
 
 [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2)
 
-Contributing
-------------
+## Contributing
 
 Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
@@ -20,54 +18,49 @@ Share the list with your classmates, your friends and everyone :)
 >
 > I really hope that more people can benefit from this list :)
 
-Table of Contents
------------------
+## Table of Contents
 
--   [List of Lists](#list-of-lists)
--   [Syllabuses](#syllabuses)
--   [Tutorial Websites](#tutorial-websites)
--   [Open Courses](#open-courses)
-    -   [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
--   [Books](#books)
-    -   [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
--   [Sites for Practice](#sites-for-practice)
-    -   [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
--   [Camps and Trainings](#camps-and-trainings)
--   [Sites for Questions](#sites-for-questions)
--   [Implementations](#implementations)
--   [Language Specifics](#language-specifics)
-    -   [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
--   [Tools](#tools)
-    -   [IDEs](#ides) | [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
--   [Community](#community)
-    -   [Blogs](#blogs) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
--   [Other Awesome Resources](#other-awesome-resources)
-    -   [Articles](#articles) | [FAQs](#faqs) | [Awesome Lists](#awesome-lists) | [Interview Questions](#interview-questions)
--   [License](#license)
+- [List of Lists](#list-of-lists)
+- [Syllabuses](#syllabuses)
+- [Tutorial Websites](#tutorial-websites)
+- [Open Courses](#open-courses)
+  - [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
+- [Books](#books)
+  - [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
+- [Sites for Practice](#sites-for-practice)
+  - [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
+- [Camps and Trainings](#camps-and-trainings)
+- [Sites for Questions](#sites-for-questions)
+- [Implementations](#implementations)
+- [Language Specifics](#language-specifics)
+  - [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
+- [Tools](#tools)
+  - [IDEs](#ides) | [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
+- [Community](#community)
+  - [Blogs](#blogs) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
+- [Other Awesome Resources](#other-awesome-resources)
+  - [Articles](#articles) | [FAQs](#faqs) | [Awesome Lists](#awesome-lists) | [Interview Questions](#interview-questions)
+- [License](#license)
 
-List of Lists
--------------
+## List of Lists
 
 > Awesome curated lists classified by topics.
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★★</td><td><a href="http://codeforces.com/blog/entry/13529">Good Blog Post Resources about Algorithm and Data Structures - Codeforces</a></td><td>A collection of fantastic tutorial blog posts written by Codeforces users. Some intriguing ones include Palindromic Trees, Policy Based Data Structures, and a lot more.</td></tr><tr class="even"><td>★★★</td><td><a href="http://codeforces.com/blog/entry/57282">All of the good tutorials found on codeforces - Codeforces</a></td><td>Another good collection of tutorial blog posts written by Codeforces users.</td></tr><tr class="odd"><td>★★★</td><td><a href="https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3">Data Structures and Algorithms - CodeChef Discuss</a></td><td>A very complete list of competitive programming resources. A must-have in your browser bookmark.</td></tr><tr class="even"><td>★★★</td><td><a href="https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/">How to prepare for ACM - ICPC? - GeeksforGeeks</a></td><td>A detailed walk-through of the preparations for ACM-ICPC.</td></tr></tbody></table>
 
-Syllabuses
-----------
+## Syllabuses
 
 > Find out what topics you need to learn.
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★★</td><td><a href="https://people.ksp.sk/~misof/ioi-syllabus/">IOI Syllabus</a></td><td>A detailed syllabus on which IOI contestants will be tested. This is still somewhat relevant to ACM-ICPC.</td></tr><tr class="even"><td>★★★</td><td><a href="https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/">How to prepare for ACM - ICPC? - GeeksforGeeks</a></td><td>A detailed walk-through of the preparations for ACM-ICPC.</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit">Programming Camp Syllabus</a></td><td>A list of important topics in competitive programming with exercise problems.</td></tr><tr class="even"><td>★★☆</td><td><a href="https://goo.gl/unDETI">Juniors Training Sheet</a>, by <a href="https://sites.google.com/site/mostafasibrahim/">Mostafa Saad Ibrahim</a></td><td>~800 ordered problems for newcomers to be good up to Div2-D</td></tr></tbody></table>
 
-Tutorial Websites
------------------
+## Tutorial Websites
 
 > Awesome websites with great tutorials.
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★★</td><td><a href="https://www.topcoder.com/community/data-science/data-science-tutorials/">Topcoder Data Science Tutorials</a></td><td>A list of tutorials written by respected Topcoder members. Many top programmers started learning data sciences from here.</td></tr><tr class="even"><td>★★★</td><td><a href="http://e-maxx.ru/algo/">E-Maxx (Russian)</a>, <a href="http://cp-algorithms.com/">(English)</a></td><td>A tutorial website widely used and referenced in the Russian-speaking competitive programming community. Most of the articles of the original site have been translated into English, Google Translate works okay for the remaining ones.</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://www.geeksforgeeks.org/fundamentals-of-algorithms/">Algorithms - GeeksforGeeks</a></td><td>A website with a large archive of nicely written articles on different topics. It is a great complimentary resource for algorithm courses.</td></tr><tr class="even"><td>★★☆</td><td><a href="http://wcipeg.com/wiki/Special:AllPages">PEGWiki</a></td><td>A website with amazing in-depth wiki-like writeups on many topics. It’s far better than those on Wikipedia in my opinion.</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://www.hackerearth.com/practice/notes/trending/">Notes - HackerEarth</a></td><td>A great crowdsourcing platform for tutorials. Also visit <a href="https://www.hackerearth.com/practice/codemonk/">Code Monk</a>.</td></tr><tr class="even"><td>★★☆</td><td><a href="http://www.usaco.org/">USA Computing Olympiad (USACO)</a></td><td>Contains several training pages on its website which are designed to develop one’s skills in programming solutions to difficult and varied algorithmic problems at one’s own pace.</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://medium.com/basecs">basecs</a></td><td>A blog with in-depth, illustrated tutorials on basic algorithms and data structures.</td></tr><tr class="even"><td>★★☆</td><td><a href="https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca/main?r=acp">Competitive Programming - Commonlounge</a></td><td>Short video tutorials for beginner and intermediate concepts. Advanced tutorials selected from the best ones available on various CP blogs.</td></tr><tr class="odd"><td>★☆☆</td><td><a href="https://www.mii.lt/olympiads_in_informatics/index.html">OLYMPIADS IN INFORMATICS</a></td><td>An international journal focused on the research and practice of professionals who are working in the field of teaching and learning informatics to talented student.</td></tr><tr class="even"><td>★☆☆</td><td><a href="http://algolist.manual.ru/">algolist (Russian)</a></td><td>A Russian website devoted to algorithms of all sorts. Some topics listed on this website seems pretty interesting.</td></tr><tr class="odd"><td>★★☆</td><td><a href="http://web.ntnu.edu.tw/~algo/">演算法筆記 (Algorithm Notes) (Chinese)</a></td><td>One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms.</td></tr><tr class="even"><td>★★☆</td><td><a href="http://download.csdn.net/album/detail/657/1/1">国家集训队论文 1999-2015 (Papers from Chinese IOI training camps) (Chinese)</a></td><td>Papers from the Chinese IOI training camps. It’s interesting for the fact that one can tell different regions emphasize different things.</td></tr><tr class="odd"><td>★★★</td><td><a href="https://github.com/mostafa-saad/MyCompetitiveProgramming">Mini-Editorials</a>, by <a href="https://sites.google.com/site/mostafasibrahim/">Mostafa Saad Ibrahim</a> trainees</td><td>Solutions with mini-editorials for many problems, including UVA/SPOJ/IOI/Olympiad problems</td></tr><tr class="even"><td>★★☆</td><td><a href="https://oi-wiki.org/">OI Wiki (Competitive Programming) (Chinese)</a></td><td>OI Wiki is committed to being a free and open continuously updated programming competition (competitive programming) knowledge integration site. This wiki is a sort of companion or guide for the competitive programmer who’s trying to learn something</td></tr></tbody></table>
 
-Open Courses
-------------
+## Open Courses
 
 > Consider beginning your competitive programming journey with these awesome courses!
 
@@ -77,8 +70,7 @@ Open Courses
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★★</td><td><a href="https://github.com/prakhar1989/awesome-courses#algorithms">prakhar1989/awesome-courses#algorithms</a></td><td>A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley … etc.).</td></tr><tr class="even"><td>★★★</td><td><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/">MIT SMA 5503: Introduction to Algorithms</a></td><td>Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses.</td></tr><tr class="odd"><td>★★☆</td><td><a href="http://jeffe.cs.illinois.edu/teaching/algorithms/">UIUC Algorithm Course</a></td><td>lecture notes, homeworks, exams, and discussion problems covering a broad range of algorithmic topics</td></tr></tbody></table>
 
-Books
------
+## Books
 
 > A list of recommended books for competitive programming.
 
@@ -92,8 +84,7 @@ Books
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★☆</td><td><a href="https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050">Discrete Mathematics and Its Applications</a>, by Kenneth H. Rosen</td><td>Discrete Mathematics is closely relevant to competitive programming. This book provides comprehensive materials on a wide range of topics including: Logics and Proofs, Sets, Functions, Sequences, Matrices, Number Theory, Recursion, Counting, Probability, Graphs, Trees and Boolean Alegra to name but a few.</td></tr><tr class="even"><td>★★☆</td><td><a href="https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025">Concrete Mathematics: A Foundation for Computer Science</a>, by Ronald L. Graham, Donald E. Knuth, Oren Patashnik</td><td>The book offers a deeper insight into Discrete Mathematics with more emphases on number-related topics.</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/ref=sr_1_1?ie=UTF8&amp;qid=1455475253&amp;sr=8-1&amp;keywords=Linear+Algebra+and+Its+Applications">Linear Algebra and Its Applications</a>, by David C. Lay, Steven R. Lay, Judi J. McDonald</td><td>The book does a brilliant job at bridging the gap between a physical system (for scientists and engineers) and an abstract system (for mathematicians).</td></tr><tr class="even"><td>★★☆</td><td><a href="http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html">Introduction to Probability</a>, by Charles M. Grinstead, J. Laurie Snell</td><td>This is a well-written introductory probabilities book. … It’s free for <a href="http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf">download (pdf)</a> (released under GNU Free Documentation License).</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X">How to Solve It: A New Aspect of Mathematical Method</a>, by G. Polya</td><td>An old-time classic. In this book, the author provides a systematic way to solve problems creatively.</td></tr><tr class="even"><td>★★☆</td><td><a href="https://artofproblemsolving.com/store/item/intermediate-counting">Intermediate Counting &amp; Probability</a>, by David Patrick</td><td>Topics in counting and probability byformer USA Mathematical Olympiad winner David Patrick , topics include inclusion-exclusion, 1-1 correspondences, the Pigeonhole Principle, constructive expectation, Fibonacci and Catalan numbers, recursion, conditional probability, generating functions, graph theory, and much more..</td></tr></tbody></table>
 
-Sites for Practice
-------------------
+## Sites for Practice
 
 > Good online judge systems / contest platforms to practice.
 
@@ -113,8 +104,7 @@ Sites for Practice
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★★</td><td><a href="https://www.hackerrank.com/calendar">Programming Contest Calendar - HackerRank</a></td><td>Google Calendar export available</td></tr><tr class="even"><td>★★☆</td><td><a href="https://clist.by/">clist.by</a></td><td>API available for use</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar">Coding Calendar (Android App)</a></td><td></td></tr><tr class="even"><td>★★☆</td><td><a href="https://github.com/nishanthvijayan/CoderCalendar">Coder’s Calendar</a>: <a href="https://play.google.com/store/apps/details?id=com.corphots.coderscalendar">Android App</a>, <a href="https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll">Chrome Extension</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/">Firefox Add-on</a></td><td></td></tr><tr class="odd"><td>★★★</td><td><a href="http://codehorizon.star-lord.me/">CodeHorizon</a>: <a href="https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8">iOS App</a>, <a href="https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon">Android App</a></td><td></td></tr><tr class="even"><td>★★★</td><td><a href="https://competitiveprogramming.info/calendar">Competitive Programming Contests Calendar</a></td><td>Google Calendar export available</td></tr></tbody></table>
 
-Sites for Questions
--------------------
+## Sites for Questions
 
 > These are great sites to ask questions.  
 > Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.com/) or other sites to avoid formatting issues.
@@ -127,15 +117,13 @@ Sites for Questions
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★★</td><td><a href="https://codeforces.com/blog/mostafa.saad.fci">Online Free Problem-Solving Coaching</a>, by <a href="https://sites.google.com/site/mostafasibrahim/">Mostafa Saad Ibrahim</a></td><td>See the coaching details and people comments on its nature/quality.</td></tr></tbody></table>
 
-Implementations
----------------
+## Implementations
 
 > Algorithm & Data structure implementations.
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★★</td><td><a href="http://code-library.herokuapp.com/">CodeLibrary</a>, by Andrey Naumenko (indy256)</td><td>CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his <a href="https://github.com/indy256/codelibrary">GitHub Repository</a>.</td></tr><tr class="even"><td>★★★</td><td><a href="https://github.com/spaghetti-source/algorithm">spaghetti-source/algorithm</a>, by Takanori MAEHARA (<span class="citation" data-cites="tmaehara">@tmaehara</span>)</td><td>High-quality implementations of many hard algorithms and data structures.</td></tr><tr class="odd"><td>★★★</td><td><a href="https://github.com/kth-competitive-programming/kactl">kth-competitive-programming/kactl</a>, by Simon Lindholm (simonlindholm) et al.</td><td>A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I’ve ever seen.</td></tr><tr class="even"><td>★★☆</td><td><a href="https://github.com/jaehyunp/stanfordacm">jaehyunp/stanfordacm</a></td><td>Stanford’s team notebook is well maintained and the codes within are of high-quality.</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://github.com/ngthanhtrung23/ACM_Notebook_new">ngthanhtrung23/ACM_Notebook_new</a>, by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore</td><td>RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized.</td></tr><tr class="even"><td>★★☆</td><td><a href="https://github.com/bobogei81123/bcw_codebook">bobogei81123/bcw_codebook</a>, by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University</td><td>bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms.</td></tr><tr class="odd"><td>★☆☆</td><td><a href="https://github.com/foreverbell/acm-icpc-cheat-sheet">foreverbell/acm-icpc-cheat-sheet</a>, by foreverbell (foreverbell)</td><td>A notebook with some advanced data structures and algorithms including some from the China informatics scene.</td></tr><tr class="even"><td>★☆☆</td><td><a href="http://shygypsy.com/tools/">igor’s code archive</a>, by Igor Naverniouk (Abednego)</td><td>A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team.</td></tr></tbody></table>
 
-Language Specifics
-------------------
+## Language Specifics
 
 > Languages and other miscellaneous knowledge.
 
@@ -151,8 +139,7 @@ Language Specifics
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★★</td><td><a href="https://graphics.stanford.edu/~seander/bithacks.html">Bit Twiddling Hacks</a></td><td>A huge compiled list of bit manipulation tricks.</td></tr><tr class="even"><td>★★★</td><td><a href="https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/">Comparing Floating Point Numbers, 2012 Edition - Random ASCII</a></td><td>Everything you need to know about floating point numbers. A must read especially for geometry topics.</td></tr><tr class="odd"><td>★★☆</td><td><a href="http://hyperpolyglot.org/cpp">Object-Oriented C Style Languages: C++, Objective-C, Java, C# - a side-by-side reference sheet</a></td><td>A detailed side-by-side reference sheet for common syntaxes.</td></tr></tbody></table>
 
-Tools
------
+## Tools
 
 > Awesome tools that will make your life easier.
 
@@ -168,8 +155,7 @@ Tools
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>☆</th><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td>★★★</td><td><a href="https://polygon.codeforces.com/">polygon</a></td><td>polygon provides a platform and a rich set of tools for professional contest preparation. … An example: <a href="http://codeforces.com/blog/entry/18426">Validators with testlib.h - Codeforces</a></td></tr><tr class="even"><td>★★☆</td><td><a href="https://csacademy.com/app/graph_editor/">Graph Editor</a></td><td>A fantastic tool to create and visualize graphs.</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://github.com/ia-toki/tcframe">tcframe</a></td><td>A C++ framework for generating test cases of competitive programming problems.</td></tr><tr class="even"><td>★★★</td><td><a href="http://vjudge.net">Virtual Judge (vjudge)</a></td><td>Virtual Judge (vjudge) allows users to create virtual contests with problems from notable problem archives.</td></tr><tr class="odd"><td>★★☆</td><td><a href="https://www.bnuoj.com/v3/">BNU Online Judge</a></td><td>BNU Online Judge also allows users to create virtual contests.</td></tr><tr class="even"><td>★★☆</td><td><a href="https://open.kattis.com/">Kattis</a></td><td>Kattis assists in contest preparation (E-mail them for assistance).</td></tr></tbody></table>
 
-Community
----------
+## Community
 
 > Meet the god-like competitive programmers!  
 > Learn helpful tips, tutorials and insights from these people :)
@@ -190,8 +176,7 @@ Community
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>Competitive Programmers</th><th></th><th></th></tr></thead><tbody><tr class="odd"><td><a href="https://www.quora.com/profile/Thanh-Trung-Nguyen">Thanh Trung Nguyen (I_love_Hoang_Yen)</a></td><td><a href="https://www.quora.com/profile/Brian-Bi">Brian Bi (bbi5291)</a></td><td><a href="https://www.quora.com/profile/Jonathan-Paulson">Jonathan Paulson (jonathanpaulson)</a></td></tr><tr class="even"><td><a href="https://www.quora.com/profile/Miguel-Oliveira-2">Miguel Oliveira (mogers)</a></td><td><a href="https://www.quora.com/profile/Egor-Suvorov">Egor Suvorov (yeputons)</a></td><td><a href="https://www.quora.com/profile/Michal-Danil%C3%A1k">Michal Danilák (Mimino)</a></td></tr><tr class="odd"><td><a href="https://www.quora.com/profile/Bohdan-Pryshchenko">Bohdan Pryshchenko (I_love_Tanya_Romanova)</a></td><td><a href="https://www.quora.com/profile/Vladimir-Novakovski">Vladimir Novakovski (vnovakovski)</a></td><td><a href="https://www.quora.com/profile/Nick-Wu-4">Nick Wu (xiaowuc1)</a></td></tr><tr class="even"><td><a href="https://www.quora.com/profile/Cosmin-Negruseri">Cosmin Negruseri</a></td><td><a href="https://www.quora.com/profile/Lalit-Kundu">Lalit Kundu (darkshadows)</a></td><td><a href="https://www.quora.com/profile/Ashish-Kedia">Ashish Kedia (ashish1294)</a></td></tr><tr class="odd"><td><a href="https://www.quora.com/profile/Johnny-Ho">Johnny Ho (random.johnnyh)</a></td><td><a href="https://www.quora.com/profile/Joshua-Pan-1">Joshua Pan (lonerz)</a></td><td><a href="https://www.quora.com/profile/Anudeep-Nekkanti">Anudeep Nekkanti (anudeep2011)</a></td></tr><tr class="even"><td><a href="https://www.quora.com/profile/Steven-Hao">Steven Hao (stevenkplus)</a></td><td><a href="https://www.quora.com/profile/Raziman-T-V">Raziman T.V. (razimantv)</a></td><td></td></tr></tbody></table>
 
-Other Awesome Resources
------------------------
+## Other Awesome Resources
 
 ### Articles
 
@@ -215,8 +200,7 @@ Other Awesome Resources
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Name</th><th>Description</th></tr></thead><tbody><tr class="odd"><td><a href="https://www.careercup.com">CareerCup</a></td><td>The most popular website for software engineering interview preparation.</td></tr><tr class="even"><td><a href="https://www.interviewbit.com">InterviewBit</a></td><td>Features intriguing and refreshing game-play designs which are designed to invoke one’s interest in practicing.</td></tr><tr class="odd"><td><a href="https://github.com/MaximAbramchuck/awesome-interview-questions">Awesome Interviews</a></td><td>A curated list of awesome interview questions</td></tr><tr class="even"><td><a href="https://leetcode.com">LeetCode</a></td><td>Well-organized website for software engineering interview preparation with best explanined solutions.</td></tr></tbody></table>
 
-License
--------
+## License
 
 [![Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 

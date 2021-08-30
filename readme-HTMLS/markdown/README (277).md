@@ -1,131 +1,127 @@
-Awesome IT Quotes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=============================================================================================================================================================================
+# Awesome IT Quotes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
 
-Contents
---------
+## Contents
 
--   [Alan Kay](#alan-kay)
--   [Alan Turing](#alan-turing)
--   [Albert Einstein](#albert-einstein)
--   [Arthur C. Clarke](#arthur-c-clarke)
--   [Bill Gates](#bill-gates)
--   [Bjarne Stroustrup](#bjarne-stroustrup)
--   [Bruce Schneier](#bruce-schneier)
--   [Don DeLillo](#don-delillo)
--   [Don Norman](#don-norman)
--   [Douglas Adams](#douglas-adams)
--   [Edsger Dijkstra](#edsger-dijkstra)
--   [Edward V. Berard](#edward-v-berard)
--   [Elbert Hubbard](#elbert-hubbard)
--   [Elon Musk](#elon-musk)
--   [Grace Hopper](#grace_hopper)
--   [Harold Abelson](#harold-abelson)
--   [Jeff Pesis](#jeff-pesis)
--   [John Cleese](#john-cleese)
--   [Kathy Sierra](#kathy-sierra)
--   [Keith Bostic](#keith-bostic)
--   [Ken Thompson](#ken-thompson)
--   [Larry Wall](#larry-wall)
--   [Linus Torvalds](#linus-torvalds)
--   [Mark Minasi](#mark-minasi)
--   [Martin Fowler](#martin-fowler)
--   [Omar Bradley](#omar-bradley)
--   [Pablo Picasso](#pablo-picasso)
--   [Peter Deutsch](#peter-deutsch)
--   [Peter Wegner](#peter-wegner)
--   [Richard Stallman](#richard-stallman)
--   [Rick Cook](#rick-cook)
--   [Steve Jobs](#steve-jobs)
--   [Steve McConnell](#steve-mcconnell)
--   [Sydney Harris](#sydney-harris)
--   [Tony Hoare](#tony-hoare)
--   [Vidiu Platon](#vidiu-platon)
+- [Alan Kay](#alan-kay)
+- [Alan Turing](#alan-turing)
+- [Albert Einstein](#albert-einstein)
+- [Arthur C. Clarke](#arthur-c-clarke)
+- [Bill Gates](#bill-gates)
+- [Bjarne Stroustrup](#bjarne-stroustrup)
+- [Bruce Schneier](#bruce-schneier)
+- [Don DeLillo](#don-delillo)
+- [Don Norman](#don-norman)
+- [Douglas Adams](#douglas-adams)
+- [Edsger Dijkstra](#edsger-dijkstra)
+- [Edward V. Berard](#edward-v-berard)
+- [Elbert Hubbard](#elbert-hubbard)
+- [Elon Musk](#elon-musk)
+- [Grace Hopper](#grace_hopper)
+- [Harold Abelson](#harold-abelson)
+- [Jeff Pesis](#jeff-pesis)
+- [John Cleese](#john-cleese)
+- [Kathy Sierra](#kathy-sierra)
+- [Keith Bostic](#keith-bostic)
+- [Ken Thompson](#ken-thompson)
+- [Larry Wall](#larry-wall)
+- [Linus Torvalds](#linus-torvalds)
+- [Mark Minasi](#mark-minasi)
+- [Martin Fowler](#martin-fowler)
+- [Omar Bradley](#omar-bradley)
+- [Pablo Picasso](#pablo-picasso)
+- [Peter Deutsch](#peter-deutsch)
+- [Peter Wegner](#peter-wegner)
+- [Richard Stallman](#richard-stallman)
+- [Rick Cook](#rick-cook)
+- [Steve Jobs](#steve-jobs)
+- [Steve McConnell](#steve-mcconnell)
+- [Sydney Harris](#sydney-harris)
+- [Tony Hoare](#tony-hoare)
+- [Vidiu Platon](#vidiu-platon)
 
-Contribution Guidelines
------------------------
+## Contribution Guidelines
 
 Contribution guidelines can be found [here](CONTRIBUTING.md)
 
-Quotes
-------
+## Quotes
 
 <table><thead><tr class="header"><th>Quote</th><th>Author</th></tr></thead><tbody></tbody></table>
 
-| “Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.”  
-  
+| “Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.”
+
 “Technology is anything that wasn’t around when you were born.” |
 
 [![Alan Kay](images/alan_kay.jpg)](https://en.wikipedia.org/wiki/Alan_Kay)  
-Alan Kay (Computer Scientist, pioneering work on object-oriented programming) | | “A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.”  
-  
-“Machines take me by surprise with great frequency.”  
-  
-“We can only see a short distance ahead, but we can see plenty there that needs to be done.”  
-  
-“Those who can imagine anything, can create the impossible.”  
-  
-“If a machine is expected to be infallible, it cannot also be intelligent.”  
-  
+Alan Kay (Computer Scientist, pioneering work on object-oriented programming) | | “A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.”
+
+“Machines take me by surprise with great frequency.”
+
+“We can only see a short distance ahead, but we can see plenty there that needs to be done.”
+
+“Those who can imagine anything, can create the impossible.”
+
+“If a machine is expected to be infallible, it cannot also be intelligent.”
+
 “Sometimes it is the people who no one imagined anything of who do the things that no one can imagine” |
 
 [![Alan Turing](images/alan_turing.jpg)](https://en.wikipedia.org/wiki/Alan_Turing)  
-Alan Turing (Computer Scientist, widely considered to be the father of theoretical computer science and artificial intelligence) | | “It has become appallingly obvious that our technology has exceeded our humanity.”  
-  
-“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”  
-  
-“If you can’t explain it to a six year old, you don’t understand it yourself.”  
-  
-“Logic will get you from A to Z; imagination will get you everywhere.”  
-  
-“Life is like riding a bicycle. To keep your balance, you must keep moving.”  
-  
+Alan Turing (Computer Scientist, widely considered to be the father of theoretical computer science and artificial intelligence) | | “It has become appallingly obvious that our technology has exceeded our humanity.”
+
+“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”
+
+“If you can’t explain it to a six year old, you don’t understand it yourself.”
+
+“Logic will get you from A to Z; imagination will get you everywhere.”
+
+“Life is like riding a bicycle. To keep your balance, you must keep moving.”
+
 “Anyone who has never made a mistake has never tried anything new.” |
 
 [![Albert Einstein](images/albert_einstein.jpg)](https://en.wikipedia.org/wiki/Albert_Einstein)  
 Albert Einstein (Scientist theoretical physicist) | | “Any sufficiently advanced technology is equivalent to magic.” |
 
 [![Arthur C. Clarke](images/arthur_c_clarke.jpg)](https://en.wikipedia.org/wiki/Arthur_C._Clarke)  
-Arthur C. Clarke (Science writer, futurist and inventor) | | “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”  
-  
-“The advance of technology is based on making it fit in so that you don’t really even notice it, so it’s part of everyday life.”  
-  
-“Success today requires the agility and drive to constantly rethink, reinvigorate, react, and reinvent”  
-  
-“The Internet is becoming the town square for the global village of tomorrow.”  
-  
-”Your most unhappy customers are your greatest source of learning.”  
-  
+Arthur C. Clarke (Science writer, futurist and inventor) | | “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”
+
+“The advance of technology is based on making it fit in so that you don’t really even notice it, so it’s part of everyday life.”
+
+“Success today requires the agility and drive to constantly rethink, reinvigorate, react, and reinvent”
+
+“The Internet is becoming the town square for the global village of tomorrow.”
+
+”Your most unhappy customers are your greatest source of learning.”
+
 ”The best way to prepare \[to be a programmer\] is to write programs, and to study great programs that other people have written. In my case, I went to the garbage cans at the Computer Science Center and fished out listings of their operating system.” |
 
 [![Bill Gates](images/bill_gates.jpg)](https://en.wikipedia.org/wiki/Bill_Gates)  
-Bill Gates (American business magnate, investor, author, philanthropist and founder of Microsoft)| | “I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.”  
-  
-“C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.”  
-  
-“Clearly, I reject the view that there is one way that is right for everyone and for every problem.”  
-  
+Bill Gates (American business magnate, investor, author, philanthropist and founder of Microsoft)| | “I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone.”
+
+“C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.”
+
+“Clearly, I reject the view that there is one way that is right for everyone and for every problem.”
+
 “A program that has not been tested does not work.”|
 
 [![Bjarne Stroustrup](images/bjarne_stroustrup.jpg)](https://en.wikipedia.org/wiki/Bjarne_Stroustrup)  
-Bjarne Stroustrup is a Danish computer scientist, most notable for the creation and development of the widely used C++ programming language | | “Privacy is an inherent human right, and a requirement for maintaining the human condition with dignity and respect.”  
-  
-“It is poor civic hygiene to install technologies that could someday facilitate a police state.”  
-  
+Bjarne Stroustrup is a Danish computer scientist, most notable for the creation and development of the widely used C++ programming language | | “Privacy is an inherent human right, and a requirement for maintaining the human condition with dignity and respect.”
+
+“It is poor civic hygiene to install technologies that could someday facilitate a police state.”
+
 “Anyone, from the most clueless amateur to the best cryptographer, can create an algorithm that he himself can’t break.” |
 
 [![Bruce Schneier](images/bruce_schneier.jpg)](https://en.wikipedia.org/wiki/Bruce_Schneier)  
 Bruce Schneier (Cryptographer, computer security professional, and writer) | | “This is the whole point of technology. It creates an appetite for immortality on the one hand. It threatens universal extinction on the other. Technology is lust removed from nature.” |
 
 [![Don DeLillo](images/don_delillo.jpg)](https://en.wikipedia.org/wiki/Don_DeLillo)  
-Don DeLillo (Author American novelist, playwright and essayist) | | “It’s not enough that we build products that function, that are understandable and usable, we also need to build products that bring joy and excitement, pleasure and fun, and yes, beauty to people’s lives.”  
-  
+Don DeLillo (Author American novelist, playwright and essayist) | | “It’s not enough that we build products that function, that are understandable and usable, we also need to build products that bring joy and excitement, pleasure and fun, and yes, beauty to people’s lives.”
+
 “A brilliant solution to the wrong problem can be worse than no solution at all: solve the correct problem.” |
 
 [![Don Norman](images/donald_norman.jpg)](https://en.wikipedia.org/wiki/Don_Norman)  
-Don Norman (Co-founder of Nielsen Norman Group, former VP of Research at Apple Computer and author of The Design of Everyday Things.) | | “First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII — and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we’ve realized it’s a brochure.”  
-  
+Don Norman (Co-founder of Nielsen Norman Group, former VP of Research at Apple Computer and author of The Design of Everyday Things.) | | “First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII — and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we’ve realized it’s a brochure.”
+
 “A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.” |
 
 [![Douglas Adams](images/douglas_adams.jpg)](https://en.wikipedia.org/wiki/Douglas_Adams)  
@@ -138,14 +134,14 @@ Edsger Wybe Dijkstra (Computer scientist and an early pioneer in many research a
 Edward V. Berard is an American software engineer and consultant for The Object Agency, Inc. | | “One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.” |
 
 [![Elbert Hubbard](images/elbert_hubbard.jpg)](https://en.wikipedia.org/wiki/Elbert_Hubbard)  
-Elbert Hubbard (writer, publisher, artist, and philosopher) | | “Failure is an option here. If things are not failing, you are not innovating enough.”  
-  
-“When something is important enough, you do it even if the odds are not in your favor.”  
-  
-“If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it’s not.”  
-  
-“Persistence is very important. You should not give up unless you are forced to give up.”  
-  
+Elbert Hubbard (writer, publisher, artist, and philosopher) | | “Failure is an option here. If things are not failing, you are not innovating enough.”
+
+“When something is important enough, you do it even if the odds are not in your favor.”
+
+“If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it’s not.”
+
+“Persistence is very important. You should not give up unless you are forced to give up.”
+
 “I could either watch it happen or be a part of it.” |
 
 [![Elon Musk](images/elon_musk.jpg)](https://en.wikipedia.org/wiki/Elon_Musk)  
@@ -155,8 +151,8 @@ Elon Musk (Business magnate, investor, engineer, and inventor.) | | “If it’s
 Grace Hopper (American computer scientist, a pioneer of computer programming who invented one of the first compilers. She popularized the idea of machine-independent programming languages, which led to the development of COBOL.) | | “Programs must be written for people to read, and only incidentally for machines to execute.” |
 
 [![Harold Abelson](images/harold_abelson.jpg)](https://en.wikipedia.org/wiki/Hal_Abelson)  
-Harold Abelson (Professor of Electrical Engineering and Computer Science at MIT, a fellow of the IEEE, and a founding director of both Creative Commons and the Free Software Foundation) | | “A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.”  
-  
+Harold Abelson (Professor of Electrical Engineering and Computer Science at MIT, a fellow of the IEEE, and a founding director of both Creative Commons and the Free Software Foundation) | | “A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.”
+
 “If you do build a great experience, customers tell each other about that. Word of mouth is very powerful.” |
 
 [![Harold Abelson](images/jeff_bezos.jpg)](https://en.wikipedia.org/wiki/Jeff_Bezos)  
@@ -175,25 +171,25 @@ Kathy Sierra (born 1957) is an American programming instructor and game develope
 Keith Bostic is an American Software Engineer and one of the key people in the history of Berkeley Software Distribution UNIX and Open Source software. | “One of my most productive days was throwing away 1000 lines of code.” |
 
 [![Ken Thompson](images/ken_thompson.jpg)](https://en.wikipedia.org/wiki/Ken_Thompson)  
-Ken Thompson (computer scientist, early developer of UNIX OS) | | “It is easier to port a shell than a shell script.”  
-  
+Ken Thompson (computer scientist, early developer of UNIX OS) | | “It is easier to port a shell than a shell script.”
+
 “Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.” |
 
 [![Larry Wall](images/larry_wall.jpg)](https://en.wikipedia.org/wiki/Larry_Wall)  
-Larry Wall is a computer programmer and author. He created the Perl programming language. | | “Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”  
-  
-“Software is like sex; it’s better when it’s free.”  
-  
-“Artists usually don’t make all that much money, and they often keep their artistic hobby despite the money rather than due to it.”  
-  
-“I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples’ ideas and making it into what science is today and the incredible advances that we have had. And I compare that to witchcraft and alchemy, where openness was something you didn’t do.”  
-  
-“Talk is cheap. Show me the code.”  
-  
-“Don’t hurry your code. Make sure it works well and is well designed. Don’t worry about timing”  
-  
-“Programmers are in the enviable position of not only getting to do what they want to, but because the end result is so important they get paid to do it. There are other professions like that, but not that many”  
-  
+Larry Wall is a computer programmer and author. He created the Perl programming language. | | “Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”
+
+“Software is like sex; it’s better when it’s free.”
+
+“Artists usually don’t make all that much money, and they often keep their artistic hobby despite the money rather than due to it.”
+
+“I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples’ ideas and making it into what science is today and the incredible advances that we have had. And I compare that to witchcraft and alchemy, where openness was something you didn’t do.”
+
+“Talk is cheap. Show me the code.”
+
+“Don’t hurry your code. Make sure it works well and is well designed. Don’t worry about timing”
+
+“Programmers are in the enviable position of not only getting to do what they want to, but because the end result is so important they get paid to do it. There are other professions like that, but not that many”
+
 “In many cases the user interface to a program is the most important part for a commercial company: whether the programs works correctly or not seems to be secondary” |
 
 [![Linus Torvalds](images/linus_torvalds.jpg)](https://en.wikipedia.org/wiki/Linus_Torvalds)  
@@ -223,12 +219,12 @@ Richard Stallman launched the GNU Project
 to create a Unix-like computer operating system composed entirely of free software | | “Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to build bigger and better idiots. So far, the universe is winning.”|
 
 [![Rick Cook](images/rick_cook.jpg)](https://en.wikipedia.org/wiki/Rick_Cook)  
-Rick Cook is a light fantasy author, best known for his Wizardry series of books. | | “Great things in business are never done by one person. They’re done by a team of people.”  
-  
-“Innovation distinguishes between a leader and a follower.”  
-  
-“Technology is nothing. What’s important is that you have a faith in people, that they’re basically good and smart, and if you give them tools, they’ll do wonderful things with them.”  
-  
+Rick Cook is a light fantasy author, best known for his Wizardry series of books. | | “Great things in business are never done by one person. They’re done by a team of people.”
+
+“Innovation distinguishes between a leader and a follower.”
+
+“Technology is nothing. What’s important is that you have a faith in people, that they’re basically good and smart, and if you give them tools, they’ll do wonderful things with them.”
+
 ”Design is not just what it looks like and feels like. Design is how it works.”|
 
 [![Steve Jobs](images/steve_jobs.jpg)](https://en.wikipedia.org/wiki/Steve_Jobs)  

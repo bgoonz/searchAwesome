@@ -1,21 +1,18 @@
 <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon" width="200" />
 
-CSS Profi-Tipps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===========================================================================================================================================================================
+# CSS Profi-Tipps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Eine Sammlung an Tipps, um deine CSS-Fähigkeiten zu professionalisieren.
 
 > Für andere großartige Listen schaue dir <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)s kuratierte Liste von [“awesome” Listen](https://github.com/sindresorhus/awesome/) an.
 
-Inhaltsverzeichnis
-------------------
+## Inhaltsverzeichnis
 
--   [Profi-Tipps](#profi-tipps)
--   [Unterstützung](#unterstützung)
--   [Mitarbeitsrichtlinien](../../CONTRIBUTING.md)
+- [Profi-Tipps](#profi-tipps)
+- [Unterstützung](#unterstützung)
+- [Mitarbeitsrichtlinien](../../CONTRIBUTING.md)
 
-Profi-Tipps
------------
+## Profi-Tipps
 
 1.  [Benutze ein CSS-Reset](#benutze-ein-css-reset)
 2.  [Übernehme `box-sizing`](#Übernehme-box-sizing)
@@ -175,7 +172,7 @@ Auf diese Weise können Textelemente dies einfach von `body` übernehmen.
 
 ### Setze `:focus` für Form-Elemente
 
-Sehende Tastaturbenutzer\_innen sind auf die Fokussierung angewiesen, um unterscheiden zu können wohin Tastaturevents auf der Seite gehen. Gestalte den Fokus für Formular-Elemente klar ersichtlich und konsistenter als die voreingestellte Browserimplementation:
+Sehende Tastaturbenutzer_innen sind auf die Fokussierung angewiesen, um unterscheiden zu können wohin Tastaturevents auf der Seite gehen. Gestalte den Fokus für Formular-Elemente klar ersichtlich und konsistenter als die voreingestellte Browserimplementation:
 
     a:focus,
     button:focus,
@@ -274,7 +271,7 @@ Es gibt keinen Grund SVG für Symbole nicht zu verwenden:
 
 SVG skaliert für alle verschiedenen Auflösungen sehr gut und wird von allen Browsern [zurück bis zu IE9](http://caniuse.com/#search=svg) unterstützt. Gebe deinen .png, .jpg, or .gif-jif-wasauchimmer-Dateien den Laufpass.
 
-**Hinweis:** Wenn du nur SVG-Symbole in Button-Schaltflächen für sehende Benutzer\_innen verwendest und das SVG nicht geladen wird, kannst du die Zugänglichkeit wie folgt erhalten:
+**Hinweis:** Wenn du nur SVG-Symbole in Button-Schaltflächen für sehende Benutzer_innen verwendest und das SVG nicht geladen wird, kannst du die Zugänglichkeit wie folgt erhalten:
 
     .no-svg .icon-only::after {
       content: attr(aria-label);
@@ -292,7 +289,7 @@ Er hat zwar einen seltsamen Namen aber der Universal-Selektor (`*`) mit dem angr
 
 In diesem Beispiel bekommen alle Elemente im Fluss des Dokuments, die anderen Elementen folgen, `margin-top: 1.5em`.
 
-Für mehr bezüglich des “lobotomisierte Eule”-Selektors lese [Heydon Pickerings Eintrag](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) auf *A List Apart*.
+Für mehr bezüglich des “lobotomisierte Eule”-Selektors lese [Heydon Pickerings Eintrag](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) auf _A List Apart_.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -415,7 +412,7 @@ Erzeuge mit einem kleinen bisschen CSS ästhetisch ansprechendere defekte Bilder
       width: 100%;
     }
 
-Nun ergänze Regeln für Pseudo-Elemente, die eine Nachricht für die Benutzer\_innen darstellen, sowie eine URL-Referenz des defekten Bildes:
+Nun ergänze Regeln für Pseudo-Elemente, die eine Nachricht für die Benutzer_innen darstellen, sowie eine URL-Referenz des defekten Bildes:
 
     img::before {
       content: "Entschuldige bitte, das Bild ist leider defekt :(";
@@ -461,7 +458,7 @@ Nun sollte jedes Modul gegliedert, einfacher zu gestalten, wartbarer und flexibl
 
 ### Verstecke automatisch abspielende Videos, die nicht auf stumm gesetzt sind
 
-Das ist ein großartiger Trick für ein speziell angefertigtes Stylesheet. Vermeide es die Benutzer\_innen mit den Geräuschen eines automatisch startenden Videos zu überfordern. Zeige das Video nicht, wenn die Töne nicht auf stumm geschaltet sind:
+Das ist ein großartiger Trick für ein speziell angefertigtes Stylesheet. Vermeide es die Benutzer_innen mit den Geräuschen eines automatisch startenden Videos zu überfordern. Zeige das Video nicht, wenn die Töne nicht auf stumm geschaltet sind:
 
     video[autoplay]:not([muted]) {
       display: none;
@@ -473,7 +470,7 @@ Erneut nutzen wir die [`:not()`](#benutze-not-um-rahmen-an-die-navigation-zu-set
 
 ### Benutze `:root` für flexible Schrift
 
-Die Größe der Schriftart innerhalb eines *responsive* Layouts sollte mit jedem Ansichtsfenster veränderbar sein. Du kannst die Schriftgröße basierend auf der Höhe und Weite des Fensters berechnen, indem du `:root` verwendest:
+Die Größe der Schriftart innerhalb eines _responsive_ Layouts sollte mit jedem Ansichtsfenster veränderbar sein. Du kannst die Schriftgröße basierend auf der Höhe und Weite des Fensters berechnen, indem du `:root` verwendest:
 
     :root {
       font-size: calc(1vw + 1vh + .5vmin);
@@ -527,7 +524,6 @@ Wie [Harry Roberts hervorhob](https://twitter.com/csswizardry/status/11708355325
 
 <sup>[zurück\ zum\ Inhaltsverzeichnis](#inhaltsverzeichnis)</sup>
 
-Unterstützung
--------------
+## Unterstützung
 
 Aktuelle Versionen von Chrome, Firefox, Safari, Opera, Edge und IE11.

@@ -1,5 +1,4 @@
-.htaccess Ukážky kódov
-======================
+# .htaccess Ukážky kódov
 
 Kolekcia užitočných .htaccess súborov, všetky na jednom mieste. Rozhodol som sa vytvoriť tento repozitár po tom, čo som bol znudený z Googlenia, keď som potreboval presmerovať moje nové stránky na `www`.
 
@@ -7,40 +6,38 @@ Kolekcia užitočných .htaccess súborov, všetky na jednom mieste. Rozhodol so
 
 **POZNÁMKA**: Apache 2.4 prináša niekoľko zmien, najme pre kontrolu prístupu. Pre viac informácii sa pozrite na [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html) a tiež na [this issue](https://github.com/phanan/htaccess/issues/2).
 
-Tabuľka obsahu
---------------
+## Tabuľka obsahu
 
--   [Prepisovanie a presmerovanie](#prepisovanie-a-presmerovanie)
-    -   [Presmerovanie na WWW](#presmerovanie-na-www)
-    -   [Všeobecné presmerovanie na WWW](#v-eobecn-presmerovanie-na-www)
-    -   [Presmerovanie bez WWW](#presmerovanie-bez-www)
-    -   [Presmerovanie na HTTPS](#presmerovanie-na-https)
-    -   [Pridanie koncového lomítka](#pridanie-koncov-ho-lom-tka)
-    -   [Presmerovanie jednej stránky](#presmerovanie-jednej-str-nky)
-    -   [Presmerovanie celého webu](#presmerovanie-cel-ho-webu)
--   [Bezpečnosť](#bezpe-nos)
-    -   [Zakázanie prístupu pre všetkých](#zak-zanie-pr-stupu-pre-v-etk-ch)
-    -   [Zakázanie prístupu všetkým okrem vás](#zak-zanie-pr-stupu-v-etk-m-okrem-v-s)
-    -   [Povoliť prístup všetkým, ale nie spamerom](#povoli-pr-stup-v-etk-m-ale-nie-spamerom)
-    -   [Zakázať prístup k skrytým súborom a priečinkom](#zak-za-pr-stup-k-skryt-m-s-borom-a-prie-inkom)
-    -   [Zakázanie prístupu k zálohám a zdrojovým súborom](#zak-zanie-pr-stupu-k-z-loh-m-a-zdrojov-m-s-borom)
-    -   [Zakázanie prehliadania priečinka](#zak-zanie-prehliadania-prie-inka)
-    -   [Zakázanie hotlinkovania obrázkov](#zak-zanie-hotlinkovania-obr-zkov)
-    -   [Priečinok chránený heslom](#prie-inok-chr-nen-heslom)
-    -   [Súbor alebo niekoľko súborov chránených heslom](#s-bor-alebo-nieko-ko-s-borov-chr-nen-ch-heslom)
--   [Výkon](#v-kon)
-    -   [Kompresia textových súborov](#kompresia-textov-ch-s-borov)
-    -   [Nastavenia expirácie headerov](#nastavenia-expir-cie-headerov)
-    -   [Vypnutie eTags](#vypnutie-etags)
--   [Ostatné](#ostatn)
-    -   [Nastavenie PHP premenných](#nastavenie-php-premenn-ch)
-    -   [Vlastné chybové stránky](#vlastn-chybov-str-nky)
-    -   [Povinné stiahnutie](#povinn-stiahnutie)
-    -   [Povoliť cross-domain písma](#povoli-cross-domain-p-sma)
-    -   [Automatické UTF-8 kódovanie](#automatick-utf-8-k-dovanie)
+- [Prepisovanie a presmerovanie](#prepisovanie-a-presmerovanie)
+  - [Presmerovanie na WWW](#presmerovanie-na-www)
+  - [Všeobecné presmerovanie na WWW](#v-eobecn-presmerovanie-na-www)
+  - [Presmerovanie bez WWW](#presmerovanie-bez-www)
+  - [Presmerovanie na HTTPS](#presmerovanie-na-https)
+  - [Pridanie koncového lomítka](#pridanie-koncov-ho-lom-tka)
+  - [Presmerovanie jednej stránky](#presmerovanie-jednej-str-nky)
+  - [Presmerovanie celého webu](#presmerovanie-cel-ho-webu)
+- [Bezpečnosť](#bezpe-nos)
+  - [Zakázanie prístupu pre všetkých](#zak-zanie-pr-stupu-pre-v-etk-ch)
+  - [Zakázanie prístupu všetkým okrem vás](#zak-zanie-pr-stupu-v-etk-m-okrem-v-s)
+  - [Povoliť prístup všetkým, ale nie spamerom](#povoli-pr-stup-v-etk-m-ale-nie-spamerom)
+  - [Zakázať prístup k skrytým súborom a priečinkom](#zak-za-pr-stup-k-skryt-m-s-borom-a-prie-inkom)
+  - [Zakázanie prístupu k zálohám a zdrojovým súborom](#zak-zanie-pr-stupu-k-z-loh-m-a-zdrojov-m-s-borom)
+  - [Zakázanie prehliadania priečinka](#zak-zanie-prehliadania-prie-inka)
+  - [Zakázanie hotlinkovania obrázkov](#zak-zanie-hotlinkovania-obr-zkov)
+  - [Priečinok chránený heslom](#prie-inok-chr-nen-heslom)
+  - [Súbor alebo niekoľko súborov chránených heslom](#s-bor-alebo-nieko-ko-s-borov-chr-nen-ch-heslom)
+- [Výkon](#v-kon)
+  - [Kompresia textových súborov](#kompresia-textov-ch-s-borov)
+  - [Nastavenia expirácie headerov](#nastavenia-expir-cie-headerov)
+  - [Vypnutie eTags](#vypnutie-etags)
+- [Ostatné](#ostatn)
+  - [Nastavenie PHP premenných](#nastavenie-php-premenn-ch)
+  - [Vlastné chybové stránky](#vlastn-chybov-str-nky)
+  - [Povinné stiahnutie](#povinn-stiahnutie)
+  - [Povoliť cross-domain písma](#povoli-cross-domain-p-sma)
+  - [Automatické UTF-8 kódovanie](#automatick-utf-8-k-dovanie)
 
-Prepisovanie a presmerovanie
-----------------------------
+## Prepisovanie a presmerovanie
 
 Poznámka: Predpokladá sa, že máte nainštalovaný a povolený `mod_rewrite`.
 
@@ -57,7 +54,7 @@ Poznámka: Predpokladá sa, že máte nainštalovaný a povolený `mod_rewrite`.
     RewriteCond %{HTTPS}s ^on(s)|
     RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-Funguje pre *akúkoľvek* doménu. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
+Funguje pre _akúkoľvek_ doménu. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
 
 ### Presmerovanie bez WWW
 
@@ -91,8 +88,7 @@ Je [odporúčané](http://no-www.org/) vymazať `www` z vašej domény. Prekvape
 
 Tento spôsob nezničí linky. Stránka `www.oldsite.com/some/crazy/link.html` bude presmerovaná na `www.newsite.com/some/crazy/link.html`. Toto je extrémne nápomocné, ak migrujete web na inú doménu. [Zdroj](http://css-tricks.com/snippets/htaccess/301-redirects/)
 
-Bezpečnosť
-----------
+## Bezpečnosť
 
 ### Zakázanie prístupu pre všetkých
 
@@ -178,8 +174,7 @@ Potom to môžte použiť na autentifikáciu:
     Require valid-user
     </FilesMatch>
 
-Výkon
------
+## Výkon
 
 ### Kompresia textových súborov
 
@@ -224,7 +219,7 @@ Výkon
 
 ### Nastavenia expirácie headerov
 
-*Expires Headers* povedia prehliadaču, či by si mal vyžiadať konkrétny súbor zo servera, alebo ho len prevziať z vyrovnávacej pamäte. Je vhodné nastaviť dobu expirácie statického obsahu na dlhú dobu. Ak nemáte kontrolu verzií na báze mena súboru mali by ste zvážiť dobu uloženia v medzipameti pre súbory ako je CSS a JS na napríklad 1 týždeň. [Zdroj](http://h5bp.com)
+_Expires Headers_ povedia prehliadaču, či by si mal vyžiadať konkrétny súbor zo servera, alebo ho len prevziať z vyrovnávacej pamäte. Je vhodné nastaviť dobu expirácie statického obsahu na dlhú dobu. Ak nemáte kontrolu verzií na báze mena súboru mali by ste zvážiť dobu uloženia v medzipameti pre súbory ako je CSS a JS na napríklad 1 týždeň. [Zdroj](http://h5bp.com)
 
     <IfModule mod_expires.c>
         ExpiresActive on
@@ -284,8 +279,7 @@ Odstránenín ETag headeru zabránite cache a prehliadaču overovať súbory, a 
     </IfModule>
     FileETag None
 
-Ostatné
--------
+## Ostatné
 
 ### Nastavenie PHP premenných
 

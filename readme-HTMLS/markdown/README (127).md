@@ -1,22 +1,19 @@
 <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon" width="200" />
 
-CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=======================================================================================================================================================================
+# CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of tips to help take your CSS skills pro.
 
 > For other great lists check out <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)’s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
-Table of Contents
------------------
+## Table of Contents
 
--   [Protips](#protips)
--   [Support](#support)
--   [Translations](#translations)
--   [Contribution Guidelines](CONTRIBUTING.md)
+- [Protips](#protips)
+- [Support](#support)
+- [Translations](#translations)
+- [Contribution Guidelines](CONTRIBUTING.md)
 
-Protips
--------
+## Protips
 
 1.  [Use a CSS Reset](#use-a-css-reset)
 2.  [Inherit `box-sizing`](#inherit-box-sizing)
@@ -46,7 +43,7 @@ Protips
 
 ### Use a CSS Reset
 
-CSS resets help enforce style consistency across different browsers with a clean slate for styling elements. You can use a CSS reset library like [Normalize](http://necolas.github.io/normalize.css/), *et al.*, or you can use a more simplified reset approach:
+CSS resets help enforce style consistency across different browsers with a clean slate for styling elements. You can use a CSS reset library like [Normalize](http://necolas.github.io/normalize.css/), _et al._, or you can use a more simplified reset approach:
 
     *,
     *::before,
@@ -160,7 +157,7 @@ H/T to Adam Argyle for sharing this protip and [demo](https://codepen.io/argylei
 
 ### Add `line-height` to `body`
 
-You don’t need to add `line-height` to each `<p>`, `<h*>`, *et al*. separately. Instead, add it to `body`:
+You don’t need to add `line-height` to each `<p>`, `<h*>`, _et al_. separately. Instead, add it to `body`:
 
     body {
       line-height: 1.5;
@@ -291,7 +288,7 @@ It may have a strange name but using the universal selector (`*`) with the adjac
 
 In this example, all elements in the flow of the document that follow other elements will receive `margin-top: 1.5em`.
 
-For more on the “lobotomized owl” selector, read [Heydon Pickering’s post](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) on *A List Apart*.
+For more on the “lobotomized owl” selector, read [Heydon Pickering’s post](http://alistapart.com/article/axiomatic-css-and-lobotomized-owls) on _A List Apart_.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/grRvWq)
 
@@ -490,7 +487,7 @@ Now you can utilize the `root em` unit based on the value calculated by `:root`:
 
 ### Set `font-size` on Form Elements for a Better Mobile Experience
 
-To avoid mobile browsers (iOS Safari, *et al*.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, add `font-size` to the selector rule:
+To avoid mobile browsers (iOS Safari, _et al_.) from zooming in on HTML form elements when a `<select>` drop-down is tapped, add `font-size` to the selector rule:
 
     input[type="text"],
     input[type="number"],
@@ -526,30 +523,28 @@ As [Harry Roberts pointed out](https://twitter.com/csswizardry/status/1170835532
 
 <sup>[back\ to\ table\ of\ contents](#table-of-contents)</sup>
 
-Support
--------
+## Support
 
 Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 <sup>[back\ to\ table\ of\ contents](#table-of-contents)</sup>
 
-Translations
-------------
+## Translations
 
--   [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
--   [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
--   [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
--   [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
--   [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
--   [λληνικά](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
--   [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
--   [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
--   [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
--   [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
--   [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
--   [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
--   [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
--   [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
--   [Tiếng Việt](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
+- [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+- [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
+- [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
+- [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
+- [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+- [λληνικά](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gr-GR)
+- [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)
+- [Italiano](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/it-IT)
+- [日本語](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
+- [한국어](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
+- [Polskie](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
+- [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+- [Português do Europe](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
+- [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+- [Tiếng Việt](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/vn-VN)
 
 <sup>[back\ to\ table\ of\ contents](#table-of-contents)</sup>

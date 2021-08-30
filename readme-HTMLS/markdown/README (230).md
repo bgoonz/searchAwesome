@@ -1,5 +1,4 @@
-.htaccess Snippets
-==================
+# .htaccess Snippets
 
 Uma coleção de snippets .htaccess úteis, tudo em um só lugar.
 
@@ -7,58 +6,55 @@ Uma coleção de snippets .htaccess úteis, tudo em um só lugar.
 
 **IMPORTANTE**: Apache 2.4 introduz algumas alterações significativas, principalmente na configuração de controle de acesso. Para mais informações, consulte o [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html) bem como [this issue](https://github.com/phanan/htaccess/issues/2).
 
-Créditos
---------
+## Créditos
 
 O que estamos fazendo aqui é principalmente a coleta trechos úteis de todo o interwebs (por exemplo, uma boa parte é de [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) em um só lugar. Enquanto estamos tentando dar crédito onde, devido, as coisas podem estar em falta. Se você acreditar em qualquer coisa que está aqui deve ser dado o seu trabalho e créditos, avise-nos, ou apenas enviar uma PR.
 
-Tabela de Conteúdo
-------------------
+## Tabela de Conteúdo
 
--   [Rewrite and Redirection](#rewrite-and-redirection)
-    -   [Force www](#force-www)
-    -   [Force www in a Generic Way](#force-www-in-a-generic-way)
-    -   [Force non-www](#force-non-www)
-    -   [Force non-www in a Generic Way](#force-non-www-in-a-generic-way)
-    -   [Force HTTPS](#force-https)
-    -   [Force HTTPS Behind a Proxy](#force-https-behind-a-proxy)
-    -   [Force Trailing Slash](#force-trailing-slash)
-    -   [Remove Trailing Slash](#remove-trailing-slash)
-    -   [Redirect a Single Page](#redirect-a-single-page)
-    -   [Alias a Single Directory](#alias-a-single-directory)
-    -   [Alias Paths to Script](#alias-paths-to-script)
-    -   [Redirect an Entire Site](#redirect-an-entire-site)
-    -   [Alias “Clean” URLs](#alias-clean-urls)
--   [Security](#security)
-    -   [Deny All Access](#deny-all-access)
-    -   [Deny All Access Except Yours](#deny-all-access-except-yours)
-    -   [Allow All Access Except Spammers’](#allow-all-access-except-spammers)
-    -   [Deny Access to Hidden Files and Directories](#deny-access-to-hidden-files-and-directories)
-    -   [Deny Access to Backup and Source Files](#deny-access-to-backup-and-source-files)
-    -   [Disable Directory Browsing](#disable-directory-browsing)
-    -   [Disable Image Hotlinking](#disable-image-hotlinking)
-    -   [Disable Image Hotlinking for Specific Domains](#disable-image-hotlinking-for-specific-domains)
-    -   [Password Protect a Directory](#password-protect-a-directory)
-    -   [Password Protect a File or Several Files](#password-protect-a-file-or-several-files)
-    -   [Block Visitors by Referrer](#block-visitors-by-referrer)
-    -   [Prevent Framing the Site](#prevent-framing-the-site)
--   [Performance](#performance)
-    -   [Compress Text Files](#compress-text-files)
-    -   [Set Expires Headers](#set-expires-headers)
-    -   [Turn eTags Off](#turn-etags-off)
--   [Miscellaneous](#miscellaneous)
-    -   [Set PHP Variables](#set-php-variables)
-    -   [Custom Error Pages](#custom-error-pages)
-    -   [Force Downloading](#force-downloading)
-    -   [Prevent Downloading](#prevent-downloading)
-    -   [Allow Cross-Domain Fonts](#allow-cross-domain-fonts)
-    -   [Auto UTF-8 Encode](#auto-utf-8-encode)
-    -   [Switch to Another PHP Version](#switch-to-another-php-version)
-    -   [Disable Internet Explorer Compatibility View](#disable-internet-explorer-compatibility-view)
-    -   [Serve WebP Images](#serve-webp-images)
+- [Rewrite and Redirection](#rewrite-and-redirection)
+  - [Force www](#force-www)
+  - [Force www in a Generic Way](#force-www-in-a-generic-way)
+  - [Force non-www](#force-non-www)
+  - [Force non-www in a Generic Way](#force-non-www-in-a-generic-way)
+  - [Force HTTPS](#force-https)
+  - [Force HTTPS Behind a Proxy](#force-https-behind-a-proxy)
+  - [Force Trailing Slash](#force-trailing-slash)
+  - [Remove Trailing Slash](#remove-trailing-slash)
+  - [Redirect a Single Page](#redirect-a-single-page)
+  - [Alias a Single Directory](#alias-a-single-directory)
+  - [Alias Paths to Script](#alias-paths-to-script)
+  - [Redirect an Entire Site](#redirect-an-entire-site)
+  - [Alias “Clean” URLs](#alias-clean-urls)
+- [Security](#security)
+  - [Deny All Access](#deny-all-access)
+  - [Deny All Access Except Yours](#deny-all-access-except-yours)
+  - [Allow All Access Except Spammers’](#allow-all-access-except-spammers)
+  - [Deny Access to Hidden Files and Directories](#deny-access-to-hidden-files-and-directories)
+  - [Deny Access to Backup and Source Files](#deny-access-to-backup-and-source-files)
+  - [Disable Directory Browsing](#disable-directory-browsing)
+  - [Disable Image Hotlinking](#disable-image-hotlinking)
+  - [Disable Image Hotlinking for Specific Domains](#disable-image-hotlinking-for-specific-domains)
+  - [Password Protect a Directory](#password-protect-a-directory)
+  - [Password Protect a File or Several Files](#password-protect-a-file-or-several-files)
+  - [Block Visitors by Referrer](#block-visitors-by-referrer)
+  - [Prevent Framing the Site](#prevent-framing-the-site)
+- [Performance](#performance)
+  - [Compress Text Files](#compress-text-files)
+  - [Set Expires Headers](#set-expires-headers)
+  - [Turn eTags Off](#turn-etags-off)
+- [Miscellaneous](#miscellaneous)
+  - [Set PHP Variables](#set-php-variables)
+  - [Custom Error Pages](#custom-error-pages)
+  - [Force Downloading](#force-downloading)
+  - [Prevent Downloading](#prevent-downloading)
+  - [Allow Cross-Domain Fonts](#allow-cross-domain-fonts)
+  - [Auto UTF-8 Encode](#auto-utf-8-encode)
+  - [Switch to Another PHP Version](#switch-to-another-php-version)
+  - [Disable Internet Explorer Compatibility View](#disable-internet-explorer-compatibility-view)
+  - [Serve WebP Images](#serve-webp-images)
 
-Rewrite and Redirection
------------------------
+## Rewrite and Redirection
 
 Nota: Presume-se que você tem `mod_rewrite` instalado e habilitado.
 
@@ -75,7 +71,7 @@ Nota: Presume-se que você tem `mod_rewrite` instalado e habilitado.
     RewriteCond %{HTTPS}s ^on(s)|
     RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
-Isso funciona para *any* domain. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
+Isso funciona para _any_ domain. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
 
 ### Force non-www
 
@@ -139,7 +135,7 @@ It’s [still](http://www.sitepoint.com/domain-www-or-no-www/) [open](https://de
 
     FallbackResource /index.fcgi
 
-Este exemplo tem um arquivo `index.fcgi` em algum diretório, e todos os pedidos dentro desse diretório que não conseguem resolver um diretório / nome do arquivo será enviado para o`script index.fcgi`. É bom se você quer `baz.foo / some / cool / path` a ser feitos pelo`baz.foo / index.fcgi` (que também suporta pedidos de `baz.foo`), mantendo`baz.foo/css/ style.css` e semelhantes. Tenha acesso ao caminho original da variável de ambiente PATH\_INFO, como exposto no seu ambiente de script.
+Este exemplo tem um arquivo `index.fcgi` em algum diretório, e todos os pedidos dentro desse diretório que não conseguem resolver um diretório / nome do arquivo será enviado para o`script index.fcgi`. É bom se você quer `baz.foo / some / cool / path` a ser feitos pelo`baz.foo / index.fcgi` (que também suporta pedidos de `baz.foo`), mantendo`baz.foo/css/ style.css` e semelhantes. Tenha acesso ao caminho original da variável de ambiente PATH_INFO, como exposto no seu ambiente de script.
 
     RewriteEngine On
     RewriteRule ^$ index.fcgi/ [QSA,L]
@@ -165,8 +161,7 @@ Este trecho permite que você use “clean” URLs – aqueles sem uma extensão
 
 [Source](http://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
 
-Security
---------
+## Security
 
 ### Deny All Access
 
@@ -307,8 +302,7 @@ Isso impede que o site para ser enquadrado (ou seja, colocar em uma `iframe` tag
     SetEnvIf Request_URI "/starry-night" allow_framing=true
     Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 
-Performance
------------
+## Performance
 
 ### Compress Text Files
 
@@ -325,7 +319,7 @@ Performance
 
         # Comprimir toda a saída marcada com um dos seguintes procedimentos MIME-types
         # (para versões do Apache 2.3.7 abaixo, você não precisa habilitar `mod_filter`
-        #  pode remover as linhas `<IfModule mod_filter.c>` e `</IfModule>` 
+        #  pode remover as linhas `<IfModule mod_filter.c>` e `</IfModule>`
         #  como `AddOutputFilterByType` ainda está em diretivas principais).
         <IfModule mod_filter.c>
             AddOutputFilterByType DEFLATE application/atom+xml \
@@ -353,7 +347,7 @@ Performance
 
 ### Set Expires Headers
 
-*Expira headers* dizer ao navegador se eles devem solicitar um arquivo específico do servidor ou apenas agarrá-lo a partir do cache. É aconselhável definir um conteúdo estática que expira no futuro. Se você não controlar o versionamento com cache baseado em filename, tem que considerar uma redução do tempo de cache para recursos como CSS e JS para algo como uma semana. [Source](https://github.com/h5bp/server-configs-apache)
+_Expira headers_ dizer ao navegador se eles devem solicitar um arquivo específico do servidor ou apenas agarrá-lo a partir do cache. É aconselhável definir um conteúdo estática que expira no futuro. Se você não controlar o versionamento com cache baseado em filename, tem que considerar uma redução do tempo de cache para recursos como CSS e JS para algo como uma semana. [Source](https://github.com/h5bp/server-configs-apache)
 
     <IfModule mod_expires.c>
         ExpiresActive on
@@ -414,8 +408,7 @@ Ao remover o cabeçalho `ETag`, você desativar caches e navegadores de ser capa
     </IfModule>
     FileETag None
 
-Miscellaneous
--------------
+## Miscellaneous
 
 ### Set PHP Variables
 

@@ -1,19 +1,16 @@
-Consejos jQuery cada uno debe saber [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===============================================================================================================================================================================================
+# Consejos jQuery cada uno debe saber [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Una colección de consejos simples para ayudar a su juego jQuery.
 
 > Para otros grandes listas echa un vistazo a <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)’s lista curada de [listas impresionantes](https://github.com/sindresorhus/awesome/).
 
-Tabla de contenido
-------------------
+## Tabla de contenido
 
--   [Tips](#consejos)
--   [Apoyo](#apoyo)
--   [Pautas de contribución](../../CONTRIBUTING.md)
+- [Tips](#consejos)
+- [Apoyo](#apoyo)
+- [Pautas de contribución](../../CONTRIBUTING.md)
 
-Consejos
---------
+## Consejos
 
 1.  [Utilizar `noConflict()`](#utilizar-noconflict)
 2.  [Verificando jQuery Cargado](#verificando-jquery-cargado)
@@ -180,7 +177,7 @@ Digamos que usted quiere cambiar la visual de un elemento se puede hacer clic en
       $(this).removeClass('hover');
     });
 
-Sólo tiene que añadir el CSS necesario. Si desea una manera aún *simpler* utilizar el método `toggleClass`:
+Sólo tiene que añadir el CSS necesario. Si desea una manera aún _simpler_ utilizar el método `toggleClass`:
 
     $('.btn').hover(function () {
       $(this).toggleClass('hover');
@@ -284,7 +281,7 @@ Este ejemplo establece el `min-height` característica que significa que puede s
     });
     $columns.height(height);
 
-Si desea *todas* columnas tengan la misma altura:
+Si desea _todas_ columnas tengan la misma altura:
 
     var $rows = $('.same-height-columns');
     $rows.each(function () {
@@ -403,8 +400,7 @@ Si desea desactivar el botón derecho del ratón, puede hacerlo para una página
 
 <sup>[volver\ al\ índice\ de\ contenidos](#table-of-contents)</sup>
 
-Apoyo
------
+## Apoyo
 
 Las versiones actuales de Chrome, Firefox, Safari, Opera, Edge y EI11.
 

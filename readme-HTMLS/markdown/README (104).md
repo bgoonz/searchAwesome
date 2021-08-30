@@ -6,19 +6,17 @@ Path to a free self-taught education in Computer Science!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-Contents
-========
+# Contents
 
--   [Summary](#summary)
--   [Community](#community)
--   [Curriculum](#curriculum)
--   [Code of conduct](#code-of-conduct)
--   [Team](#team)
+- [Summary](#summary)
+- [Community](#community)
+- [Curriculum](#curriculum)
+- [Code of conduct](#code-of-conduct)
+- [Team](#team)
 
-Summary
-=======
+# Summary
 
-The OSSU curriculum is a **complete education in computer science** using online materials. It’s not merely for career training or professional development. It’s for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+The OSSU curriculum is a **complete education in computer science** using online materials. It’s not merely for career training or professional development. It’s for those who want a proper, _well-rounded_ grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
 
 It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS. The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc., but specifically chosen to meet the following criteria.
 
@@ -26,7 +24,7 @@ It is designed according to the degree requirements of undergraduate computer sc
 
 When no course meets the above criteria, the coursework is supplemented with a book. When there are courses or books that don’t fit into the curriculum but are otherwise of high quality, they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
 
-**Organization**. The curriculum is designed as follows: - *Intro CS*: for students to try out CS and see if it’s right for them - *Core CS*: corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take - *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student’s interests - *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
+**Organization**. The curriculum is designed as follows: - _Intro CS_: for students to try out CS and see if it’s right for them - _Core CS_: corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take - _Advanced CS_: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student’s interests - _Final Project_: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
 
 **Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spread](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
 
@@ -36,56 +34,52 @@ Decide how much or how little to spend based on your own time and budget; just r
 
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order. - We recommend doing all courses in Core CS, only skipping a course when you are certain that you’ve already learned the material previously. - For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom, as they have already been [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites. - Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
 
-**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to. *Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
+**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to. _Do NOT disrespect the code of conduct_ that you signed in the beginning of each course!
 
 **[How to contribute](CONTRIBUTING.md)**
 
 **[Getting help](HELP.md)** (Details about our FAQ and chatroom)
 
-Community
-=========
+# Community
 
--   We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wuytwK5s9h) This should be your first stop to talk with other OSSU students. Why don’t you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/wuytwK5s9h)
--   You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
--   Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
--   Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
--   Note: There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
+- We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wuytwK5s9h) This should be your first stop to talk with other OSSU students. Why don’t you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/wuytwK5s9h)
+- You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
+- Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
+- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
+- Note: There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
 
-Curriculum
-==========
+# Curriculum
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
--   [Prerequisites](#prerequisites)
--   [Intro CS](#intro-cs)
-    -   [Introduction to Programming](#introduction-to-programming)
-    -   [Introduction to Computer Science](#introduction-to-computer-science)
--   [Core CS](#core-cs)
-    -   [Core programming](#core-programming)
-    -   [Core math](#core-math)
-    -   [CS Tools](#cs-tools)
-    -   [Core systems](#core-systems)
-    -   [Core theory](#core-theory)
-    -   [Core applications](#core-applications)
-    -   [Core security](#core-security)
--   [Advanced CS](#advanced-cs)
-    -   [Advanced programming](#advanced-programming)
-    -   [Advanced systems](#advanced-systems)
-    -   [Advanced theory](#advanced-theory)
-    -   [Advanced math](#advanced-math)
--   [Final project](#final-project)
+- [Prerequisites](#prerequisites)
+- [Intro CS](#intro-cs)
+  - [Introduction to Programming](#introduction-to-programming)
+  - [Introduction to Computer Science](#introduction-to-computer-science)
+- [Core CS](#core-cs)
+  - [Core programming](#core-programming)
+  - [Core math](#core-math)
+  - [CS Tools](#cs-tools)
+  - [Core systems](#core-systems)
+  - [Core theory](#core-theory)
+  - [Core applications](#core-applications)
+  - [Core security](#core-security)
+- [Advanced CS](#advanced-cs)
+  - [Advanced programming](#advanced-programming)
+  - [Advanced systems](#advanced-systems)
+  - [Advanced theory](#advanced-theory)
+  - [Advanced math](#advanced-math)
+- [Final project](#final-project)
 
-------------------------------------------------------------------------
+---
 
-Prerequisites
--------------
+## Prerequisites
 
--   [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
--   [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS and is knowledgeable enough now to decide which electives to take.
--   Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
+- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
+- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS and is knowledgeable enough now to decide which electives to take.
+- Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
-Intro CS
---------
+## Intro CS
 
 ### Introduction to Programming
 
@@ -103,8 +97,7 @@ This course will introduce you to the world of computer science. Students who ha
 
 <table style="width:99%;"><colgroup><col style="width: 15%" /><col style="width: 21%" /><col style="width: 21%" /><col style="width: 21%" /><col style="width: 21%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Courses</th><th style="text-align: center;">Duration</th><th style="text-align: center;">Effort</th><th style="text-align: center;">Prerequisites</th><th style="text-align: center;">Discussion</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10">Introduction to Computer Science and Programming using Python</a> (<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/">alt</a>)</td><td style="text-align: center;">9 weeks</td><td style="text-align: center;">15 hours/week</td><td style="text-align: center;"><a href="https://www.khanacademy.org/math/algebra-home">high school algebra</a></td><td style="text-align: center;"><a href="https://discord.gg/jvchSm9">chat</a></td></tr></tbody></table>
 
-Core CS
--------
+## Core CS
 
 All coursework under Core CS is **required**, unless otherwise indicated.
 
@@ -148,7 +141,7 @@ Understanding theory is important, but you will also be expected to create progr
 
 **Topics covered** `Confidentiality, Integrity, Availability` `Secure Design` `Defensive Programming` `Threats and Attacks` `Network Security` `Cryptography` `and more`
 
-Note: ***These courses are provisionally recommended***. There is an open [Request For Comment](https://github.com/ossu/computer-science/issues/639) on security course selection. Contributors are encouraged to compare the various courses in the RFC and offer feedback.
+Note: **_These courses are provisionally recommended_**. There is an open [Request For Comment](https://github.com/ossu/computer-science/issues/639) on security course selection. Contributors are encouraged to compare the various courses in the RFC and offer feedback.
 
 <table><thead><tr class="header"><th style="text-align: left;">Courses</th><th style="text-align: center;">Duration</th><th style="text-align: center;">Effort</th><th style="text-align: center;">Prerequisites</th><th style="text-align: center;">Discussion</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="https://www.coursera.org/learn/information-security-data">Information Security: Context and Introduction</a></td><td style="text-align: center;">5 weeks</td><td style="text-align: center;">3 hours/week</td><td style="text-align: center;">-</td><td style="text-align: center;"><a href="https://discord.gg/8h6Rz8g">chat</a></td></tr><tr class="even"><td style="text-align: left;"><a href="https://www.coursera.org/learn/secure-coding-principles">Principles of Secure Coding</a></td><td style="text-align: center;">4 weeks</td><td style="text-align: center;">4 hours/week</td><td style="text-align: center;">-</td><td style="text-align: center;"><a href="https://discord.gg/5gMdeSK">chat</a></td></tr><tr class="odd"><td style="text-align: left;"><a href="https://www.coursera.org/learn/identifying-security-vulnerabilities">Identifying Security Vulnerabilities</a></td><td style="text-align: center;">4 weeks</td><td style="text-align: center;">4 hours/week</td><td style="text-align: center;">-</td><td style="text-align: center;"><a href="https://discord.gg/V78MjUS">chat</a></td></tr></tbody></table>
 
@@ -160,10 +153,9 @@ Choose **one** of the following: Courses | Duration | Effort | Prerequisites | D
 
 <table style="width:99%;"><colgroup><col style="width: 15%" /><col style="width: 21%" /><col style="width: 21%" /><col style="width: 21%" /><col style="width: 21%" /></colgroup><thead><tr class="header"><th style="text-align: left;">Courses</th><th style="text-align: center;">Duration</th><th style="text-align: center;">Effort</th><th style="text-align: center;">Prerequisites</th><th style="text-align: center;">Discussion</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="https://www.edx.org/course/modeling-and-theory">Databases: Modeling and Theory</a></td><td style="text-align: center;">2 weeks</td><td style="text-align: center;">10 hours/week</td><td style="text-align: center;">core programming</td><td style="text-align: center;"><a href="https://discord.gg/pMFqNf4">chat</a></td></tr><tr class="even"><td style="text-align: left;"><a href="https://www.edx.org/course/databases-5-sql">Databases: Relational Databases and SQL</a></td><td style="text-align: center;">2 weeks</td><td style="text-align: center;">10 hours/week</td><td style="text-align: center;">core programming</td><td style="text-align: center;"><a href="https://discord.gg/P8SPPyF">chat</a></td></tr><tr class="odd"><td style="text-align: left;"><a href="https://www.edx.org/course/semistructured-data">Databases: Semistructured Data</a></td><td style="text-align: center;">2 weeks</td><td style="text-align: center;">10 hours/week</td><td style="text-align: center;">core programming</td><td style="text-align: center;"><a href="https://discord.gg/duCJ3GN">chat</a></td></tr><tr class="even"><td style="text-align: left;"><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></td><td style="text-align: center;">11 weeks</td><td style="text-align: center;">4-6 hours/week</td><td style="text-align: center;">linear algebra</td><td style="text-align: center;"><a href="https://discord.gg/NcXHDjy">chat</a></td></tr><tr class="odd"><td style="text-align: left;"><a href="https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x">Computer Graphics</a></td><td style="text-align: center;">6 weeks</td><td style="text-align: center;">12 hours/week</td><td style="text-align: center;">C++ or Java, linear algebra</td><td style="text-align: center;"><a href="https://discord.gg/68WqMNV">chat</a></td></tr><tr class="even"><td style="text-align: left;"><a href="https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x">Software Engineering: Introduction</a></td><td style="text-align: center;">6 weeks</td><td style="text-align: center;">8-10 hours/week</td><td style="text-align: center;">Core Programming, and a <a href="FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses">sizable project</a></td><td style="text-align: center;"><a href="https://discord.gg/5Qtcwtz">chat</a></td></tr><tr class="odd"><td style="text-align: left;"><a href="https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx">Software Development Capstone Project</a></td><td style="text-align: center;">6-7 weeks</td><td style="text-align: center;">8-10 hours/week</td><td style="text-align: center;">Software Engineering: Introduction</td><td style="text-align: center;"><a href="https://discord.gg/2FAujEZ">chat</a></td></tr></tbody></table>
 
-Advanced CS
------------
+## Advanced CS
 
-After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest. Not every course from a subcategory needs to be taken. But students should take *every* course that is relevant to the field they intend to go into.
+After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest. Not every course from a subcategory needs to be taken. But students should take _every_ course that is relevant to the field they intend to go into.
 
 ### Advanced programming
 
@@ -189,8 +181,7 @@ After completing **every required course** in Core CS, students should choose a 
 
 <table><thead><tr class="header"><th style="text-align: left;">Courses</th><th style="text-align: center;">Duration</th><th style="text-align: center;">Effort</th><th style="text-align: center;">Prerequisites</th><th style="text-align: center;">Discussion</th></tr></thead><tbody><tr class="odd"><td style="text-align: left;"><a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">Essence of Linear Algebra</a></td><td style="text-align: center;">-</td><td style="text-align: center;">-</td><td style="text-align: center;"><a href="FAQ.md#how-can-i-review-the-math-prerequisites">high school math</a></td><td style="text-align: center;"><a href="https://discord.gg/m6wHbP6">chat</a></td></tr><tr class="even"><td style="text-align: left;"><a href="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/">Linear Algebra</a></td><td style="text-align: center;">14 weeks</td><td style="text-align: center;">12 hours/week</td><td style="text-align: center;">Essence of Linear Algebra</td><td style="text-align: center;"><a href="https://discord.gg/k7nSWJH">chat</a></td></tr><tr class="odd"><td style="text-align: left;"><a href="https://www.coursera.org/learn/logic-introduction">Introduction to Logic</a></td><td style="text-align: center;">10 weeks</td><td style="text-align: center;">4-8 hours/week</td><td style="text-align: center;"><a href="https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N">set theory</a></td><td style="text-align: center;"><a href="https://discord.gg/MbM2Gg5">chat</a></td></tr><tr class="even"><td style="text-align: left;"><a href="https://projects.iq.harvard.edu/stat110/home">Probability</a></td><td style="text-align: center;">24 weeks</td><td style="text-align: center;">12 hours/week</td><td style="text-align: center;"><a href="https://www.edx.org/course/calculus-1b-integration">Differentiation and Integration</a></td><td style="text-align: center;"><a href="https://discord.gg/UVjs9BU">chat</a></td></tr></tbody></table>
 
-Final project
--------------
+## Final project
 
 OSS University is project-focused. The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
 
@@ -202,9 +193,9 @@ Students who would like more guidance in creating a project may choose to use a 
 
 Upon completing your final project: - Submit your project’s information to [PROJECTS](PROJECTS.md) via a pull request. - Put the OSSU-CS badge in the README of your repository! [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
--   Markdown: `[![Open Source Society University - Computer           Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
--   HTML: `<a href="https://github.com/ossu/computer-science"><img           alt="Open Source Society University - Computer Science"           src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
--   Use our [community](#community) channels to announce it to your fellow students.
+- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
+- HTML: `<a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
+- Use our [community](#community) channels to announce it to your fellow students.
 
 Solicit feedback from your OSSU peers. You will not be “graded” in the traditional sense — everyone has their own measurements for what they consider a success. The purpose of the evaluation is to act as your first announcement to the world that you are a computer scientist and to get experience listening to feedback — both positive and negative.
 
@@ -220,30 +211,27 @@ My friend, here is the best part of liberty! You can use **any** language that y
 
 The important thing is to **internalize** the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
-Congratulations
----------------
+## Congratulations
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor’s degree in Computer Science. Congratulations!
 
 What is next for you? The possibilities are boundless and overlapping:
 
--   Look for a job as a developer!
--   Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
--   Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
--   Pay attention to emerging technologies in the world of software development:
-    -   Explore the **actor model** through [Elixir](http://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-    -   Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
-    -   Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
+- Look for a job as a developer!
+- Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
+- Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
+- Pay attention to emerging technologies in the world of software development:
+  - Explore the **actor model** through [Elixir](http://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
+  - Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
+  - Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 
-Code of conduct
-===============
+# Code of conduct
 
 [OSSU’s code of conduct](https://github.com/ossu/code-of-conduct).
 
-How to show your progress
--------------------------
+## How to show your progress
 
 1.  Create an account in [Trello](https://trello.com/).
 2.  Copy [this](https://trello.com/b/IScNSzsI/ossu-compsci) board to your personal account. See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
@@ -252,18 +240,17 @@ Now that you have a copy of our official board, you just need to pass the cards 
 
 We also have **labels** to help you have more control through the process. The meaning of each of these labels is:
 
--   `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
--   `Extra Resources`: cards with that label represent courses that were added by the student.
--   `Doing`: cards with that label represent courses the student is current doing.
--   `Done`: cards with that label represent courses finished by the student. Those cards should also have the link for at least one project/article built with the knowledge acquired in such course.
--   `Section`: cards with that label represent the section that we have in our curriculum. Those cards with the `Section` label are only to help the organization of the Done column. You should put the *Course’s cards* below its respective *Section’s card*.
+- `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
+- `Extra Resources`: cards with that label represent courses that were added by the student.
+- `Doing`: cards with that label represent courses the student is current doing.
+- `Done`: cards with that label represent courses finished by the student. Those cards should also have the link for at least one project/article built with the knowledge acquired in such course.
+- `Section`: cards with that label represent the section that we have in our curriculum. Those cards with the `Section` label are only to help the organization of the Done column. You should put the _Course’s cards_ below its respective _Section’s card_.
 
-The intention of this board is to provide our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc. You can change the status of your board to be *public* or *private*.
+The intention of this board is to provide our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc. You can change the status of your board to be _public_ or _private_.
 
-Team
-====
+# Team
 
--   **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
--   **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
--   **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
--   **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
+- **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
+- **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
+- **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
+- **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**

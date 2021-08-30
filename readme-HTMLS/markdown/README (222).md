@@ -1,20 +1,16 @@
-Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-================================================================================================================================================================================
+# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Contents
-========
+# Contents
 
--   [Books](#books)
--   [Starter Books](#starter-books)
--   [Advanced Books](#advanced-books)
--   [Web Development](#web-development)
--   [Resources](#resources)
+- [Books](#books)
+- [Starter Books](#starter-books)
+- [Advanced Books](#advanced-books)
+- [Web Development](#web-development)
+- [Resources](#resources)
 
-**Books**
-=========
+# **Books**
 
-**Starter Books**
------------------
+## **Starter Books**
 
 ### [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
 
@@ -34,25 +30,25 @@ This book is a set of recipes grouped by topic that acts as a good reference to 
 
 Elixir in Action teaches you how to solve practical problems of scalability, concurrency, fault tolerance, and high availability using Elixir. You’ll start with the language, learning basic constructs and building blocks. Then, you’ll learn to think about problems using Elixir’s functional programming mindset. With that solid foundation, you’ll confidently explore Elixir’s seamless integration with BEAM and Erlang’s powerful OTP framework of battle-tested abstractions you can use immediately. Finally, the book provides guidance on how to distribute a system over multiple machines and control it in production.
 
-### [Elixir School](http://elixirschool.com/) *Free*
+### [Elixir School](http://elixirschool.com/) _Free_
 
 <img src="https://elixir-lang.org/images/learning/elixir-school.jpg" width="120" />
 
 Elixir-School is an open and community driven effort inspired by Twitter’s Scala School. The site’s content consists of peer-reviewed lessons on various Elixir topics that range in difficulty. The lessons are currently available in over 10 languages to help make programming Elixir more accessible to non-English speakers.
 
-### [Elixir succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) *Free*
+### [Elixir succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) _Free_
 
 <img src="https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/elixir-succinctly.png" width="120" />
 
 This is a introductionary book about Elixir and OTP, written to go straight to the point. Almost 100 pages to learn the language and the platform.
 
-### [Études for Elixir](https://startlearningelixir.com/r/etudes-for-elixir) *Free*
+### [Études for Elixir](https://startlearningelixir.com/r/etudes-for-elixir) _Free_
 
 <img src="http://orm-other.s3.amazonaws.com/elixir_etudes_splash/cover.jpg" width="120" />
 
 In this book, you will find descriptions of programs that you can write in Elixir. The programs will usually be short, and each one has been designed to provide practice material for a particular Elixir programming concept. These programs have not been designed to be of considerable difficulty, though they may ask you to stretch a bit beyond the immediate material and examples that you find in the book Introducing Elixir.
 
-### [Getting Started](https://elixir-lang.org/getting-started/introduction.html) *Free*
+### [Getting Started](https://elixir-lang.org/getting-started/introduction.html) _Free_
 
 <img src="https://elixir-lang.org/images/logo/logo.png" title="Elixir logo" width="180" />
 
@@ -106,8 +102,7 @@ The Little Elixir & OTP Guidebook gets you started programming applications with
 
 Want to learn an up and coming functional programming language? Check out Elixir, designed by Ruby on Rails core team member Jose Valim. If you have a full-time day job, a family, or other pressing commitments, taking hours out of your week to read blog posts or spending the time to contribute to open source could be a deal breaker for you. This book helps to get you up to speed with what you need to know.
 
-**Advanced Books**
-------------------
+## **Advanced Books**
 
 ### [Building Scalable Applications with Erlang](https://www.amazon.co.uk/Building-Scalable-Applications-Developers-Library/dp/0321636465)
 
@@ -175,14 +170,13 @@ A multi-user game, web site, cloud application, or networked database can have t
 
 Property-based testing helps you create better, more solid tests with little code. By using the PropEr framework in both Erlang and Elixir, this book teaches you how to automatically generate test cases, test stateful programs, and change how you design your software for more principled and reliable approaches. You will be able to better explore the problem space, validate the assumptions you make when coming up with program behavior, and expose unexpected weaknesses in your design. PropEr will even show you how to reproduce the bugs it found. With this book, you will be writing efficient property-based tests in no time.
 
-### [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://www.elixircryptobot.com) *Free*
+### [Hands-on Elixir & OTP: Cryptocurrency trading bot](https://www.elixircryptobot.com) _Free_
 
 <img src="https://github.com/frathon/hands-on-elixir-and-otp-cryptocurrency-trading-bot/raw/main/images/cover.png" width="120" />
 
 Want to learn Elixir & OTP by creating a real-world project? With Hands-on Elixir & OTP: Cryptocurrency trading bot you will gain hands-on experience by working on an interesting software project. We will explore all the key abstractions and essential principles through iterative implementation improvements.
 
-**Web Development**
--------------------
+## **Web Development**
 
 ### [Building Web Applications with Erlang](http://shop.oreilly.com/product/0636920021452.do)
 
@@ -234,31 +228,28 @@ Don’t accept the compromise between fast and beautiful: you can have it all. P
 
 Give users the real-time experience they expect, by using Elixir and Phoenix Channels to build applications that instantly react to changes and reflect the application’s true state. Learn how Elixir and Phoenix make it easy and enjoyable to create real-time applications that scale to a large number of users. Apply system design and development best practices to create applications that are easy to maintain. Gain confidence by learning how to break your applications before your users do. Deploy applications with minimized resource use and maximized performance.
 
-**Resources**
-=============
+# **Resources**
 
--   [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
--   [Elixir Sips](http://elixirsips.com)
--   [LearnElixir.tv](https://www.learnelixir.tv/)
--   [Reddit](https://www.reddit.com/r/elixir/)
--   [Stack Overflow](https://stackoverflow.com/questions/tagged/elixir)
--   [Exercism.io](https://exercism.io/tracks/elixir)
--   [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
--   [Elixir Koans](http://elixirkoans.io)
--   [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
--   [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
--   [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
--   [Elixir School](http://elixirschool.com/)
--   [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
--   [Frathon’s YouTube Channel](https://youtube.com/c/frathon)
+- [Joe Armstrong - A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
+- [Elixir Sips](http://elixirsips.com)
+- [LearnElixir.tv](https://www.learnelixir.tv/)
+- [Reddit](https://www.reddit.com/r/elixir/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/elixir)
+- [Exercism.io](https://exercism.io/tracks/elixir)
+- [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
+- [Elixir Koans](http://elixirkoans.io)
+- [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
+- [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
+- [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
+- [Elixir School](http://elixirschool.com/)
+- [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
+- [Frathon’s YouTube Channel](https://youtube.com/c/frathon)
 
-Contributing
-============
+# Contributing
 
 Your contributions are always welcome, just follow [the rules](https://github.com/sger/ElixirBooks/blob/master/CONTRIBUTING.md)!
 
-License
-=======
+# License
 
 [![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

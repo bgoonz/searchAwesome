@@ -1,20 +1,17 @@
-jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-============================================================================================================================================================================================
+# jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of simple tips to help up your jQuery game.
 
 > For other great lists check out <span class="citation" data-cites="sindresorhus">\[@sindresorhus\]</span>(https://github.com/sindresorhus/)’s curated list of [awesome lists](https://github.com/sindresorhus/awesome/).
 
-Table of Contents
------------------
+## Table of Contents
 
--   [Tips](#tips)
--   [Support](#support)
--   [Translations](#translations)
--   [Contribution Guidelines](CONTRIBUTING.md)
+- [Tips](#tips)
+- [Support](#support)
+- [Translations](#translations)
+- [Contribution Guidelines](CONTRIBUTING.md)
 
-Tips
-----
+## Tips
 
 1.  [Use `noConflict()`](#use-noconflict)
 2.  [Checking If jQuery Loaded](#checking-if-jquery-loaded)
@@ -183,7 +180,7 @@ Let’s say you want to change the visual of a clickable element on your page wh
       $(this).removeClass('hover');
     });
 
-You need to add the necessary CSS. If you want an even *simpler* way use the `toggleClass` method:
+You need to add the necessary CSS. If you want an even _simpler_ way use the `toggleClass` method:
 
     $('.btn').on('hover', function () {
       $(this).toggleClass('hover');
@@ -287,7 +284,7 @@ This example sets the `min-height` which means that it can be bigger than the ma
     });
     $columns.height(height);
 
-If you want *all* columns to have the same height:
+If you want _all_ columns to have the same height:
 
     var $rows = $('.same-height-columns');
     $rows.each(function () {
@@ -406,24 +403,22 @@ If you want to disable right-click, you can do it for an entire page…
 
 <sup>[back\ to\ table\ of\ contents](#table-of-contents)</sup>
 
-Support
--------
+## Support
 
 Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 <sup>[back\ to\ table\ of\ contents](#table-of-contents)</sup>
 
-Translations
-------------
+## Translations
 
--   [български](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/bg-BG)
--   [Español](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
--   [Français](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
--   [Magyar](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
--   [한국어](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ko-KR)
--   [Português do Europe](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
--   [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
--   [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
--   [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
+- [български](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/bg-BG)
+- [Español](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
+- [Français](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
+- [Magyar](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
+- [한국어](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ko-KR)
+- [Português do Europe](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
+- [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
+- [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
+- [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
 
 <sup>[back\ to\ table\ of\ contents](#table-of-contents)</sup>

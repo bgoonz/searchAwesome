@@ -1,31 +1,29 @@
-awesome-ios-ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==========================================================================================================================================================================
+# awesome-ios-ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome iOS UI/UX libraries. Inspired by [wasabeef](https://github.com/wasabeef)’s excellent [Android Version](https://github.com/wasabeef/awesome-android-ui).
 
 ### Contributing
 
-Found a UI/UX library that you think is *awesome*?? Want to share it with the world? Add your repo’s information to my [awesome-creator](https://github.com/cjwirth/awesome-creator), where I keep the library metadata!
+Found a UI/UX library that you think is _awesome_?? Want to share it with the world? Add your repo’s information to my [awesome-creator](https://github.com/cjwirth/awesome-creator), where I keep the library metadata!
 
 ### Index
 
--   [Animations and Transitions](#animations-and-transitions) - [file](/pages/Animations.md)
--   [Badges](#badges) - [file](/pages/Badges.md)
--   [Calendars](#calendars) - [file](/pages/Calendars.md)
--   [Effects](#effects) - [file](/pages/Effects.md)
--   [Material Design](#material-design) - [file](/pages/MaterialDesign.md)
--   [Notifications and Alerts](#notifications-and-alerts) - [file](/pages/NotificationsAlerts.md)
--   [Onboarding and Tutorials](#onboarding-and-tutorials) - [file](/pages/Onboarding.md)
--   [Photo and Video](#photo-and-video) - [file](/pages/PhotoVideo.md)
--   [Progress Views](#progress-views) - [file](/pages/ProgressViews.md)
--   [RefreshControls](#refreshcontrols) - [file](/pages/RefreshControls.md)
--   [Side Menu](#side-menu) - [file](/pages/SideMenu.md)
--   [Tab Bars](#tab-bars) - [file](/pages/TabBars.md)
--   [Table/Collection Views](#tablecollection-views) - [file](/pages/TableCollectionViews.md)
--   [User Input](#user-input) - [file](/pages/UserInput.md)
+- [Animations and Transitions](#animations-and-transitions) - [file](/pages/Animations.md)
+- [Badges](#badges) - [file](/pages/Badges.md)
+- [Calendars](#calendars) - [file](/pages/Calendars.md)
+- [Effects](#effects) - [file](/pages/Effects.md)
+- [Material Design](#material-design) - [file](/pages/MaterialDesign.md)
+- [Notifications and Alerts](#notifications-and-alerts) - [file](/pages/NotificationsAlerts.md)
+- [Onboarding and Tutorials](#onboarding-and-tutorials) - [file](/pages/Onboarding.md)
+- [Photo and Video](#photo-and-video) - [file](/pages/PhotoVideo.md)
+- [Progress Views](#progress-views) - [file](/pages/ProgressViews.md)
+- [RefreshControls](#refreshcontrols) - [file](/pages/RefreshControls.md)
+- [Side Menu](#side-menu) - [file](/pages/SideMenu.md)
+- [Tab Bars](#tab-bars) - [file](/pages/TabBars.md)
+- [Table/Collection Views](#tablecollection-views) - [file](/pages/TableCollectionViews.md)
+- [User Input](#user-input) - [file](/pages/UserInput.md)
 
-Animations and Transitions
-==========================
+# Animations and Transitions
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/shu223/AnimatedTransitionGallery">AnimatedTransitionGallery</a><br />
 <a href="https://github.com/shu223/AnimatedTransitionGallery/stargazers"><img src="http://gh-btns.cjwirth.com/stars/shu223/AnimatedTransitionGallery" /></a><br />
@@ -50,8 +48,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Obj-C<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/CBZSplashView1.gif" style="width:49.0%" /></td></tr></tbody></table>
 
-Badges
-======
+# Badges
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/cwRichardKim/RKNotificationHub">RKNotificationHub</a><br />
 <a href="https://github.com/cwRichardKim/RKNotificationHub/stargazers"><img src="http://gh-btns.cjwirth.com/stars/cwRichardKim/RKNotificationHub" /></a><br />
@@ -64,8 +61,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Obj-C<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/JSBadgeView1.png" /> <img src="/assets/JSBadgeView2.png" /></td></tr></tbody></table>
 
-Calendars
-=========
+# Calendars
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/WenchaoIOS/FSCalendar">FSCalendar</a><br />
 <a href="https://github.com/WenchaoIOS/FSCalendar/stargazers"><img src="http://gh-btns.cjwirth.com/stars/WenchaoIOS/FSCalendar" /></a><br />
@@ -78,8 +74,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Obj-C<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/JTCalendar1.gif" /> <img src="/assets/JTCalendar2.png" /></td></tr></tbody></table>
 
-Effects
-=======
+# Effects
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/Flipboard/FLAnimatedImage">FLAnimatedImage</a><br />
 <a href="https://github.com/Flipboard/FLAnimatedImage/stargazers"><img src="http://gh-btns.cjwirth.com/stars/Flipboard/FLAnimatedImage" /></a><br />
@@ -92,8 +87,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Obj-C<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/UITextField-Shake1.gif" /></td></tr></tbody></table>
 
-Material Design
-===============
+# Material Design
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/CosmicMind/Material">Material</a><br />
 <a href="https://github.com/CosmicMind/Material/stargazers"><img src="http://gh-btns.cjwirth.com/stars/CosmicMind/Material" /></a><br />
@@ -103,8 +97,7 @@ License: <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3</a></td><td
 Language: Swift<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/MaterialKit1.gif" /></td></tr></tbody></table>
 
-Notifications and Alerts
-========================
+# Notifications and Alerts
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/KrauseFx/TSMessages">TSMessages</a><br />
 <a href="https://github.com/KrauseFx/TSMessages/stargazers"><img src="http://gh-btns.cjwirth.com/stars/KrauseFx/TSMessages" /></a><br />
@@ -141,8 +134,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Obj-C<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/LNNotificationsUI1.gif" /></td></tr></tbody></table>
 
-Onboarding and Tutorials
-========================
+# Onboarding and Tutorials
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/IFTTT/JazzHands">JazzHands</a><br />
 <a href="https://github.com/IFTTT/JazzHands/stargazers"><img src="http://gh-btns.cjwirth.com/stars/IFTTT/JazzHands" /></a><br />
@@ -155,8 +147,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Obj-C<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/Onboard1.gif" style="width:49.0%" /></td></tr></tbody></table>
 
-Photo and Video
-===============
+# Photo and Video
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/mwaterfall/MWPhotoBrowser">MWPhotoBrowser</a><br />
 <a href="https://github.com/mwaterfall/MWPhotoBrowser/stargazers"><img src="http://gh-btns.cjwirth.com/stars/mwaterfall/MWPhotoBrowser" /></a><br />
@@ -178,8 +169,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Swift<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/VideoSplash1.gif" /></td></tr></tbody></table>
 
-Progress Views
-==============
+# Progress Views
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/jdg/MBProgressHUD">MBProgressHUD</a><br />
 <a href="https://github.com/jdg/MBProgressHUD/stargazers"><img src="http://gh-btns.cjwirth.com/stars/jdg/MBProgressHUD" /></a><br />
@@ -201,8 +191,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Swift<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/NVActivityIndicatorView1.gif" /></td></tr></tbody></table>
 
-RefreshControls
-===============
+# RefreshControls
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/coolbeet/CBStoreHouseRefreshControl">CBStoreHouseRefreshControl</a><br />
 <a href="https://github.com/coolbeet/CBStoreHouseRefreshControl/stargazers"><img src="http://gh-btns.cjwirth.com/stars/coolbeet/CBStoreHouseRefreshControl" /></a><br />
@@ -224,8 +213,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Obj-C<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/PullToRefreshCoreText1.gif" /></td></tr></tbody></table>
 
-Side Menu
-=========
+# Side Menu
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/romaonthego/RESideMenu">RESideMenu</a><br />
 <a href="https://github.com/romaonthego/RESideMenu/stargazers"><img src="http://gh-btns.cjwirth.com/stars/romaonthego/RESideMenu" /></a><br />
@@ -244,8 +232,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Swift<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/cariocamenu.gif" /></td></tr></tbody></table>
 
-Tab Bars
-========
+# Tab Bars
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/jamesdunay/MinimalTabBar">MinimalTabBar</a><br />
 <a href="https://github.com/jamesdunay/MinimalTabBar/stargazers"><img src="http://gh-btns.cjwirth.com/stars/jamesdunay/MinimalTabBar" /></a><br />
@@ -264,8 +251,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Obj-C<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/BFPaperTabBarController1.gif" /></td></tr></tbody></table>
 
-Table/Collection Views
-======================
+# Table/Collection Views
 
 <table><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/MP0w/MPSkewed">MPSkewed</a><br />
 <a href="https://github.com/MP0w/MPSkewed/stargazers"><img src="http://gh-btns.cjwirth.com/stars/MP0w/MPSkewed" /></a><br />
@@ -296,8 +282,7 @@ License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="
 Language: Swift<br />
 License: <a href="http://opensource.org/licenses/MIT">MIT</a></td><td><img src="/assets/RAReorderableLayout1.gif" /></td></tr></tbody></table>
 
-User Input
-==========
+# User Input
 
 <table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Repo</th><th>Demo</th></tr></thead><tbody><tr class="odd"><td><a href="https://github.com/ren6/RKRichTextView">RKRichTextView</a><br />
 <a href="https://github.com/ren6/RKRichTextView/stargazers"><img src="http://gh-btns.cjwirth.com/stars/ren6/RKRichTextView" /></a><br />

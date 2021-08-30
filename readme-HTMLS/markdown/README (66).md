@@ -1,90 +1,87 @@
-GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==============================================================================================================================================================================
+# GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)’s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
-*Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
+_Shortlink: [`http://git.io/sheet`](http://git.io/sheet)_
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
+_Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md)._
 
-Table of Contents
------------------
+## Table of Contents
 
--   [GitHub](#github)
-    -   [Ignore Whitespace](#ignore-whitespace)
-    -   [Adjust Tab Space](#adjust-tab-space)
-    -   [Commit History by Author](#commit-history-by-author)
-    -   [Cloning a Repository](#cloning-a-repository)
-    -   [Branch](#branch)
-        -   [Compare all Branches to Another Branch](#compare-all-branches-to-another-branch)
-        -   [Comparing Branches](#comparing-branches)
-        -   [Compare Branches across Forked Repositories](#compare-branches-across-forked-repositories)
-    -   [Gists](#gists)
-    -   [Git.io](#gitio)
-    -   [Keyboard Shortcuts](#keyboard-shortcuts)
-    -   [Line Highlighting in Repositories](#line-highlighting-in-repositories)
-    -   [Closing Issues via Commit Messages](#closing-issues-via-commit-messages)
-    -   [Cross-Link Issues](#cross-link-issues)
-    -   [Locking Conversations](#locking-conversations)
-    -   [CI Status on Pull Requests](#ci-status-on-pull-requests)
-    -   [Filters](#filters)
-    -   [Syntax Highlighting in Markdown Files](#syntax-highlighting-in-markdown-files)
-    -   [Emojis](#emojis)
-    -   [Images/GIFs](#imagesgifs)
-        -   [Embedding Images in GitHub Wiki](#embedding-images-in-github-wiki)
-    -   [Quick Quoting](#quick-quoting)
-    -   [Pasting Clipboard Image to Comments](#pasting-clipboard-image-to-comments)
-    -   [Quick Licensing](#quick-licensing)
-    -   [Task Lists](#task-lists)
-        -   [Task Lists in Markdown Documents](#task-lists-in-markdown-documents)
-    -   [Relative Links](#relative-links)
-    -   [Metadata and Plugin Support for GitHub Pages](#metadata-and-plugin-support-for-github-pages)
-    -   [Viewing YAML Metadata in your Documents](#viewing-yaml-metadata-in-your-documents)
-    -   [Rendering Tabular Data](#rendering-tabular-data)
-    -   [Rendering PDF](#rendering-pdf)
-    -   [Revert a Pull Request](#revert-a-pull-request)
-    -   [Diffs](#diffs)
-        -   [Rendered Prose Diffs](#rendered-prose-diffs)
-        -   [Diffable Maps](#diffable-maps)
-        -   [Expanding Context in Diffs](#expanding-context-in-diffs)
-        -   [Diff or Patch of Pull Request](#diff-or-patch-of-pull-request)
-        -   [Rendering and diffing images](#rendering-and-diffing-images)
-    -   [Hub](#hub)
-    -   [Contribution Guidelines](#contribution-guidelines)
-        -   [CONTRIBUTING file](#contributing-file)
-        -   [ISSUE\_TEMPLATE file](#issue_template-file)
-        -   [PULL\_REQUEST\_TEMPLATE file](#pull_request_template-file)
-    -   [Octicons](#octicons)
-    -   [GitHub Student Developer Pack](#github-student-developer-pack)
-    -   [GitHub Resources](#github-resources)
-        -   [GitHub Talks](#github-talks)
-    -   [SSH keys](#ssh-keys)
-    -   [Profile Image](#profile-image)
-    -   [Repository Templates](#repository-templates)
--   [Git](#git)
-    -   [Remove All Deleted Files from the Working Tree](#remove-all-deleted-files-from-the-working-tree)
-    -   [Previous Branch](#previous-branch)
-    -   [Stripspace](#stripspace)
-    -   [Checking out Pull Requests](#checking-out-pull-requests)
-    -   [Empty Commits](#empty-commits)
-    -   [Styled Git Status](#styled-git-status)
-    -   [Styled Git Log](#styled-git-log)
-    -   [Git Query](#git-query)
-    -   [Git Grep](#git-grep)
-    -   [Merged Branches](#merged-branches)
-    -   [Fixup and Autosquash](#fixup-and-autosquash)
-    -   [Web Server for Browsing Local Repositories](#web-server-for-browsing-local-repositories)
-    -   [Git Configurations](#git-configurations)
-        -   [Aliases](#aliases)
-        -   [Auto-Correct](#auto-correct)
-        -   [Color](#color)
-    -   [Git Resources](#git-resources)
-        -   [Git Books](#git-books)
-        -   [Git Videos](#git-videos)
-        -   [Git Articles](#git-articles)
+- [GitHub](#github)
+  - [Ignore Whitespace](#ignore-whitespace)
+  - [Adjust Tab Space](#adjust-tab-space)
+  - [Commit History by Author](#commit-history-by-author)
+  - [Cloning a Repository](#cloning-a-repository)
+  - [Branch](#branch)
+    - [Compare all Branches to Another Branch](#compare-all-branches-to-another-branch)
+    - [Comparing Branches](#comparing-branches)
+    - [Compare Branches across Forked Repositories](#compare-branches-across-forked-repositories)
+  - [Gists](#gists)
+  - [Git.io](#gitio)
+  - [Keyboard Shortcuts](#keyboard-shortcuts)
+  - [Line Highlighting in Repositories](#line-highlighting-in-repositories)
+  - [Closing Issues via Commit Messages](#closing-issues-via-commit-messages)
+  - [Cross-Link Issues](#cross-link-issues)
+  - [Locking Conversations](#locking-conversations)
+  - [CI Status on Pull Requests](#ci-status-on-pull-requests)
+  - [Filters](#filters)
+  - [Syntax Highlighting in Markdown Files](#syntax-highlighting-in-markdown-files)
+  - [Emojis](#emojis)
+  - [Images/GIFs](#imagesgifs)
+    - [Embedding Images in GitHub Wiki](#embedding-images-in-github-wiki)
+  - [Quick Quoting](#quick-quoting)
+  - [Pasting Clipboard Image to Comments](#pasting-clipboard-image-to-comments)
+  - [Quick Licensing](#quick-licensing)
+  - [Task Lists](#task-lists)
+    - [Task Lists in Markdown Documents](#task-lists-in-markdown-documents)
+  - [Relative Links](#relative-links)
+  - [Metadata and Plugin Support for GitHub Pages](#metadata-and-plugin-support-for-github-pages)
+  - [Viewing YAML Metadata in your Documents](#viewing-yaml-metadata-in-your-documents)
+  - [Rendering Tabular Data](#rendering-tabular-data)
+  - [Rendering PDF](#rendering-pdf)
+  - [Revert a Pull Request](#revert-a-pull-request)
+  - [Diffs](#diffs)
+    - [Rendered Prose Diffs](#rendered-prose-diffs)
+    - [Diffable Maps](#diffable-maps)
+    - [Expanding Context in Diffs](#expanding-context-in-diffs)
+    - [Diff or Patch of Pull Request](#diff-or-patch-of-pull-request)
+    - [Rendering and diffing images](#rendering-and-diffing-images)
+  - [Hub](#hub)
+  - [Contribution Guidelines](#contribution-guidelines)
+    - [CONTRIBUTING file](#contributing-file)
+    - [ISSUE_TEMPLATE file](#issue_template-file)
+    - [PULL_REQUEST_TEMPLATE file](#pull_request_template-file)
+  - [Octicons](#octicons)
+  - [GitHub Student Developer Pack](#github-student-developer-pack)
+  - [GitHub Resources](#github-resources)
+    - [GitHub Talks](#github-talks)
+  - [SSH keys](#ssh-keys)
+  - [Profile Image](#profile-image)
+  - [Repository Templates](#repository-templates)
+- [Git](#git)
+  - [Remove All Deleted Files from the Working Tree](#remove-all-deleted-files-from-the-working-tree)
+  - [Previous Branch](#previous-branch)
+  - [Stripspace](#stripspace)
+  - [Checking out Pull Requests](#checking-out-pull-requests)
+  - [Empty Commits](#empty-commits)
+  - [Styled Git Status](#styled-git-status)
+  - [Styled Git Log](#styled-git-log)
+  - [Git Query](#git-query)
+  - [Git Grep](#git-grep)
+  - [Merged Branches](#merged-branches)
+  - [Fixup and Autosquash](#fixup-and-autosquash)
+  - [Web Server for Browsing Local Repositories](#web-server-for-browsing-local-repositories)
+  - [Git Configurations](#git-configurations)
+    - [Aliases](#aliases)
+    - [Auto-Correct](#auto-correct)
+    - [Color](#color)
+  - [Git Resources](#git-resources)
+    - [Git Books](#git-books)
+    - [Git Videos](#git-videos)
+    - [Git Articles](#git-articles)
 
-GitHub
-------
+## GitHub
 
 ### Ignore Whitespace
 
@@ -92,7 +89,7 @@ Adding `?w=1` to any diff URL will remove any changes only in whitespace, enabli
 
 ![Diff without whitespace](https://camo.githubusercontent.com/797184940defadec00393e6559b835358a863eeb/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031312f736563726574732f776869746573706163652e706e67)
 
-[*Read more about GitHub secrets.*](https://github.com/blog/967-github-secrets)
+[_Read more about GitHub secrets._](https://github.com/blog/967-github-secrets)
 
 ### Adjust Tab Space
 
@@ -114,7 +111,7 @@ To view all commits on a repo by author add `?author={user}` to the URL.
 
 ![DHH commit history](http://i.imgur.com/S7AE29b.png)
 
-[*Read more about the differences between commits views.*](https://help.github.com/articles/differences-between-commit-views/)
+[_Read more about the differences between commits views._](https://help.github.com/articles/differences-between-commit-views/)
 
 ### Cloning a Repository
 
@@ -122,7 +119,7 @@ When cloning a repository the `.git` can be left off the end.
 
     $ git clone https://github.com/tiimgreen/github-cheat-sheet
 
-[*Read more about the Git `clone` command.*](http://git-scm.com/docs/git-clone)
+[_Read more about the Git `clone` command._](http://git-scm.com/docs/git-clone)
 
 ### Branch
 
@@ -157,7 +154,7 @@ For example:
     https://github.com/rails/rails/compare/master@{1.day.ago}...master
     https://github.com/rails/rails/compare/master@{2014-10-04}...master
 
-*Here, dates are in the format `YYYY-MM-DD`*
+_Here, dates are in the format `YYYY-MM-DD`_
 
 ![Another compare example](http://i.imgur.com/5dtzESz.png)
 
@@ -166,7 +163,7 @@ Branches can also be compared in `diff` and `patch` views:
     https://github.com/rails/rails/compare/master...4-1-stable.diff
     https://github.com/rails/rails/compare/master...4-1-stable.patch
 
-[*Read more about comparing commits across time.*](https://help.github.com/articles/comparing-commits-across-time/)
+[_Read more about comparing commits across time._](https://help.github.com/articles/comparing-commits-across-time/)
 
 #### Compare Branches across Forked Repositories
 
@@ -186,7 +183,7 @@ For example:
 
 ![Gist](http://i.imgur.com/VkKI1LC.png?1)
 
-Add `.pibb` to the end of any Gist URL ([like this](https://gist.github.com/tiimgreen/10545817.pibb)) in order to get the *HTML-only* version suitable for embedding in any other site.
+Add `.pibb` to the end of any Gist URL ([like this](https://gist.github.com/tiimgreen/10545817.pibb)) in order to get the _HTML-only_ version suitable for embedding in any other site.
 
 Gists can be treated as a repository so they can be cloned like any other:
 
@@ -201,7 +198,7 @@ This means you also can modify and push updates to Gists:
     Username for 'https://gist.github.com':
     Password for 'https://tiimgreen@gist.github.com':
 
-However, Gists do not support directories. All files need to be added to the repository root. [*Read more about creating Gists.*](https://help.github.com/articles/creating-gists/)
+However, Gists do not support directories. All files need to be added to the repository root. [_Read more about creating Gists._](https://help.github.com/articles/creating-gists/)
 
 ### Git.io
 
@@ -219,17 +216,17 @@ You can also use it via pure HTTP using Curl:
     HTTP/1.1 302 Found
     Location: https://github.com/...
 
-[*Read more about Git.io.*](https://github.com/blog/985-git-io-github-url-shortener)
+[_Read more about Git.io._](https://github.com/blog/985-git-io-github-url-shortener)
 
 ### Keyboard Shortcuts
 
 When on a repository page, keyboard shortcuts allow you to navigate easily.
 
--   Pressing `t` will bring up a file explorer.
--   Pressing `w` will bring up the branch selector.
--   Pressing `s` will focus the search field for the current repository. Pressing ↓ to select the “All GitHub” option changes the field to search all of GitHub.
--   Pressing `l` will edit labels on existing Issues.
--   Pressing `y` **when looking at a file** (e.g., `https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`) will change your URL to one which, in effect, freezes the page you are looking at. If this code changes, you will still be able to see what you saw at that current time.
+- Pressing `t` will bring up a file explorer.
+- Pressing `w` will bring up the branch selector.
+- Pressing `s` will focus the search field for the current repository. Pressing ↓ to select the “All GitHub” option changes the field to search all of GitHub.
+- Pressing `l` will edit labels on existing Issues.
+- Pressing `y` **when looking at a file** (e.g., `https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`) will change your URL to one which, in effect, freezes the page you are looking at. If this code changes, you will still be able to see what you saw at that current time.
 
 To see all of the shortcuts for the current page press `?`:
 
@@ -257,7 +254,7 @@ This closes the issue and references the closing commit.
 
 ![Closing Repo](http://i.imgur.com/Uh1gZdx.png)
 
-[*Read more about closing Issues via commit messages.*](https://help.github.com/articles/closing-issues-via-commit-messages/)
+[_Read more about closing Issues via commit messages._](https://help.github.com/articles/closing-issues-via-commit-messages/)
 
 ### Cross-Link Issues
 
@@ -277,7 +274,7 @@ This means that users who are not collaborators on the project will no longer be
 
 ![Comments locked](https://cloud.githubusercontent.com/assets/2723/3221775/d6e513b0-f00e-11e3-9721-2131cb37c906.png)
 
-[*Read more about locking conversations.*](https://github.com/blog/1847-locking-conversations)
+[_Read more about locking conversations._](https://github.com/blog/1847-locking-conversations)
 
 ### CI Status on Pull Requests
 
@@ -285,7 +282,7 @@ If set up correctly, every time you receive a Pull Request, [Travis CI](https://
 
 [![Travis CI status](https://cloud.githubusercontent.com/assets/1687642/2700187/3a88838c-c410-11e3-9a46-e65e2a0458cd.png)](https://github.com/octokit/octokit.rb/pull/452)
 
-[*Read more about the commit status API.*](https://github.com/blog/1227-commit-status-api)
+[_Read more about the commit status API._](https://github.com/blog/1227-commit-status-api)
 
 ### Filters
 
@@ -307,7 +304,7 @@ Github has tabs for displaying open or closed issues and pull requests but you c
 
 `is:merged`
 
-[*Read more about searching issues.*](https://help.github.com/articles/searching-issues/)
+[_Read more about searching issues._](https://help.github.com/articles/searching-issues/)
 
 Finally, github now allows you to filter by the Status API’s status.
 
@@ -315,7 +312,7 @@ Pull requests with only successful statuses:
 
 `status:success`
 
-[*Read more about searching on the Status API.*](https://github.com/blog/2014-filter-pull-requests-by-status)
+[_Read more about searching on the Status API._](https://github.com/blog/2014-filter-pull-requests-by-status)
 
 ### Syntax Highlighting in Markdown Files
 
@@ -337,7 +334,7 @@ This will produce:
 
 GitHub uses [Linguist](https://github.com/github/linguist) to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 
-[*Read more about GitHub Flavored Markdown.*](https://help.github.com/articles/github-flavored-markdown/)
+[_Read more about GitHub Flavored Markdown._](https://help.github.com/articles/github-flavored-markdown/)
 
 ### Emojis
 
@@ -383,17 +380,17 @@ When on a comment thread and you want to quote something someone previously said
 
 ![Quick Quote](https://f.cloud.github.com/assets/296432/124483/b0fa6204-6ef0-11e2-83c3-256c37fa7abc.gif)
 
-[*Read more about quick quoting.*](https://github.com/blog/1399-quick-quotes)
+[_Read more about quick quoting._](https://github.com/blog/1399-quick-quotes)
 
 ### Pasting Clipboard Image to Comments
 
-*(Works on Chrome browsers only)*
+_(Works on Chrome browsers only)_
 
 After taking a screenshot and adding it to the clipboard (mac: `cmd-ctrl-shift-4`), you can simply paste (`cmd-v / ctrl-v`) the image into the comment section and it will be auto-uploaded to github.
 
 ![Pasting Clipboard Image to Comments](https://cloud.githubusercontent.com/assets/39191/5794265/39c9b65a-9f1b-11e4-9bc7-04e41f59ea5f.png)
 
-[*Read more about issue attachments.*](https://help.github.com/articles/issue-attachments/)
+[_Read more about issue attachments._](https://help.github.com/articles/issue-attachments/)
 
 ### Quick Licensing
 
@@ -407,7 +404,7 @@ You can also add them to existing repositories by creating a new file through th
 
 Also works for `.gitignore`.
 
-[*Read more about open source licensing.*](https://help.github.com/articles/open-source-licensing/)
+[_Read more about open source licensing._](https://help.github.com/articles/open-source-licensing/)
 
 ### Task Lists
 
@@ -431,7 +428,7 @@ When they are clicked, they will be updated in the pure Markdown:
       - [ ] Cook recipe
     - [ ] Sleep
 
-[*Read more about task lists.*](https://help.github.com/articles/writing-on-github/#task-lists)
+[_Read more about task lists._](https://help.github.com/articles/writing-on-github/#task-lists)
 
 #### Task Lists in Markdown Documents
 
@@ -445,15 +442,15 @@ In full Markdown documents **read-only** checklists can now be added using the f
       - [ ] Deimos
       - [ ] Phobos
 
--   \[ \] Mercury
--   \[x\] Venus
--   \[x\] Earth
-    -   \[x\] Moon
--   \[x\] Mars
-    -   \[ \] Deimos
-    -   \[ \] Phobos
+- \[ \] Mercury
+- \[x\] Venus
+- \[x\] Earth
+  - \[x\] Moon
+- \[x\] Mars
+  - \[ \] Deimos
+  - \[ \] Phobos
 
-[*Read more about task lists in markdown documents.*](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
+[_Read more about task lists in markdown documents._](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 ### Relative Links
 
@@ -464,7 +461,7 @@ Relative links are recommended in your Markdown files when linking to internal c
 
 Absolute links have to be updated whenever the URL changes (e.g., repository renamed, username changed, project forked). Using relative links makes your documentation easily stand on its own.
 
-[*Read more about relative links.*](https://help.github.com/articles/relative-links-in-readmes/)
+[_Read more about relative links._](https://help.github.com/articles/relative-links-in-readmes/)
 
 ### Metadata and Plugin Support for GitHub Pages
 
@@ -472,7 +469,7 @@ Within Jekyll pages and posts, repository information is available within the `s
 
 The Jemoji and jekyll-mentions plugins enable [emoji](#emojis) and <span class="citation" data-cites="mentions">\[@mentions\]</span>(https://github.com/blog/821) in your Jekyll posts and pages to work just like you’d expect when interacting with a repository on GitHub.com.
 
-[*Read more about repository metadata and plugin support for GitHub Pages.*](https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages)
+[_Read more about repository metadata and plugin support for GitHub Pages._](https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages)
 
 ### Viewing YAML Metadata in your Documents
 
@@ -480,7 +477,7 @@ Many blogging websites, like [Jekyll](http://jekyllrb.com/) with [GitHub Pages](
 
 ![YAML metadata](https://camo.githubusercontent.com/47245aa16728e242f74a9a324ce0d24c0b916075/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f36343035302f313232383236372f65303439643063362d323761302d313165332d396464382d6131636432323539393334342e706e67)
 
-[*Read more about viewing YAML metadata in your documents.*](https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents)
+[_Read more about viewing YAML metadata in your documents._](https://github.com/blog/1647-viewing-yaml-metadata-in-your-documents)
 
 ### Rendering Tabular Data
 
@@ -488,7 +485,7 @@ GitHub supports rendering tabular data in the form of `.csv` (comma-separated) a
 
 ![Tabular data](https://camo.githubusercontent.com/1b6dd0157ffb45d9939abf14233a0cb13b3b4dfe/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3238323735392f3937363436322f33323038336463652d303638642d313165332d393262322d3566323863313061353035392e706e67)
 
-[*Read more about rendering tabular data.*](https://github.com/blog/1601-see-your-csvs)
+[_Read more about rendering tabular data._](https://github.com/blog/1601-see-your-csvs)
 
 ### Rendering PDF
 
@@ -496,7 +493,7 @@ GitHub supports rendering PDF:
 
 ![PDF](https://cloud.githubusercontent.com/assets/1000669/7492902/f8493160-f42e-11e4-8cea-1cb4f02757e7.png)
 
-[*Read more about rendering PDF.*](https://github.com/blog/1974-pdf-viewing)
+[_Read more about rendering PDF._](https://github.com/blog/1974-pdf-viewing)
 
 ### Revert a Pull Request
 
@@ -506,13 +503,13 @@ You can revert it by clicking the **Revert** button on the right side of a commi
 
 ![Revert button](https://camo.githubusercontent.com/0d3350caf2bb1cba53123ffeafc00ca702b1b164/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f68656c702f70756c6c5f72657175657374732f7265766572742d70756c6c2d726571756573742d6c696e6b2e706e67)
 
-[*Read more about reverting pull requests*](https://github.com/blog/1857-introducing-the-revert-button)
+[_Read more about reverting pull requests_](https://github.com/blog/1857-introducing-the-revert-button)
 
 ### Diffs
 
 #### Rendered Prose Diffs
 
-Commits and pull requests, including rendered documents supported by GitHub (e.g., Markdown), feature *source* and *rendered* views.
+Commits and pull requests, including rendered documents supported by GitHub (e.g., Markdown), feature _source_ and _rendered_ views.
 
 ![Source / Rendered view](https://github-images.s3.amazonaws.com/help/repository/rendered_prose_diff.png)
 
@@ -520,7 +517,7 @@ Click the “rendered” button to see the changes as they’ll appear in the re
 
 ![Rendered Prose Diffs](https://f.cloud.github.com/assets/17715/2003056/3997edb4-862b-11e3-90be-5e9586edecd7.png)
 
-[*Read more about rendered prose diffs.*](https://github.com/blog/1784-rendered-prose-diffs)
+[_Read more about rendered prose diffs._](https://github.com/blog/1784-rendered-prose-diffs)
 
 #### Diffable Maps
 
@@ -528,15 +525,15 @@ Any time you view a commit or pull request on GitHub that includes geodata, GitH
 
 [![Diffable Maps](https://f.cloud.github.com/assets/282759/2090660/63f2e45a-8e97-11e3-9d8b-d4c8078b004e.gif)](https://github.com/benbalter/congressional-districts/commit/2233c76ca5bb059582d796f053775d8859198ec5)
 
-[*Read more about diffable maps.*](https://github.com/blog/1772-diffable-more-customizable-maps)
+[_Read more about diffable maps._](https://github.com/blog/1772-diffable-more-customizable-maps)
 
 #### Expanding Context in Diffs
 
-Using the *unfold* button in the gutter of a diff, you can reveal additional lines of context with a click. You can keep clicking *unfold* until you’ve revealed the whole file, and the feature is available anywhere GitHub renders diffs.
+Using the _unfold_ button in the gutter of a diff, you can reveal additional lines of context with a click. You can keep clicking _unfold_ until you’ve revealed the whole file, and the feature is available anywhere GitHub renders diffs.
 
 ![Expanding Context in Diffs](https://f.cloud.github.com/assets/22635/1610539/863c1f64-5584-11e3-82bf-151b406a272f.gif)
 
-[*Read more about expanding context in diffs.*](https://github.com/blog/1705-expanding-context-in-diffs)
+[_Read more about expanding context in diffs._](https://github.com/blog/1705-expanding-context-in-diffs)
 
 #### Diff or Patch of Pull Request
 
@@ -571,7 +568,7 @@ GitHub can display several common image formats, including PNG, JPG, GIF, and PS
 
 [![Diffable PSD](https://cloud.githubusercontent.com/assets/2546/3165594/55f2798a-eb56-11e3-92e7-b79ad791a697.gif)](https://github.com/blog/1845-psd-viewing-diffing)
 
-[*Read more about rendering and diffing images.*](https://help.github.com/articles/rendering-and-diffing-images/)
+[_Read more about rendering and diffing images._](https://help.github.com/articles/rendering-and-diffing-images/)
 
 ### Hub
 
@@ -581,7 +578,7 @@ This allows you to do things like:
 
     $ hub clone tiimgreen/toc
 
-[*Check out some more cool commands Hub has to offer.*](https://github.com/github/hub#commands)
+[_Check out some more cool commands Hub has to offer._](https://github.com/github/hub#commands)
 
 ### Contribution Guidelines
 
@@ -593,23 +590,23 @@ Adding a `CONTRIBUTING` or `CONTRIBUTING.md` file to either the root of your rep
 
 ![Contributing Guidelines](https://camo.githubusercontent.com/71995d6b0e620a9ef1ded00a04498241c69dd1bf/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f736b697463682f6973737565732d32303132303931332d3136323533392e6a7067)
 
-[*Read more about contributing guidelines.*](https://github.com/blog/1184-contributing-guidelines)
+[_Read more about contributing guidelines._](https://github.com/blog/1184-contributing-guidelines)
 
-#### ISSUE\_TEMPLATE file
+#### ISSUE_TEMPLATE file
 
 You can define a template for all new issues opened in your project. The content of this file will pre-populate the new issue box when users create new issues. Add an `ISSUE_TEMPLATE` or `ISSUE_TEMPLATE.md` file to either the root of your repository or a `.github` directory.
 
-[*Read more about issue templates.*](https://github.com/blog/2111-issue-and-pull-request-templates)
+[_Read more about issue templates._](https://github.com/blog/2111-issue-and-pull-request-templates)
 
 [Issue template file generator](https://www.talater.com/open-source-templates/)
 
 ![GitHub Issue template](https://cloud.githubusercontent.com/assets/25792/13120859/733479fe-d564-11e5-8a1f-a03f95072f7a.png)
 
-#### PULL\_REQUEST\_TEMPLATE file
+#### PULL_REQUEST_TEMPLATE file
 
 You can define a template for all new pull requests opened in your project. The content of this file will pre-populate the text area when users create pull requests. Add a `PULL_REQUEST_TEMPLATE` or `PULL_REQUEST_TEMPLATE.md` file to either the root of your repository or a `.github` directory.
 
-[*Read more about pull request templates.*](https://github.com/blog/2111-issue-and-pull-request-templates)
+[_Read more about pull request templates._](https://github.com/blog/2111-issue-and-pull-request-templates)
 
 [Pull request template file generator](https://www.talater.com/open-source-templates/)
 
@@ -619,7 +616,7 @@ GitHubs icons (Octicons) have now been open sourced.
 
 ![Octicons](https://og.github.com/octicons/octicons@1200x630.png)
 
-[*Read more about GitHub’s Octicons*](https://octicons.github.com)
+[_Read more about GitHub’s Octicons_](https://octicons.github.com)
 
 ### GitHub Student Developer Pack
 
@@ -627,7 +624,7 @@ If you are a student you will be eligible for the GitHub Student Developer Pack.
 
 ![GitHub Student Developer Pack](http://i.imgur.com/9ru3K43.png)
 
-[*Read more about GitHub’s Student Developer Pack*](https://education.github.com/pack)
+[_Read more about GitHub’s Student Developer Pack_](https://education.github.com/pack)
 
 ### GitHub Resources
 
@@ -645,7 +642,7 @@ You can get a list of public ssh keys in plain text format by visiting:
 
 e.g. <https://github.com/tiimgreen.keys>
 
-[*Read more about accessing public ssh keys.*](https://changelog.com/github-exposes-public-ssh-keys-for-its-users/)
+[_Read more about accessing public ssh keys._](https://changelog.com/github-exposes-public-ssh-keys-for-its-users/)
 
 ### Profile Image
 
@@ -665,10 +662,9 @@ Changing to a template repository will give a new URL endpoint which can be shar
 
 ![Template](https://i.postimg.cc/L8PKCHx0/New-Template.gif)
 
-[*Read more about using repositories as templates*](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
+[_Read more about using repositories as templates_](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
 
-Git
----
+## Git
 
 ### Remove All Deleted Files from the Working Tree
 
@@ -707,21 +703,21 @@ To move to the previous branch in Git:
     $ git checkout -
     # Switched to branch 'master'
 
-[*Read more about Git branching.*](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
+[_Read more about Git branching._](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging)
 
 ### Stripspace
 
 Git Stripspace:
 
--   Strips trailing whitespace
--   Collapses newlines
--   Adds newline to end of file
+- Strips trailing whitespace
+- Collapses newlines
+- Adds newline to end of file
 
 A file must be passed when calling the command, e.g.:
 
     $ git stripspace < README.md
 
-[*Read more about the Git `stripspace` command.*](http://git-scm.com/docs/git-stripspace)
+[_Read more about the Git `stripspace` command._](http://git-scm.com/docs/git-stripspace)
 
 ### Checking out Pull Requests
 
@@ -760,7 +756,7 @@ This way, you can use the following short commands in all your repositories:
 
     git checkout pr/42
 
-[*Read more about checking out pull requests locally.*](https://help.github.com/articles/checking-out-pull-requests-locally/)
+[_Read more about checking out pull requests locally._](https://help.github.com/articles/checking-out-pull-requests-locally/)
 
 ### Empty Commits
 
@@ -770,10 +766,10 @@ Commits can be pushed with no code changes by adding `--allow-empty`:
 
 Some use-cases for this (that make sense), include:
 
--   Annotating the start of a new bulk of work or a new feature.
--   Documenting when you make changes to the project that aren’t code related.
--   Communicating with people using your repository.
--   The first commit of a repository: `git commit -m "Initial commit" --allow-empty`.
+- Annotating the start of a new bulk of work or a new feature.
+- Documenting when you make changes to the project that aren’t code related.
+- Communicating with people using your repository.
+- The first commit of a repository: `git commit -m "Initial commit" --allow-empty`.
 
 ### Styled Git Status
 
@@ -793,7 +789,7 @@ this is produced:
 
 ![git status -sb](http://i.imgur.com/K0OY3nm.png)
 
-[*Read more about the Git `status` command.*](http://git-scm.com/docs/git-status)
+[_Read more about the Git `status` command._](http://git-scm.com/docs/git-status)
 
 ### Styled Git Log
 
@@ -803,13 +799,13 @@ Running:
 
 produces:
 
-![git log –all –graph –pretty=format:‘%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset’ –abbrev-commit –date=relative](http://i.imgur.com/58eOtkW.png)
+![git log –all –graph –pretty=format:‘%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset’ –abbrev-commit –date=relative](http://i.imgur.com/58eOtkW.png)
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
+_This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases)._
 
-[*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
+[_Read more about the Git `log` command._](http://git-scm.com/docs/git-log)
 
 ### Git Query
 
@@ -823,7 +819,7 @@ where `query` (case-sensitive) is the term you want to search, this then finds t
 
 ![git show :/query](http://i.imgur.com/icaGiNt.png)
 
-*Press `q` to quit.*
+_Press `q` to quit._
 
 ### Git Grep
 
@@ -833,22 +829,22 @@ Running:
 
     $ git grep aliases
 
-will show all the files containing the string *aliases*.
+will show all the files containing the string _aliases_.
 
 ![git grep aliases](http://i.imgur.com/DL2zpQ9.png)
 
-*Press `q` to quit.*
+_Press `q` to quit._
 
 You can also use multiple flags for more advanced search. For example:
 
--   `-e` The next parameter is the pattern (e.g., regex)
--   `--and`, `--or` and `--not` Combine multiple patterns.
+- `-e` The next parameter is the pattern (e.g., regex)
+- `--and`, `--or` and `--not` Combine multiple patterns.
 
 Use it like this:
 
      $ git grep -e pattern --and -e anotherpattern
 
-[*Read more about the Git `grep` command.*](http://git-scm.com/docs/git-grep)
+[_Read more about the Git `grep` command._](http://git-scm.com/docs/git-grep)
 
 ### Merged Branches
 
@@ -864,7 +860,7 @@ Conversely:
 
 will give you a list of branches that have not been merged into your current branch.
 
-[*Read more about the Git `branch` command.*](http://git-scm.com/docs/git-branch)
+[_Read more about the Git `branch` command._](http://git-scm.com/docs/git-branch)
 
 ### Fixup and Autosquash
 
@@ -873,7 +869,7 @@ If there is something wrong with a previous commit (can be one or more from HEAD
     $ git commit --fixup=abcde
     $ git rebase abcde^ --autosquash -i
 
-[*Read more about the Git `commit` command.*](http://git-scm.com/docs/git-commit) [*Read more about the Git `rebase` command.*](http://git-scm.com/docs/git-rebase)
+[_Read more about the Git `commit` command._](http://git-scm.com/docs/git-commit) [_Read more about the Git `rebase` command._](http://git-scm.com/docs/git-rebase)
 
 ### Web Server for Browsing Local Repositories
 
@@ -885,7 +881,7 @@ opens:
 
 ![Git instaweb](http://i.imgur.com/Dxekmqc.png)
 
-[*Read more about the Git `instaweb` command.*](http://git-scm.com/docs/git-instaweb)
+[_Read more about the Git `instaweb` command._](http://git-scm.com/docs/git-instaweb)
 
 ### Git Configurations
 
@@ -922,7 +918,7 @@ Some useful aliases include:
 
 <table style="width:99%;"><colgroup><col style="width: 33%" /><col style="width: 33%" /><col style="width: 33%" /></colgroup><thead><tr class="header"><th>Alias</th><th>Command</th><th>What to Type</th></tr></thead><tbody><tr class="odd"><td><code>git cm</code></td><td><code>git commit</code></td><td><code>git config --global alias.cm commit</code></td></tr><tr class="even"><td><code>git co</code></td><td><code>git checkout</code></td><td><code>git config --global alias.co checkout</code></td></tr><tr class="odd"><td><code>git ac</code></td><td><code>git add . -A</code> <code>git commit</code></td><td><code>git config --global alias.ac '!git add -A &amp;&amp; git commit'</code></td></tr><tr class="even"><td><code>git st</code></td><td><code>git status -sb</code></td><td><code>git config --global alias.st 'status -sb'</code></td></tr><tr class="odd"><td><code>git tags</code></td><td><code>git tag -l</code></td><td><code>git config --global alias.tags 'tag -l'</code></td></tr><tr class="even"><td><code>git branches</code></td><td><code>git branch -a</code></td><td><code>git config --global alias.branches 'branch -a'</code></td></tr><tr class="odd"><td><code>git cleanup</code></td><td><code>git branch --merged \| grep -v '*' \| xargs git branch -d</code></td><td><code>git config --global alias.cleanup "!git branch --merged \| grep -v '*' \| xargs git branch -d"</code></td></tr><tr class="even"><td><code>git remotes</code></td><td><code>git remote -v</code></td><td><code>git config --global alias.remotes 'remote -v'</code></td></tr><tr class="odd"><td><code>git lg</code></td><td><code>git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit --</code></td><td><code>git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit --"</code></td></tr></tbody></table>
 
-*Some Aliases are taken from <span class="citation" data-cites="mathiasbynens">\[@mathiasbynens\]</span>(https://github.com/mathiasbynens) dotfiles: https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig*
+_Some Aliases are taken from <span class="citation" data-cites="mathiasbynens">\[@mathiasbynens\]</span>(https://github.com/mathiasbynens) dotfiles: https://github.com/mathiasbynens/dotfiles/blob/master/.gitconfig_
 
 #### Auto-Correct
 
@@ -955,7 +951,7 @@ To add more color to your Git output:
 
     $ git config --global color.ui 1
 
-[*Read more about the Git `config` command.*](http://git-scm.com/docs/git-config)
+[_Read more about the Git `config` command._](http://git-scm.com/docs/git-config)
 
 ### Git Resources
 
