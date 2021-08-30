@@ -1,4 +1,5 @@
 ## Leadership Media
+
 Some of our favorite resources for new insights about leadership and management.
 
 ### Blogs
@@ -7,7 +8,7 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Practicing Developer](https://practicingdeveloper.com/) - by Gregory Brown, author of O'Reilly's "Programming Beyond Practices."
 
-- [Retrospective.co](https://retrospective.co/) - by Anonymous. A strategy guide for tech managers, with articles on culture, leadership, mentoring and more. 
+- [Retrospective.co](https://retrospective.co/) - by Anonymous. A strategy guide for tech managers, with articles on culture, leadership, mentoring and more.
 
 ### Misc.
 
@@ -25,19 +26,18 @@ Some of our favorite resources for new insights about leadership and management.
 
 - [Wherewithall](https://larahogan.me/sign-up/) - by Lara Hogan. The newsletter by the popular and prolific management coach and trainer.
 
-
 ### Podcasts
 
 - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - a very long list of engineering-related podcasts in several languages.
 
 - [Develomentor](https://develomentor.com) - a podcast by Wikimedia CTO Grant Ingersoll featuring interviews with technologists about their career development and pathways.
 
-- [John Maxwell Leadership Podcast](https://johnmaxwellleadershippodcast.com/) - by John Maxwell, who has been called the #1 leader in business and the world's most influential leadership expert.  This podcast offers a plethora of information for leaders of all kinds.
+- [John Maxwell Leadership Podcast](https://johnmaxwellleadershippodcast.com/) - by John Maxwell, who has been called the #1 leader in business and the world's most influential leadership expert. This podcast offers a plethora of information for leaders of all kinds.
 
-- [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game. 
+- [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts?field_content_domain_tid=4) - by Manager Tools. Takeaway: Informative podcasts that focus on key opportunities that a manager can leverage to step up their game.
 
 - [People Stack](https://medium.com/@JBunky) - by Jen Bunk. Interviews with management and leadership experts and thinkers to help tech managers build thriving high-performing teams.
 
-- [Quality Remarks](http://qualityremarks.com/qr-podcast/) - by Keith Klain. About software testing and the organizational/cultural elements around it. 
- 
+- [Quality Remarks](http://qualityremarks.com/qr-podcast/) - by Keith Klain. About software testing and the organizational/cultural elements around it.
+
 - [The Ultimate List Of Developer Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/) - by John Sonmez. Includes the Changelog, the Simple Programmer Podcast, Developer on Fire, and dozens of other podcasts for software developers, organized into topics/sections.

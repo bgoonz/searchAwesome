@@ -3,17 +3,16 @@
 ### Postmortems
 
 - [Etsy’s Guide to Postmortems](https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) - by John Allspaw, Morgan Evans and Daniel Schauenberg. A lengthy document that provides a guide on the art of asking questions. [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) provides a briefer summary, describing an Etsy incident and how the team managed it.
- 
+
 - [Improving Postmortem Practices with Veteran Google SRE, Steve McGhee](https://www.blameless.com/improve-postmortem-with-sre-steve-mcghee/) - by Blameless. Takeaway: Suggests turning your post-mortems into "textbook-lets," being cautious about finding good authors, and creating action items with structured discipline.
 
 - [The Infinite Hows (or, the Dangers of The Five Whys)](https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/) - by John Allspaw. Takeaway: A slight tweak to the “5 whys." Allspaw points out that “why” leads to blaming a person, while “how” leads to blaming the system.
 
 - [Making SWOT Analysis Actionable](http://articles.bplans.com/swot-analysis-challenge-day-5-turning-swot-analysis-actionable-strategies/) - by Lisa Furgison. Takeaway: Make connections between each quadrant of your analysis, combining information from two quadrants to create actionable strategies:
-    - Strengths–Opportunities. Use internal strengths to take advantage of opportunities
-    - Strengths-Threats. Use your strengths to minimize threats
-    - Weaknesses-Opportunities. Improve weaknesses by taking advantage of opportunities
-    - Weaknesses-Threats. Work to eliminate weaknesses to avoid threats
-    
+  - Strengths–Opportunities. Use internal strengths to take advantage of opportunities
+  - Strengths-Threats. Use your strengths to minimize threats
+  - Weaknesses-Opportunities. Improve weaknesses by taking advantage of opportunities
+  - Weaknesses-Threats. Work to eliminate weaknesses to avoid threats
 - [Post-Mortem Templates](https://github.com/dastergon/postmortem-templates) - by Pavlos Ratis. A collection of postmortem templates from Google, Microsoft and others.
 
 - [Root Cause Analysis: Practical Tools](https://www.benlinders.com/2011/root-cause-analysis-practical-tools/) - by Ben Linders. Tools for you to use to conduct your own root cause analysis, including a process, a checklist to help you get started and a report with an example.

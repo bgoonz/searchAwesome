@@ -1,10 +1,12 @@
 # Awesome OKR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of resources about OKRs
 
 OKR are the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results.
 It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter and it make it easier to align all the employees around the company mission and vision.
 
 ## Table of Contents
+
 - [Basics](#basics)
 - [Slides](#slides)
 - [Videos](#videos)
@@ -105,13 +107,14 @@ These are interesting research papers connected to OKRs
 ## Templates
 
 A list of word template for setting OKRs.
+
 - [OKR report document example by WeekDone](https://weekdone.com/resources/templates/okr-report-document-example): A word template for setting your OKRs.
 - [OKR report document template by WeekDone](https://weekdone.com/resources/templates/okr-report-document-template): An example of OKRs using the word template above.
 - [Startup OKRs Template](https://docs.google.com/document/d/1OHpQOvZz76_10ebJP2AKvvXUF3H9yd6FC89F5jS4mks/edit?pli=1): A word template describing how to set OKRs
 - [OKR Scorecard by Google](https://docs.google.com/document/d/1iK7oQ7d96isVEzUfvQYLIUZ8WU4vkSGgtOM-J7nFd7k/edit): The OKR Scorecard from the re:Work site a Google.
 
-
 A list of excel templates for setting OKRs.
+
 - [OKR report word template by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-template): An excel template for setting your OKR.
 - [OKR report spreadsheet example by WeekDone](https://weekdone.com/resources/templates/okr-report-spreadsheet-example): An example of OKRs using the excel template above.
 - [OKR Template for your startup](https://docs.google.com/spreadsheets/d/1gsb2UNLeHkFAiEso4BPV10r5AudIJOx0PYhEsjAfd88/edit#gid=14): A public excel template for setting OKRs.
@@ -121,12 +124,12 @@ A list of excel templates for setting OKRs.
 
 A list of examples about how to implement OKRs. Useful when you want to get start with OKRs.
 These are not real examples and I am not related with the companies below.
+
 - [Uber](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Uber.md): A case study of OKRs for Uber.
 - [Youtube](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/Youtube.md): A case study of OKRs for Youtube.
 - [Sample Company](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/SampleCompany.md): An example of OKRs for an imaginary company.
 - [Photo Editing App](https://github.com/domenicosolazzo/awesome-okr/blob/master/examples/PhotoEditingApp.md): A case study of OKRs for an a fake company creating a photo editing mobile app and using OKRs to reach their goals.
 - [OKR Goals Examples](https://www.atiim.com/okr-goals-examples/): A comprehensive list of OKR goal examples for all kind of teams and levels.
-
 
 ## Software
 
@@ -148,6 +151,7 @@ List of software for managing your OKRs. This list was made using this Product H
 - [ZOKRI](https://zokri.com/)
 
 ## Open Source Projects
+
 - [BurningOkr](https://github.com/BurningOKR/BurningOKR)
 - [okr2go](https://github.com/oxisto/okr2go)
 

@@ -26,7 +26,7 @@
 
 - [The Culture Cliché](https://m.signalvnoise.com/the-culture-clich%C3%A9-e226cf5a6354) - by Claire Lew. Takeaway: If you’re looking to shift your company culture, it starts with understanding what culture is in the first place.
 
-- [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f) - by Rich Armstrong. Takeway: Create every process around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture. 
+- [Culture Is the Spec, Process Is the Code](https://medium.com/@richarmstrong/culture-is-the-spec-process-is-the-code-ccb0df70514f) - by Rich Armstrong. Takeway: Create every process around your culture. Just like your devs need specs in order to know what code to write, your company needs processes in order to implement culture.
 
 - [Emailing While You’re on Vacation Is a Quick Way to Ruin Company Culture](https://hbr.org/2017/12/emailing-while-youre-on-vacation-is-a-quick-way-to-ruin-company-culture) - by Katie Denis. Takeaway: "Every email sent by a vacationing employee is a tiny cultural erosion: a signal to other employees that time off isn’t really time off. In aggregate, these tiny erosions matter. They send signals like 'I don’t trust you to do the job without me,' or 'I’m not organized enough to wrap up my loose ends before I go on vacation.' Either way, they erode perceptions of your likability and competence."
 
@@ -54,7 +54,7 @@
 
 - [How to Build a Company Where the Best Ideas Win](https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win?rss) (video) - by Ray Dalio. Takeaway: "makes the business case for radical transparency and algorithmic decision-making to create an idea meritocracy where people can speak up and say what they really think -- even calling out the boss is fair game."
 
-- [How Warby Parker Makes Every Point In Its Employee Lifecycle Extraordinary](https://www.youtube.com/watch?v=SrLCXrsEPZE&t=2s) - by FirstRoundCapital. Takeaway: CEO Dave Gilboa describes how Warby created its culture. 
+- [How Warby Parker Makes Every Point In Its Employee Lifecycle Extraordinary](https://www.youtube.com/watch?v=SrLCXrsEPZE&t=2s) - by FirstRoundCapital. Takeaway: CEO Dave Gilboa describes how Warby created its culture.
 
 - [Innovation vs. Execution](http://svpg.com/innovation-vs-execution/) - by Marty Cagan. Takeaway: Not many companies are good at both innovation and execution. Assess your company in terms of both, and decide which one comes first.
 
@@ -67,7 +67,7 @@
 - [Nails in the Coffin: Why a Flat Organizational Structure Fails](https://getlighthouse.com/blog/flat-organizational-structure-fails/) - by Lighthouse. Takeaway: GitHub, Zappos, Medium and others have abandoned flat hierarchies because you can’t manage everyone yourself; they slow things down; unspoken lines of communication and decision making form; you miss or become overwhelmed by problems; you waste time re-inventing the wheel; important decisions can become a mess. Instead of flat hierarchy, develop your leaders instead.
 
 - [Netflix Onboarding/Welcome Deck](https://docs.google.com/presentation/d/1bXrsLL9wwtbudLjnoG3F6J-NBcTTQ6KnGpukrSDmjW4) - by Roy Rapoport. Takeaway: Set clear expectations with your directs.
- 
+
 - [On Failure and Resilience](https://beero.ps/2017/06/17/on-failure-and-resilience/) - by Katherine Daniels. Takeaway: "It can be a challenge if you’re starting with or coming from a 'blame and train' or 'blame and shame' culture to a 'blameless' or 'blame-aware' one, but the focus on desired outcome and how people can work together to help resolve a situation in the moment, as well as make the systems involved better equipped to handle situations in the future, can do wonders for system and organizational resilience."
 
 - [On Leadership and Culture](https://hackernoon.com/on-leadership-and-culture-ca4d6f2a9bb0?source=linkShare-d0a0152ff0c0-1520995699) - by Jason Warner. Takeaway: "Leaders are accountable for the culture of their group. Said another way, the cultural brokenness of a group can in almost all cases be traced directly to poor leadership, either past or current."
@@ -84,7 +84,7 @@
 
 - [The Right Culture: Not Just About Employee Satisfaction](http://news.gallup.com/businessjournal/208487/right-culture-not-employee-happiness.aspx) - by Jim Harter and Annamarie Mann. Takeaway: "Measuring workers' contentment doesn't improve business outcomes. Approaching engagement as a business strategy yields better results. Highly engaged organizations share common philosophies and practices."
 
-- [Sorry, but Your Start-Up’s Team Isn’t Actually Any More Agile Than the Big Guys. Why You Really Still Can Win](https://www.saastr.com/sorry-but-your-start-ups-team-isnt-actually-any-more-agile-than-the-big-guys-why-you-really-still-can-win/) - by Jason Lemkin. Takeaway: "The BigCo problem is a combination of (x) impact/runway and (y) cross-functionality “unagility”.  Here’s where start-ups can execute so much better."
+- [Sorry, but Your Start-Up’s Team Isn’t Actually Any More Agile Than the Big Guys. Why You Really Still Can Win](https://www.saastr.com/sorry-but-your-start-ups-team-isnt-actually-any-more-agile-than-the-big-guys-why-you-really-still-can-win/) - by Jason Lemkin. Takeaway: "The BigCo problem is a combination of (x) impact/runway and (y) cross-functionality “unagility”. Here’s where start-ups can execute so much better."
 
 - [Tea and Tech Culture](https://blog.alicegoldfuss.com/tea-and-tech-culture/) - by Alice Goldfuss. Takeaway: "[D]rinking tea has made my job much easier. People give it to me, offer to drink it with me, use it as an icebreaker. It’s both a gateway to interesting conversations and a reward for doing favors. I now participate in a social experience that is easy to quantify, repeat, and leverage."
 
@@ -92,11 +92,11 @@
 
 - [Understanding the Limits of Hierarchies](https://opensource.com/open-organization/16/3/fastest-result-isnt-always-best-result?sc_cid=701600000011jJkAAI) - by Jim Whitehurst, CEO of RedHat. Takeaway: "Leading an open organization—where hierarchy cedes much of its control to dynamic, networked structures—feels much more like maintaining a perennial garden. It involves working more on conditions (turning soil, locating those spots in need of watering) than it does on dictating direction. It means creating the context for things (things you might not have considered or even imagined) to occur."
 
-- [Up or Out: Solving the IT Turnover Crisis](http://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis) - by Alex Papadimoulis. Takeaway: Hire lots of people, find them mentors, and give them a choice to either get lots of experience then find another job or work hard in order to get promoted. 
+- [Up or Out: Solving the IT Turnover Crisis](http://thedailywtf.com/articles/Up-or-Out-Solving-the-IT-Turnover-Crisis) - by Alex Papadimoulis. Takeaway: Hire lots of people, find them mentors, and give them a choice to either get lots of experience then find another job or work hard in order to get promoted.
 
 - [Values Exercises to Build Vision in Your Company](https://www.happymelly.com/values-exercises-to-build-vision/) - by Happy Melly. Exercises to help your organization identify its values, and a downloadable list of 250 potential values to choose from.
 
-- [Want an Open, Transparent Company Culture? Then Don't Make These 2 Common Excuses](https://www.inc.com/claire-lew/want-an-open-transparent-company-culture-then-dont-make-these-2-common-excuses.html) - by Claire Lew. Takeaway: "I don't want feedback to be a distraction" and  "I'm not ready to act on feedback" will not make your culture open or transparent.
+- [Want an Open, Transparent Company Culture? Then Don't Make These 2 Common Excuses](https://www.inc.com/claire-lew/want-an-open-transparent-company-culture-then-dont-make-these-2-common-excuses.html) - by Claire Lew. Takeaway: "I don't want feedback to be a distraction" and "I'm not ready to act on feedback" will not make your culture open or transparent.
 
 - [The Wetware Crisis: the Dead Sea Effect](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) - by Bruce F. Webster. Takeaway: Do reorgs only if really needed, as they impact everyone in the organization and are not magic bullets that can solve all your problems.
 

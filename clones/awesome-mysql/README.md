@@ -7,35 +7,35 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 ### Contents
 
 - [Awesome MySQL](#awesome-mysql)
-    - [Analysis](#analysis)
-    - [Backup](#backup)
-    - [Benchmarking](#benchmarking)
-    - [Binlog Replication](#binlog-replication)
-    - [ChatOps](#chatops)
-    - [Configuration](#configuration)
-    - [Connectors](#connectors)
-    - [Deployment](#deployment)
-    - [Development](#development)
-    - [GUI](#gui)
-    - [HA](#ha)
-    - [Proxy](#proxy)
-    - [Replication](#replication)
-    - [Schema](#schema)
-    - [Security](#security)
-    - [Server](#server)
-    - [Sharding](#sharding)
-    - [Toolkits](#toolkits)
+
+  - [Analysis](#analysis)
+  - [Backup](#backup)
+  - [Benchmarking](#benchmarking)
+  - [Binlog Replication](#binlog-replication)
+  - [ChatOps](#chatops)
+  - [Configuration](#configuration)
+  - [Connectors](#connectors)
+  - [Deployment](#deployment)
+  - [Development](#development)
+  - [GUI](#gui)
+  - [HA](#ha)
+  - [Proxy](#proxy)
+  - [Replication](#replication)
+  - [Schema](#schema)
+  - [Security](#security)
+  - [Server](#server)
+  - [Sharding](#sharding)
+  - [Toolkits](#toolkits)
 
 - [Resources](#resources)
-    - [Conferences](#conferences)
-    - [E-Books](#e-books)
-    - [Media](#media)
-    - [Newsletters](#newsletters)
-
+  - [Conferences](#conferences)
+  - [E-Books](#e-books)
+  - [Media](#media)
+  - [Newsletters](#newsletters)
 
 ## Analysis
 
-*Performance, structure & data analysis tools*
+_Performance, structure & data analysis tools_
 
 - [Anemometer](https://github.com/box/Anemometer) - Box SQL slow query monitor.
 - [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
@@ -46,9 +46,10 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) - An open-source platform for managing and monitoring MySQL performance.
 - [Prometheus](https://prometheus.io/)/[mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 - [pstop](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
+
 ## Backup
 
-*Backup/restore/recovery tools*
+_Backup/restore/recovery tools_
 
 - [Dumpling](https://github.com/pingcap/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 - [MyDumper](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
@@ -57,7 +58,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Benchmarking
 
-*Tools to stress your servers*
+_Tools to stress your servers_
 
 - [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
 - [go-tpc](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
@@ -72,19 +73,19 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## ChatOps
 
-*Scripts integrated into chat rooms*
+_Scripts integrated into chat rooms_
 
 - [Hubot MySQL ChatOps](https://github.com/samlambert/hubot-mysql-chatops)
 
 ## Configuration
 
-*MySQL sample configuration and advisors*
+_MySQL sample configuration and advisors_
 
 - [mysql-compatibility-config](https://github.com/morgo/mysql-compatibility-config) - make MySQL configuration behave more like newer (or older) releases of MySQL.
 
 ## Connectors
 
-*MySQL connectors for various programming languages*
+_MySQL connectors for various programming languages_
 
 - [Connector/C](https://dev.mysql.com/downloads/connector/c/) - Official C driver for MySQL.
 - [Connector/CPP](https://dev.mysql.com/downloads/connector/cpp/) - Official C++ driver for MySQL.
@@ -105,15 +106,14 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Deployment
 
-*MySQL deployment tools*
+_MySQL deployment tools_
 
 - [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
 - [dbdeployer](https://www.dbdeployer.com) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 
-
 ## Development
 
-*Tools to support MySQL-related development*
+_Tools to support MySQL-related development_
 
 - [Flywaydb](http://flywaydb.org/getstarted/) - Database migrations; Evolve your database schema easily and reliably across all your instances
 - [Liquibase](http://www.liquibase.org/) - Source control for your database
@@ -121,10 +121,9 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Skeema](https://www.skeema.io) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
 - [Test database](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
 
-
 ## GUI
 
-*GUI frontends & applications*
+_GUI frontends & applications_
 
 - [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 - [HeidiSQL](http://www.heidisql.com/) - MySQL GUI frontend for Windows.
@@ -142,7 +141,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## HA
 
-*High availability solutions*
+_High availability solutions_
 
 - [Galera Cluster](http://galeracluster.com/products/) - a true Multimaster Cluster based on synchronous replication.
 - [MHA](http://code.google.com/p/mysql-master-ha/) - Master High Availability Manager and tools for MySQL.
@@ -152,7 +151,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Proxy
 
-*Proxies to MySQL*
+_Proxies to MySQL_
 
 - [MaxScale](https://github.com/mariadb-corporation/MaxScale) - open-source, database-centric proxy.
 - [Mixer](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
@@ -162,27 +161,24 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Replication
 
-*Replication related software*
-
-
+_Replication related software_
 
 ## Schema
 
-*Add-on schemas*
+_Add-on schemas_
 
 - [common_schema](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
 - [sys](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
 
-
 ## Security
 
-*Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
+_Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)_
 
 - [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
 
 ## Server
 
-*MySQL server flavors*
+_MySQL server flavors_
 
 - [MariaDB](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
 - [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
@@ -191,15 +187,14 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Sharding
 
-*Sharding solutions/frameworks*
+_Sharding solutions/frameworks_
 
 - [jetpants](https://github.com/tumblr/jetpants) - An automation suite for managing large range sharding clusters, by Tumblr.
 - [vitess](https://github.com/vitessio/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 
-
 ## Toolkits
 
-*Toolkits, general purpose scripts*
+_Toolkits, general purpose scripts_
 
 - [gh-ost](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 - [go-mysql](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
@@ -210,11 +205,11 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 # Resources
 
-*At this stage "resources" will not include websites, blogs, slides, presentation videos, etc. in fear of list size*
+_At this stage "resources" will not include websites, blogs, slides, presentation videos, etc. in fear of list size_
 
 ## Conferences
 
-*Public, recurring conferences on and around MySQL*
+_Public, recurring conferences on and around MySQL_
 
 - [FOSDEM](https://fosdem.org/) - a free event for software developers to meet, share ideas and collaborate. Annually, in Brussels. Offers "MySQL & friends" room.
 - [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle's annual MySQL conference, as part of Oracle Open World.
@@ -223,16 +218,15 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## e-books
 
-*e-books as well as relevant materials on and around MySQL*
+_e-books as well as relevant materials on and around MySQL_
 
 - [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - lecture notes on Database Systems (available in pdf, html, odt and markdown) including a Chapter on SQL that covers basic set-up, exercises and problems.
 - [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
 
 ## Media
 
-*Public, ongoing video & audio casts. This excludes conference presentations in fear of list size*
-
+_Public, ongoing video & audio casts. This excludes conference presentations in fear of list size_
 
 ## Newsletters
 
-*Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address*
+_Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address_

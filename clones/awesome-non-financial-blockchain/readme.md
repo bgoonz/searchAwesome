@@ -43,7 +43,6 @@ Industry of a blockchain application is defined by the one that is changed the m
 - [OpenCreds](http://opencreds.org) - W3C Credentials Community Group.
 - [TAO Network Identity](http://tao.network/portfolio-item/the-identity-system/) - Description of blockchain identity by Tao.Network.
 
-
 ## Internet of Things Applications
 
 - [Chronicled](http://www.chronicled.com) - IoT devices registry on blockchain.
@@ -52,7 +51,6 @@ Industry of a blockchain application is defined by the one that is changed the m
 - [Machinomy](http://machinomy.com) - Distributed platform for IoT micropayments.
 - [Project Oaken](https://www.projectoaken.com) - IoT blockchain platform.
 - [Slock.it](https://slock.it) - Ethereum-based platform for building Shared Things.
-
 
 ## Energy Applications
 
@@ -72,8 +70,7 @@ Industry of a blockchain application is defined by the one that is changed the m
 
 - [Steem](https://steem.io) - Decentralized social network which incentivises content creation and curation.
 - [PopChest](https://popchest.com) - Incentivized distributed video platform.
-- [Civil](https://joincivil.com) - Decentralized newsmaking platform. 
-
+- [Civil](https://joincivil.com) - Decentralized newsmaking platform.
 
 ## Talks and Books
 
@@ -82,7 +79,6 @@ Industry of a blockchain application is defined by the one that is changed the m
 - [EventHorizon](http://eventhorizon2017.com) - First global summit on blockchain technology in Energy Sector.
 - [How the blockchain is changing money and business](https://www.youtube.com/watch?v=Pl8OlkkwRpc) - TED Talk from the author of "Blockchain Revolution" book on what is blockchain and its applications.
 - [Non Financial Uses of Blockchain Technology](https://www.youtube.com/watch?v=GGCHaphRjoM) - Presentation of non-financial uses of blockchain at Fintech Week 2016.
-
 
 ## License
 

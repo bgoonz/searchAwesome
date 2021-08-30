@@ -36,7 +36,6 @@
   randomly, with interviewers doing their own thing. And so different
   combinations give different results. Injecting some sense of consistency
   should lead to evening out your interviewing process.
-  
 - [How to Interview at Amazon - Leadership](https://www.linkedin.com/pulse/how-interview-amazon-leadership-david-anderson) - by David Anderson. Takeaway: Though framed according to the activity of interviewing at Amazon and the company's principles, this detailed and thought-provoking article also provides insights on ideas on growing a team/tech organization; building a culture of customer-focused leaders; and much more.
 
 - [How to Make Executive Hires at Your Startup](https://thinkgrowth.org/how-to-make-executive-hires-at-your-startup-5531d8cb770d) - by Steve Blank. Takeaway: "Know whether you’re hiring for search or execution. Show the job requirements visually as a pie chart. Prioritize each requirement by the width of the pie. Show your assessment of each candidate’s competencies by the length of the slices. Now with the data in front of you, the conversation about hiring can start."
@@ -55,7 +54,7 @@
 
 - [Never, Ever Compromise: Hiring for Culture Fit](http://blog.eladgil.com/2012/04/never-ever-compromise-hiring-for.html) - by Elad Gil. Takeaway: "Your company culture is the foundation on which everything you do rests. Your culture acts as an unwritten set of rules that drives behavior and cohesion across the company. Cohesive, insular cultures are more resilient and can withstand shocks to it..." The article does point out that homogeneity of values is the idea, not homogeneity of backgrounds or personalities; however, its suggestion to use social outing tests (going to a bar) with candidates could reinforce monoculture.
 
-- [Observations on the Enterprise of Hiring](https://honeycomb.io/blog/2018/01/observations-on-the-enterprise-of-hiring/) - by Charity Majors. Takeaway:  Honeycomb’s interview goals are to include no surprises, value realistic code with no whiteboarding, highlight communication skills, see every candidate at their best, and allow candidates to interview the company.
+- [Observations on the Enterprise of Hiring](https://honeycomb.io/blog/2018/01/observations-on-the-enterprise-of-hiring/) - by Charity Majors. Takeaway: Honeycomb’s interview goals are to include no surprises, value realistic code with no whiteboarding, highlight communication skills, see every candidate at their best, and allow candidates to interview the company.
 
 - [1 Personality Trait Steve Jobs Always Looked for When Hiring for Apple](https://www.inc.com/betsy-mikel/to-hire-all-star-employees-steve-jobs-looked-for-1-non-negotiable-quality.html) - by Betsy Mikel. Takeaway: "After swearing off seasoned professionals who had management experience, Jobs says he started looking for a different quality: passion. 'We wanted people that were insanely great at what they did, but were not necessarily those seasoned professionals,' he explains. 'But who had at the tips of their fingers and in their passion the latest understanding of where technology was and what they could do with that technology.'"
 
@@ -66,20 +65,17 @@
 - [Seek the Challengers](https://shripriya.com/blog/2020/06/09/seek-the-challengers) - by Shripriya Mahesh. Takeaway: “[D]issenters are worth their weight in gold. If every employee is drinking the kool-aid, the company won’t question long-held beliefs, challenge itself, or stretch in new and interesting ways.”
 
 - [7 Practical Ways to Reduce Bias in Your Hiring Process](https://hbr.org/2017/06/7-practical-ways-to-reduce-bias-in-your-hiring-process) - by Rebecca Knight. Takeaways: Identify and actively seek to reduce bias. If you aren't talking about bias, you aren't changing anything. Standardizing your interview process reduces ability for subtle biases to creep in.
-  
 - [Things Are Going So Well We’re Doing a Hiring Freeze](https://m.signalvnoise.com/things-are-going-so-well-were-doing-a-hiring-freeze-5f66372a4214) - by DHH. Takeaway: "We’ve always been great fans of constraints, and capping the headcount in the face of growth is perhaps the biggest constraint of all. Especially because we’re not at all about running faster. Squeezing out more productivity from fewer hands. Quite the contrary."
 
 - [25 Tips for Diverse
-  Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring) - by 
+  Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring) - by
   Model View Culture. Takeaways: Externally, know what you want and be sure to
   actively pursue it. Internally, keep in mind hiring bias and internal culture.
   Ensure that your internals are prepared, as growing diversity is ultimately
   more important than hiring.
-  
 - [What Managers Are Getting Wrong About the World’s Greatest Job Ad](http://blog.idonethis.com/greatest-job-ad/) - by Blake Thorne at iDoneThis. Takeaway: A good job posting outlines the mission, the risks and the rewards.
 
 - [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - by anonymous. Takeaway: Be careful with the "brilliant" word. Many brilliant people start a lot and are visionaries or charismatic, but don't finish what they started.
-  
 - [Why You Should Invest in Undervalued People](https://acloudguru.com/blog/business/why-you-should-invest-in-undervalued-people) - by Joe Emison. Takeaway: "There are excellent software developers who hate hackathons and would rather spend time raising their children on weekends than on coding side projects. There are people who are neuroatypical who can’t deal well with your unrealistic, on-the-spot brain teasers. There are people who need some additional training and mentorship to be able to ship software effectively for most organizations. These people are all undervalued by the standard hiring practices in tech, which means that, with some effort on your part, they’ll give the highest return on investment of any hires you can make."
 
 ### Interviewing Candidates
@@ -104,23 +100,22 @@
 
 - [How to Conduct a Good Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html) - by Li Haoyi. Takeaway: Focus on your primary goals. Usually they are: 1) Will the candidate be able to write working code if they join the team? 2) Can the candidate discuss code and problems with the people they'll be working with? 3) Can the candidate reason about arbitrary problems and constraints? 4) Is the candidate someone we would enjoy working with? From there, Li elaborates a strategy to perform the interview, including preparation, running it and conclusions.
 
-- [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers) - by Ammon Bartram (Triplebyte). Takeaway: Ask questions similar to real work. Ask multipart questions. Avoid hard questions. Make decisions based on max skill, not average/minimum skill.  Most programmers prefer interviews to trials/take-homes, even though interviews aren't the best way to evaluate people.
-  
+- [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers) - by Ammon Bartram (Triplebyte). Takeaway: Ask questions similar to real work. Ask multipart questions. Avoid hard questions. Make decisions based on max skill, not average/minimum skill. Most programmers prefer interviews to trials/take-homes, even though interviews aren't the best way to evaluate people.
 - [How to Make Tech Interviews a Little Less Awful](https://medium.com/@racheltho/how-to-make-tech-interviews-a-little-less-awful-c29f35431987) - by Rachel Thomas. Takeaway: Don't believe that the smartest individuals make for the smartest teams. Think about whether you're hiring people just like you/yourselves; and consider false negatives. "[I]f an entire industry’s interview processes are biased against a particular group of people, members of that group will have a hard time getting hired anywhere, regardless of how talented they are." Based your interviews around these factors: It reesembles actual work the candidate would be doing in their job; clear rubrics; consistent and standardized; don’t have an elite-candidate fast path.
 
 - [Improving Our Engineering Interview Process](https://engineering.foursquare.com/improving-our-engineering-interview-process-106173ba25a9) - by Jeff Jenkins and David Park. Takeaway: offers an overview of a three-hour take-home they give and use for onsite code review.
 
 - [Interviewing](https://www.xaprb.com/blog/interviewing/) - by Baron Schwartz. Takeaway: Understand what you're hiring for, ask questions about past performance only, and gauge potential by "asking questions about what challenged them and how they responded to it."
- 
+
 - [Interviewing Engineers at Sensu](https://blog.sensuapp.org/interviewing-engineers-at-sensu-e4fc35cd601f) - by Greg Poirier. Takeaway: A process that includes an architectural challenge and a coding challenge that can be done in pairs. Sensu grades candidates on a four-level mastery-centric scale. "If you’re not pairing with someone, we expect that you’re able to effectively transfer your expert knowledge of your solution to the rest of the team. So we expect a take-home assessment to be very well documented."
 
 - [Medium’s Engineering Interview Process](https://medium.engineering/mediums-engineering-interview-process-b8d6b67927c4) - by Jamie Talbot. Takeaway: An excellent breakdown on grading candidate responses and assessment criteria, available as Creative Commons documents.
- 
+
 - [Moneyball Hiring: the Interview](https://moz.com/devblog/moneyball-hiring-the-interview/) - by Kelsey Foley. Takeaway: Look for a growth mindset and a diverse set of skills. Use a collaborative mini-hackathon instead of interviews.
 
 - [The One Method I’ve Used to Eliminate Bad Tech Hires](https://mattermark.com/the-one-method-ive-used-to-eliminate-bad-tech-hires/): - by Amir Yasin. Takeaway: Use a paid take-home assignment followed by in-person discussion of the work.
 
-- [A Recipe for an Interview](https://jocelyngoldfein.com/a-recipe-for-an-interview-e4af1211d590) - by Jocelyn Goldfein. Takeaway: Offers a list of helpful questions for uncovering how candidates (product, engineering, etc.) handle situations related to their application of functional skills/competencies. 
+- [A Recipe for an Interview](https://jocelyngoldfein.com/a-recipe-for-an-interview-e4af1211d590) - by Jocelyn Goldfein. Takeaway: Offers a list of helpful questions for uncovering how candidates (product, engineering, etc.) handle situations related to their application of functional skills/competencies.
 
 - [Refactoring the Mirrortocracy](http://carlos.bueno.org/2014/06/refactoring.html) - by Carlos Bueno. Takeaway: Provides everal good, tactical recommendations for interviewing at the end, such as "operate from a principle of hospitality," "study false negatives," and "enforce minimum standards of feedback."
 

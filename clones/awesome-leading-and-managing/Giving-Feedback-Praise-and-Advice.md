@@ -1,6 +1,6 @@
 ## Giving Feedback, Praise and Advice
 
-- [Can You “Fix” Colleagues Who Aren’t Self-Aware?](https://www.linkedin.com/pulse/can-you-fix-colleagues-who-arent-self-aware-daniel-goleman) - by Daniel Goleman, the author of *Emotional Intelligence*. Takeaway: "Working with someone who has low Emotional Self-Awareness isn’t just an annoyance for co-workers, it impacts everyone’s ability to perform well in their work. Research by Korn Ferry Hay Group and others show that a leader’s high Emotional Self-Awareness contributes to overall performance."
+- [Can You “Fix” Colleagues Who Aren’t Self-Aware?](https://www.linkedin.com/pulse/can-you-fix-colleagues-who-arent-self-aware-daniel-goleman) - by Daniel Goleman, the author of _Emotional Intelligence_. Takeaway: "Working with someone who has low Emotional Self-Awareness isn’t just an annoyance for co-workers, it impacts everyone’s ability to perform well in their work. Research by Korn Ferry Hay Group and others show that a leader’s high Emotional Self-Awareness contributes to overall performance."
 
 - [Can Your Employees Really Speak Freely?](https://hbr.org/2016/01/can-your-employees-really-speak-freely) - by James R. Detert and Ethan R. Burris. Takeaway: Being open and receptive of feedback leads to higher retention and better performance. Anonymous feedback is counter-productive because it sends the message that one must remain anonymous in the environment; it does not necessarily lead to more authentic outcomes. And "the biggest reason for withholding ideas and concerns wasn’t fear but, rather, the belief that managers wouldn’t do anything about them anyway."
 
@@ -18,7 +18,7 @@
 
 - [How and Why You Need to Recognize Your Executives](http://blog.bonus.ly/how-and-why-you-need-to-recognize-your-executives?utm_content=56841793&utm_medium=social&utm_source=twitter) - by Jessica Collins. Takeaway: Leaders are people too, and giving them feedback keeps them in touch with the organization, and motivates them to continue doing the "right" things.
 
-- [How Do Individual Contributors Get Stuck?](https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516) - by Camille Fournier. Takeaway: When giving constructive feedback, pay attention to how ICs get stuck and address those habits—endless research, helping others instead of doing their own work, refactoring, and other ways. 
+- [How Do Individual Contributors Get Stuck?](https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516) - by Camille Fournier. Takeaway: When giving constructive feedback, pay attention to how ICs get stuck and address those habits—endless research, helping others instead of doing their own work, refactoring, and other ways.
 
 - [How to Get More Feedback from Your Team](https://getlighthouse.com/blog/get-more-feedback-team) - by Lighthouse. Takeaway: gives five approaches for increasing feedback, including asking for it (many don't) and being grateful for the feedback you receive.
 
@@ -26,7 +26,7 @@
 
 - [How to Give Negative Feedback Over Email](https://hbr.org/2016/10/how-to-give-negative-feedback-over-email) - by Jocelyn K. Glei. Takeaway: When circumstances require you to give negative feedback via email, start with appreciation; provide specific, actionable direction; avoid using the imperative; emphasize progress; and use the word "yet."
 
-- [Negative Feedback Antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns) - by Charles-Axel Dein. Covers the OFNR (Observation, Feeling, Need, Request) method. *Observation* of a fact: A fact is rarely controversial, and a great way to start a conversation. *Feeling*: express your feelings and your story. Clarify that it’s your story. *Need*: state what you value, or the kind of impact you’d like to see. *Request*: explain what concrete action the other person would need to take.
+- [Negative Feedback Antipatterns](http://blog.d3in.org/post/153942984306/negative-feedback-antipatterns) - by Charles-Axel Dein. Covers the OFNR (Observation, Feeling, Need, Request) method. _Observation_ of a fact: A fact is rarely controversial, and a great way to start a conversation. _Feeling_: express your feelings and your story. Clarify that it’s your story. _Need_: state what you value, or the kind of impact you’d like to see. _Request_: explain what concrete action the other person would need to take.
 
 - [Our 6 Must Reads for Managers to Give Feedback That Helps People Grow](http://firstround.com/review/our-6-must-reads-for-managers-to-give-feedback-that-helps-people-grow/) - by FirstRound. Takeaway: six FirstRound articles to help you deliver feedback more effectively.
 

@@ -1,6 +1,7 @@
 # Sample Company's OKRs
 
 ### OKRs
+
 - **Company Objective: Increase brand recognition and awareness**
   - Key Result: Increase media engagement by 20%
   - Key Result: Launch customer referral program by September 1

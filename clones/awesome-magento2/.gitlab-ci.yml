@@ -6,5 +6,5 @@ stages:
   - test
 
 include:
-  - remote: 'https://raw.githubusercontent.com/run-as-root/gitlab-pipeline-templates/master/linter/markdown_spellcheck.yaml'
-  - remote: 'https://raw.githubusercontent.com/run-as-root/gitlab-pipeline-templates/master/misc/awesome-bot.yaml'
+  - remote: "https://raw.githubusercontent.com/run-as-root/gitlab-pipeline-templates/master/linter/markdown_spellcheck.yaml"
+  - remote: "https://raw.githubusercontent.com/run-as-root/gitlab-pipeline-templates/master/misc/awesome-bot.yaml"

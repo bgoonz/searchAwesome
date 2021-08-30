@@ -12,6 +12,7 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 - **Bad**: pretty unusable
 
 # Application Domains
+
 <br/>
 
 ## Compilers and Programming Language Tools
@@ -21,7 +22,7 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 - **Compilers written in OCaml**:
 
   - [cDuce](http://www.cduce.org/) - cDuce is a modern XML-oriented functional language with innovative features.
-  - [Compcert C Compiler](http://compcert.inria.fr/) - It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C  features.
+  - [Compcert C Compiler](http://compcert.inria.fr/) - It is a C Compiler supporting most of the ISO C90 and C99 / ANSI C features.
   - [Eff Programming Language](http://www.eff-lang.org/) - Eff is a functional language with handlers of not only exceptions, but also of other computational effects such as state or I/O.
   - [Hack Programming Language](http://hacklang.org/)
   - [Haxe Programming Language](http://haxe.org/)
@@ -34,6 +35,7 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
   - [Others](http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=88) - Some other compilers implemented in OCaml, quite a few dead now.
 
 - **Parser and Lexer Generators**:
+
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir) – Menhir is a refined (LA)LR(1) parser generator for OCaml.
   - [dypgen](http://dypgen.free.fr/) – Self-extensible GLR parser generator
   - [ocamllex](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex (and yacc) implementation for OCaml.
@@ -64,24 +66,25 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 
 - **Rating**: Immature
 - **Notable libraries**:
-    - [Lacaml](http://mmottl.github.io/lacaml): OCaml-bindings to BLAS and LAPACK.
-    - [Gsl](http://mmottl.github.io/gsl-ocaml): Bindings to the GNU Scientific Library.
-    - [Sundials/ML](http://inria-parkas.github.io/sundialsml/) is an interface to the Sundials 
-      suite of numerical solvers.
-    - [odepack](http://forge.ocamlcore.org/projects/odepack/): Binding to ODEPACK.
-    - [optimization1d](http://forge.ocamlcore.org/projects/optimization1d/): 
-      Find extrema of 1D functions.
-    - [Lbfgs](https://github.com/Chris00/L-BFGS-ocaml): Minimization of multidimensional 
-      functions on bounded or unbounded domains.  Binding to
-      [L-BFGS-B](http://users.iems.northwestern.edu/~nocedal/lbfgsb.html).
-    - [FFTW3](https://github.com/Chris00/fftw-ocaml): Binding to the famous Fast Fourier
-      Transform library [FFTW](http://www.fftw.org/).
-    - [mesh](https://github.com/Chris00/mesh): Triangular mesh generation and manipulation.
-    - [root1d](http://forge.ocamlcore.org/projects/root1d/): Find roots of 1D functions.
-    - [integration1d](http://forge.ocamlcore.org/projects/integration1d/): Integration of 
-      functions of one variable (inspired from QUADPACK).
-    - [nlopt](https://bitbucket.org/mkur/nlopt-ocaml/): bindings to the
-      [NLOpt](http://ab-initio.mit.edu/wiki/index.php/NLopt) optimization library. 
+
+  - [Lacaml](http://mmottl.github.io/lacaml): OCaml-bindings to BLAS and LAPACK.
+  - [Gsl](http://mmottl.github.io/gsl-ocaml): Bindings to the GNU Scientific Library.
+  - [Sundials/ML](http://inria-parkas.github.io/sundialsml/) is an interface to the Sundials
+    suite of numerical solvers.
+  - [odepack](http://forge.ocamlcore.org/projects/odepack/): Binding to ODEPACK.
+  - [optimization1d](http://forge.ocamlcore.org/projects/optimization1d/):
+    Find extrema of 1D functions.
+  - [Lbfgs](https://github.com/Chris00/L-BFGS-ocaml): Minimization of multidimensional
+    functions on bounded or unbounded domains. Binding to
+    [L-BFGS-B](http://users.iems.northwestern.edu/~nocedal/lbfgsb.html).
+  - [FFTW3](https://github.com/Chris00/fftw-ocaml): Binding to the famous Fast Fourier
+    Transform library [FFTW](http://www.fftw.org/).
+  - [mesh](https://github.com/Chris00/mesh): Triangular mesh generation and manipulation.
+  - [root1d](http://forge.ocamlcore.org/projects/root1d/): Find roots of 1D functions.
+  - [integration1d](http://forge.ocamlcore.org/projects/integration1d/): Integration of
+    functions of one variable (inspired from QUADPACK).
+  - [nlopt](https://bitbucket.org/mkur/nlopt-ocaml/): bindings to the
+    [NLOpt](http://ab-initio.mit.edu/wiki/index.php/NLopt) optimization library.
 
 - **Educational resources**: ...
 
@@ -89,14 +92,14 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 
 - **Rating**: Immature
 - **Notable libraries**:
-   - [COW](github.com/mirage/ocaml-cow): Set of tools and syntax extensions for generating
-     and manipulating HTML, CSS, and XML with OCaml.
-   - [Ocsigen](http://ocsigen.org/): High-level framework for developing client-server applications
-     in OCaml
-   - [BuckleScript](https://github.com/BuckleScript/bucklescript): JS compiler
-   - [JS of OCaml (JSOO)](https://github.com/ocsigen/js_of_ocaml): Compiler from OCaml bytecode
-     to JavaScript, intended to be used for large, high-performance projects.
-   - [Reason](https://github.com/facebook/reason): JavaScript-ish syntax for OCaml.
+  - [COW](github.com/mirage/ocaml-cow): Set of tools and syntax extensions for generating
+    and manipulating HTML, CSS, and XML with OCaml.
+  - [Ocsigen](http://ocsigen.org/): High-level framework for developing client-server applications
+    in OCaml
+  - [BuckleScript](https://github.com/BuckleScript/bucklescript): JS compiler
+  - [JS of OCaml (JSOO)](https://github.com/ocsigen/js_of_ocaml): Compiler from OCaml bytecode
+    to JavaScript, intended to be used for large, high-performance projects.
+  - [Reason](https://github.com/facebook/reason): JavaScript-ish syntax for OCaml.
 - **Educational resources**: ...
 
 ## Mobile Applications
@@ -110,33 +113,29 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 - **Rating**: Mature
 - **Notable libraries**:
 
-    - XenServer's [XAPI](https://github.com/xapi-project/xen-api) toolstack
-    - [MirageOS](https://mirage.io/)  – a library operating system that constructs unikernels
+  - XenServer's [XAPI](https://github.com/xapi-project/xen-api) toolstack
+  - [MirageOS](https://mirage.io/) – a library operating system that constructs unikernels
 
 - **Educational resources**: ...
 
-
-
-
-
-
 # Programming ecosystem
+
 <br/>
 
 ## Extensions or Replacements to stdlib
 
 - **Notable libraries**:
-  * [batteries-included](http://batteries.forge.ocamlcore.org/): a community-driven stdlib replacement
+  - [batteries-included](http://batteries.forge.ocamlcore.org/): a community-driven stdlib replacement
     with many data structures
-  * [Core](https://github.com/janestreet/core_kernel): JaneStreet's replacement for the stdlib
-  * [containers](https://github.com/c-cube/ocaml-containers): modular collection of data structures
+  - [Core](https://github.com/janestreet/core_kernel): JaneStreet's replacement for the stdlib
+  - [containers](https://github.com/c-cube/ocaml-containers): modular collection of data structures
 
 ## Algorithms and Data Structures
 
 - **Rating**: Mature
 - **Notable libraries**:
-  * [htmt](https://github.com/rgrinberg/ocaml-hamt): Hash Array Mapped Tries
-  * [ocamlgraph](http://ocamlgraph.lri.fr/): powerful graph library
+  - [htmt](https://github.com/rgrinberg/ocaml-hamt): Hash Array Mapped Tries
+  - [ocamlgraph](http://ocamlgraph.lri.fr/): powerful graph library
 - **Educational resources**: ...
 
 ## Code Analysis and Linters
@@ -144,24 +143,24 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 - **Rating**: Immature
 - **Notable libraries**:
   - [OCamlLint](https://github.com/cryptosense/ocamllint): Linter for finding common security and performance
-     problems in OCaml programs.
+    problems in OCaml programs.
 - **Educational resources**: ...
 
 ## Parallelism and concurrency
 
 - **Rating**: Immature
 - **Notable libraries**:
-    - [Lwt](http://ocsigen.org/lwt/) — A stand-alone monadic cooperative threading library.
-    - [Async](http://janestreet.github.io/) — A monadic cooperative threading library integrated with the Core library.
+  - [Lwt](http://ocsigen.org/lwt/) — A stand-alone monadic cooperative threading library.
+  - [Async](http://janestreet.github.io/) — A monadic cooperative threading library integrated with the Core library.
 - **Educational resources**: ...
 
 ## Databases
 
 - **Rating**: Immature
 - **Notable libraries**:
-    - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/): Bindings to the PostgreSQL database
-    - [SQLite3-OCaml](https://github.com/mmottl/sqlite3-ocaml): Bindings to the SQLite3 database
-    - [Irmin](https://github.com/mirage/irmin): A distributed database based on Git, written in OCaml
+  - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/): Bindings to the PostgreSQL database
+  - [SQLite3-OCaml](https://github.com/mmottl/sqlite3-ocaml): Bindings to the SQLite3 database
+  - [Irmin](https://github.com/mirage/irmin): A distributed database based on Git, written in OCaml
 - **Educational resources**: ...
 
 ## Developer Tools
@@ -179,12 +178,9 @@ The topics are roughly sorted from greatest strengths to greatest weaknesses. Ea
 ## System interaction
 
 - **Rating**: Mature
-- **Notable libraries**:
-    - [fileutils](https://forge.ocamlcore.org/projects/ocaml-fileutils/) – File manipulation utilties, such as (recursive) directory removal, and path manipulation.
-    - [ExtUnix](https://github.com/ygrek/extunix) – interface to common
-      and platform-specific Unix system functions
-D-Bus (system libraries)
-    - [Libvirt](https://libvirt.org/ocaml/) – a portable toolkit to interact with the virtualisation capabilities of Linux, Solaris and other operating systems.
+- **Notable libraries**: - [fileutils](https://forge.ocamlcore.org/projects/ocaml-fileutils/) – File manipulation utilties, such as (recursive) directory removal, and path manipulation. - [ExtUnix](https://github.com/ygrek/extunix) – interface to common
+  and platform-specific Unix system functions
+  D-Bus (system libraries) - [Libvirt](https://libvirt.org/ocaml/) – a portable toolkit to interact with the virtualisation capabilities of Linux, Solaris and other operating systems.
 
 ## Foreign Function Interfaces
 
@@ -192,8 +188,7 @@ D-Bus (system libraries)
 
 - **Rating**: Immature
 - **Notable libraries**:
-    - [Cmdliner](http://erratique.ch/software/cmdliner/doc/Cmdliner.html) – Cmdliner is a powerful library for defining command line interfaces in a declarative fashion, include the support for subcommands.
-
+  - [Cmdliner](http://erratique.ch/software/cmdliner/doc/Cmdliner.html) – Cmdliner is a powerful library for defining command line interfaces in a declarative fashion, include the support for subcommands.
 
 ## Networking
 
@@ -205,22 +200,22 @@ D-Bus (system libraries)
 
 - **Rating**: Mature
 - **Notable libraries**:
-  * [opam](http://opam.ocaml.org/): very active package manager for OCaml
+  - [opam](http://opam.ocaml.org/): very active package manager for OCaml
 - **Educational resources**: ...
 
 ## Communication protocols
 
 - **Rating**: ...
 - **Notable libraries**: ...
-    - [Obus](https://github.com/diml/obus) – pure-OCaml (and fast!) implementation of the DBus protocol
+  - [Obus](https://github.com/diml/obus) – pure-OCaml (and fast!) implementation of the DBus protocol
 - **Educational resources**: ...
 
 ## Data Formats
 
 - **Rating**: ...
 - **Notable libraries**:
-  * [sexplib](https://github.com/janestreet/sexplib): S-expressions
-  * [yojson](http://mjambon.com/yojson.html): JSON
+  - [sexplib](https://github.com/janestreet/sexplib): S-expressions
+  - [yojson](http://mjambon.com/yojson.html): JSON
 - **Educational resources**: ...
 
 ## Serialization
@@ -233,10 +228,6 @@ D-Bus (system libraries)
 
 - **Rating**: Mature
 - **Notable libraries**:
-  * [OUnit](http://ounit.forge.ocamlcore.org/): unit testing
-  * [Alcotest](https://github.com/mirage/alcotest): unit testing
+  - [OUnit](http://ounit.forge.ocamlcore.org/): unit testing
+  - [Alcotest](https://github.com/mirage/alcotest): unit testing
 - **Educational resources**: ...
-
-
-
-

@@ -20,7 +20,7 @@
 
 - [Diversity Debt: How Much Does Your Startup Have?](https://medium.com/@abarrica/startups-diversity-debt-and-what-to-do-about-it-cd385364506#.37de3laye) - by Andrea Barrica. Takeaway: "In the same way that engineers can accrue “technical debt” when they push out sloppy code, or business owners can accrue “bookkeeping debt” when they procrastinate their financials until tax time, companies can also accrue diversity debt over their life cycle. The more people your company hires until you have a diverse team (meaning an array of genders, LGBT, socio-economic backgrounds, ethnicities, ages, able-bodiedness, etc.) — the more diversity debt your organization has accrued."
 
-- [Diversity and Inclusion at Patreon](https://patreonhq.com/diversity-and-inclusion-at-patreon-9d835c774db5) - by Lucia Guillory. Takeaway: A snapshot of how Patreon was performing in D&I in 2018, including race and gender statistics on different teams. 
+- [Diversity and Inclusion at Patreon](https://patreonhq.com/diversity-and-inclusion-at-patreon-9d835c774db5) - by Lucia Guillory. Takeaway: A snapshot of how Patreon was performing in D&I in 2018, including race and gender statistics on different teams.
 
 - [Diversity and Inclusion: Stop Talking and Do Your Homework](https://opensource.com/article/17/9/diversity-and-inclusion-innovation) - by Emma Irwin. Takeaway: 12 ways to increase diversity and inclusion, based on Mozilla's research.
 
@@ -40,12 +40,12 @@
 
 - [How Fragile Deployments Hurt Diversity](https://home.opsolutely.com/how-your-bad-engineering-tooling-is-hurting-your-ability-to-hire-diversity/) - by Kate Heddleston. Takeaway: "Here are two things that are true: the single most expensive thing on your engineering team is engineers, and fragile teams are terrible places to work. Which means – the biggest problem with fragile deployments isn’t just that your code might break; the real problem is that you will lose your valuable engineers because of bad workplace culture. In the long run, a broken culture can be more costly than outages. It can even kill your business."
 
-- [How Men and Women See the Workplace Differently](http://graphics.wsj.com/how-men-and-women-see-the-workplace-differently/) - by Nikki Waller. A *Wall Street Journal* article on a study conducted by LeanIn.org and MicKinsey. "Data show that men win more promotions, more challenging assignments and more access to top leaders than women do. Men are more likely than women to feel confident they are en route to an executive role, and feel more strongly that their employer rewards merit."
+- [How Men and Women See the Workplace Differently](http://graphics.wsj.com/how-men-and-women-see-the-workplace-differently/) - by Nikki Waller. A _Wall Street Journal_ article on a study conducted by LeanIn.org and MicKinsey. "Data show that men win more promotions, more challenging assignments and more access to top leaders than women do. Men are more likely than women to feel confident they are en route to an executive role, and feel more strongly that their employer rewards merit."
 
 - [How Our Engineering Environments Are Killing Diversity (and How We Can Fix It)](https://www.youtube.com/watch?v=kNke_4WOWAU) (video) - by Kate Heddleston.
 
 - [How Our Engineering Environments Are Killing Diversity: Introduction](https://kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) - by Kate Heddleston.
- 
+
 - [How to Move Past the Pipeline Problem to Reach Your Diversity Goals](https://talentsonar.com/blog/webinar-dont-call-it-a-skills-shortage/) (video/webinar) - by Elizabeth Ames and Laura Mather. Takeaway: "Companies continually hire from a traditional talent pool that is only 35% of the US population, when they should be looking at a much broader swath of the population. There is a qualified, untapped talent pool of women, underrepresented minorities, LGBT, veterans, etc. that comprises more than 65% of the US."
 
 - [How to Run Inclusive Meetings](https://thisisfranklin.com/2018/02/22/how-to-run-inclusive-meetings.html) - by Franklin Hu. Takeaway: "It’s the meeting moderator’s job to both create a psychologically safe environment and ensure that participants have an equal opportunity to contribute. Shaping the environment that meetings happen in helps to lower the barrier for people to contribute in meetings by hopefully eliminating entire classes of extrinsic factors that may dissuade individuals. Meetings are often highly visible, decision-making and ideation forums. By making sure all participants have an equal opportunity to participate, you are helping to create an inclusive culture."
@@ -80,7 +80,7 @@
 
 - [Tracking Compensation and Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - by Lara Hogan. Takeaway: "Plenty of tech companies are attempting to make their pipeline of candidates more diverse. But an organization won’t find much success recruiting a more diverse group of employees unless its leaders are aware of their existing internal inclusion and equity issues. Unless leadership has already started to tackle these issues, it’s likely that these new hires will enter into an environment that they won’t want to stick around in for long."
 
-- [The Type of Team Diversity You’re Probably Not Paying Attention To](https://firstround.com/review/the-type-of-team-diversity-youre-probably-not-paying-attention-to/) - by FirstRound Capital. Takeaway: a focus feature on  Itamar Goldminz, whose Heart/Will/Head model defines three “types” of people and how they see the world around them.
+- [The Type of Team Diversity You’re Probably Not Paying Attention To](https://firstround.com/review/the-type-of-team-diversity-youre-probably-not-paying-attention-to/) - by FirstRound Capital. Takeaway: a focus feature on Itamar Goldminz, whose Heart/Will/Head model defines three “types” of people and how they see the world around them.
 
 - [Ways Men in Tech Are Unintentionally Sexist](https://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/) - by Kat Hagan. Takeaway: Little, unintentially malicious things people say reinforce stereotypes.
 

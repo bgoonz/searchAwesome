@@ -6,15 +6,15 @@
 
 - [Cost Per Reasonable Decision (CPRD)](https://cutle.fish/blog/cost-per-reasonable-decision-cprd) - by John Cutler. Takeaway: "[W]e want rapid throughput of small, safe-to-fail decisions, coupled with focus and attention on the high-level strategic decisions that will set the course for the org for months/years...Consider the irony that many orgs spend $50k to make a single decision over work that will take two weeks to actually implement and test."
 
-- [Debiasing the Corporation: An Interview with Nobel Laureate Richard Thaler](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/debiasing-the-corporation-an-interview-with-nobel-laureate-richard-thaler) - by Bill Javetski and Tim Koller. Takeaway: Thaler advocates writing things down to avoid hindsight bias and to keep track of patterns. 
+- [Debiasing the Corporation: An Interview with Nobel Laureate Richard Thaler](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/debiasing-the-corporation-an-interview-with-nobel-laureate-richard-thaler) - by Bill Javetski and Tim Koller. Takeaway: Thaler advocates writing things down to avoid hindsight bias and to keep track of patterns.
 
 - [Decide How to Decide: Empowering Product Ownership](https://medium.com/@ellengott/decide-how-to-decide-empowering-product-ownership-97a54be29e7) — by Ellen Gottesdiener. Takeaway: Offers suggestions to help teams and product owners reach decisions without making assumptions about whether they’ve come to a consensus or not and includes a “gradient of agreement”
 
 - [Decision-Making Auditing](http://tomtunguz.com/decision-making-auditing/) - by Tomasz Tunguz. Takeaway: "I’ll never know as much about a company’s operations or strategy or a sector as a founder/management team. But, I still want to be helpful. So, the most effective strategy I’ve found so far is to probe how the decision was made. Answer a question with a trenchant question, which coincidentally, ties back to some of the best advice I’ve received from a founder."
- 
- - [Decision Making in a Company with No Managers](https://www.infoq.com/articles/decisions-company-no-managers) - by Jan Zborowski. Takeaway: Ensuring a safe decision-making environment for all employees is a must in a self-managed company. Letting ordinary employees propose an idea and then implement it, to jointly shape the company’s future, results in a low rotation indicator. A flat and transparent business model translates directly into clients’ happiness and a company’s growth.
 
-- [Decisions, Decisions](https://www.youtube.com/watch?v=EauykEv_2iA) - by Dan North. Takeaway: A conference talk about decision-making, highlighting common tradeoffs made during software development. 
+- [Decision Making in a Company with No Managers](https://www.infoq.com/articles/decisions-company-no-managers) - by Jan Zborowski. Takeaway: Ensuring a safe decision-making environment for all employees is a must in a self-managed company. Letting ordinary employees propose an idea and then implement it, to jointly shape the company’s future, results in a low rotation indicator. A flat and transparent business model translates directly into clients’ happiness and a company’s growth.
+
+- [Decisions, Decisions](https://www.youtube.com/watch?v=EauykEv_2iA) - by Dan North. Takeaway: A conference talk about decision-making, highlighting common tradeoffs made during software development.
 
 - [“Do We All Agree” Is a Terrible Question](https://medium.com/@hunterwalk/do-we-all-agree-is-a-terrible-question-14499769591b) - by Hunter Walk. Takeaway: We often confuse 'collaboration' with 'consensus.' The former is about engaging a group of people to work together and discuss ideas. It aims to make the whole greater than the sum of its parts. The best leaders are certainly collaborative."
 
@@ -30,7 +30,7 @@
 
 - [In 2018, Focus on Quality of Decision Over Quality of Outcome](https://hunterwalk.com/2018/01/01/in-2018-focus-on-quality-of-decision-over-quality-of-outcome/) - by Hunter Walk. Takeaway: "In any system with relatively low cost of failure and repeatable game scenarios, it would seem that getting the decision right is actually what matters."
 
-- [Know Thyself: The Power of a Decision Journal](http://www.samkyle.com/decision-journal/) - by Sam Kyle. Takeaway: The author of *The Decision Checklist: A Practical Guide to Avoiding Problems* makes the case for keeping a journal of decisions. "A decision journal will help you to slow down, reflect on and understand your decisions, and provide a path for you to get better. In the end, taking the time to think through problems will save you time. Not only will you make better initial decisions, but you’ll spend less time cleaning up the mess of poor ones." 
+- [Know Thyself: The Power of a Decision Journal](http://www.samkyle.com/decision-journal/) - by Sam Kyle. Takeaway: The author of _The Decision Checklist: A Practical Guide to Avoiding Problems_ makes the case for keeping a journal of decisions. "A decision journal will help you to slow down, reflect on and understand your decisions, and provide a path for you to get better. In the end, taking the time to think through problems will save you time. Not only will you make better initial decisions, but you’ll spend less time cleaning up the mess of poor ones."
 
 - [The Naturalistic Decision Making Podcast](https://naturalisticdecisionmaking.org/podcasts/) - by Brian Moon and Laura Militello. Takeaway: a podcast featuring researchers who study people who make decisions under stress.
 
@@ -50,7 +50,7 @@
 
 - [Why Humble People Make Better Decisions](https://journal.thriveglobal.com/why-humble-people-make-better-decisions-d18e6ad6180a#.hy27xhl36) - by Drake Baer. Takeaway: A Duke University research study shows that people with high "intellectual humility" are more open to the information coming their way, as a form of "information sensitivity." This means they end up making more informed decisions than those who need to be right and ignore evidence.
 
-- [Why Leaders Who Listen Achieve Breakthroughs](https://www.strategy-business.com/blog/Why-Leaders-Who-Listen-Achieve-Breakthroughs?__s=ns1epkqjs8qj1ggjuafv) - by Elizabeth Doty. Takeaway: Two-way conversations (as opposed to conversations in which the "sender" of a message focuses on their own half, instead of paying equal attention to the recipient's message and response) can make collaboration occur at a level that can be game-changing. Decisions become better and more reflective/inclusive of different perspectives and information sources. 
+- [Why Leaders Who Listen Achieve Breakthroughs](https://www.strategy-business.com/blog/Why-Leaders-Who-Listen-Achieve-Breakthroughs?__s=ns1epkqjs8qj1ggjuafv) - by Elizabeth Doty. Takeaway: Two-way conversations (as opposed to conversations in which the "sender" of a message focuses on their own half, instead of paying equal attention to the recipient's message and response) can make collaboration occur at a level that can be game-changing. Decisions become better and more reflective/inclusive of different perspectives and information sources.
 
 - [Writing Great Proposals to Speed up Decisions](https://medium.com/@maxthelion/writing-proposals-to-speed-up-decisions-8a13d4122649) - by Max Williams. Takeaway: Suggests using a format when asking someone to take an action—state the problem, solution, alternatives, negative consequences, and first actions.
 
@@ -60,6 +60,6 @@
 
 - [How to Prioritize Features and Projects: The Ultimate List of Prioritization Frameworks](https://productcoalition.com/how-to-prioritize-features-and-projects-heres-the-ultimate-list-of-prioritization-frameworks-6f5b626ae779) - by Jordan Lamborn. Takeaway: 111 prioritization methods dating back from the 1980s to the present.
 
-- [Prioritize Opportunities, Not Solutions]](https://www.producttalk.org/2019/02/prioritize-opportunities/) -by Teresa Torres. Takeaway:  “Prioritizing solutions is a left-over side effect of being output focused. When we are judged by what we deliver, the key decisions are focused on what to build when. But when we are judged by what outcomes we drive, it’s less about what solutions we deliver and more about what problems we solve for our customers.”
+- [Prioritize Opportunities, Not Solutions]](https://www.producttalk.org/2019/02/prioritize-opportunities/) -by Teresa Torres. Takeaway: “Prioritizing solutions is a left-over side effect of being output focused. When we are judged by what we deliver, the key decisions are focused on what to build when. But when we are judged by what outcomes we drive, it’s less about what solutions we deliver and more about what problems we solve for our customers.”
 
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) — by Brandon Chu. Takeaway: “Estimate return on investment for each project; apply three constraints: dependencies, timeline and team composition, and sequence projects based on ROI and constraints.” Includes a template for triaging bugs as a tool for getting teams to think about priorities.

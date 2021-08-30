@@ -5,6 +5,7 @@
 > Curated list of awesome Less frameworks, libraries, style guides, articles, and resources. The main idea is that everyone can contribute here, so we can center all the informations about Less and keep up-to-date.
 
 ## Contents
+
 - [About](#about)
 - [Getting Started](#getting-started)
 - [UI/Theme Frameworks and Components](#uitheme-frameworks-and-components)
@@ -36,7 +37,7 @@
 
 ## About
 
-Less is a open source dynamic style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. Designed by Alexis Sellier, Less is influenced by Sass and has influenced the newer "SCSS" syntax of Sass, which adapted its CSS-like block formatting syntax. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via Less by the browser. Font: [Wikipedia](https://en.wikipedia.org/wiki/Less_(stylesheet_language))
+Less is a open source dynamic style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side. Designed by Alexis Sellier, Less is influenced by Sass and has influenced the newer "SCSS" syntax of Sass, which adapted its CSS-like block formatting syntax. Less provides the following mechanisms: variables, nesting, mixins, operators and functions; the main difference between Less and other CSS precompilers being that Less allows real-time compilation via Less by the browser. Font: [Wikipedia](<https://en.wikipedia.org/wiki/Less_(stylesheet_language)>)
 
 **[Back to top](#contents)**
 
@@ -53,18 +54,18 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ## UI/Theme Frameworks and Components
 
 - [1pxdeep](http://rriepe.github.io/1pxdeep/) - Brings designing by relative visual weight, or designing with color schemes, to Bootstrap.
-- [Ant Design](https://github.com/ant-design/ant-design/) - 	An enterprise-class UI design language and React-based implementation.
+- [Ant Design](https://github.com/ant-design/ant-design/) - An enterprise-class UI design language and React-based implementation.
 - [Bootstrap a11y theme](https://github.com/bassjobsen/bootstrap-a11y-theme) - Makes web accessibility easier for Bootstrap developers.
 - [Bootstrap 3](http://getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Bootswatch](http://bootswatch.com/) - Collection of free themes for Bootstrap.
 - [Cardinal](http://cardinalcss.com/) - Small "mobile first" CSS framework for front-end developers who build responsive web applications.
-- [CSSHórus](https://github.com/firminoweb/csshorus) - 	Library for development of responsive and mobile websites.
+- [CSSHórus](https://github.com/firminoweb/csshorus) - Library for development of responsive and mobile websites.
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
 - [Less Rails](https://github.com/metaskills/less-rails) - Less for Rails.
 - [Material Design for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
-- [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
+- [Schema](http://danmalarkey.github.io/schema/) - Light, responsive, and lean frontend UI framework.
 - [Semantic UI](http://semantic-ui.com/) - UI component framework based around useful principles from natural language.
 - [UIkit](https://getuikit.com/) - Lightweight and modular front-end framework for developing web interfaces.
 - [Wee](https://www.weepower.com/) - Lightweight front-end framework for logically building complex, responsive web projects.
@@ -115,20 +116,20 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 - [3L](http://mateuszkocz.github.io/3l/) - Mixins library.
 - [Bidi](https://github.com/danielkatz/less-bidi) - Set of mixins for creating bi-directional styling.
-- [Clearless](http://clearleft.github.io/clearless/) - 	Collection of mixins.
+- [Clearless](http://clearleft.github.io/clearless/) - Collection of mixins.
 - [Css3LessPlease](http://chrsr.com/css3lessplease/) - Conversion of css3please.com to Less mixins.
-- [CssEffects](http://adodson.com/css-effects/) - 	Collection of CSS style effects.
+- [CssEffects](http://adodson.com/css-effects/) - Collection of CSS style effects.
 - [Cssowl](http://cssowl.owl-stars.com/) - Mixin library.
 - [Dynamic Stylesheet](https://github.com/mrkrupski/LESS-Dynamic-Stylesheet) - Set of useful mixins.
-- [Est](https://github.com/ecomfe/est/) - 	Mixin library.
+- [Est](https://github.com/ecomfe/est/) - Mixin library.
 - [Hexagon](http://db0company.github.io/css-hexagon/) - Generate CSS hexagons with custom size and color.
 - [Homeless](https://github.com/pixelass/homeless) - Helpful functions.
 - [Less Elements](http://lesselements.com/) - Set of basic mixins.
 - [Lesshat](https://github.com/madebysource/lesshat) - Smart mixins library.
-- [Lessley](https://github.com/pixelass/lessley) - 	A jasmine like testing suite written in pure Less.
-- [Lessmore](https://github.com/belyan/lessmore) - 	Mixins library. Cross-browser support for the CSS3 features and more.
-- [Normalize](https://github.com/segundofdez/normalize.less) - 	Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) using Less.
-- [Oban](http://oban.io/) - 	Collection of mixins.
+- [Lessley](https://github.com/pixelass/lessley) - A jasmine like testing suite written in pure Less.
+- [Lessmore](https://github.com/belyan/lessmore) - Mixins library. Cross-browser support for the CSS3 features and more.
+- [Normalize](https://github.com/segundofdez/normalize.less) - Modularized famous [normalize.css](https://github.com/necolas/normalize.css/) using Less.
+- [Oban](http://oban.io/) - Collection of mixins.
 - [Preboot](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS.
 - [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 - [Shape](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes.

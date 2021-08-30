@@ -16,12 +16,12 @@ Just-right management (“Goldilocks”) leads to increase in engagement.
 
 - [How to Decide Which Tasks to Delegate](https://hbr.org/2017/07/how-to-decide-which-tasks-to-delegate) - by Jenny Blake. Takeaway: "Conduct an audit using the six T’s to determine what tasks make the most sense to offload"—tiny, tedious, time-consuming, teachable, terrible at, and time-sensitive. Includes a [delegation template](https://docs.google.com/spreadsheets/d/1spiyCEvdD4TMyoF12UPwvcZKlTYSCBnoMY1IBJ0idyM/edit#gid=2099757242) you can use as a model for offloading tasks.
 
-- [How to Delegate Better with the 7 Delegation Levels](https://www.youtube.com/watch?v=VZF-G7MCSG4) (video) - by Jürgen Appelo of M 3.0. Takeaway: a quick and clear video outlining seven levels of delegation: tell, sell, consult, agree, advise, inquire and delegate. "By distributing control and delegating decision making in an organization, we empower both workers and managers, enabling resilience and agility. This makes delegation truly an investment and an achievement." This [accompanying article](https://management30.com/practice/delegation-board/) links to tips and exercises your team case use to reinforce delegation levels.  
+- [How to Delegate Better with the 7 Delegation Levels](https://www.youtube.com/watch?v=VZF-G7MCSG4) (video) - by Jürgen Appelo of M 3.0. Takeaway: a quick and clear video outlining seven levels of delegation: tell, sell, consult, agree, advise, inquire and delegate. "By distributing control and delegating decision making in an organization, we empower both workers and managers, enabling resilience and agility. This makes delegation truly an investment and an achievement." This [accompanying article](https://management30.com/practice/delegation-board/) links to tips and exercises your team case use to reinforce delegation levels.
 
 - [How to “Get out of the Way”](https://medium.com/garbage-collection/getting-out-of-the-way-cb15fa62407d#.yuuegs28h) - by Phil Sarin. Takeaways: Remove mechanisms of control: examples include estimation, meetings, sprints; increase focus (eliminate projects and reduce the number of priorities to 1-2); give authority to choose any approach that would lead to success. Need strong agreement on the goals of the project. If your managing principle is trust and not control, then people matter more than processes do.
 
 - [How to Handle “The Situation”](http://randsinrepose.com/archives/the-situation/) - by Michael Lopp. Takeaways:
-a) Do I understand the complete context, b) am I the right person to handle it, c) do I trust my information, d) are there any inconsistencies and do I understand them, e) do I understand my biases, f) do I understand my emotional state relative to the issue, and g) can I coherently explain multiple perspectives of it?
+  a) Do I understand the complete context, b) am I the right person to handle it, c) do I trust my information, d) are there any inconsistencies and do I understand them, e) do I understand my biases, f) do I understand my emotional state relative to the issue, and g) can I coherently explain multiple perspectives of it?
 
 - [Identify Leaders By Giving People Assignments](http://www.feld.com/archives/2014/12/identify-leaders-giving-people-assignments.html) - by Brad Feld. Takeaway: categorize the responses in one of three ways: 50% vanish; 25% do the assignment; and 25% make shit happen well beyond what the assignment was—these are the leaders.
 
@@ -43,7 +43,7 @@ a) Do I understand the complete context, b) am I the right person to handle it, 
 
 ### Delegation as “Pressure”
 
-- [Do You Feel Pressure or Do You Apply Pressure?](http://www.bhorowitz.com/do_you_feel_pressure_or_do_you_apply_pressure) - by Ben Horowitz. About using “pressure” as an analogy for delegation. 
+- [Do You Feel Pressure or Do You Apply Pressure?](http://www.bhorowitz.com/do_you_feel_pressure_or_do_you_apply_pressure) - by Ben Horowitz. About using “pressure” as an analogy for delegation.
 
 - [How to Put the Right Amount of Pressure on Your Team](https://hbr.org/2016/07/how-to-put-the-right-amount-of-pressure-on-your-team) - by Liane Davey. Takeaway: There’s an ideal level of stress; be mindful of it and modulate.
 

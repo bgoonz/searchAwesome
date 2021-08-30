@@ -4,7 +4,6 @@ All that you need to create a great mobile web experience.
 
 <a href="https://github.com/myshov/awesome-mobile-web-development/blob/master/CONTRIBUTING.md">Contribution Guidelines</a>
 
-
 ## Contents
 
 - [Articles and Documentation](#articles-and-documentation)
@@ -14,7 +13,6 @@ All that you need to create a great mobile web experience.
 - [Performance Auditing Tools](#performance-auditing-tools)
 - [Platform Monitoring](#platform-monitoring)
 - [Other Useful Tools and Libraries](#other-useful-tools-and-libraries)
-
 
 ## Articles and Documentation
 
@@ -34,7 +32,7 @@ All that you need to create a great mobile web experience.
 - [Enhance SMS-delivered code security with domain-bound codes](https://developer.apple.com/news/?id=z0i801mg) - On additional security measures for 2FA.
 - [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) - A diagram that shows in which cases JavaScript can be unavailable.
 - [Faster Web App Delivery with PRPL](https://addyosmani.com/blog/the-prpl-pattern/) - On pattern for performant web applications.
-- [Get Started with Remote Debugging Android Devices]( https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) - Debug your web app on Adroid with Chrome DevTools.
+- [Get Started with Remote Debugging Android Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) - Debug your web app on Adroid with Chrome DevTools.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - The compilation of good articles about mobile web development.
 - [Hiding Videos on the Mobile Web](https://dougsillars.com/2020/01/06/hiding-videos-on-the-mbile-web/) - How to hide videos without an impact on mobile traffic.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - An overview of negative practices on mobile sites.
@@ -67,7 +65,6 @@ All that you need to create a great mobile web experience.
 - [What Does A Foldable Web Actually Mean?](https://www.smashingmagazine.com/2020/02/foldable-web-meaning/) - Musings on the impact of foldable phones on web.
 - [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - An interesting paper about websites' power consumption.
 
-
 ## Books
 
 - [Brain Food Mobile Performance](http://www.awwwards.org/brainfood-mobile-performance-vol3.pdf) - Free small ebook on mobile performance from Awwwards.
@@ -76,7 +73,6 @@ All that you need to create a great mobile web experience.
 - [Mobile Design Pattern Gallery: UI Patterns for Smartphone Apps](https://www.amazon.com/Mobile-Design-Pattern-Gallery-Smartphone/dp/1449363636) - UI patterns which can be useful for mobile web apps.
 - [Mobile First](http://mobile-first.abookapart.com/) - How to design sites for mobile devices (free online version).
 - [Responsive Web Design](https://abookapart.com/products/responsive-web-design) - Book about responsive web design.
-
 
 ## Specifications from W3C for Enhancing Mobile Web Experience
 
@@ -95,7 +91,6 @@ All that you need to create a great mobile web experience.
 - [Web NFC API](https://w3c.github.io/web-nfc/) - On access to Near Field Communication capabilities of the device.
 - [Web Notifications](https://www.w3.org/TR/notifications/) - On an API for end-user notifications.
 
-
 ## Talks
 
 - [Adaptive Loading - Improving web performance on slow devices](https://www.youtube.com/watch?v=puUPpVrIRkc&feature=emb_title) - Overview of practices for adapting a site to hardware and network constraints, by Addy Osmani, Nate Schloss.
@@ -104,7 +99,6 @@ All that you need to create a great mobile web experience.
 - [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8) - Introduction to service workers, by Jake Archibald.
 - [Mobile Web Performance](https://www.youtube.com/watch?v=_y5IzI_tpTw) - What to do on your site to achieve the best possible mobile experience, by Estelle Weyl.
 - [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) - How to audit performance issues on the site, by Paul Lewis.
-
 
 ## Auditing Tools
 
@@ -116,14 +110,12 @@ All that you need to create a great mobile web experience.
 - [Test Your Mobile Speed](https://testmysite.withgoogle.com/intl/en-gb) - The tool from Google that performs comprehesive speed check of the mobile site.
 - [Webpagetest](https://webpagetest.org) - Website speed test from multiple locations using real browsers and at real consumer connection speeds.
 
-
 ## Platform Monitoring
 
 - [Can I Use](https://caniuse.com) - State of support of various web features in browsers.
 - [Mobile Browser Market Share](http://gs.statcounter.com/browser-market-share/mobile) - Market share between various platforms and countries.
 - [Standards for Web Applications on Mobile](https://www.w3.org/Mobile/mobile-web-app-state) - Current state of mobile-related W3C specifications.
 - [What Web Can Do Today](https://whatwebcando.today) - What your browser capable of.
-
 
 ## Other Useful Tools and Libraries
 

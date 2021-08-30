@@ -4,14 +4,14 @@
 
 - [Communication Training Tomorrow! (no, not really)](https://medium.com/@JBunky/communication-training-tomorrow-no-not-really-8b216d8cb9a3) - by Jen Bunk. Takeaway: Commmunication trainings, and communication skills, aren't enough to fix cultural issues. You need to go deeper and explore where your systems are failing.
 
-- [Driving Change: Why Are Your Ideas Being Rejected?](https://medium.com/@bocytko/driving-change-why-are-your-ideas-being-rejected-e2ab96227e40) - by Bartosz Ocytko. Takeaway: A very thorough examination of the many different reasons why you might not be getting across, with guidance on determining which problems are important; how to get organizational support; bringing solutions instead of problems; timing, and what to do if despite your efforts change still doesn't come. 
+- [Driving Change: Why Are Your Ideas Being Rejected?](https://medium.com/@bocytko/driving-change-why-are-your-ideas-being-rejected-e2ab96227e40) - by Bartosz Ocytko. Takeaway: A very thorough examination of the many different reasons why you might not be getting across, with guidance on determining which problems are important; how to get organizational support; bringing solutions instead of problems; timing, and what to do if despite your efforts change still doesn't come.
 
 - [11 Top Tips for a Successful Technical Presentation](https://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx) - by Scott Hanselman. Takeaway: detail-oriented tips ranging from font type/size to being mindful of your distracting personal habits.
 
 - [Escaping E-mail Hell](https://medium.com/the-year-of-the-looking-glass/escaping-e-mail-hell-f55905f3862f) - by Julie Zhuo. Takeaway: Tips for communicating more succinctly in emails to reduce workload and also increase the chances that others will read them. Also includes this nugget: "Forwarding a huge thread with nothing more than 'Thoughts?' at the start is the e-mail equivalent of a flaming bag of dog poop on your doorstep."
 
 - [Etsy's Charter of Mindful Communication](http://larahogan.me/blog/charter-mindful-communication/) - by Lara Hogan and Etsy's Culture & Engagement team. Takeaway: When engaging with someone, keep it REAL—"Reflect on the dynamics in the room;
-Elevate the conversation; Assume best intentions; Listen to learn."
+  Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [42 Things Non-Front-Liners Misunderstand](https://medium.com/hackernoon/40-things-non-front-liners-misunderstand-fcb2f55088f9) - by John Cutler. Takeaway: "It is unfair to expect people who haven’t worked on the front lines in software development to just get it. Just as, I’m guessing, it is hard for developers and UXers to grok sales and marketing, being a CEO, and working in HR. Assuming malice is a big mistake. We all want great outcomes for our respective businesses, but have a hard time bridging the divide."
 
@@ -23,7 +23,7 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 
 - [How to Have Impact](https://vishalkapur.com/how-to-have-impact/) - by Vishal Kapur. Takeaway: "Some aspects of the impact generation process are in your control, and some aren’t. The world (i.e. the "environment") isn’t in your control. Neither are the outcomes you get from trying things – remember the intention/impact gap. However, generating ideas, making things, taking risks, and the people you choose to work with are."
 
-- [How to Improve Emotional Intelligence](https://medium.com/personal-growth/how-to-improve-emotional-intelligence-375dbe1c5d51) - by Darius Foroux. Takeaway: Identify, interpret, manage your emotions. "When you can identify your own emotions, you will also get better at identifying other people’s emotions." This can positively impact your leadership abilities. 
+- [How to Improve Emotional Intelligence](https://medium.com/personal-growth/how-to-improve-emotional-intelligence-375dbe1c5d51) - by Darius Foroux. Takeaway: Identify, interpret, manage your emotions. "When you can identify your own emotions, you will also get better at identifying other people’s emotions." This can positively impact your leadership abilities.
 
 - [How to Influence Culture When You’re Not the CEO](https://m.signalvnoise.com/how-to-influence-culture-when-youre-not-the-ceo-81a4162257b) - by Claire Lew. Takeaway: Model what you’d like to be true of your team; speak up with improvement ideas through the prism of team instead of individual/personal; give space, grace, and gratitude to leaders.
 
@@ -36,7 +36,7 @@ Elevate the conversation; Assume best intentions; Listen to learn."
 - [The Indispensable Document for the Modern Manager](http://firstround.com/review/the-indispensable-document-for-the-modern-manager) - by First Round. Takeaway: "To grow the company and as a leader, every manager at a startup needs to scale herself. At the end of the day, writing a user guide is an exercise in self-awareness. What teams want from their leaders more than anything else is predictability and authenticity. This leads to trust. With trust, you can be unstoppable. Give yourself a leg up and take the time to self-reflect, write and revise a user guide. If your founding team and early hires are friends or past colleagues — this is especially critical."
 
 - [It’s Not Them, It’s You](https://medium.com/@deoates/what-to-do-if-people-arent-doing-what-you-want-a68cc70b28bf) - by David Oates. Takeaway: "You’re in your first role as a leader and you’re not getting the results you expect — what do you do?
-Start by assuming it’s not them, it’s you."
+  Start by assuming it’s not them, it’s you."
 
 - [Just Because You Said It, Doesn't Make It So](https://www.linkedin.com/pulse/20140428141014-22330283-just-because-you-said-it-doesn-t-make-it-so/) - by Jeff Weiner. Takeaway: "We all need to be wary of avoiding the Ron Burgundy syndrome: On the surface, looking and sounding the part, but without providing the right discipline, focus, and ongoing context, appearing as nothing more than a talking head." Includes lessons for communicating more effectively.
 
@@ -52,12 +52,12 @@ Start by assuming it’s not them, it’s you."
 
 - [Meeting Resistance and Moving Forward](https://www.youtube.com/watch?v=DrCD1wmK9oM) - by Linda Rising. Takeaway: A keynote talk featuring tips for handling naysayers and skeptics.
 
-- [Never Split the Difference Cheat-Sheet](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - by Yan-David Erlich. Takeaway: a detailed, six-page summary of Chris Voss' *Never Split the Difference*, the 2016 book about negotiation. Includes [blog post](https://medium.com/@yanda/negotiation-cheat-sheet-31c73031956a).
+- [Never Split the Difference Cheat-Sheet](https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet) - by Yan-David Erlich. Takeaway: a detailed, six-page summary of Chris Voss' _Never Split the Difference_, the 2016 book about negotiation. Includes [blog post](https://medium.com/@yanda/negotiation-cheat-sheet-31c73031956a).
 
 - [9 Tips: How IT Leaders Can Build Better Relationships](https://enterprisersproject.com/article/2017/11/9-tips-how-it-leaders-can-build-better-relationships) - by Carla Rudder. Takeaway: Be a partner, be transparent, be truthful, be in constant communication, be OK with being wrong, be in the moment, be engaged, be a team player, be candid.
 
 - [The Patient Change Agent](https://medium.com/hackernoon/the-patient-change-agent-fd8548f04777) - by John Cutler. Takeaway: "At a minimum, ask someone:
-Can you describe [to] an elephant in the room that I will quickly encounter, will think is totally fixable, but will be wrong? Why is the status quo difficult to change?"
+  Can you describe [to] an elephant in the room that I will quickly encounter, will think is totally fixable, but will be wrong? Why is the status quo difficult to change?"
 
 - [Prattfalls: Better Communication](https://medium.com/@royrapoport/prattfalls-better-communication-54d173d22a90) - by Roy Rapoport. Takeaway: "Communication only exists as a mutation of someone else’s internal state; focus entirely on what mutation you’re trying to accomplish; be thoughtful about how to accomplish that mutation; validate THAT mutation occurred."
 

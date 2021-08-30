@@ -64,7 +64,7 @@ Collect performance data from real users visiting your page. Be mindful of the a
 
 - [Performance tracking with Google Analytics (GA)](https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/#performance-tracking)
 - [Chrome User Experience Report (CrUX)](https://developers.google.com/web/tools/chrome-user-experience-report/)
-- [Load abandonment](https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics#load_abandonment) - Track  `visibilitychange` to account for survivorship bias.
+- [Load abandonment](https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics#load_abandonment) - Track `visibilitychange` to account for survivorship bias.
 - [SpeedCurve LUX](https://speedcurve.com/features/lux/) - Real User Monitoring SaaS.
 - [Akamai mPulse](https://www.akamai.com/uk/en/products/performance/mpulse-real-user-monitoring.jsp) - Real User Monitoring SaaS.
 - [Sematext Experience](https://sematext.com/experience/) - Real User Monitoring SaaS.
@@ -123,7 +123,7 @@ The Largest Contentful Paint (LCP) metric reports the render time of the largest
 
 ### Cumulative Layout Shift (CLS)
 
- A layout shift occurs any time a visible element changes its position from one frame to the next. CLS measures the sum total of all individual layout shift scores for every unexpected layout shift that occurs during the entire lifespan of the page.
+A layout shift occurs any time a visible element changes its position from one frame to the next. CLS measures the sum total of all individual layout shift scores for every unexpected layout shift that occurs during the entire lifespan of the page.
 
 - Lab: Lighthouse/WPT
 - Field: Chrome 77+
@@ -268,7 +268,6 @@ Measuring own (and third-party) JavaScript bytes is crucial as JavaScript is the
 - [What's in the Google PageSpeed score](https://medium.com/expedia-group-tech/whats-in-the-google-pagespeed-score-a5fc93f91e91)
 - [How Google Pagespeed works](https://calibreapp.com/blog/how-pagespeed-works/)
 
-
 ### User Timing
 
 The User Timing API allows the developer to create application specific timestamps that are part of the browser's performance timeline. e.g. you can create a user timing mark to measure when your JS has loaded for a specific component on the page.
@@ -283,10 +282,9 @@ Surface any backend server timing metrics (e.g. database latency, etc.) in the d
 
 - [Docs - Server Timing](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing)
 
-
 ### Frame rate
 
- The frame rate is the **frequency at which the browser can display frames**. A frame represents the amount of work a browser does in one event loop iteration such as processing DOM events, resizing, scrolling, rendering, CSS animations, etc. A frame rate of 60 fps (frames per second) is a common target for a good responsive user experience. This means the browser should process a frame in about 16.7 ms.
+The frame rate is the **frequency at which the browser can display frames**. A frame represents the amount of work a browser does in one event loop iteration such as processing DOM events, resizing, scrolling, rendering, CSS animations, etc. A frame rate of 60 fps (frames per second) is a common target for a good responsive user experience. This means the browser should process a frame in about 16.7 ms.
 
 - Lab: Chrome and FF Devtools
 - Field: No browser implements the Frame Timing API yet but you can roll your own fps meter using `requestAnimationFrame`
@@ -307,4 +305,3 @@ Surface any backend server timing metrics (e.g. database latency, etc.) in the d
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Csaba Palfi has waived all copyright and related or neighboring rights to this work.
-

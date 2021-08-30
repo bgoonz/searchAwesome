@@ -1,6 +1,7 @@
 ## People Ops, Performance Reviews and Goal-setting
 
 ### Dev Leveling Guides—aka Engineering Ladders
+
 It’s hard to get these right. Just b/c they work for one org doesn’t mean they’ll work for yours.
 
 - [Building a Growth Framework](https://blog.songkick.com/building-a-growth-framework-2464435e9e46) - by Aaron Randall. Takeaway: About Songkick's career growth framework's nine roles and seven key values, and how the company created it.
@@ -13,7 +14,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Engineering Ladders at Meetup](https://medium.com/making-meetup/engineering-ladders-at-meetup-caacbea4916e) - by Lara Hogan. Takeaway: Details on Meetup's makers and managers tracks, plus a graphic showing the ladders for both.
 
-- [Engineering Levels at Patreon](https://levels.patreon.com) - by Patreon. Takeaway: The engineering levels matrix, with details about each role. 
+- [Engineering Levels at Patreon](https://levels.patreon.com) - by Patreon. Takeaway: The engineering levels matrix, with details about each role.
 
 - [How to Break the “Senior Engineer” Career Ceiling](https://theburningmonk.com/2019/11/how-to-break-the-senior-engineer-career-ceiling/) - by Yan Cui. Takeaway: “Writing more code or releasing more features alone doesn’t make you a better senior engineer. It’s about your ability to deliver a meaningful business impact through your execution. This is the change in mindset that will set you on your way to the next level.”
 
@@ -44,6 +45,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 - [Habits to Earn a Raise](https://dev.to/recursivefaults/habits-to-earn-a-raise-ad8) - by Ryan Latta. Takeaway: Get a journal to record your wins, set goals aligned with company goals and follow up, run at problems that everyone else avoids.
 
 - **How to Set Team Goals**: Notes from a Conversation with Joe Goldberg and his Colleague, David Wolpa.
+
   - Deciding on a goal: Why do people choose to join your org/team?; What goals has the team really rallied around in the past? Why?
   - Look at "paired metrics" from High Output Management, e.g. output + quality-measuring outcomes ($, billable hours), not inputs (utilization, "time spent on tickets")
   - People should have role in determining the goal and setting the target (which should be stretch but be realistic)
@@ -75,6 +77,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 - [What Is "People Operations" and Why Should You Care?](https://www.linkedin.com/pulse/20141016192150-30417852-what-is-people-operations-and-why-should-you-care/) - by Doug Devlin. Takeaway: "People Operations is based on the simple truth: to hold on to your talent, you have to understand and “take care” of your talent. Allowing employee choice based on analytics as opposed to emotional mandates is the cornerstone of People Operations. "
 
 ### Performance Reviews
+
 “We see things not as they are but as we are.” Giving reviews is a place where bias lurks. Understand the cognitive bias cheatsheet and mental models list and you’ll at least acknowledge that we’re all biased.
 
 - [Assessing Employee Performance](https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a) from Eric Elliot. Takeaway: "If you’re not listening closely to the employee you’re evaluating, and interviewing their peers about how helpful and knowledgable that employee is… And if the sum of that feedback is anything less than your primary gauge of performance … You SUCK at judging employee performance."
@@ -85,7 +88,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f) - by Buster Benson. Takeaway: The four condundrums that lead to biases are too much information, not enough meaning, not enough time and resources, and not enough memory.
 
-- [The Dangers of Measuring Performance](https://medium.com/startup-patterns/the-dangers-of-measuring-performance-d21cd61426df) - by Sam McAfee. Takeaway: offers a useful summary of how we've evolved our common management practices from Taylorism to agile teamwork and collaboration. Measure performance by throughput; pair people/teams to focus on one deliverable at a time; and empower teams to improve processes themselves. 
+- [The Dangers of Measuring Performance](https://medium.com/startup-patterns/the-dangers-of-measuring-performance-d21cd61426df) - by Sam McAfee. Takeaway: offers a useful summary of how we've evolved our common management practices from Taylorism to agile teamwork and collaboration. Measure performance by throughput; pair people/teams to focus on one deliverable at a time; and empower teams to improve processes themselves.
 
 - [Decisions: What Makes Someone Have “Impact” Anyway?](https://medium.com/@skamille/decisions-7eed2bae82b3) - by Camille Fournier. Takeaway: Expect people to make impact within the scope of the level they are operating at, so talk about impact and scope almost interchangeably. No matter what level: Good decisions → Trust → More responsibility → Impact.
 
@@ -101,7 +104,7 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [How to Discuss Poor Performance with an Employee](https://knowyourteam.com/blog/2019/01/31/how-to-discuss-poor-performance-with-an-employee) - by Claire Lew. Takeaway: Provides some conversation structures to handle employees who are either aware or unaware of their poor performance.
 
-- [How to Get to the Core by Asking the Right Questions](https://www.tombartel.me/blog/how-to-get-to-the-core/) - by Tom Bartel. Takeaway: Asking why, listening to someone before making assumptions and stating them, and achieving buy-in are critical to getting someone to adapt their behavior. Mistakes like suggestive questions, "you have to fix it" messaging and inflexible plans will alienate and not solve the issue. 
+- [How to Get to the Core by Asking the Right Questions](https://www.tombartel.me/blog/how-to-get-to-the-core/) - by Tom Bartel. Takeaway: Asking why, listening to someone before making assumptions and stating them, and achieving buy-in are critical to getting someone to adapt their behavior. Mistakes like suggestive questions, "you have to fix it" messaging and inflexible plans will alienate and not solve the issue.
 
 - [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d) - by Gabriel Weinberg. A comprehensive list of mental models to make you aware of biases and assumptions.
 
@@ -113,11 +116,12 @@ It’s hard to get these right. Just b/c they work for one org doesn’t mean th
 
 - [Team Reviews](https://medium.com/@marcprecipice/team-reviews-4b395bee61c9) by Marc Hedlund. Takeaway: "Team reviews are quick and easy to do, and every time I’ve done one, the manager and I wind up talking about important topics, pushing ourselves to promote and reward people who deserve it, and taking action where needed. It also helps me know our whole team better, and get clear signals from managers that make interactions with each person more meaningful. I highly recommend the practice." Includes a template to get you started.
 
-- [Three Axioms Engineering Managers should use for Meaningful Performance Reviews](https://medium.com/@orenellenbogen/three-axioms-engineering-managers-should-use-for-meaningful-performance-reviews-4f520db06028) - by Oren Ellenbogen. Takeway: Before giving perf reviews think about how the employee can work anywhere, what they're great at, improvement areas, how to help them grow, books/blog posts to recommend, and what else the company can offer to help them grow. 
+- [Three Axioms Engineering Managers should use for Meaningful Performance Reviews](https://medium.com/@orenellenbogen/three-axioms-engineering-managers-should-use-for-meaningful-performance-reviews-4f520db06028) - by Oren Ellenbogen. Takeway: Before giving perf reviews think about how the employee can work anywhere, what they're great at, improvement areas, how to help them grow, books/blog posts to recommend, and what else the company can offer to help them grow.
 
 - [360-Degree Feedback](http://en.wikipedia.org/wiki/360-degree_feedback) - Wikipedia entry on the process for collecting feedback from a person's reports, peers, supervisors and self.
 
 - [Why I Quit Google to Work for Myself](https://mtlynch.io/why-i-quit-google/) - by Michael Lynch. Takeaway: A former Google engineer describes how Google's promotions committee setup meant that the legacy pipeline project he worked on didn't produce the metrics required to impress committee members. "Google kept telling me that it couldn’t judge my work until it saw me complete a project. Meanwhile, I couldn’t complete any projects because Google kept interrupting them midway through and assigning me new ones. My career was being dictated by a shifting, anonymous committee who thought about me for an hour of their lives. Management decisions that I had no input into were erasing months of my career progress."
 
 ### How to Review Managers
+
 - [Running a Manager Feedback Cycle](https://cate.blog/2017/03/23/running-a-manager-feedback-cycle/) - by Cate Huston. Provides a structured, transparent process for getting feedback as a manager. "It’s hard to get feedback as a manager, the hope was that people would be more candid if they 1) submitted feedback anonymously 2) to someone else. Because we tend to amplify negative feedback, there was a benefit to having someone else go through it, find trends, and repackage it for the recipient."

@@ -1,5 +1,6 @@
 ## Empathy and Listening
-*"Empathy is about standing in someone else's shoes, feeling with his or her heart, seeing with his or her eyes. Not only is empathy hard to outsource and automate, but it makes the world a better place." — Daniel Pink*
+
+_"Empathy is about standing in someone else's shoes, feeling with his or her heart, seeing with his or her eyes. Not only is empathy hard to outsource and automate, but it makes the world a better place." — Daniel Pink_
 
 - [Assholes, Jerks and Dickheads Are People Too](https://www.linkedin.com/pulse/assholes-jerks-dickheads-people-too-neil-mcgregor) - by Neil McGregor. Takeaway: "There is worrying trend on LinkedIn and in the business media in general. The labelling of people into categories labelled Assholes, Jerks and Dickheads. I have to say this worries me for a number of reasons, not the least of which, is the fact that some pretty heavy hitters are using the terms and in turn influencing many others to think along similar narrow minded lines. No doubt many if not all of us have had the unfortunate opportunity to work with some difficult folk, but labelling and discarding them helps no-one." The article encourages empathy and staying focused on someone's humanity.
 
@@ -17,7 +18,7 @@
 
 - [The Secret to Leading Organizational Change Is Empathy](https://hbr.org/2018/12/the-secret-to-leading-organizational-change-is-empathy?es_p=11440727) - by Patti Sanchez. Takeaway: "I’ve observed the same thing time and time again: How information is communicated to employees during a change matters more than what information is communicated ... A lack of audience empathy when conveying news about an organizational transformation can cause it to fail."
 
-- [Weathering the Emotional Storms of a Crisis — A Tactical Guide for Individual Contributors and Managers](https://firstround.com/review/weathering-the-emotional-storms-of-a-crisis-a-tactical-guide-for-individual-contributors-and-managers/) - by First Round. Takeaway: lessons in crisis management by Liz Fosslien and Mollie West Duffy, authors of *No Hard Feelings: The Secret Power of Embracing Emotions at Work*.
+- [Weathering the Emotional Storms of a Crisis — A Tactical Guide for Individual Contributors and Managers](https://firstround.com/review/weathering-the-emotional-storms-of-a-crisis-a-tactical-guide-for-individual-contributors-and-managers/) - by First Round. Takeaway: lessons in crisis management by Liz Fosslien and Mollie West Duffy, authors of _No Hard Feelings: The Secret Power of Embracing Emotions at Work_.
 
 - [Which Factors Shape Our Empathy?](https://greatergood.berkeley.edu/article/item/which_factors_shape_our_empathy) - by Emiliana R. Simon-Thomas. Takeaway: A summary of what empathy is from a neuroscientific and psychological approach, with a link to an empathy quiz included. Offered by UC Berkeley's "Greater Good" magazine.
 

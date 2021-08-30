@@ -13,15 +13,13 @@
 - [Grow Your Team by Focusing on Strengths Not Weaknesses](https://blog.intercom.com/grow-your-team-by-focusing-on-strengths-not-weaknesses/) - by David Lynch. Takeaway: "Getting the maximum impact from everyone on your team, and growing their potential for impact over time, is perhaps the most important thing a manager can do, but it can also be one of the hardest. Here’s a simple way you can do that." The simple way is to get your people to focus and build upon their strengths instead of their weaknesses, and to do it from a team-context perspective. Four skills areas to focus on: "leadership, expert execution, strategy and planning and cultural alignment."
 
 - [Habits vs Goals: A Look at the Benefits of a Systematic Approach to Life](https://www.farnamstreetblog.com/2017/06/habits-vs-goals/) - by Farnham Street. Takeaway: "Habits are processes operating in the background that power our lives. Good habits help us reach our goals. Bad ones hinder us. Either way, habits powerfully influence our automatic behavior."
-  
 - [How to Bullshit](https://www.happymelly.com/happy-melly-challenge-month-how-to-bull-sht/) (podcast) - by Happy Melly, with guest Tomas Kejzlar. Takeaway: this podcast is more of a breakdown of bullshit and how it impedes progress, distracts teams from action or innovation, and demotivates teams.
 
-- [How to Feel Progress](http://jkglei.com/progress/) - by Jocelyn K. Glei. Takeaway: "Making progress in meaningful work is the key to staying engaged...A palpable sense of progress typically emerges from studiously tracking our “small wins.” 
+- [How to Feel Progress](http://jkglei.com/progress/) - by Jocelyn K. Glei. Takeaway: "Making progress in meaningful work is the key to staying engaged...A palpable sense of progress typically emerges from studiously tracking our “small wins.”
 
 - [How to Foster Talent through a Growth Mindset and Grit](http://blog.bonus.ly/how-to-foster-talent-through-a-growth-mindset-and-grit) - by Jessica Collins. Takeaway: "[L]eaders can leverage growth mindset and grit to better develop talent and drive performance. This article outlines what it takes to build a culture of continuous improvement, among other evidence-based practices."
 
-- [How to Tell the Truth](https://a16z.com/2017/07/27/how-to-tell-the-truth/) - by Ben Horowitz. Takeaway: Do not lie to your people when it comes to telling bad news, but attach meaning to it.  
-  
+- [How to Tell the Truth](https://a16z.com/2017/07/27/how-to-tell-the-truth/) - by Ben Horowitz. Takeaway: Do not lie to your people when it comes to telling bad news, but attach meaning to it.
 - [I Do a Yearly Review, Here Are Some of the Questions](https://medium.com/@skamille/i-do-a-yearly-review-here-are-some-of-the-questions-cd23e19795e1) - by Camille Fournier. Takeaway: a list of 12 simple questions meant to provoke reflection.
 
 - [The Management Flywheel](https://skamille.medium.com/the-management-flywheel-c076f398969b) - by Camille Fournier. Takeaway: “When you find yourself in a rut, remember that you don’t have to solve the root cause of everything wrong with the team as a first act. Start with the little problems.”
@@ -41,6 +39,7 @@
 - [Vacation Time Can Boost Employee Performance](https://www.employeebenefitadviser.com/news/vacation-time-can-boost-employee-performance) - by Amanda Eisenberg. Takeaway: Research shows that more vacation time off leads to better performance.
 
 - [What Do Workers Want from the Boss?](https://blogs.wsj.com/atwork/2015/04/02/what-do-workers-want-from-the-boss/?__s=ns1epkqjs8qj1ggjuafv) - by Lauren Weber. Takeaway: "People don’t leave jobs, they leave managers." A study of 7,200 people showed that half had left a job because of their manager. Employees want daily face time from their manager, and regular meetings.
+
   1. **Business Motivated:** Driven most by a desire to get things done for the customer; have a can-do attitude. In terms of code, they think more concretely, and aren't always the best at creating abstractions that support reuse or other non-functional goals. They just want to get things done and see a functional product.
   2. **Technology Motivated:** Love learning new things for its own sake; eager to find the newest framework, language, or methodology and will take every opportunity to try it out on their current project. Know all the trending technologies, and have probably dabbled with them over nights and weekends. On a greenfield project they thrive, but when the field turns "brown" and new code turns into legacy, they look for greener pastures, or—possibly worse—seek ways to shoehorn in technology even if it's to the detriment of the system.
   3. **Problem Motivated:** Hard problems excite these developers, independent of which technology is employed or even if it adds value for the business. It's all about the puzzle. Coming up with an elegant, clever, or quality solution is the victory. While their solutions are solid, sometimes the details slip.
@@ -57,14 +56,13 @@
 
 - [Why Your Programmers Just Want to Code](https://hackernoon.com/why-your-programmers-just-want-to-code-36da9973388e) - by Marcus Blankenship. Takeaway: "How you handle ideas from new programmers sends an important signal. Good or bad, it sets the stage for what they expect. This determines if they share more ideas in the future… or keep their mouth shut."
 
-
 ### Retention
 
 - [Coaching Should Be The New Free Lunch in Tech](https://blog.keen.io/coaching-should-be-the-new-free-lunch-in-tech-7850690cc0fd) - by Lisa Nielsen. Takeaway: "Apparently, having an employer invest in your growth as a human makes a big impact on an employee’s willingness to stay put." About Keen IO's decision to create an internal team of coaches to offer coaching all employees; 91% have opted in to take advantage of the service.
 
 - [“Cost of Turnover” Calculator](https://docs.google.com/spreadsheets/d/1BikDho6Odqp7uD6_q3050-T5jayx3orSKPM1ZXwUySI/edit#gid=0) - by Lattice HQ. Takeaway: Plug in your company size and turnover rate, along with the costs of hiring and onboarding. The results may surprise you. And that says nothing of the emotional headache and cultural drain felt from losing great people.
 
-- [8 Bad Mistakes That Make Good Employees Leave](http://www.huffingtonpost.com/entry/8-bad-mistakes-that-make-good-employees-leave_us_592f02e5e4b0d80e3a8a3288) - by Dr. Travis Bradberry. Takeaway: You'll lose your best employees by making lots of stupid rules, treating everyone equally (not to be confused to "fairly"), tolerating poor performance, not recognizing accomplishments, not caring about people, not showing the big picture, not helping people cultivate their passions, and not making things fun. 
+- [8 Bad Mistakes That Make Good Employees Leave](http://www.huffingtonpost.com/entry/8-bad-mistakes-that-make-good-employees-leave_us_592f02e5e4b0d80e3a8a3288) - by Dr. Travis Bradberry. Takeaway: You'll lose your best employees by making lots of stupid rules, treating everyone equally (not to be confused to "fairly"), tolerating poor performance, not recognizing accomplishments, not caring about people, not showing the big picture, not helping people cultivate their passions, and not making things fun.
 
 - [8 Key Tactics for Developing Employees](https://www.forbes.com/sites/steveolenski/2015/07/20/8-key-tactics-for-developing-employees/#5214a25f6373) - by Steve Olenski. Takeaway: to motivate and retain your team, create individual development plans, provide performance metrics, provide opportunities outside of a job function, give constructive feedback, remove barriers, link to a professional network, outlay resources, and set the example.
 
@@ -72,13 +70,13 @@
 
 - [The 4 ‘Perks’ Good Developers Really Want](https://venturebeat.com/2017/08/27/the-4-perks-good-developers-really-want/) - by Mike Melnicki. Takeaway: The best developers "want to have an impact in all aspects of the company: product direction, marketing, human resources, design and even finance." The other three: Allow your devs to build a personal brand; create opportunities for them to demonstrate creativity; and consider the unique needs of your team members, and support them with flexibility.
 
-- [How to Grow Your Employees When You Can’t Promote Them](https://getlighthouse.com/blog/employee-development-grow-cant-promote/) - by unspecified Lighthouse blog writer. Takeaway: There are still opportunities for employees even if promotion is not currently an option. Lateral moves, and specific skills focus can help retain folks. Tapping into intrinsic motivations can help with engagement. 
+- [How to Grow Your Employees When You Can’t Promote Them](https://getlighthouse.com/blog/employee-development-grow-cant-promote/) - by unspecified Lighthouse blog writer. Takeaway: There are still opportunities for employees even if promotion is not currently an option. Lateral moves, and specific skills focus can help retain folks. Tapping into intrinsic motivations can help with engagement.
 
 - [How We Pay People at Basecamp](https://m.signalvnoise.com/how-we-pay-people-at-basecamp-f1d04f4f194b) - by DHH. Takeaway: "There are no negotiated salaries or raises at Basecamp. Everyone in the same role at the same level is paid the same. Equal work, equal pay." Basecamp offers employees salaries in the top 5% of the market (Chicago) and meaningful benefits, and has instituted a new profit growth sharing scheme.
 
-- [Leadership Hack: The Pizza Model for Happy and Productive Teams](https://medium.com/hackernoon/leadership-hack-the-pizza-model-for-happy-and-productive-teams-5708ca3e3ca7) - by Adi Oz. Takeaway: Oz created the Pizza Model after becoming a manager and watching half of the engineers leave due to company culture. The model includes four needs: social, (work-life) balance, profession and salary. Every person rates these factors on a different scale. 
+- [Leadership Hack: The Pizza Model for Happy and Productive Teams](https://medium.com/hackernoon/leadership-hack-the-pizza-model-for-happy-and-productive-teams-5708ca3e3ca7) - by Adi Oz. Takeaway: Oz created the Pizza Model after becoming a manager and watching half of the engineers leave due to company culture. The model includes four needs: social, (work-life) balance, profession and salary. Every person rates these factors on a different scale.
 
-- [People Leave Managers, Not Companies. Don’t Let That Manager Be You.](https://blog.intercom.com/people-leave-managers-not-companies/) - by Rich Archebold. Takeaway: Avoid manager overconfidence by asking for advice and peer review, owning instead of blaming, give feedback with empathy, savor success, and constantly revisit what it takes to be a good manager.  
+- [People Leave Managers, Not Companies. Don’t Let That Manager Be You.](https://blog.intercom.com/people-leave-managers-not-companies/) - by Rich Archebold. Takeaway: Avoid manager overconfidence by asking for advice and peer review, owning instead of blaming, give feedback with empathy, savor success, and constantly revisit what it takes to be a good manager.
 
 - [Quantifying Personal Retention Impact: A Mathematical Thought Exercise](http://royrapoport.blogspot.ie/2015/01/quantifying-personal-retention-impact.html) - by Roy Rapoport. Takeaway: Offers a scale from -3 to +3 for determining how much you'd join a company based on whether a former colleague you liked or disliked is working there.
 

@@ -1,6 +1,6 @@
 ## Transitioning to Management
 
-### Transitioning from Individual Contributor to Manager 
+### Transitioning from Individual Contributor to Manager
 
 - [Advice for a New Executive](https://larahogan.me/blog/advice-for-new-executive/) - by Lara Hogan. Takeaway: nine tips for getting off to a successful start, such as "find/create a peer support group" and "partner absurdly closely with product and make sure you understand priorities and the head of product understands tradeoffs." Comes with explanations for each tip.
 
@@ -12,15 +12,15 @@
 
 - [Chaotic Beautiful Snowflakes](http://randsinrepose.com/archives/chaotic-beautiful-snowflakes/) - by Rands in Repose. Takeaway: Think about the new work you’re creating with your words and actions. "The hard work of great leadership isn’t just managing the expected tasks that we can predict, it’s the art of successfully traversing the unexpected."
 
-- [Communicate Like a Boss](https://youtu.be/uUPH7-4IwSs) - by Kathryn Koehler. Takeaway: well-rounded, pragmatic communication overview for new and first-line managers delivered in a well organized as well as entertaining manner. 
+- [Communicate Like a Boss](https://youtu.be/uUPH7-4IwSs) - by Kathryn Koehler. Takeaway: well-rounded, pragmatic communication overview for new and first-line managers delivered in a well organized as well as entertaining manner.
 
-- [Conversations with Your Team, Peers and Boss](http://katemats.com/conversations-with-your-team-peers-and-boss-guide-for-new-leaders/) - by kate{mats}. Takeaway: "Whenever you first join a new team the most important thing you can do is listen and observe.  Get to know the players and the company culture."
+- [Conversations with Your Team, Peers and Boss](http://katemats.com/conversations-with-your-team-peers-and-boss-guide-for-new-leaders/) - by kate{mats}. Takeaway: "Whenever you first join a new team the most important thing you can do is listen and observe. Get to know the players and the company culture."
 
 - [The Delicate Balance Between Coding and Managing](https://medium.com/bigpanda-engineering/the-delicate-balance-between-coding-and-managing-24fec1ea6b07) - by Erik Zaadi. Takeaway: A candid essay about the steps and missteps from shifting from engineer to manager, with 12 lessons "learned the hard way"—i.e., get/give feedback continuously, "adhere to the standards you set to your team," etc.
 
 - [Don’t Leave Developers in the Dark](https://sprint.ly/blog/dark/) - by Joe Stump. Takeaway: Help developers understand the full scope of their work so they can make sound decisions. Includes questions to ask developers to make this possible.
 
-- [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a 'lane' and grow old there.  I completely reject this kind of slotting."
+- [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - by Charity Majors. Takeaway: "Fuck the whole idea that only managers get career progression. And fuckkkk the idea you have to choose a 'lane' and grow old there. I completely reject this kind of slotting."
 
 - [Four of My Biggest Mistakes as a New CEO and the Single Reason I Made Them](https://www.forbes.com/sites/carriekerpen/2016/04/05/four-of-my-biggest-mistakes-as-a-new-ceo-and-the-single-reason-i-made-them/#620bd95c157d) - by Carrie Kerpen, CEO of Likeable Media. Takeaway: Kerpen identifies "not wanting to rock the boat," "not setting boundaries," "not giving direct feedback," and "not firing fast enough" as her four mistakes, and explains why.
 
@@ -28,21 +28,21 @@
 
 - [From Coding To Management to Leadership](https://dev.to/lpasqualis/from-coding-to-management-to-leadership) - by Lorenzo Pasqualis. Takeaway: an examination of why developers are asked to manage, and why some developers go into management.
 
-- [Google’s New Manager Training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - by Google. Takeaway: Training materials that Google uses to help transition an individual contributor to a manager, including a manager facilitation training guide and exercises for students. 
+- [Google’s New Manager Training](https://rework.withgoogle.com/guides/managers-develop-and-support-managers/steps/review-googles-new-manager-training/) - by Google. Takeaway: Training materials that Google uses to help transition an individual contributor to a manager, including a manager facilitation training guide and exercises for students.
 
 - [How to Fail as a New Engineering Manager](https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a?gi=d8e3809e74c1) - by Brad Armstrong. Takeaway: You can fail by continuing to code; focusing only on work, not people; measuring your value by your output; expecting without expressing; leaving the team out of commitments; mistaking directing for leading; avoiding hard conversations; not learning your craft anymore.
 
 - [How to Make the Leap from Engineer to Manager](http://blog.newrelic.com/2014/07/23/measuring-manager-success/) - by Kirby Frugia at New Relic. Takeaway: "The key to making processes work is to make incremental changes, measure them, and then improve them." Also, managerial success and developer success differ in that the former is often achieved through others, more about strategic impact, and happen less frequently.
 
-- [How to Win Friends and Influence People](https://docs.google.com/document/d/1453UrSTkum5KrbX7SwwaUDVljP2uvDiHk6fIXNCxOCc/edit) - by Dale Carnegie; summary by Joe Goldberg. Notes on the legendary book, whose mention might make you wince but we suggest getting past that. :) 
+- [How to Win Friends and Influence People](https://docs.google.com/document/d/1453UrSTkum5KrbX7SwwaUDVljP2uvDiHk6fIXNCxOCc/edit) - by Dale Carnegie; summary by Joe Goldberg. Notes on the legendary book, whose mention might make you wince but we suggest getting past that. :)
 
 - [If Management Isn’t a Promotion, Then Engineering Isn’t a Demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/) - by Charity Majors. Takeaway: “Any technical company should work hard to center and celebrate the work being done to build the product and make customers happy. Management is overhead, to be brutally frank about it, and we should not design organizations that would lead any rational, ambitious person to aspire to be overhead, should we?”
- 
+
 - [The Leadership Paradox: Why Managers Must Be Consistently Inconsistent](https://getlighthouse.com/blog/leadership-paradox-consistently-inconsistent) - by Lighthouse. Takeaway: "Balancing when to be rigid and when to be flexible is one of the hardest things to learn as a manager." Provides guidance on how to manage this.
 
-- [Letter to (New) Managers](https://productlessons.substack.com/p/letter-to-new-managers) - by Linda Zhang. Takeaway: “Start out by managing someone who is like you,” avoid the pitfalls of value add disease, and other tips for adapting to the role.  
+- [Letter to (New) Managers](https://productlessons.substack.com/p/letter-to-new-managers) - by Linda Zhang. Takeaway: “Start out by managing someone who is like you,” avoid the pitfalls of value add disease, and other tips for adapting to the role.
 
-- [The Manager's Path [$]](http://shop.oreilly.com/product/0636920056843.do) - by Camille Fournier. A collection of advice for leaders at all levels of the career ladder. Valuable whether you are just starting out in management, a veteran, or just curious about common problems and challenges that managers face on a daily basis. 
+- [The Manager's Path [$]](http://shop.oreilly.com/product/0636920056843.do) - by Camille Fournier. A collection of advice for leaders at all levels of the career ladder. Valuable whether you are just starting out in management, a veteran, or just curious about common problems and challenges that managers face on a daily basis.
 
 - [Managing More Experienced People](https://medium.com/the-year-of-the-looking-glass/managing-more-experienced-people-9893f9903649) - by Julie Zhuo. Takeaway: "For me, despite knowing I’m not as strong of a designer as my senior reports, I understood how to approach design at Facebook and could support my team members in setting ambitious goals and working effectively with their partners."
 
@@ -50,10 +50,10 @@
 
 - [The More Senior Your Job Title, the More You Need to Keep a Journal](https://hbr.org/2017/07/the-more-senior-your-job-title-the-more-you-need-to-keep-a-journal?__s=ns1epkqjs8qj1ggjuafv) - by Dan Ciampa. Takeaway: "The French philosopher Blaise Pascal pointed out that 'All of humanity’s problems come from man’s inability to sit quietly in a room alone.' He didn’t mean sitting quietly in front of a laptop responding to emails. The best thinking comes from structured reflection — and the best way to do that is keeping a personal journal."
 
-- [The Most Important Management Concept You’re Missing](https://getlighthouse.com/blog/management-concept) - by Lighthouse. The article advocates Task Relevant Maturity, described like so: “How often you monitor should not be based on what you believe your subordinate can do in general, but on [their] experience with a specific task and [their] prior performance with it – [their] task relevant maturity…as the subordinate’s work improves over time, you should respond with a corresponding reduction in the intensity of the monitoring.” 
- 
+- [The Most Important Management Concept You’re Missing](https://getlighthouse.com/blog/management-concept) - by Lighthouse. The article advocates Task Relevant Maturity, described like so: “How often you monitor should not be based on what you believe your subordinate can do in general, but on [their] experience with a specific task and [their] prior performance with it – [their] task relevant maturity…as the subordinate’s work improves over time, you should respond with a corresponding reduction in the intensity of the monitoring.”
+
 - [The Most Important, Yet Overlooked Management Skill](https://getlighthouse.com/blog/management-skill) - by Lighthouse. Takeaway: Curiosity is the most important trait of a leader. Ask questions.
- 
+
 - [New Leader's 100-Day Action Plan & First 90 Days](https://docs.google.com/document/d/1w0JPuwaJSmDbrpv9n4FSXmHXS6XuKM-lcvQ-mIKo89A/edit) - by Joe Goldberg (summary). Highly detailed document with TOC. Covers topics ranging from due diligence (before you accept a job) to choosing the right approach for the culture and context.
 
 - [The New Manager Death Spiral](https://medium.com/@rands/the-new-manager-death-spiral-51a806b252dd#.3678kokzb) - by Michael Lopp. Takeaway: management isn't a promotion. Thinking, "I can do it all. I’m The Boss," will lead you to take on too much responsibility and set yourself up for failure. Avoid this outcome by delegating, hiring a diverse team, and listening.
@@ -62,11 +62,11 @@
 
 - [On Managing Your Friends](https://medium.com/@jenniferdary/on-managing-your-friends-d980b5d56e78) - by Jennifer Dary. Takeaway: "At the end of the day, you cannot control the emotional growth or maturity of anyone but yourself. So if your friend is going to hold it against you, if they’re going to be resentful and stick their tongue out when you’re not looking, then you keep on keeping on."
 
-- [Only 10% of CEOs Have This Critical Skill](https://www.linkedin.com/pulse/only-10-ceos-have-critical-skill-ryan-holmes) - by Ryan Holmes. Takeaway: Social media skills are increasingly worthwhile for leaders to develop, for reasons ranging from recruitment outreach to promoting products. 
+- [Only 10% of CEOs Have This Critical Skill](https://www.linkedin.com/pulse/only-10-ceos-have-critical-skill-ryan-holmes) - by Ryan Holmes. Takeaway: Social media skills are increasingly worthwhile for leaders to develop, for reasons ranging from recruitment outreach to promoting products.
 
 - [Progressing from Tech to Leadership](https://lcamtuf.blogspot.de/2018/02/on-leadership.html) - by Icamtuf. Takeaway: "[P]eople in leadership roles have their allegiance divided between the company and the people who depend on them. The obligation to the company is more formal, but the impact you have on your team is longer-lasting and more intimate. When the obligations to the employer and to your team collide in some way, make sure you can make the right call; it might be one of the the most consequential decisions you'll ever make."
 
-- [Reflecting on My IC Path](https://lyncredible.com/2020/04/06/reflecting-on-my-ic-path-part-i/) - by Yuan Liu. Takeaway: a three-part series about levelling up across three companies. 
+- [Reflecting on My IC Path](https://lyncredible.com/2020/04/06/reflecting-on-my-ic-path-part-i/) - by Yuan Liu. Takeaway: a three-part series about levelling up across three companies.
 
 - [Secure Early Wins in the First Three Months](http://katemats.com/secure-early-wins-tech-leader-series/) - by kate{mats}. Takeaway: "In order to the set the right tone and get started on the best path, it is key to secure early wins." Includes helpful strategies.
 
@@ -104,7 +104,7 @@
 
 - [A Voight-Kampff Test for Identifying Engineering Managers](https://hackernoon.com/a-voight-kampff-test-for-identifying-engineering-managers-bb8512c70857) - by Nick Caldwell. Takeaway: How Caldwell created a mechanism for differentiating managers from architects in a way that surfaced his team's interests.
 
- - [What Are Common Mistakes That New or Inexperienced Managers Make?](https://www.quora.com/Management/What-are-common-mistakes-that-new-or-inexperienced-managers-make/answer/Ian-McAllister) - by Ian McAllister. Takeaway: Some of them include being slow to deal with performance issues, not investing in recruiting or team development, taking credit for others' work and blaming, and simply not leading.
+- [What Are Common Mistakes That New or Inexperienced Managers Make?](https://www.quora.com/Management/What-are-common-mistakes-that-new-or-inexperienced-managers-make/answer/Ian-McAllister) - by Ian McAllister. Takeaway: Some of them include being slow to deal with performance issues, not investing in recruiting or team development, taking credit for others' work and blaming, and simply not leading.
 
 - [What Stops Us from Transitioning Into a Leadership Role](https://www.youtube.com/watch?v=cBTpbPzm838) - by Femgineer. Takeaway: A chat with leadership coach Jean Hsu about why our perception of who or what we think it takes to be in a role is often wrong, and why we are more capable of learning and growing in a new role than we realize.
 

@@ -36,7 +36,7 @@ Mobile
 
 - [MDB Angular Mobile](https://mdbootstrap.com/docs/angular/mobile/) - Based on the latest NativeScript-Angular version.
 - [MDB React Mobile](https://mdbootstrap.com/docs/react/mobile/) - Based on the latest React Native 0.61 version.
-- [MDB Vue Mobile](https://mdbootstrap.com/docs/vue/mobile/) -  Based on the latest NativeScript-Vue 2.4.0 version.
+- [MDB Vue Mobile](https://mdbootstrap.com/docs/vue/mobile/) - Based on the latest NativeScript-Vue 2.4.0 version.
 
 ## Community
 

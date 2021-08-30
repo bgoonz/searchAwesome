@@ -1,10 +1,10 @@
 # Awesome Empirical Software Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated repository of data sets and tools that can be used for conducting evidence-based, data-driven research on software systems.
 This research approach is often termed [experimental, or empirical software engineering](https://en.wikipedia.org/wiki/Experimental_software_engineering).
 Many of the data sets can also be useful in research using [search-based software engineering](https://en.wikipedia.org/wiki/Search-based_software_engineering) methods.
 The repository is named after the [Mining Software Repositories (MSR)](https://www.msrconf.org/) conference series.
 For examples of such work see the MSR conference's [Hall of Fame](http://2016.msrconf.org/#/hall-of-fame).
-
 
 - This list requires your input for its continuous improvement.
   Read the [contribution guide](contributing.md) for instructions on how
@@ -14,6 +14,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
 
 ## Contents
+
 - [Repositories](#repositories)
 - [Data Sets](#data-sets)
 - [Tools](#tools)
@@ -46,7 +47,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [GitHub on Google BigQuery](https://cloud.google.com/bigquery/public-data/github) - GitHub data accessible through Google's BigQuery platform.
 - [Grammar Zoo](http://slebok.github.io/zoo/) - Collection of grammars of DSLs and GPLs, some extracted from metamodels and document schemata.
 - [KaVE](http://www.kave.cc/datasets) - Developer tool interaction data.
-- [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/). 
+- [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/).
 - [Maven metrics](https://github.com/bkarak/data_msr2015) - Collection of software complexity & sizing metrics for the [Maven Repository](https://maven.apache.org).
 - [Maven Dependency Graph](https://zenodo.org/record/1489120) - Snapshot of the whole Maven Central taken on September 6, 2018, stored in a graph database.
 - [mzdata](https://github.com/jxshin/mzdata) - Multi-extract and multi-level dataset of Mozilla issue tracking history.
@@ -62,6 +63,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [Unix history](https://github.com/dspinellis/unix-history-repo) - Git repository with 46 years of Unix history evolution.
 
 ## Tools
+
 - [astminer](https://github.com/JetBrains-Research/astminer) - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 - [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories.
 - [buckwheat](https://github.com/JetBrains-Research/buckwheat) - Multi-language tokenizer for extracting identifiers from source code.
@@ -84,6 +86,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [VulData7](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
 
 ## Research Outlets
+
 - Outlets exclusively devoted to empirical software engineering research
   - [Empirical Software Engineering journal](https://link.springer.com/journal/10664)
   - [MSR: Mining Software Repositories conference](https://www.msrconf.org/)
@@ -96,7 +99,6 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   - [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts)
   - [Journal of Systems and Software](https://www.journals.elsevier.com/journal-of-systems-and-software)
   - [SANER: IEEE International Conference on Software Analysis, Evolution and Reengineering](https://ieeexplore.ieee.org/xpl/conhome.jsp?punumber=1000695)
-
 
 ## License
 

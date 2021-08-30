@@ -1,7 +1,7 @@
-Awesome Neo4j
-==============
+# Awesome Neo4j
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master )](https://travis-ci.org/neueda/awesome-neo4j)
+[![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master)](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.  
 Inspired by the `awesome-*` trend on GitHub.
@@ -13,38 +13,37 @@ Thanks to all [contributors](https://github.com/Neueda/awesome-neo4j/graphs/cont
 
 Maintained by [Neueda R&D](http://labs.neueda.com/).
 
-Table of Contents
-=================
+# Table of Contents
 
-  * [Basics](#basics)
-  * [Connectors](#connectors)
-    * [Bolt](#bolt)
-    * [REST API](#rest-api)
-      * [Java](#java)
-      * [Ruby](#ruby)
-      * [Python](#python)
-      * [PHP](#php)
-      * [Other](#other)
-  * [Cloud](#cloud)
-  * [Packages](#packages)
-  * [Docker](#docker)
-  * [Full\-text search](#full-text-search)
-  * [Import](#import)
-  * [Benchmarking](#benchmarking)
-  * [Extensions](#extensions)
-  * [Stored Procedures](#stored-procedures)
-  * [Development](#development)
-  * [Editors](#editors)
-  * [Shell](#shell)
-  * [Visualization](#visualization)
-  * [Tools](#tools)
-  * [Resources](#resources)
-    * [Learn](#learn)
-    * [Certification](#certification)
-    * [Bolt](#bolt-1)
-    * [Books](#books)
-    * [Miscellaneous](#miscellaneous)
-  * [License](#license)
+- [Basics](#basics)
+- [Connectors](#connectors)
+  - [Bolt](#bolt)
+  - [REST API](#rest-api)
+    - [Java](#java)
+    - [Ruby](#ruby)
+    - [Python](#python)
+    - [PHP](#php)
+    - [Other](#other)
+- [Cloud](#cloud)
+- [Packages](#packages)
+- [Docker](#docker)
+- [Full\-text search](#full-text-search)
+- [Import](#import)
+- [Benchmarking](#benchmarking)
+- [Extensions](#extensions)
+- [Stored Procedures](#stored-procedures)
+- [Development](#development)
+- [Editors](#editors)
+- [Shell](#shell)
+- [Visualization](#visualization)
+- [Tools](#tools)
+- [Resources](#resources)
+  - [Learn](#learn)
+  - [Certification](#certification)
+  - [Bolt](#bolt-1)
+  - [Books](#books)
+  - [Miscellaneous](#miscellaneous)
+- [License](#license)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
@@ -114,7 +113,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 # Cloud
 
 - [GrapheneDB](https://www.graphenedb.com/) - The world's first fully managed
-Neo4j graph database.
+  Neo4j graph database.
 - [GraphStory](https://www.graphstory.com/) - Neo4j enterprise cloud provider
 
 # Packages
@@ -139,7 +138,7 @@ Neo4j graph database.
 - [neo4j-csv-firehose](https://github.com/sarmbruster/neo4j-csv-firehose) - Enables Neo4j’s `LOAD CSV` Cypher command to load from other datasources as well.
 - [neo4j-rdbms-import](https://github.com/jexp/neo4j-rdbms-import) - An automatic importer for relational databases into Neo4j.
 - [Doc manager for Neo4j](https://github.com/neo4j-contrib/neo4j_doc_manager) - The Neo4j Doc Manager takes MongoDB documents and makes it easy to query them for relationships by making them available in a Neo4j graph structure, following the format specified by Mongo Connector.
-- [neoloadcsvskelgen](https://github.com/wadael/neoloadcsvskelgen) - Will output a skeleton of LOAD CSV Cypher code, from very little input (filename, separator, hints). Save time, avoid typos. 
+- [neoloadcsvskelgen](https://github.com/wadael/neoloadcsvskelgen) - Will output a skeleton of LOAD CSV Cypher code, from very little input (filename, separator, hints). Save time, avoid typos.
 
 # Benchmarking
 

@@ -1,4 +1,5 @@
 ## Firing
+
 aka, “the hardest thing you’ll ever do as a manager.” First are some tips on salvaging an underperformer. Then some tips on how to fire.
 
 - [How Do You Fire an Employee That (sic) Just Isn't Good Enough?](https://www.quora.com/How-do-you-fire-an-employee-that-just-isnt-good-enough/answer/Michael-O-Church) - by Michael O. Church. Takeaway: “The best employees are multipliers who make others more productive, and next are the adders (workhorses). Subtractors are the good-faith incompetents who cost more than they bring. Dividers are the worst kind of problem employee: They bring the whole team (or company) down.” Simplified as Multipliers/Adders/Subtractors/Dividers.

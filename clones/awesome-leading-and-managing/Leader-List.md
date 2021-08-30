@@ -3,7 +3,7 @@
 Leaders and thinkers who frequently write/speak/tweet about tech leadership and work culture from a humble, progressive, well-rounded point of view. Names link to Twitter feeds.
 
 - [Adam Tornhill](https://twitter.com/AdamTornhill) — Programmer, psychologist, Lisp hacker, author and speaker. Founder of Empear and https://codescene.io/.
-- [Adewale Oshineye](https://twitter.com/ade_oshineye) — Developer Advocate at Google. Co-author of Apprenticeship Patterns. 
+- [Adewale Oshineye](https://twitter.com/ade_oshineye) — Developer Advocate at Google. Co-author of Apprenticeship Patterns.
 - [Adrian Cockcroft](https://twitter.com/adrianco) — VP of Cloud Architecture at AWS, formerly Battery Ventures, Netflix, eBay, and Sun, frequent speaker, microservices thought leader.
 - [Andrea Goulet](https://twitter.com/andreagoulet) — CEO @corgibytes. Founder http://LegacyCode.Rocks. Coder, communicator, mama.
 - [Andrea Tomasini](https://twitter.com/tumma72) — Enterprise Agile Coach (CEC) and Trainer (CST), a linchpin, an opinion maker, a follower, a leader.
@@ -26,7 +26,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Danese Cooper](https://twitter.com/DivaDanese) — Open Source diva.
 - [Daniel Bryant](https://twitter.com/danielbryantuk) — biz/dev/qa/ops, teacher, student, traveller, runner, CTO @SpectoLabs, @InfoQ editor, @DevoxxUK, @oscon, @ContainerSched, @jaxlondon.
 - [Dave Lester](https://twitter.com/davelester) — Open source at Apple. Interested in where tech and communities intersect.
-- [David Marquet](https://twitter.com/ldavidmarquet) - Author of *Turn the Ship Around*. 
+- [David Marquet](https://twitter.com/ldavidmarquet) - Author of _Turn the Ship Around_.
 - [Duane O'Brien](https://twitter.com/DuaneOBrien) — Open Source Programs Head at Indeed, speaker, advocate of diversity/inclusion.
 - [Edmond Lau](https://twitter.com/edmondlau) - Engineer & leadership coach. Early engineer @Quip, @Quora, @Ooyala & also ex-@Google. Author of The Effective Engineer: https://www.effectiveengineer.com/book.
 - [Elisabeth Hendrickson](https://twitter.com/testobsessed) — Into radical collaboration and fast feedback.
@@ -38,7 +38,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Henrik Kniberg](https://twitter.com/henrikkniberg) — agile coach, led lots of Spotify's efforts and documented them for the world to learn from, author.
 - [Ihor Dvoretskyi](https://twitter.com/idvoretskyi) - Developer Advocate at Cloud Native Computing Foundation, co-founder and co-lead of the [Product Management Special Interest Group at Kubernetes Community](https://github.com/kubernetes/community/blob/master/sig-product-management/README.md).
 - [Isabel Drost-Fromm](https://twitter.com/MaineC) — Open Source Strategist at Europace.de, Apache Software Foundation, Berlin Buzzwords founder, frequent speaker and creator of things.
-- [James Turnbull](https://twitter.com/kartar) - Eng @sothebys & author. Prev @Glitch, @Microsoft, @kickstarter, @docker, @puppetize. 
+- [James Turnbull](https://twitter.com/kartar) - Eng @sothebys & author. Prev @Glitch, @Microsoft, @kickstarter, @docker, @puppetize.
 - [Jan Lehnardt](https://twitter.com/janl) — Makes @couchdb @hoodiehq @jsconfeu @greenkeeperio & #offlinefirst Dissatisfied with the status-quo.
 - [Jeff Gothelf](https://twitter.com/jboogie) — Author: http://www.leanuxbook.com and http://senseandrespond.co. Digital transformation, product skills-building, org agility. NL: http://eepurl.com/cn14af.
 - [Jen Bunk](https://twitter.com/JBunky) - People Stack Architect, leadership coach, entrepreneur, iopsych PhD.
@@ -69,19 +69,19 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Meri Williams](https://twitter.com/Geek_Manager) — CTO @MOO, Speaker, Author. Co-curator & host @TheLeadDev. Advisor @wearethekindred.
 - [Michael Bryzek](https://twitter.com/mbryzek) — Cofounder and CTO Flow.io. Co-founder and ex-CTO Gilt Groupe. Masters in CS from MIT.
 - [Michael Feathers](https://twitter.com/mfeathers) — Director, R7K Research & Conveyance, author, speaker.
-- [Mikio Braun](https://twitter.com/mikiobraun) — Delivery Lead at Zalando, helping search teams to become more autonomous and ownership-driven. Data scientist, frequent conference speaker. 
+- [Mikio Braun](https://twitter.com/mikiobraun) — Delivery Lead at Zalando, helping search teams to become more autonomous and ownership-driven. Data scientist, frequent conference speaker.
 - [Nithya Ruff](https://twitter.com/nithyaruff) — Open source at Comcast; @linuxfoundation & @codechix BOD.
 - [Olaf Lewitz](https://twitter.com/OlafLewitz) — The Trust Artist. CEC & @trusttemenos host.
 - [Oren Ellenbogen](https://twitter.com/orenellenbogen) — VP Engineering at Forter, curator of awesomeness at http://softwareleadweekly.com, author of http://leadingsnowflakes.com.
 - [Patrick Kua](https://twitter.com/patkua) — CTO of @N26, Author of http://thekua.io/evolarch, http://thekua.io/twtl, http://thekua.io/retrobook. Ex-ThoughtWorks.
 - [Phil Calçado](https://twitter.com/pcalcado) — Does things for @DigitalOcean. In the past, did things for @SoundCloud and @ThoughtWorks.
-- [Philip Guo](https://twitter.com/pgbovine) — Assistant Professor of Cognitive Science - UC San Diego - human-computer interaction, online learning, computing education 
+- [Philip Guo](https://twitter.com/pgbovine) — Assistant Professor of Cognitive Science - UC San Diego - human-computer interaction, online learning, computing education
 - [Rachel Davies](https://twitter.com/rachelcdavies) — Past practitioner of eXtreme Programming (XP) at Unruly. Co-author of "Agile Coaching" book.
 - [Rands](https://twitter.com/rands) - VP Engineering at Slack, creator of randsinrepose.com.
 - [Randy Shoup](https://twitter.com/randyshoup) — VP Engineering at Stitch Fix (former eBay, Google).
 - [Raphael Crawford-Marks](https://twitter.com/raphaelcm) — CEO @Bonusly. Alumnus of @Looksharp, @SquareTrade, @PeaceCorps, @HampshireColg.
 - [Richard Kasperowski](https://twitter.com/rkasper) - Great Teams and Results | Agile | Open Space Technology | Core Protocols | CoderDojo. kasperowski.com.
-- [Ruha Benjamin](https://twitter.com/ruha9) - Founding Director, Ida B. Wells Just Data Lab. Author @NewJimCode +  @Peoples_Science. Professor @PrincetonAAS. Organizer @blacktofuture. 
+- [Ruha Benjamin](https://twitter.com/ruha9) - Founding Director, Ida B. Wells Just Data Lab. Author @NewJimCode + @Peoples_Science. Professor @PrincetonAAS. Organizer @blacktofuture.
 - [Ryan Burgess](https://twitter.com/burgessdryan) — Software Engineering Manager at @Netflix. Lover of #JavaScript! The Canadian voice on the @FrontEndHH podcast.
 - [Safiya Umoja Noble](https://twitter.com/safiyanoble) - Researcher, professor @UCLA, expert on racism, sexism, & tech.
 - [Sandi Metz](https://twitter.com/sandimetz) — Cyclist, Rubyist, reluctant author (http://poodr.com), obsessive programmer, recalcitrant blogger.
@@ -92,7 +92,7 @@ Leaders and thinkers who frequently write/speak/tweet about tech leadership and 
 - [Simon Wardley](https://twitter.com/swardley) — Corporate cartographer, chaotic evil, destroyer of undeserved value.
 - [Steve Francia](https://twitter.com/spf13) — Golang team at Google, Drupal Board Member, author, speaker, developer, creator of @gohugoio, Cobra and spf13-vim, formerly of Docker and MongoDB.
 - [Steven Sinofsky](https://twitter.com/stevesi) — Board Partner @a16z, adviser @BoxHQ.
-- [Susan J. Fowler](https://twitter.com/susanthesquark) — Editor in Chief of @IncrementMag. Founder of @susansbookclub. The woman who started Uber's internal cultural reformation through her immense courage. 
+- [Susan J. Fowler](https://twitter.com/susanthesquark) — Editor in Chief of @IncrementMag. Founder of @susansbookclub. The woman who started Uber's internal cultural reformation through her immense courage.
 - [Theo Schlossnagle](https://twitter.com/postwait) — Founder and CEO at Circonus. Founder of SparkPost and OmniTI.
 - [Thomas Lockney](https://twitter.com/tlockney) — Engineering Manager @Nike. Host of the Nike Tech Talks. Ally.
 - [VM (Vicky) Brasseur](https://twitter.com/vmbrasseur) — Author, speaker, and consultant for open source, technology, community, business, and the intersections between them.

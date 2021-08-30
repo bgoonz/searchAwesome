@@ -48,7 +48,7 @@
 - [Polymer Web Components with Marionette.js](http://blog.jeremyfairbank.com/javascript/polymer-web-components-with-marionette-js/) by Jeremy Fairbank
 - [Building a Marionette App with Flux Architecture](http://iamnotarealprogrammer.com/flux-architecture-in-a-backbone-and-marionette-app/) by Kurtis Kemple
 - [Marionette-Service: Service Objects for Marionette](http://benmccormick.org/2015/05/25/marionette-service-service-objects-for-marionette/) by Ben McCormick
-- [Refactoring a JavaScript Application to Use Microservices: What We Learned with Backbone and Marionette](https://www.safaribooksonline.com/blog/2015/11/24/refactoring-javascript-microservice-backbone-marionette/) by Pasha Craydon 
+- [Refactoring a JavaScript Application to Use Microservices: What We Learned with Backbone and Marionette](https://www.safaribooksonline.com/blog/2015/11/24/refactoring-javascript-microservice-backbone-marionette/) by Pasha Craydon
 - [SEO-Enabling Your Marionette App](https://docs.google.com/presentation/d/1jy9SXyr6ZjbY7lOSKN8QraH96-vR7mnAo0ePvzDb8uc/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ## Books
@@ -100,7 +100,6 @@
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette)
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
 - [Webpack-Marionette](https://github.com/alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.
-
 
 ## Libraries
 

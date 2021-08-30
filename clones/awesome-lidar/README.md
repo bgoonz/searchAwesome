@@ -79,7 +79,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Audi A2D2 Dataset](https://www.a2d2.audi) - The dataset features 2D semantic segmentation, 3D point clouds, 3D bounding boxes, and vehicle bus data.
   - [Paper :newspaper:](https://www.a2d2.audi/content/dam/a2d2/dataset/a2d2-audi-autonomous-driving-dataset.pdf)
 - [Waymo Open Dataset](https://waymo.com/open/) - The dataset contains independently-generated labels for lidar and camera data, not simply projections.
-- [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year. 
+- [Oxford RobotCar](https://robotcar-dataset.robots.ox.ac.uk/) - The Oxford RobotCar Dataset contains over 100 repetitions of a consistent route through Oxford, UK, captured over a period of over a year.
   - [YouTube channel :red_circle:](https://www.youtube.com/c/ORIOxfordRoboticsInstitute)
   - [Paper :newspaper:](https://robotcar-dataset.robots.ox.ac.uk/images/RCD_RTK.pdf)
 - [EU Long-term Dataset](https://epan-utbm.github.io/utbm_robocar_dataset/) - This dataset was collected with our robocar (in human driving mode of course), equipped up to eleven heterogeneous sensors, in the downtown (for long-term data) and a suburb (for roundabout data) of Montbéliard in France. The vehicle speed was limited to 50 km/h following the French traffic rules.
@@ -99,7 +99,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 
 ## Libraries
 
-- [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases. 
+- [Point Cloud Library (PCL)](http://www.pointclouds.org/) - Popular highly parallel programming library, with numerous industrial and research use-cases.
   - [GitHub repository :octocat:](https://github.com/PointCloudLibrary/pcl)
 - [Open3D library](http://www.open3d.org/docs/release/) - Open3D library contanins 3D data processing and visualization algorithms. It is open-source and supports both C++ and Python.
   - [GitHub repository :octocat:](https://github.com/intel-isl/Open3D)
@@ -117,7 +117,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [pyntcloud](https://pyntcloud.readthedocs.io/en/latest/) - Pyntcloud is a Python 3 library for working with 3D point clouds leveraging the power of the Python scientific stack.
   - [GitHub repository :octocat:](https://github.com/daavoo/pyntcloud)
 - [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
-  - [GitHub repository :octocat:](https://github.com/virtual-vehicle/pointcloudset) 
+  - [GitHub repository :octocat:](https://github.com/virtual-vehicle/pointcloudset)
 
 ## Frameworks
 
@@ -131,6 +131,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 ## Algorithms
 
 ### Basic matching algorithms
+
 - [Iterative closest point :red_circle:](https://www.youtube.com/watch?v=uzOCS_gdZuM) - The must-have algorithm for feature matching applications (ICP).
   - [GitHub repository :octocat:](https://github.com/pglira/simpleICP) - simpleICP C++ /Julia / Matlab / Octave / Python implementation.
   - [GitHub repository :octocat:](https://github.com/ethz-asl/libpointmatcher) - libpointmatcher, a modular library implementing the ICP algorithm.
@@ -138,6 +139,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Normal distributions transform :red_circle:](https://www.youtube.com/watch?v=0YV4a2asb8Y) - More recent massively-parallel approach to feature matching (NDT).
 
 ### Semantic segmentation
+
 - [RangeNet++ :newspaper:](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/milioto2019iros.pdf) - Fast and Accurate LiDAR Sematnic Segmentation with fully convolutional network.
   - [GitHub repository :octocat:](https://github.com/PRBonn/rangenet_lib)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=uo3ZuLuFAzk)
@@ -151,23 +153,24 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
+
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
-- [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. 
+- [LeGO-LOAM :octocat:](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM) - A lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=7uCxLUs9fwQ)
 - [Cartographer :octocat:](https://github.com/cartographer-project/cartographer) - Cartographer is ROS compatible system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=29Knm-phAyI)
 - [SuMa++ :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf) - LiDAR-based Semantic SLAM.
   - [GitHub repository :octocat:](https://github.com/PRBonn/semantic_suma/)
   - [YouTube video :red_circle:](https://youtu.be/uo3ZuLuFAzk)
-- [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) -  Loop Closing for LiDAR-based SLAM.
+- [OverlapNet :newspaper:](http://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf) - Loop Closing for LiDAR-based SLAM.
   - [GitHub repository :octocat:](https://github.com/PRBonn/OverlapNet)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YTfliBco6aw)
 - [LIO-SAM :newspaper:](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
   - [GitHub repository :octocat:](https://github.com/TixiaoShan/LIO-SAM)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=A0H8CoORZJU)
 
-
 ### Object detection and object tracking
+
 - [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wLxIAwIL870)
   - [GitHub repository :octocat:](https://github.com/peiyunh/opcseg)
@@ -178,6 +181,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [GitHub repository :octocat:](https://github.com/peiyunh/WYSIWYG)
 
 ## Simulators
+
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
   - [YouTube channel :red_circle:](https://www.youtube.com/user/VirtualRobotPlatform)
 - [OSRF Gazebo](http://gazebosim.org/) - OGRE-based general-purpose robotic simulator, ROS/ROS2 compatible.
@@ -193,6 +197,7 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gnz1X3UNM5Y)
 
 ## Related awesome
+
 - [Awesome point cloud analysis :octocat:](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)
 - [Awesome robotics :octocat:](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Awesome robotics libraries :octocat:](https://github.com/jslee02/awesome-robotics-libraries#readme)
@@ -203,10 +208,11 @@ Contributions are welcome! Please [check out](contributing.md) our guidelines.
 - [Awesome deep learning :octocat:](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 - [Awesome reinforcement learning :octocat:](https://github.com/aikorea/awesome-rl/#readme)
 - [Awesome SLAM datasets :octocat:](https://github.com/youngguncho/awesome-slam-datasets#readme)
-- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme) 
+- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme)
 - [Awesome vehicle security and car hacking :octocat:](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 
 ## Others
+
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 - [CloudCompare](https://cloudcompare.org/) - CloudCompare is a free, cross-platform point cloud editor software.
   - [GitHub repository :octocat:](https://github.com/CloudCompare)

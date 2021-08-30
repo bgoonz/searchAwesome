@@ -43,7 +43,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
   - [Blogs](#blogs)
   - [Websites](#websites)
   - [Q&A](#q&a)
-  - [Community Newsletters](#community-newsletters)	
+  - [Community Newsletters](#community-newsletters)
   - [Social](#social)
   - [Work Opportunities](#work-opportunities)
   - [Related](#related)
@@ -155,7 +155,7 @@ _Routers for Blaze_
 - [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 - [msavin:parrot](https://github.com/msavin/Parrot) - Web router specially designed for building SPAs using Meteor
 - [meteorhacks:picker](https://github.com/meteorhacks/picker) - Server Side Router for Meteor.
-- [iron:router](https://github.com/iron-meteor/iron-router) - A router that works on the server and the browser, designed specifically for Meteor. 
+- [iron:router](https://github.com/iron-meteor/iron-router) - A router that works on the server and the browser, designed specifically for Meteor.
 
 ## Offline
 
@@ -206,7 +206,7 @@ _Search, sort and paginate related tools_
 _Mobile Development_
 
 - [meteor-push](https://github.com/activitree/meteor-push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
-- [quave:universal-links](https://github.com/quavedev/universal-links) - A Meteor package that allows you to expose your native iOS settings to enable Universal Links. 
+- [quave:universal-links](https://github.com/quavedev/universal-links) - A Meteor package that allows you to expose your native iOS settings to enable Universal Links.
 - [meteoric:ionic](https://github.com/meteoric/meteor-ionic) - Ionic components for Meteor.
 - [driftyco:ionic](https://github.com/driftyco/ionic) - Official Ionic support for Meteor.
 - [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP.
@@ -337,7 +337,6 @@ _Where to discover new Meteor things_
 
 ## Tutorials
 
-
 - [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial)
 - [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 - [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
@@ -354,7 +353,7 @@ _Where to discover new Meteor things_
 - [Official Guide](http://guide.meteor.com/)
 - [Atmosphere](https://atmospherejs.com/) - The catalog of Meteor packages, resources and tools.
 - [Packosphere](https://packosphere.com/) - Alternative front-end for Meteor package system, built by [Kelly Copley
-](https://github.com/copleykj)
+  ](https://github.com/copleykj)
 - [Discover Meteor](https://book.discovermeteor.com/)
 - [Meteorpedia](http://www.meteorpedia.com) ([infrequently](http://www.meteorpedia.com/special/RecentChanges/) updated)
 - [Meetups](http://meteor.meetup.com/)
@@ -377,7 +376,6 @@ _Where to discover new Meteor things_
 
 - [Official Twitter Account](https://twitter.com/meteorjs)
 - [Meteor Community Organization Slack Channel](https://github.com/Meteor-Community-Packages/organization#slack)
-
 
 ## Work Opportunities
 

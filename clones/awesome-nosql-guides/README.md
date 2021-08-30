@@ -1,6 +1,6 @@
 # Awesome NoSQL Guides [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated list of resources and links about *using* NoSQL databases and things to look for when deciding to use one.
+> Curated list of resources and links about _using_ NoSQL databases and things to look for when deciding to use one.
 
 A basic definition of NoSQL databases can be found on Wikipedia as:
 
@@ -13,7 +13,6 @@ For actual NoSQL databases, you can go
 [here](https://github.com/igorbarinov/awesome-data-engineering#databases), or
 [here](https://github.com/kahun/awesome-sysadmin#nosql). Also, not to be confused with the relational database management system, [NoSQL](http://www.strozzi.it/cgi-bin/CSA/tw7/I/en_US/nosql/Home%20Page).
 
-
 ## Contents
 
 - [Overview of NoSQL](#overview-of-nosql)
@@ -23,7 +22,6 @@ For actual NoSQL databases, you can go
 - [Graph Databases](#graph-databases)
 - [Criticisms and Debates](#criticisms-and-debates)
 - [Miscellaneous](#miscellaneous)
-
 
 ## Overview of NoSQL
 
@@ -43,9 +41,8 @@ For actual NoSQL databases, you can go
 - [NoSQL vs SQL: Demystifying NoSQL Databases (2019)](https://build5nines.com/nosql-vs-sql-demystifying-nosql-databases/) - General overview and examples of NoSQL database schema types, while covering CAP theorem tradeoffs.
 - [Comparing Database Types: How Database Types Evolved to Meet Different Needs](https://www.prisma.io/dataguide/intro/comparing-database-types) - Good overview of databases in general and how NoSQL database types differ and can be useful.
 - [The NoSQL Ecosystem](https://www.aosabook.org/en/nosql.html) - A chapter written by Adam Marcus from "The Architecture of Open Source Applications" book, this chapter is geared more towards systems architects needing to learn more in-depth understanding of how these systems are built.
-- [What is NoSQL - Amazon AWS](https://aws.amazon.com/nosql/) - Great high-level overview of NoSQL databases and how they compare to SQL database technologies and terminologies.  Serves as landing page for Amazon's AWS services for NoSQL options of key-value (Amazon DynamoDB), document (Amazon DocumentDB), graph (Amazon Neptune), in-memory (Amazon ElastiCache), and search-engine (Amazon Elasticsearch) database.
+- [What is NoSQL - Amazon AWS](https://aws.amazon.com/nosql/) - Great high-level overview of NoSQL databases and how they compare to SQL database technologies and terminologies. Serves as landing page for Amazon's AWS services for NoSQL options of key-value (Amazon DynamoDB), document (Amazon DocumentDB), graph (Amazon Neptune), in-memory (Amazon ElastiCache), and search-engine (Amazon Elasticsearch) database.
 - [SQL vs. NoSQL Databases: What's the Difference (2019) - Upwork](https://www.upwork.com/resources/sql-vs-nosql-databases-whats-the-difference) - Explanation comparing SQL and NoSQL databases, along with giving some advice on what database solution is right for your use case.
-
 
 ## Data Structures and Modeling
 
@@ -57,12 +54,10 @@ For actual NoSQL databases, you can go
 - [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) - Patterns for querying across multiple paradigms in the same database.
 - [How to Design Schema for Your NoSQL Database?](https://www.dataversity.net/how-to-design-schema-for-your-nosql-database/#) - Despite popular belief that NoSQL are schema-less, this article outlines how NoSQL databases follow "query driven design" and considerations for this flexibility in schema.
 
-
 ## Trade-Offs in CAP/Brewer's Theorem
 
 - [Visual Guide to NoSQL Systems (2010)](http://blog.nahurst.com/visual-guide-to-nosql-systems) - Visual display of trade-offs in the CAP theorem among different NoSQL databases.
 - [How to Choose the Right NoSQL Database for Your Application? (2018)](https://www.dataversity.net/choose-right-nosql-database-application/) - Reviews CAP theorem and maps common NoSQL databases to CAP categories to help choose one.
-
 
 ## Crowd-Sourced Information
 
@@ -72,7 +67,6 @@ For actual NoSQL databases, you can go
 - [Difference between scaling horizontally and vertically for databases](https://stackoverflow.com/q/11707879/6873133) - Common terms talked about in the database world and here are answers from others.
 - [NoSQL - Wikipedia](https://en.wikipedia.org/wiki/NoSQL) - Wikipedia entry on all things NoSQL databases.
 
-
 ## Graph Databases
 
 - [Graph Databases Use Cases](https://neo4j.com/use-cases/) - Although documents geared towards Neo4j, concepts are applicable to all graph databases.
@@ -81,7 +75,6 @@ For actual NoSQL databases, you can go
 - [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) - Directly related to Neo4j, but possibly applicable to any graph database.
 - [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com) - Brief introduction to graph data modeling and is an introduction to the book "Graph Data Modeling for NoSQL and SQL" by Thomas Frisendal.
 
-
 ## Criticisms and Debates
 
 - [Addressing the NoSQL Criticism (2011)](https://www.bradley-holt.com/2011/07/addressing-the-nosql-criticism/) - Argues against nine criticisms to NoSQL databases as they apply to CouchDB, but may apply to others as well.
@@ -89,11 +82,9 @@ For actual NoSQL databases, you can go
 - [The Five Stages of NoSQL (2016)](https://sookocheff.com/post/opinion/the-five-stages-of-nosql/) - Stages of going through picking and using a NoSQL database mirroring the five stages of grief.
 - [The Biggest Challenges of Moving to NoSQL (2017)](https://dzone.com/articles/the-biggest-challenges-of-moving-to-nosql) - Speed and scalability and developer joy have been the gains found from enduring through challenges of moving to NoSQL.
 
-
 ## Miscellaneous
 
 - [What is a NoSQL Database? Learn By Writing One In Python](https://web.archive.org/web/20201109032031/https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/) - Excellent tutorial in learning NoSQL vs RDBMS through building a toy database using Python.
 - [Dynamo vs Cassandra : Systems Design of NoSQL Databases](https://sujithjay.com/data-systems/dynamo-cassandra/) - Blog post comparing and constrating system designs of two well known NoSQL databases.
 - [Why you should build your own NoSQL database](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5) - Brief overview of NoSQL databases and the spectrum of schema, along with a very basic implementation of a NoSQL database using the Crystal programming language.
 - [PostgreSQL, the NoSQL Database (2015)](https://www.linuxjournal.com/content/postgresql-nosql-database) - An argument for PostgreSQL being an alternative to NoSQL databases with NoSQL-like features using its new features like HStore (key-value store) and JSONB (document-based) as of Version 9.4.
-
