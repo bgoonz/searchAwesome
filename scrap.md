@@ -701,12 +701,6 @@ git clone https://github.com/hachiojipm/awesome-perl.git
 git clone https://github.com/kdabir/awesome-groovy.git
 git clone https://github.com/yissachar/awesome-dart.git
 
-
-
-
-
-
-
 git clone https://github.com/akullpp/awesome-java.git
 git clone https://github.com/eleventigers/awesome-rxjava.git
 git clone https://github.com/KotlinBy/awesome-kotlin.git
@@ -1033,12 +1027,6 @@ git clone https://github.com/mezod/awesome-indie.git
 git clone https://github.com/cjbarber/ToolsOfTheTrade.git
 git clone https://github.com/nglgzz/awesome-clean-tech.git
 git clone https://github.com/wardley-maps-community/awesome-wardley-maps.git
-
-
-
-
-
-
 
 git clone https://github.com/RayBB/awesome-social-enterprise.git
 git clone https://github.com/kdeldycke/awesome-engineering-team-management.git
