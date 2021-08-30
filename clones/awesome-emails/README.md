@@ -197,8 +197,9 @@ Suggestions and PRs are welcome! 🤙
 If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
 
 ### More Awesome
+
 - 📚 [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) - This is a curated list of all the best Javascript books.
 
-
 ### License
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

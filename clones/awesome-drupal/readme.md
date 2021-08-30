@@ -6,7 +6,6 @@
 
 You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
-
 ## Contents
 
 - [Tools](#tools)
@@ -20,15 +19,13 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Community](#community)
 - [Tips](#tips)
 
-
 ## Tools
 
 - [Drupal Console](https://drupalconsole.com/) - The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.
 - [DrupalVM](https://www.drupalvm.com/) - Drupal VM makes building Drupal development environments quick and easy, and introduces developers to the wonderful world of Drupal development on virtual machines or Docker containers (instead of crufty old MAMP/WAMP-based development).
 - [Drush](http://www.drush.org/) - Drush is a command line shell and Unix scripting interface for Drupal. Drush core ships with lots of useful commands for interacting with code like modules/themes/profiles. Similarly, it runs update.php, executes sql queries and DB migrations, and misc utilities like run cron or clear cache.
 - [Yo Hedley!](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
-- [DDEV-Local](https://github.com/drud/ddev) - A Docker-based tool to create and manage local development environments. Use for other PHP apps too. Also see the [Get Started Guide](https://www.drud.com/get-started/) 
-
+- [DDEV-Local](https://github.com/drud/ddev) - A Docker-based tool to create and manage local development environments. Use for other PHP apps too. Also see the [Get Started Guide](https://www.drud.com/get-started/)
 
 ## Modules
 
@@ -43,11 +40,11 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [RESTful module](https://www.drupal.org/project/restful) - Allows Drupal to be operated via RESTful HTTP requests, using best practices for security, performance, and usability.
 - [Organic groups module](https://www.drupal.org/project/og) - Enable users to create and manage their own 'groups'.
 - [Message](https://www.drupal.org/project/message) - Enables logging and displaying system events in a number of different use cases.
-- [Message Notify](https://www.drupal.org/project/message_notify)  – Forward messages when they are generated.
+- [Message Notify](https://www.drupal.org/project/message_notify) – Forward messages when they are generated.
 - [Message Subscribe](https://www.drupal.org/project/message_subscribe) – Register to be notified when messages are generated for specific content.
-- [Module Filter](https://www.drupal.org/project/module_filter) – The modules list page can become quite big when dealing with a fairly large site or even just a dev site meant for testing new and various modules being considered. 
+- [Module Filter](https://www.drupal.org/project/module_filter) – The modules list page can become quite big when dealing with a fairly large site or even just a dev site meant for testing new and various modules being considered.
 - [Entities Diagram Graph](https://www.drupal.org/sandbox/bricel/2654176) - Generates a graph of the entities, fields and their relationship of a particular installation of Drupal 7.
-- [Owl Carousel](https://www.drupal.org/project/OwlCarousel) - This module integrates the wonderful Owl Carousel slider built by OwlFonk. 
+- [Owl Carousel](https://www.drupal.org/project/OwlCarousel) - This module integrates the wonderful Owl Carousel slider built by OwlFonk.
 - [csv2sql](https://www.drupal.org/project/csv2sql) - Convert CSV to SQL and create a table in your Drupal installation.
 - [Logs HTTP](https://www.drupal.org/project/logs_http) - Provides JSON event pushing to Logs via the tag/http endpoint.
 - [Features](https://www.drupal.org/project/features) - Enables the capture and management of features in Drupal. A feature is a collection of Drupal entities which taken together satisfy a certain use-case.
@@ -60,7 +57,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Search API](https://www.drupal.org/project/search_api) - Provides a framework for easily creating searches on any entity known to Drupal, using any kind of search engine.
 - [Slick](https://www.drupal.org/project/slick) - Slick is a powerful and performant slideshow/carousel solution leveraging Ken Wheeler's Slick carousel. See http://kenwheeler.github.io/slick
 - [Token](https://www.drupal.org/project/token) - Provides additional tokens not supported by core (most notably fields), as well as a UI for browsing tokens.
-- [Ubercart](https://www.drupal.org/project/ubercart) - Ubercart is the most popular Drupal E-Commerce platform for your website. It implements everything you need to start selling products online. 
+- [Ubercart](https://www.drupal.org/project/ubercart) - Ubercart is the most popular Drupal E-Commerce platform for your website. It implements everything you need to start selling products online.
 - [Rules](https://www.drupal.org/project/rules) - The Rules module allows site administrators to define conditionally executed actions based on occurring events (known as reactive or ECA rules).
 - [Entity API](https://www.drupal.org/project/entity) - Extends the entity API of Drupal core in order to provide a unified way to deal with entities and their properties.
 - [Entity cache](https://www.drupal.org/project/entitycache) - Puts core entities into Drupal's cache API.
@@ -72,7 +69,6 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Entity validator](https://www.drupal.org/project/entity_validator) - Allows you to define a plugin and set methods to validate the object you'r dealing with.
 - [Webform](https://www.drupal.org/project/webform) - Webform is the module for making forms and surveys in Drupal.
 - [WYSIWYG](https://www.drupal.org/project/wysiwyg) - Allows the use of client-side editors to edit content.
-
 
 ## Documentation
 
@@ -87,7 +83,6 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Examples for Developers](https://www.drupal.org/project/examples)
 - [Troubleshooting](https://www.drupal.org/troubleshooting)
 - [The Drupal Cookbook (for beginners)](https://www.drupal.org/documentation/customization/tutorials/beginners-cookbook)
-
 
 ## Articles
 
@@ -109,19 +104,17 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Using composer to set up Drupal 8](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer)
 - [Drupal Headless Architecture with Inferno.js [Live Demo]](https://snipcart.com/blog/drupal-headless-architecture-tutorial)
 
-
 ## Distributions
 
 - [Commerce kickstart](https://www.drupal.org/project/commerce_kickstart) - Commerce Kickstart is the quickest way to get up and running with Drupal Commerce.
 - [OpenScholar](https://www.drupal.org/project/openscholar) - The easiest way to power all of your institution's websites.
 - [Open Atrium](https://www.drupal.org/project/openatrium) - Open Atrium, maintained by Phase2 Technology, is a Drupal distribution that allows you to confidently engage with your colleagues through convenient collaboration.
-- [OpenPublic](https://www.drupal.org/project/openpublic) - For government and public policy organizations, open source only works if it’s built for the security, accessibility, and flexibility requirements of the public sector. 
+- [OpenPublic](https://www.drupal.org/project/openpublic) - For government and public policy organizations, open source only works if it’s built for the security, accessibility, and flexibility requirements of the public sector.
 - [OpenPublish](https://www.drupal.org/project/openpublish) - OpenPublish is a Drupal 7 packaged distribution designed for the online news industry. It is deployed in a variety of media outlets sites including magazines, newspapers, journals, trade publications, broadcast, wire service, multimedia sites and membership publications.
 
 ## Books
 
 - [Drupal 7 The Essentials - Johan Falk](https://archive.org/details/Drupal7TheEssentials)
-
 
 ## Videos
 
@@ -132,14 +125,12 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [DrupalCon Portland 2013 - Organic Groups \\ Message](https://www.youtube.com/watch?v=XglUUroifsg)
 - [Drupalize Me](https://drupalize.me)
 
-
 ## Podcasts
 
 - [Lullabot Podcast](https://www.lullabot.com/podcasts)
 - [DrupalEasy Podcast](https://www.drupaleasy.com/podcast)
 - [Talking Drupal](http://www.talkingdrupal.com)
 - [Acquia Engage](https://dev.acquia.com/learn?type_1=podcast)
-
 
 ## Community
 
@@ -149,9 +140,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [`#drupal` on Freenode](http://webchat.freenode.net/?channels=drupal)
 - [`#drupal-contribute` on Freenode](http://webchat.freenode.net/?channels=drupal-contribute)
 - [`#drupal-support` on Freenode](http://webchat.freenode.net/?channels=drupal-support)
-- [Drupal Israel Meetup Group](https://www.meetup.com/Drupal-Israel/) *(Hebrew)*
+- [Drupal Israel Meetup Group](https://www.meetup.com/Drupal-Israel/) _(Hebrew)_
 - [Drupal NYC Meetup Group](https://www.meetup.com/drupalnyc/)
-
 
 ## Tips
 
@@ -159,11 +149,9 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Ubuntu development environment setup](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
 - [MacOS: New Machine configuration](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
 
-
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
