@@ -1,4 +1,5 @@
 <!-- omit in toc -->
+
 # Frequently Asked Questions
 
 Answers to a few common questions that may come to your mind while exploring this awesome list:
@@ -15,10 +16,12 @@ Answers to a few common questions that may come to your mind while exploring thi
 
 ### What is Discord.com exactly?
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Discord_(software)):
+From [Wikipedia](<https://en.wikipedia.org/wiki/Discord_(software)>):
+
 > Discord is a proprietary freeware VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses. Discord specializes in text, image, video and audio communication between users in a chat channel. Discord runs on Windows, macOS, Android, iOS, Linux, and in web browsers. As of 21 July 2019, there are over 250 million users of the software.
 
 Or as I once heard from a critique:
+
 > Discord is just IRC with extra features.
 
 A _server_ in Discord mainly refers to the community itself.

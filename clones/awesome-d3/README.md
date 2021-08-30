@@ -7,7 +7,6 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 You can also explore the list with our interactive [D3 Discovery](https://d3-discovery.net/) tool.
 
-
 ## Charts
 
 - [billboard.js](https://github.com/naver/billboard.js) - Re-usable chart library [bar, line, area, donut, pie, step, spline]
@@ -53,7 +52,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [firespray](https://github.com/boundary/firespray) - Streaming charts [bar, line, stacked]
 - [forest-d3](https://github.com/robinfhu/forest-d3) - A time series charting library [line, area, stacked, bar, scatter, pie ohlc]
 - [Gantt-Chart](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
-- [insights](https://github.com/ignacioola/insights) -  Library to visualize and navigate graphs
+- [insights](https://github.com/ignacioola/insights) - Library to visualize and navigate graphs
 - [kotojs](https://github.com/kotojs/kotojs) - ES6 based framework
 - [metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - Optimized for visualizing time-series data [line, scatter, area]
 - [micropolar](https://github.com/biovisualize/micropolar/) - A polar chart library
@@ -68,7 +67,7 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [rickshaw](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs [line, scatter, bar]
 - [taucharts](https://github.com/TargetProcess/tauCharts) - Charts with a focus on design and flexibility [line, bar, area, stacked]
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, stock charting and technical analysis [candlestick, ohlc]
-- [uvCharts](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types [bar, area, pie, stacked, line, polar, donut]
+- [uvCharts](https://github.com/imaginea/uvCharts) - Supports lots of different chart types [bar, area, pie, stacked, line, polar, donut]
 - [vega](https://github.com/vega/vega) - A visualization grammar
 - [vega-lite](https://github.com/vega/vega-lite) - A high-level grammar of interactive graphics
 - [vega-lite-api](https://github.com/vega/vega-lite-api) - A JavaScript API for Vega-Lite.
@@ -101,7 +100,6 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [vx](https://github.com/hshoff/vx) - Visualization components for React [bar, line, scatter, stacked, area, pattern, heatmap, pie, radial, map, geo]
 - [Vs](https://github.com/GopherJ/Vs) - Declarative visualisation components for Vue.js [bar, line, area, pie, donut, stacked, sankey, timeline]
 - [v-chart-plugin](https://github.com/ignoreintuition/v-chart-plugin) - Easily bind a chart to the data stored in your Vue.js components.
-
 
 ## Maps
 
@@ -193,36 +191,38 @@ You can also explore the list with our interactive [D3 Discovery](https://d3-dis
 - [mermaid](https://github.com/knsv/mermaid) - Generation of diagrams and flowcharts from text in a markdown style
 - [netvis](https://github.com/dborzov/netvis) - Visualize network communication for arbitrary protocols
 - [treeviz](https://github.com/PierreCapo/treeviz) - Create customizable trees from json data
-- [twitter-sentiment-visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation) - A series of D3.js charts showing realtime sentiment of Twitter data  
+- [twitter-sentiment-visualisation](https://github.com/Lissy93/twitter-sentiment-visualisation) - A series of D3.js charts showing realtime sentiment of Twitter data
 
 ## Server side
+
 - [d3-node](https://github.com/d3-node/d3-node) - Static chart and map generation
-- [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive pan/zoom Visualizations with automatic server-side scaling support. 
+- [Kyrix](https://github.com/tracyhenry/Kyrix) - Interactive pan/zoom Visualizations with automatic server-side scaling support.
 
 ## Code Editors
+
 - [d3-snippets](https://github.com/martgnz/d3-snippets) - Snippets for Atom
 - [d3-snippets-for-sublime-text-2](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2) - Snippets for Sublime
 - [d3Snippets](https://github.com/Ledragon/d3Snippets) - Snippets for VS Code
 
 ## Bl.ocks.org Profiles
 
- * [Adam Pearce - 1wheel](https://bl.ocks.org/1wheel)
- * [Colin Eberhardt - ColinEberhardt](https://bl.ocks.org/ColinEberhardt)
- * [Harry Stevens - HarryStevens](https://bl.ocks.org/HarryStevens)
- * [Luis Sevillano - LuisSevillano](https://bl.ocks.org/LuisSevillano)
- * [Peter Cook - d3indepth](https://bl.ocks.org/d3indepth)
- * [Elijah Meeks - emeeks](https://bl.ocks.org/emeeks)
- * [Ian Johnson - enjalot](https://bl.ocks.org/enjalot)
- * [Philippe Rivière - fil](https://bl.ocks.org/fil)
- * [Mike Bostock - mbostock](https://bl.ocks.org/mbostock)
- * [Matteo Filipponi - mfilippo](https://bl.ocks.org/mfilippo)
- * [Micah Stubbs - micahstubbs](https://bl.ocks.org/micahstubbs)
- * [Nadieh Bremer - nbremer](https://bl.ocks.org/nbremer)
- * [Matteo Abrate - nitaku](https://bl.ocks.org/nitaku)
- * [Susie Lu - susielu](https://bl.ocks.org/susielu)
- * [Shirley Wu - sxywu](https://bl.ocks.org/sxywu)
- * [Kai Chang - syntagmatic](https://bl.ocks.org/syntagmatic)
- * [Tom Shanley - tomshanley](https://bl.ocks.org/tomshanley)
- * [Vasco Asturiano - vasturiano](https://bl.ocks.org/vasturiano)
- * [Noah Veltman - veltman](https://bl.ocks.org/veltman)
- * [Zan Armstrong - zanarmstrong](https://bl.ocks.org/zanarmstrong)
+- [Adam Pearce - 1wheel](https://bl.ocks.org/1wheel)
+- [Colin Eberhardt - ColinEberhardt](https://bl.ocks.org/ColinEberhardt)
+- [Harry Stevens - HarryStevens](https://bl.ocks.org/HarryStevens)
+- [Luis Sevillano - LuisSevillano](https://bl.ocks.org/LuisSevillano)
+- [Peter Cook - d3indepth](https://bl.ocks.org/d3indepth)
+- [Elijah Meeks - emeeks](https://bl.ocks.org/emeeks)
+- [Ian Johnson - enjalot](https://bl.ocks.org/enjalot)
+- [Philippe Rivière - fil](https://bl.ocks.org/fil)
+- [Mike Bostock - mbostock](https://bl.ocks.org/mbostock)
+- [Matteo Filipponi - mfilippo](https://bl.ocks.org/mfilippo)
+- [Micah Stubbs - micahstubbs](https://bl.ocks.org/micahstubbs)
+- [Nadieh Bremer - nbremer](https://bl.ocks.org/nbremer)
+- [Matteo Abrate - nitaku](https://bl.ocks.org/nitaku)
+- [Susie Lu - susielu](https://bl.ocks.org/susielu)
+- [Shirley Wu - sxywu](https://bl.ocks.org/sxywu)
+- [Kai Chang - syntagmatic](https://bl.ocks.org/syntagmatic)
+- [Tom Shanley - tomshanley](https://bl.ocks.org/tomshanley)
+- [Vasco Asturiano - vasturiano](https://bl.ocks.org/vasturiano)
+- [Noah Veltman - veltman](https://bl.ocks.org/veltman)
+- [Zan Armstrong - zanarmstrong](https://bl.ocks.org/zanarmstrong)

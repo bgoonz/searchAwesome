@@ -11,6 +11,7 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   alt="FrontAid CMS - Agile Content Management with Git."></a>
 
 ## Contents
+
 - [Base / Reset / Normalize](#base--reset--normalize)
 - [Class-less](#class-less)
 - [Very Lightweight](#very-lightweight)
@@ -20,7 +21,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
 - [Specialized](#specialized)
 - [Toolkits](#toolkits)
 - [Stalled Development](#stalled-development)
-
 
 ## Base / Reset / Normalize
 
@@ -63,7 +63,6 @@ Feel free to [contribute](https://github.com/troxler/awesome-css-frameworks/blob
   ![](https://img.shields.io/github/stars/frontaid/natural-selection.svg?style=social&label=Star)
   | #CSS
 
-
 ## Class-less
 
 Frameworks that use semantic HTML and do not rely on classes.
@@ -102,7 +101,6 @@ Frameworks that use semantic HTML and do not rely on classes.
   [Repo](https://github.com/igoradamenko/awsm.css)
   | #SCSS
 
-
 ## Very Lightweight
 
 Frameworks that are smaller than ~5KB.
@@ -134,7 +132,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://jenil.github.io/chota/#docs),
   [Repo](https://github.com/jenil/chota)
   | #CSS
-
 
 ## General Purpose
 
@@ -229,7 +226,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/jonathanharrell/hiq/)
   | #PostCSS
 
-
 ## Material Design
 
 - [**Material Components Web**](https://material.io/components/web/) - Modular and customizable Material Design UI components for the web.  
@@ -245,7 +241,6 @@ Frameworks that are smaller than ~5KB.
   [Repo](https://github.com/muicss/mui)
   | #SCSS
 
-
 ## Utility-based
 
 - [**Tailwind CSS**](https://tailwindcss.com) - Utility-first CSS framework for rapid UI development.  
@@ -260,7 +255,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://tachyons.io/docs/),
   [Repo](https://github.com/tachyons-css/tachyons/)
   | #CSS
-
 
 ## Specialized
 
@@ -299,7 +293,6 @@ Frameworks that are smaller than ~5KB.
   [Docs](https://github.com/vinibiavatti1/TuiCss/wiki)
   | #SCSS
 
-
 ## Toolkits
 
 Toolkits are closer to a library than to a framework.
@@ -311,7 +304,6 @@ They do not provide actual styling but utilities (e.g. mixins) that you can use 
   [Repo](https://github.com/thoughtbot/bourbon/),
   [Scaffold](https://bitters.bourbon.io/)
   | #SCSS
-
 
 ## Stalled Development
 
@@ -405,6 +397,7 @@ We are keeping them here for reference/inspiration and hope for a revival.
 ---
 
 ## License
+
 License [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/):
 
 > You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.

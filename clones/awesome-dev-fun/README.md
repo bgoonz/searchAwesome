@@ -4,7 +4,6 @@
 
 For now this is a really short list, so please contribute. Read [the guide](CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
 
-
 ## Contents
 
 - [Android](#android)
@@ -25,41 +24,37 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [DevOps](#devops)
 - [Miscellaneous](#miscellaneous)
 
-
 ## Android
 
 - [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - Feel for a moment as the great Stevie Wonder with this simulator for Android.
-- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
+- [Mindf@\*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
 - [holdr](https://github.com/starakaj/holdr) - Solves the problem of knowing when you're holding your phone.
-
 
 ## CSS
 
 - [DICSS](https://github.com/letsgetrandy/DICSS) - Directly injected CSS.
 - [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
 
-
 ## Elixir
+
 - [OOP](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
-
 ## Golang
+
 - [gomatrix](https://github.com/GeertJohan/gomatrix) - Connect to The Matrix and display it's data streams in your terminal.
 - [codeometer](https://github.com/rafael-santiago/codeometer) - It measures your code in real world units of measurement also comparing the evaluated distance to famous places and monuments. Codeometer supports plain code files, zipped files and remote git repos. Doing all stuff as a straightforward command line tool or as a web tool through its embedded httpd (tls supported).
 
-
 ## Haskell
+
 - [hackertyper](https://github.com/fgaz/hackertyper) - "Hack" like a programmer in movies and games!
 
-
 ## HTML
-- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - Spacer gif for retina displays.
 
+- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - Spacer gif for retina displays.
 
 ## Java
 
 - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - A no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
-
 
 ## JavaScript
 
@@ -93,7 +88,6 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools.
 - [Assert true](https://github.com/joubertredrat/assert-true) - A lot of ways to you set your assert as true.
 
-
 ## Python
 
 - [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
@@ -109,7 +103,6 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Table Flipper](https://github.com/iridakos/table_flipper) - Add table flip to Ruby exceptions.
 - [Cat Facts](https://github.com/fabrik42/cat_facts) - Adds random cat facts to HTTP response headers. 🐈
 
-
 ## Esoteric languages
 
 - [ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language.
@@ -119,7 +112,6 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [OnlyToday](https://github.com/molnarmark/onlytoday) - A date and time based programming language.
 - [Rockstar](https://github.com/dylanbeattie/rockstar) - A dynamically typed computer programming language, designed for creating programs that are also song lyrics.
 - [strategic-communication](https://github.com/rotoclone/strategic-communication) - A best-of-breed language with a holistic approach to moving the needle.
-
 
 ## SaaS
 
@@ -131,7 +123,6 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Make My Link Longer](https://make-my-link-longer.glitch.me/) - The URL-elongator you've always needed.
 - [eafd](https://github.com/doesdev/eafd) - When you just don't have the words. Snoop does. Vulgar audio generator (or not vulgar, just a 🦃)
 
-
 ## Browser extensions
 
 - [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) - Chrome extension that replaces occurrences of 'the cloud' with 'my butt'.
@@ -141,8 +132,8 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [Github XP](https://github.com/martenbjork/github-xp) - Microsoft + GitHub = ❤️. Make it official by giving your GitHub experience some Windows XP flair.
 - [Netflix Hangouts](https://netflixhangouts.com) - Watch Netflix at work by making it look like you’re on a conference call.
 
-
 ## CLI
+
 - [Pong-command](https://github.com/kurehajime/pong-command) - Pong is Not Ping.
 - [Alice](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
 - [cmprss](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
@@ -164,17 +155,18 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 - [tra.sh](https://github.com/Indexerrowaty/tra.sh) - tra.sh in your terminal!
 
 ## DevOps
+
 - [No Code](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [Volkswagen](https://github.com/auchenberg/volkswagen) - 🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.
 - [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
 
-
 ## Miscellaneous
+
 - [Filefile](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile).
 - [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 - [Shrugapillar.js](https://github.com/memeguild/shrugapillar) - A library for generating shrugapillars.
-- [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store.  Breaking down the walls between code and data.
-- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence.  I'm sure your data is in there *somewhere*.
+- [quinedb](https://github.com/gfredericks/quinedb) - A quine that is also a key-value store. Breaking down the walls between code and data.
+- [πfs](https://github.com/philipl/pifs) - π contains every possible digit sequence in existence. I'm sure your data is in there _somewhere_.
 - [parrot.live](https://github.com/hugomd/parrot.live) - 🐦 Bringing animated parrots to terminals everywhere.
 - [Slack Typing](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (archiveeeeeeeeeed).

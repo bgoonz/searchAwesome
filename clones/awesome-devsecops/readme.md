@@ -14,7 +14,9 @@
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 <!-- omit in toc -->
+
 ## Contents
+
 - [Resources](#resources)
   - [Articles](#articles)
   - [Books](#books)
@@ -76,7 +78,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Secure Development Lifecycle Framework
 
-- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys) - A framework for software security created by observing and analysing data from leading software security initiatives.
+- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - \_Synopsys) - A framework for software security created by observing and analysing data from leading software security initiatives.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 - [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - A framework to measure and improve the maturity of the secure development lifecycle.
@@ -135,15 +137,20 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 Infrastructure as Code allows applications to be deployed reliably to a consistent environment. This not only ensures that infrastructure is consistently hardened, but also provides an opportunity to statically and dynamically analyse infrastructure definitions for vulnerable dependencies, hard-coded secrets, insecure configuration and unintentional changes in security configuration. The following tools facilitate this analysis.
 
 #### Multi-Platform
+
 - [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
 - [KICS](https://github.com/Checkmarx/kics) - _Checkmarx_ - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
 
 <!-- omit in toc -->
+
 #### Cloud Formation
+
 - [Cfn Nag](https://github.com/stelligent/cfn_nag) - _Stelligent_ - Scan AWS CloudFormation templates for insecure configuration.
 
 <!-- omit in toc -->
+
 #### Containers
+
 - [Anchore Engine](https://anchore.com/opensource/) - _Anchore, Inc_ - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products.
 - [Clair](https://github.com/quay/clair) - _Quay_ - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - _Elías Grande_ - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
@@ -153,19 +160,24 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 - [Trivy](https://github.com/aquasecurity/trivy) - _Aqua Security_ - Simple and comprehensive vulnerability scanner for containers.
 
 <!-- omit in toc -->
+
 #### Terraform
+
 - [Regula](https://github.com/fugue/regula) - _Fugue_ - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
 - [Terraform Compliance](https://terraform-compliance.com/) - _terraform-compliance_ - A lightweight, security and compliance focused test framework against terraform to enable negative testing capability for your infrastructure-as-code.
 - [Terrascan](https://github.com/cesar-rodriguez/terrascan) - _Cesar Rodriguez_ - Scan Terraform templates for best practice security configuration.
 - [Tfsec](https://github.com/liamg/tfsec) - _Liam Galvin_ - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
 
 <!-- omit in toc -->
+
 #### Kubernetes
+
 - [Kube-Score](https://github.com/zegl/kube-score) - _Gustav Westling_ - Scan Kubernetes object definitions for security and performance misconfiguration.
 - [Kubectrl Kubesec](https://github.com/controlplaneio/kubectl-kubesec) - _ControlPlane_ - Plugin for kubesec.io to perform security risk analysis for Kubernetes resources.
 
 #### Ansible
-- [Ansible-Lint](https://github.com/ansible-community/ansible-lint) - _Ansible Community_ - Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible. 
+
+- [Ansible-Lint](https://github.com/ansible-community/ansible-lint) - _Ansible Community_ - Checks playbooks for practices and behaviour that could potentially be improved. As a community backed project ansible-lint supports only the last two major versions of Ansible.
 
 ### Intentionally Vulnerable Applications
 
@@ -180,6 +192,7 @@ Intentionally vulnerable applications are often useful when developing security 
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - A collection of vulnerable web applications for learning purposes.
 
 ### Monitoring
+
 It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
 
 - [Csper](https://csper.io/report-uri) - _Csper_ - A set of Content Security Policy tools that can test policies, monitor CSP reports and provide metrics and alerts.
@@ -224,6 +237,7 @@ Source control is not a secure place to store secrets such as credentials, API k
 Static Analysis Security Testing (SAST) tools scan software for vulnerabilities without executing the target software. Typically, static analysis will scan the source code for security flaws such as the use of unsafe functions, hard-coded secrets and configuration issues. SAST tools often come in the form of IDE plugins and CLIs that can be integrated into CI/CD pipelines.
 
 <!-- omit in toc -->
+
 #### Multi-Language Support
 
 - [DevSkim](https://github.com/microsoft/DevSkim) - _Microsoft_ - A set of IDE plugins, CLIs and other tools that provide security analysis for a number of programming languages.
@@ -232,24 +246,29 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 - [LGTM](https://lgtm.com/) - _Semmle_ - Scan and monitor code for security vulnerabilities using custom or built-in CodeQL queries.
 - [RIPS](https://www.ripstech.com/) - _RIPS Technologies_ - Automated static analysis for PHP, Java and Node.js projects.
 - [SemGrep](https://semgrep.dev/) - _r2c_ - Semgrep is a fast, open-source, static analysis tool that finds bugs and enforces code standards at editor, commit, and CI time.
-- [SonarLint](https://www.sonarlint.org/) - _SonarSource_ - An IDE plugin that highlights potential security security issues, code quality issues and bugs. 
+- [SonarLint](https://www.sonarlint.org/) - _SonarSource_ - An IDE plugin that highlights potential security security issues, code quality issues and bugs.
 - [SonarQube](https://www.sonarqube.org/) - _SonarSource_ - Scan code for security and quality issues with support for a wide variety of languages.
 
 <!-- omit in toc -->
+
 #### C / C++
 
 - [FlawFinder](https://github.com/david-a-wheeler/flawfinder) - _David Wheeler_ - Scan C / C++ code for potential security weaknesses.
 
 <!-- omit in toc -->
+
 #### C#
 
 - [Puma Scan](https://github.com/pumasecurity/puma-scan) - _Puma Security_ - A Visual Studio plugin to scan .NET projects for potential security flaws.
 
 <!-- omit in toc -->
+
 #### Configuration Files
+
 - [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_ - Create custom tests to scan any configuration file for security flaws.
 
 <!-- omit in toc -->
+
 #### Java
 
 - [Deep Dive](https://discotek.ca/deepdive.xhtml) - _Discotek.ca_ - Static analysis for JVM deployment units including Ear, War, Jar and APK.
@@ -257,21 +276,25 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 - [SpotBugs](https://github.com/spotbugs/spotbugs) - _SpotBugs_ - Static code analysis for Java applications.
 
 <!-- omit in toc -->
+
 #### JavaScript
 
 - [ESLint](https://eslint.org/) - _JS Foundation_ - Linting tool for JavaScript with multiple security linting rules available.
 
 <!-- omit in toc -->
+
 #### Go
 
 - [Golang Security Checker](https://github.com/securego/gosec) - _securego_ - CLI tool to scan Go code for potential security flaws.
 
 <!-- omit in toc -->
+
 #### .NET
 
 - [Security Code Scan](https://github.com/security-code-scan/security-code-scan) - _Security Code Scan_ - Static code analysis for C# and VB.NET applications.
 
 <!-- omit in toc -->
+
 #### PHP
 
 - [Phan](https://github.com/phan/phan) - _Phan_ - Broad static analysis for PHP applications with some support for security scanning features.
@@ -279,16 +302,17 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 - [Progpilot](https://github.com/designsecurity/progpilot) - _Design Security_ - Static analysis for PHP source code.
 
 <!-- omit in toc -->
+
 #### Python
 
 - [Bandit](https://github.com/PyCQA/bandit) - _Python Code Quality Authority_ - Find common security vulnerabilities in Python code.
 
 <!-- omit in toc -->
+
 #### Ruby
 
 - [Brakeman](https://github.com/presidentbeef/brakeman) - _Justin Collins_ - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
 - [DawnScanner](https://github.com/thesp0nge/dawnscanner) - _Paolo Perego_ - Security scanning for Ruby scripts and web application. Supports Ruby on Rails, Sinatra and Padrino frameworks.
-
 
 ### Supply Chain Security
 
@@ -296,10 +320,9 @@ Supply chain attacks come in different forms, targeting parts of the SDLC that a
 
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
 
-
 ### Threat Modelling
 
-Threat modelling is an engineering exercise that aims to identify threats, vulnerabilities and attack vectors that represent a risk to something of value.  Based on this understanding of threats, we can design, implement and validate security controls to mitigate threats. The following list of tools assist the threat modelling process.
+Threat modelling is an engineering exercise that aims to identify threats, vulnerabilities and attack vectors that represent a risk to something of value. Based on this understanding of threats, we can design, implement and validate security controls to mitigate threats. The following list of tools assist the threat modelling process.
 
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) - _Practical DevSecOps_ - A curated list of threat modelling resources.
 - [SecuriCAD](https://www.foreseeti.com/) - _Forseeti_ - Treat modelling and attack simulations for IT infrastructure.
