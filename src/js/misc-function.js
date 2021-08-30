@@ -1,23 +1,23 @@
-jQuery(function ($) {
-  var $bodyEl = $("body");
-  var $sidedrawerEl = $("#sidedrawer");
+jQuery(($) => {
+  const $bodyEl = $("body");
+  const $sidedrawerEl = $("#sidedrawer");
 
   // ==========================================================================
   // Toggle Sidedrawer
   // ==========================================================================
   function showSidedrawer() {
     // show overlay
-    var options = {
-      onclose: function () {
+    const options = {
+      onclose() {
         $sidedrawerEl.removeClass("active").appendTo(document.body);
       },
     };
 
-    var $overlayEl = $(mui.overlay("on", options));
+    const $overlayEl = $(mui.overlay("on", options));
 
     // show element
     $sidedrawerEl.appendTo($overlayEl);
-    setTimeout(function () {
+    setTimeout(() => {
       $sidedrawerEl.addClass("active");
     }, 20);
   }
@@ -29,7 +29,7 @@ jQuery(function ($) {
   $(".js-show-sidedrawer").on("click", showSidedrawer);
   $(".js-hide-sidedrawer").on("click", hideSidedrawer);
 
-  $(".to-top-arrow").click(function () {
+  $(".to-top-arrow").click(() => {
     // console.log($('html, body'));
     $("html, body").animate(
       {
