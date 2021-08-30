@@ -129,7 +129,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/history@npm:*, @types/history@npm:^4.7.8":
+"@types/history@npm:*, @types/history@npm:4.7.8":
   version: 4.7.8
   resolution: "@types/history@npm:4.7.8"
   checksum: 54020371a412e949d0a329cc325253f16daf5b33e2e485135d39d3b30d3f9a8e323b00ce1162da82387c8ecf0397a8da49ad36ab309f06284326c064092879c7
@@ -164,7 +164,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^15.12.1":
+"@types/node@npm:15.12.1":
   version: 15.12.1
   resolution: "@types/node@npm:15.12.1"
   checksum: 8a111dc99281e07b1a6408437a09eafb081760aa8bd73d481793345b302a565772c45f2be7fdd7386a8a7ce589a999ccfb513dba15a0b3320dba03c94308253f
@@ -185,7 +185,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^17.0.6":
+"@types/react-dom@npm:17.0.6":
   version: 17.0.6
   resolution: "@types/react-dom@npm:17.0.6"
   dependencies:
@@ -194,7 +194,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-router-dom@npm:^5.1.7":
+"@types/react-router-dom@npm:5.1.7":
   version: 5.1.7
   resolution: "@types/react-router-dom@npm:5.1.7"
   dependencies:
@@ -215,7 +215,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-router@npm:^5.1.14":
+"@types/react-router@npm:5.1.14":
   version: 5.1.14
   resolution: "@types/react-router@npm:5.1.14"
   dependencies:
@@ -235,7 +235,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^17.0.9":
+"@types/react@npm:17.0.9":
   version: 17.0.9
   resolution: "@types/react@npm:17.0.9"
   dependencies:
@@ -723,7 +723,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:^10.2.6":
+"autoprefixer@npm:10.2.6":
   version: 10.2.6
   resolution: "autoprefixer@npm:10.2.6"
   dependencies:
@@ -745,33 +745,33 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "awesome-kotlin@workspace:."
   dependencies:
-    "@types/history": ^4.7.8
-    "@types/node": ^15.12.1
-    "@types/react": ^17.0.9
-    "@types/react-dom": ^17.0.6
-    "@types/react-router": ^5.1.14
-    "@types/react-router-dom": ^5.1.7
-    autoprefixer: ^10.2.6
+    "@types/history": 4.7.8
+    "@types/node": 15.12.1
+    "@types/react": 17.0.9
+    "@types/react-dom": 17.0.6
+    "@types/react-router": 5.1.14
+    "@types/react-router-dom": 5.1.7
+    autoprefixer: 10.2.6
     copy-to-clipboard: ^3.3.1
-    copy-webpack-plugin: ^9.0.0
+    copy-webpack-plugin: 9.0.0
     core-js: ^3.14.0
-    css-loader: ^5.2.6
-    html-webpack-plugin: ^5.3.1
-    less: ^4.1.1
-    less-loader: ^9.0.0
+    css-loader: 5.2.6
+    html-webpack-plugin: 5.3.1
+    less: 4.1.1
+    less-loader: 9.0.0
     normalize.css: ^8.0.1
-    postcss: ^8.3.0
-    postcss-loader: ^5.3.0
+    postcss: 8.3.0
+    postcss-loader: 5.3.0
     react: ^17.0.2
     react-dom: ^17.0.2
     react-router: ^5.2.0
     react-router-dom: ^5.2.0
-    style-loader: ^2.0.0
-    ts-loader: ^9.2.2
-    typescript: ^4.3.2
-    webpack: ^5.38.1
-    webpack-cli: ^4.7.0
-    webpack-dev-server: ^3.11.2
+    style-loader: 2.0.0
+    ts-loader: 9.2.2
+    typescript: 4.3.2
+    webpack: 5.38.1
+    webpack-cli: 4.7.0
+    webpack-dev-server: 3.11.2
   languageName: unknown
   linkType: soft
 
@@ -1337,7 +1337,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"copy-webpack-plugin@npm:^9.0.0":
+"copy-webpack-plugin@npm:9.0.0":
   version: 9.0.0
   resolution: "copy-webpack-plugin@npm:9.0.0"
   dependencies:
@@ -1405,7 +1405,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"css-loader@npm:^5.2.6":
+"css-loader@npm:5.2.6":
   version: 5.2.6
   resolution: "css-loader@npm:5.2.6"
   dependencies:
@@ -2574,7 +2574,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"html-webpack-plugin@npm:^5.3.1":
+"html-webpack-plugin@npm:5.3.1":
   version: 5.3.1
   resolution: "html-webpack-plugin@npm:5.3.1"
   dependencies:
@@ -3301,7 +3301,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"less-loader@npm:^9.0.0":
+"less-loader@npm:9.0.0":
   version: 9.0.0
   resolution: "less-loader@npm:9.0.0"
   dependencies:
@@ -3313,7 +3313,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"less@npm:^4.1.1":
+"less@npm:4.1.1":
   version: 4.1.1
   resolution: "less@npm:4.1.1"
   dependencies:
@@ -4403,7 +4403,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"postcss-loader@npm:^5.3.0":
+"postcss-loader@npm:5.3.0":
   version: 5.3.0
   resolution: "postcss-loader@npm:5.3.0"
   dependencies:
@@ -4490,7 +4490,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.2.15, postcss@npm:^8.3.0":
+"postcss@npm:8.3.0, postcss@npm:^8.2.15":
   version: 8.3.0
   resolution: "postcss@npm:8.3.0"
   dependencies:
@@ -5527,7 +5527,7 @@ resolve@^1.9.0:
   languageName: node
   linkType: hard
 
-"style-loader@npm:^2.0.0":
+"style-loader@npm:2.0.0":
   version: 2.0.0
   resolution: "style-loader@npm:2.0.0"
   dependencies:
@@ -5704,7 +5704,7 @@ resolve@^1.9.0:
   languageName: node
   linkType: hard
 
-"ts-loader@npm:^9.2.2":
+"ts-loader@npm:9.2.2":
   version: 9.2.2
   resolution: "ts-loader@npm:9.2.2"
   dependencies:
@@ -5736,7 +5736,7 @@ resolve@^1.9.0:
   languageName: node
   linkType: hard
 
-typescript@^4.3.2:
+typescript@4.3.2:
   version: 4.3.2
   resolution: "typescript@npm:4.3.2"
   bin:
@@ -5746,7 +5746,7 @@ typescript@^4.3.2:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.3.2#builtin<compat/typescript>":
+"typescript@patch:typescript@4.3.2#builtin<compat/typescript>":
   version: 4.3.2
   resolution: "typescript@patch:typescript@npm%3A4.3.2#builtin<compat/typescript>::version=4.3.2&hash=ddfc1b"
   bin:
@@ -5930,7 +5930,7 @@ typescript@^4.3.2:
   languageName: node
   linkType: hard
 
-"webpack-cli@npm:^4.7.0":
+"webpack-cli@npm:4.7.0":
   version: 4.7.0
   resolution: "webpack-cli@npm:4.7.0"
   dependencies:
@@ -5979,7 +5979,7 @@ typescript@^4.3.2:
   languageName: node
   linkType: hard
 
-"webpack-dev-server@npm:^3.11.2":
+"webpack-dev-server@npm:3.11.2":
   version: 3.11.2
   resolution: "webpack-dev-server@npm:3.11.2"
   dependencies:
@@ -6057,7 +6057,7 @@ typescript@^4.3.2:
   languageName: node
   linkType: hard
 
-"webpack@npm:^5.38.1":
+"webpack@npm:5.38.1":
   version: 5.38.1
   resolution: "webpack@npm:5.38.1"
   dependencies:

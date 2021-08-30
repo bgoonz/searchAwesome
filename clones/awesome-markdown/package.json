@@ -5,7 +5,7 @@
   "dependencies": {
     "remark-cli": "^4.0.0",
     "remark-lint": "^6.0.1",
-    "remark-lint-alphabetize-lists": "^2.0.0",
+    "remark-lint-alphabetize-lists": "2.0.0",
     "remark-lint-code-block-style": "^1.0.1",
     "remark-lint-definition-case": "^1.0.1",
     "remark-lint-emphasis-marker": "^1.0.1",
