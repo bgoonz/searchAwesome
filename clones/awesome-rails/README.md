@@ -34,12 +34,11 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [Crafting Rails 4 Applications](https://pragprog.com/titles/jvrails2/crafting-rails-4-applications/)
 - [The Rails 6 Way](https://leanpub.com/therails6way)
 
-
 #### Video tutorials
 
-- [RailsCasts](http://railscasts.com) *(inactive since 2013)
-- [GoRails](https://gorails.com) *(freemium)
-- [Drifting Ruby](https://www.driftingruby.com/) *(freemium)
+- [RailsCasts](http://railscasts.com) \*(inactive since 2013)
+- [GoRails](https://gorails.com) \*(freemium)
+- [Drifting Ruby](https://www.driftingruby.com/) \*(freemium)
 
 #### Youtube channels
 
@@ -194,7 +193,6 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [How To Add Stimulus to a Ruby on Rails Application](https://www.digitalocean.com/community/tutorials/how-to-add-stimulus-to-a-ruby-on-rails-application)
 - [Build a RESTful JSON API With Rails 5](https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 
-
 > from not yet classified sources:
 
 - [Protecting your users data from Rails application using cryptography](https://github.com/cossacklabs/acra/wiki/Using-Acra-to-Protect-Your-Rails-App)
@@ -220,7 +218,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [Ruby on Rails configuration tutorials](https://hixonrails.com/ruby-on-rails-tutorials/)
 - [Containerizing Ruby on Rails Applications](https://technology.doximity.com/articles/containerizing-ruby-on-rails-applications)
 - [Behind The Scenes: Rails UJS](https://www.ombulabs.com/blog/learning/javascript/behind-the-scenes-rails-ujs.html)
-- 
+-
 
 [Back to top][link_toc]
 
@@ -237,7 +235,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [asakusaSatellite](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers (using Rails 6.0). - [:earth_africa:](https://www.codefirst.org/AsakusaSatellite/)
 - [askaway](https://github.com/askaway/askaway) - Question & answer app specialized in politics (using Rails 4.1).
 - [autolab](https://github.com/autolab/Autolab) - A course management app (using Rails 4.2). - [:earth_africa:](https://autolabproject.com/)
-- [beatstream](https://github.com/Darep/Beatstream) -  A music streaming app - using Rails 3.2
+- [beatstream](https://github.com/Darep/Beatstream) - A music streaming app - using Rails 3.2
 - [bike_index](https://github.com/bikeindex/bike_index) - A bike registry tracking app (using Rails 4.2). - [:earth_africa:](https://bikeindex.org)
 - [blackCandy](https://github.com/aidewoode/black_candy) - A music streaming app (using Rails 6.0).
 - [brimir](https://github.com/ivaldi/brimir) - An email helpdesk app (using Rails 5.2). (archived).
@@ -258,7 +256,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [crabgrass-core](https://0xacab.org/liberate/crabgrass) - A collaboration platform for activist groups (using Rails 4.2).
 - [crowdAI](https://github.com/crowdAI/crowdai) - An app for data science challenges (using Rails 5.2). - [:earth_africa:](https://www.crowdai.org/)
 - [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - A crowdfunding platform - using Rails 3.2
-- [cw-ovp](https://github.com/x1wins/CW-OVP) - video packaging to *.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
+- [cw-ovp](https://github.com/x1wins/CW-OVP) - video packaging to \*.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).
 - [danbooru](https://github.com/danbooru/danbooru) - A taggable image board app (using Rails 6.0).
 - [dcaf_case_management](https://github.com/DCAFEngineering/dcaf_case_management) - A case management app (using Rails 5.2).
 - [dgidb](https://github.com/dgidb/dgidb) - A drug gene interaction platform - using Rails 5.1
@@ -272,43 +270,43 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [expertiza](https://github.com/expertiza/expertiza) - A learning material sharing app (using Rails 4.2).
 - [fairmondo](https://github.com/fairmondo/fairmondo) - A marketplace app (using Rails 4.2). - [:earth_africa:](https://www.fairmondo.de)
 - [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM) (using Rails 5.2). - [:earth_africa:](http://www.fatfreecrm.com/)
-- [feedbin](https://github.com/feedbin/feedbin) -  A RSS reader app (using Rails 6.0). - [:earth_africa:](https://feedbin.com)
+- [feedbin](https://github.com/feedbin/feedbin) - A RSS reader app (using Rails 6.0). - [:earth_africa:](https://feedbin.com)
 - [follow-all](https://github.com/codeforamerica/follow-all) - A Twitter account management app (using Rails 4.2). (archived).
 - [forem](https://github.com/forem/forem) - Social platform app specialized for web development (using Rails 5.2). - [:earth_africa:](https://www.forem.com)
 - [fromthepage](https://github.com/benwbrum/fromthepage) - A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 4.1). - [:earth_africa:](https://www.fromthepage.com/)
-- [gitlabhq](https://github.com/gitlabhq/gitlabhq) -  A code collaboration app (using Rails 6.0).
+- [gitlabhq](https://github.com/gitlabhq/gitlabhq) - A code collaboration app (using Rails 6.0).
 - [graff_mags](https://github.com/dankleiman/graff_mags) - A graffiti magazine sharing app (using Rails 4.1). - [:earth_africa:](http://graffmags.herokuapp.com)
-- [growstuff](https://github.com/Growstuff/growstuff) -  A data management app for food gardeners (using Rails 5.2). - [:earth_africa:](https://www.growstuff.org/)
+- [growstuff](https://github.com/Growstuff/growstuff) - A data management app for food gardeners (using Rails 5.2). - [:earth_africa:](https://www.growstuff.org/)
 - [hackershare](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers (using Rails 6.0). - [:earth_africa:](https://hackershare.dev/en)
 - [hashrobot](https://github.com/rysmith/hashrobot) - A social media management app (using Rails 4.2). - [:earth_africa:](http://www.hashrobot.com)
 - [helpy](https://github.com/helpyio/helpy) - A customer support app (using Rails 4.2). - [:earth_africa:](https://helpy.io/)
 - [hitobito](https://github.com/hitobito/hitobito) - An event organization app (using Rails 4.2). - [:earth_africa:](https://hitobito.com/en)
 - [hours](https://github.com/defactosoftware/hours) - A time tracking app (using Rails 4.2). - [:earth_africa:](https://happyhours.io)
-- [inaturalist](https://github.com/inaturalist/inaturalist) -  A community app for nature and related stuff (using Rails 4.2). - [:earth_africa:](https://www.inaturalist.org)
+- [inaturalist](https://github.com/inaturalist/inaturalist) - A community app for nature and related stuff (using Rails 4.2). - [:earth_africa:](https://www.inaturalist.org)
 - [intercityup.com](https://github.com/intercity/intercity-next) - A control panel app for app deployment (using Rails 4.1).
 - [kanban](https://github.com/seanomlor/kanban) - A Trello clone (using Rails 4.2).
 - [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) - An anime discovery platform (using Rails 4.1).
 - [lavish](https://github.com/mquan/lavish) - A color scheme generator (using Rails 4.2).
 - [lifeToRemind](https://github.com/eduqg/LifeToRemind) - A career planning app (using Rails 5.2).
 - [lobsters](https://github.com/lobsters/lobsters) - A link aggregation app (using Rails 5.2). - [:earth_africa:](https://lobste.rs)
-- [loomio](https://github.com/loomio/loomio) -  A collaborative decision-making app (using Rails 5.2). - [:earth_africa:](https://www.loomio.org)
+- [loomio](https://github.com/loomio/loomio) - A collaborative decision-making app (using Rails 5.2). - [:earth_africa:](https://www.loomio.org)
 - [mastodon](https://github.com/tootsuite/mastodon) - A microblogging app (using Rails 5.2). - [:earth_africa:](https://mastodon.social/about)
 - [obtvse2](https://github.com/natew/obtvse2) - A blogging app (using Rails 4.0).
 - [onebody](https://github.com/seven1m/onebody) - A social networking app for churches - using Rails 5.1
-- [openFarm](https://github.com/openfarmcc/OpenFarm) -  A database for information about farming and gardening (using Rails 5.2). -
+- [openFarm](https://github.com/openfarmcc/OpenFarm) - A database for information about farming and gardening (using Rails 5.2). -
 - [opencongress](https://github.com/sunlightlabs/opencongress) - A website for getting information about US Congress - using Rails 3.0 (archived).
 - [openproject](https://github.com/opf/openproject) - A project management app (using Rails 6.0). - [:earth_africa:](https://www.openproject.org)
-- [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 6.0). -  [:earth_africa:](https://www.openstreetmap.org)
+- [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) - A map viewing app (using Rails 6.0). - [:earth_africa:](https://www.openstreetmap.org)
 - [opensourcefriday](https://github.com/github/opensourcefriday) - A project contribution tracking app (using Rails 6.0). - [:earth_africa:](https://opensourcefriday.com)
-- [otwarchive](https://github.com/otwcode/otwarchive) -  A social networking app for fans - using Rails 5.1 - [:earth_africa:](https://archiveofourown.org)
+- [otwarchive](https://github.com/otwcode/otwarchive) - A social networking app for fans - using Rails 5.1 - [:earth_africa:](https://archiveofourown.org)
 - [passwordPusher](https://github.com/pglombardo/PasswordPusher) - A password delivery app (using Rails 4.2). - [:earth_africa:](https://pwpush.com)
 - [peatio](https://github.com/peatio/peatio) - A crypto currency exchange app (using Rails 4.0).
 - [planningalerts-app](https://github.com/openaustralia/planningalerts) - A planned applications tracking app (using Rails 5.2). - [:earth_africa:](https://www.planningalerts.org.au)
-- [popHealth](https://github.com/pophealth/popHealth) -  A population health reporting app (using Rails 4.1).
+- [popHealth](https://github.com/pophealth/popHealth) - A population health reporting app (using Rails 4.1).
 - [publify](https://github.com/publify/publify) - A blogging app (using Rails 5.2).
-- [quant](https://github.com/jdjkelly/quant) -  A personal health tracker (using Rails 4.1).
+- [quant](https://github.com/jdjkelly/quant) - A personal health tracker (using Rails 4.1).
 - [racing_on_rails](https://github.com/scottwillson/racing_on_rails) - A bike racing organization app (using Rails 5.2).
-- [rapidFTR](https://github.com/rapidftr/RapidFTR) -  An information provider app for aid workers (using Rails 4.0).
+- [rapidFTR](https://github.com/rapidftr/RapidFTR) - An information provider app for aid workers (using Rails 4.0).
 - [redmine](https://github.com/edavis10/redmine) - A project management app (using Rails 5.2). - [:earth_africa:](http://demo.redmine.org)
 - [rentmybikes-rails](https://github.com/balanced/rentmybikes-rails) - A marketplace app - (using Rails 4.0).
 - [reservations](https://github.com/YaleSTC/reservations) - An inventory management app (using Rails 6.0). - [:earth_africa:](http://yalestc.github.io/reservations/)
@@ -424,7 +422,7 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 - [reform-rails](https://github.com/trailblazer/reform-rails) - A gem to wrap Reform gem, a form validation tool, with Rails app. [:red_circle:](https://rubygems.org/gems/reform-rails)
 - [rgeo-activerecord](https://github.com/rgeo/rgeo-activerecord) - A gem to provide common tools used by RGeo-based spatial adapters. [:red_circle:](https://rubygems.org/gems/rgeo-activerecord)
 - [rodauth-rails](https://github.com/janko/rodauth-rails) - A gem to wrap Rodauth, an authentication handler, for Rails apps. [:red_circle:](https://rubygems.org/gems/rodauth-rails)
-- [rollup](https://github.com/ankane/rollup) -  A gem to handle time-series data in Rails [:red_circle:](https://rubygems.org/gems/rollups)
+- [rollup](https://github.com/ankane/rollup) - A gem to handle time-series data in Rails [:red_circle:](https://rubygems.org/gems/rollups)
 - [route_translator](https://github.com/enriclluelles/route_translator) - A tool to handle route translation. [:red_circle:](https://rubygems.org/gems/route_translator)
 - [rspec-rails](https://github.com/rspec/rspec-rails) - A testing framework. [:red_circle:](https://rubygems.org/gems/rspec-rails)
 - [rubocop-rails](https://github.com/rubocop-hq/rubocop-rails) - A code style checking tool. [:red_circle:](https://rubygems.org/gems/rubocop-rails)
@@ -477,17 +475,16 @@ Use the "Table on Contents" menu on the top-left corner to explore the list.
 ### Platforms
 
 - [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [:earth_africa:](https://nanobox.io).
-  
+
 [Back to top][link_toc]
 
 ### Generators
 
-| Generator | Ready to run | Complex Apps | Sets git | Heroku config |
-| --------- | ------------ | ------------ | -------- | ------------- |
-| [railsnew.io](https://railsnew.io) | A web app where you pick some options from a limited menu, and it generates a template for you to clone. It also has instructions to quickly verify that everything is happy after setup. | yes | yes | yes | no
-| [Rails Composer](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
-| [Hix on Rails](https://hixonrails.com)| yes | Monitoring, Redis Sentinel, Sidekiq. | yes | no |
-
+| Generator                                                     | Ready to run                                                                                                                                                                              | Complex Apps                              | Sets git | Heroku config |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | -------- | ------------- | --- |
+| [railsnew.io](https://railsnew.io)                            | A web app where you pick some options from a limited menu, and it generates a template for you to clone. It also has instructions to quickly verify that everything is happy after setup. | yes                                       | yes      | yes           | no  |
+| [Rails Composer](https://github.com/RailsApps/rails-composer) | yes, but Stripe needs to be configured                                                                                                                                                    | Example apps reaching a SaaS with Stripe. | yes      | yes           |
+| [Hix on Rails](https://hixonrails.com)                        | yes                                                                                                                                                                                       | Monitoring, Redis Sentinel, Sidekiq.      | yes      | no            |
 
 [Back to top][link_toc]
 

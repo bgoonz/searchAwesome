@@ -22,23 +22,25 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 </div>
 
-
 ## Contents
+
 - [Development Projects](#development-projects)
-    - [APIs](#apis)
-    - [Apps](#apps)
-    - [Bots](#bots)
-    - [Miscellaneous](#miscellaneous)
+  - [APIs](#apis)
+  - [Apps](#apps)
+  - [Bots](#bots)
+  - [Miscellaneous](#miscellaneous)
 - [Resources & Others](#resources--others)
-    - [Communities](#communities)
-    - [Official](#official)
-    - [Maps](#maps)
-    - [Tips & Tricks](#tips--tricks)
-    - [Wiki](#wiki)
-    - [Others](#others)
+  - [Communities](#communities)
+  - [Official](#official)
+  - [Maps](#maps)
+  - [Tips & Tricks](#tips--tricks)
+  - [Wiki](#wiki)
+  - [Others](#others)
 
 ## Development Projects
+
 #### APIs
+
 - [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (http://pokeapi.co/).
 - [pgoapi](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo.
 - [pokemon-API](https://github.com/Purukitto/pokemon-api) - Beginner friendly API endpoint that returns Pokémon Data in JSON format (https://app.pokemon-api.xyz).
@@ -52,6 +54,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [graphql-pokemon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
 
 #### Apps
+
 - [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
@@ -60,6 +63,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokedex](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
 
 #### Bots
+
 - [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
 - [PokeSlack](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
@@ -72,6 +76,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokeBuddy](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
 
 #### Miscellaneous
+
 - [alfred-pokedex](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
 - [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) - Wondrous, tailor-made Pokémon themes for your Hyper terminal.
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
@@ -94,7 +99,9 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokéPalettes](https://github.com/BarryMode/pokepalettes) - 16-bit palettes that represent Pokémon (based on the models from Pokémon GO).
 
 ## Resources & Others
+
 #### Communities
+
 - [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - Pokémon GO Subreddit.
 - [/r/pokemongodev](https://www.reddit.com/r/pokemongodev) - Reverse engineering game/API.
 - [/r/thesilphroad](https://www.reddit.com/r/thesilphroad) - Very indepth game discussion and such.
@@ -104,15 +111,16 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Official
 
-| Pokémon                                                  |           Pokémon GO          |            Niantic                      |
-| :------------------------------------------------------  | :---------------------------- | :-------------------------------------- |
-| [Website](http://www.pokemon.com/) | [Website](http://www.pokemongo.com/) | [Website](https://www.nianticlabs.com/) |
-| [YouTube](https://www.youtube.com/user/pokemon) | [YouTube](https://www.youtube.com/channel/UCA698bls2pjQyiqP9N-iaeg) | [YouTube](https://www.youtube.com/channel/UCJZnyHeWyS_5abW0qnFNHMg) |
-| [Twitter](https://twitter.com/pokemon) | [Twitter](https://twitter.com/PokemonGoApp) | [Twitter](https://twitter.com/NianticLabs) |
-| [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
-| [Instagram](https://www.instagram.com/pokemon/?hl=en) | [Instagram](https://www.instagram.com/pokemongoapp/?hl=en) | [Instagram](https://www.instagram.com/nianticlabs/?hl=en) |
+| Pokémon                                               | Pokémon GO                                                          | Niantic                                                             |
+| :---------------------------------------------------- | :------------------------------------------------------------------ | :------------------------------------------------------------------ |
+| [Website](http://www.pokemon.com/)                    | [Website](http://www.pokemongo.com/)                                | [Website](https://www.nianticlabs.com/)                             |
+| [YouTube](https://www.youtube.com/user/pokemon)       | [YouTube](https://www.youtube.com/channel/UCA698bls2pjQyiqP9N-iaeg) | [YouTube](https://www.youtube.com/channel/UCJZnyHeWyS_5abW0qnFNHMg) |
+| [Twitter](https://twitter.com/pokemon)                | [Twitter](https://twitter.com/PokemonGoApp)                         | [Twitter](https://twitter.com/NianticLabs)                          |
+| [Facebook](https://www.facebook.com/Pokemon/)         | [Facebook](https://www.facebook.com/PokemonGO/)                     | [Facebook](https://www.facebook.com/nianticlabs)                    |
+| [Instagram](https://www.instagram.com/pokemon/?hl=en) | [Instagram](https://www.instagram.com/pokemongoapp/?hl=en)          | [Instagram](https://www.instagram.com/nianticlabs/?hl=en)           |
 
 #### Maps
+
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby.
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
@@ -121,12 +129,14 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [iPokeGo](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
 
 #### Tips & Tricks
+
 - [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon GO.
 - [Imore](http://www.imore.com/Pokemon-go-tips-tricks-cheats) - Pokémon GO: 21 tips, tricks, and cheats to be the best trainer in the world.
 - [Mashable](http://mashable.com/2016/07/08/how-to-play-pokemon-go/#7iz7HhcepPqi) - How to be the best, least annoying, Pokémon GO trainer.
 - [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - Pokémon GO: 10 Cheats, Tip & Tricks You Need to Know.
 
 #### Wiki
+
 - [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
 - [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://pokedex.org.
 - [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
@@ -136,6 +146,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokémon Go Info](https://pokemon.gameinfo.io/)
 
 #### Others
+
 - [Silphroad](https://thesilphroad.com/research) - Pokémon GO tools & reference charts.
 - [Server Status](http://www.mmoserverstatus.com/pokemon_go) - Shows you if Pokémon GO is down.
 - [Egg Statistics](https://app.cmmcd.com/) - Pokémon GO Egg Reporter.
@@ -145,6 +156,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [InfoSpreadsheet#2](https://docs.google.com/spreadsheets/d/1hcFo7-UGWx1k1u1BHOvDhq8foPeRr7YbX2jLjjJK0Qw/) - Pokémon GO species data with their movesets.
 
 ## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbueschel) has waived all copyright and related or neighboring rights to this work.

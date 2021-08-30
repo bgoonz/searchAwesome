@@ -12,15 +12,15 @@
 ### Table of Contents
 
 - [Awesome PostCSS](#awesome-postcss)
-    - [Articles](topics/articles.md)
-    - [Community](topics/community.md)
-    - [Guides](topics/guides.md)
-    - [Official Resources](topics/official-resources.md)
-    - [Podcast](topics/podcast.md)
-    - [Plugins](topics/plugins.md)
-    - [Presentations](topics/presentations.md)    
-    - [Task Runner](topics/task-runner.md)
-    
+  - [Articles](topics/articles.md)
+  - [Community](topics/community.md)
+  - [Guides](topics/guides.md)
+  - [Official Resources](topics/official-resources.md)
+  - [Podcast](topics/podcast.md)
+  - [Plugins](topics/plugins.md)
+  - [Presentations](topics/presentations.md)
+  - [Task Runner](topics/task-runner.md)
+
 ### Contributing
 
 Your contributions are always welcome. But, please take a quick gander at the [CONTRIBUTION guidelines](https://github.com/jdrgomes/awesome-postcss/blob/master/CONTRIBUTING.md) first.
@@ -36,6 +36,7 @@ Your contributions are always welcome. But, please take a quick gander at the [C
 - [Sean King](https://twitter.com/seaneking)
 
 ### License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This project is licensed under the MIT license - see the [LICENSE](https://github.com/jdrgomes/awesome-postcss/blob/master/LICENSE) for details.

@@ -7,6 +7,7 @@ A list of Q# code and resources.
 Feel free to improve this list using GitHub pull request mechanism, see [CONTRIBUTING](contributing.md) for more information.
 
 ## Contents
+
 - [Official Resources](#official-resources)
 - [Tutorials](#tutorials)
 - [Books](#books)
@@ -18,6 +19,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Blogs](#blogs)
 
 ## Official Resources
+
 - [Installation guide](https://docs.microsoft.com/en-us/quantum/quantum-installconfig)
 - [Q# samples](https://github.com/Microsoft/Quantum)
 - [Q# libraries](https://github.com/Microsoft/QuantumLibraries)
@@ -26,6 +28,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Q# libraries for the Quantum Development Kit](https://github.com/microsoft/QuantumLibraries)
 
 ## Tutorials
+
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing.
 - [Quantum Kata Notebooks](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/master?filepath=index.ipynb) - Online self-paced tutorials for learning Q# programming and quantum computing.
 - [Create your first Q# program by using the Quantum Development Kit](https://docs.microsoft.com/en-us/learn/modules/qsharp-create-first-quantum-development-kit/) - Microsoft Learn module.
@@ -34,10 +37,13 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Quantum Classification](https://github.com/microsoft/MLADS2020-QuantumClassification) - Materials for self-paced "Introduction to Quantum Classification" lab presented at MLADS 2020.
 
 ## Books
+
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) - Manning, 2021, [Sarah Kaiser](https://www.sckaiser.com/) and [Chris Granade](https://www.cgranade.com/).
 
 ## Videos
+
 <!--lint ignore double-link-->
+
 - [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) - Krysta Svore - step-by-step demo of quantum teleportation at Microsoft Mechanics.
 - [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) - Bettina Heim, Microsoft Ignite 2018 session ([here](https://www.youtube.com/watch?v=AjBLsrGgEkY) is the same session held with VS Code instead of Visual Studio).
 - [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) - John Azariah, Microsoft Build 2018 session.
@@ -45,12 +51,14 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Quantum computing sessions at //Build](https://mybuild.microsoft.com/sessions?q=quantum)
 
 ## Q/A
+
 - [Q# tag on Stack Overflow](https://stackoverflow.com/questions/tagged/q%23)
 - [Q# tag on Quantum Computing StackExchange](https://quantumcomputing.stackexchange.com/questions/tagged/q%23)
 
 ## Coding Contests and Solutions
 
 ### Official resources
+
 - [Microsoft Q# Coding Contest (Summer 2018)](https://codeforces.com/contest/1002)
 - [Microsoft Q# Coding Contest (Summer 2018) Warmup Round](https://codeforces.com/contest/1001)
 - Solution descriptions for [Microsoft Q# Coding Contest (Summer 2018)](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) and for the [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
@@ -62,12 +70,15 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - Solution descriptions for [Microsoft Q# Coding Contest (Summer 2020)](https://codeforces.com/blog/entry/79208) and for the [Warmup Round](https://codeforces.com/blog/entry/78832)
 
 ### Participants' solutions
+
 - [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
 - [Q# codes by Hiroshi Kurokawa](https://github.com/hkurokawa/QSharpCodingContest2018)
-- [No Description_ by Hajime Fukuda](https://github.com/hajifkd/qsharp-vscode)
+- [No Description\_ by Hajime Fukuda](https://github.com/hajifkd/qsharp-vscode)
 
 ## IDE Integration
+
 <!--lint ignore double-link-->
+
 - [Visual Studio](https://marketplace.visualstudio.com/items?itemName=quantum.DevKit)
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=quantum.quantum-devkit-vscode)
 - [Emacs](https://github.com/forked-from-1kasper/emacs-qsharp-mode)
@@ -76,6 +87,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [Jupyter Notebook](https://docs.microsoft.com/en-us/azure/quantum/install-jupyter-qdk)
 
 ## Demos, Samples, and Additional Libraries
+
 - [Quantum Computing Q# Introduction 2018](https://github.com/Djohnnie/QuantumComputingQSharpIntroduction2018)
 - [A implementation of Shor's algorithm written in Python calling Q# for the quantum part](https://github.com/Michaelvll/myQShor)
 - [Hadamard Gate Q# Demo](https://github.com/jwulf/HGate)
@@ -84,6 +96,7 @@ Feel free to improve this list using GitHub pull request mechanism, see [CONTRIB
 - [QuantumPeep](https://github.com/mapmeld/quantum-peep) - Generate Q# from JavaScript/TypeScript.
 
 ## Blogs
+
 - [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
 - [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) - Official blog of Microsoft Quantum team.
 - [Q# Advent Calendar 2018](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2018/) - Collection of Q#-related blog posts.

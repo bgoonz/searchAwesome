@@ -12,6 +12,7 @@ Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-inte
 - [Extensions](#extensions)
 
 ## Official Resources and Documentation
+
 - [Qlik Blog](https://blog.qlik.com)
 - [Qlik Help](https://help.qlik.com)
 
@@ -28,13 +29,13 @@ Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-inte
   - [/r/Qlik](https://www.reddit.com/r/qlik/) - Subreddit about Qlik.
   - [/r/QlikSense](https://www.reddit.com/r/qliksense/) - Subreddit about Qlik Sense.
   - [/r/QlikView](https://www.reddit.com/r/qlikview/) - Subreddit about QlikView.
-  
+
 ## Books
-  
+
 ### About Qlik Sense
 
 - [Learning Qlik Sense: The Official Guide](https://books.google.com/books/about/Learning_Qlik_Sense_The_Official_Guide.html?id=4zvlCwAAQBAJ&redir_esc=y) - By Christopher Ilacqua, Henric Cronström et al.
-- [Qlik Sense Cookbook](https://books.google.com/books/about/Qlik_Sense_Cookbook.html?id=07xouwEACAAJ&redir_esc=y ) - By Pablo Labbe, Philip Hand et al.
+- [Qlik Sense Cookbook](https://books.google.com/books/about/Qlik_Sense_Cookbook.html?id=07xouwEACAAJ&redir_esc=y) - By Pablo Labbe, Philip Hand et al.
 - [Qlik Sense for Beginners](https://books.google.com/books/about/Qlik_Sense_for_Beginners.html?id=Dy3nBAAAQBAJ&redir_esc=y) - By Mark O'Donovan.
 - [Qlik Sense: Advanced Data Visualization for Your Organization](https://books.google.ru/books?id=kPNFDwAAQBAJ&redir_esc=y) - By Dr. Christopher Ilacqua et al.
 - [Predictive Analytics Using Rattle and Qlik Sense](https://www.amazon.com/Predictive-Analytics-using-Rattle-Sense/dp/1784395803) - By Ferran Garcia Pagans.
@@ -44,8 +45,7 @@ Qlik is a [leading](https://www.qlik.com/us/gartner-magic-quadrant-business-inte
 ### About QlikView
 
 - [QlikView Essentials](https://books.google.com/books/about/QlikView_Essentials.html?id=5wMcDAAAQBAJ&redir_esc=y) - By Chandraish Sinha.
-- [Creating Stunning Dashboards with QlikView](https://www.amazon.com/Creating-Stunning-Dashboards-QlikView-Villafuerte/dp/1782175733
-) - By Julián Villafuerte.
+- [Creating Stunning Dashboards with QlikView](https://www.amazon.com/Creating-Stunning-Dashboards-QlikView-Villafuerte/dp/1782175733) - By Julián Villafuerte.
 - [QlikView for Finance](https://books.google.com/books/about/QlikView_for_Finance.html?id=pNZOCwAAQBAJ&redir_esc=y) - By B. Diane Blackwood.
 - [QlikView Unlocked](https://books.google.com/books/about/QlikView_Unlocked.html?id=vvaoCwAAQBAJ&redir_esc=y) - By Roger Stone and Andrew Dove.
 - [Practical QlikView](https://www.amazon.com/Practical-QlikView-Mark-ODonovan-ebook/dp/B007QMMDL4) - By Mark O'Donovan.

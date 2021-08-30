@@ -1,6 +1,6 @@
 # Awesome Radio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome radio resources. Inspired by awesome-*.
+A curated list of awesome radio resources. Inspired by awesome-\*.
 
 I recently pulled out my CB radio and installed it in my truck. This inspired me
 to create an open source repository of all the radio related resources I found
@@ -15,15 +15,15 @@ learning the ins and outs of radio, as well as hearing stories, new and old.
 
 ### Links
 
-* [Radio (wikipedia)](http://en.wikipedia.org/wiki/Radio)
-* [Radio Spectrum (wikipedia)](http://en.wikipedia.org/wiki/Radio_spectrum)
-* [Skywave (skip) (wikipedia)](http://en.wikipedia.org/wiki/Skywave)
-* [Mystery signal from a
+- [Radio (wikipedia)](http://en.wikipedia.org/wiki/Radio)
+- [Radio Spectrum (wikipedia)](http://en.wikipedia.org/wiki/Radio_spectrum)
+- [Skywave (skip) (wikipedia)](http://en.wikipedia.org/wiki/Skywave)
+- [Mystery signal from a
   helicopter](http://www.windytan.com/2014/02/mystery-signal-from-helicopter.html)
-* [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
-* [N0NBH's Solar-Terrestrial Data](http://www.hamqsl.com/solar2.html) - Current
-solar-terrestrial data, with explanation of their influence on HF propagation
-and propagation forecast.
+- [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
+- [N0NBH's Solar-Terrestrial Data](http://www.hamqsl.com/solar2.html) - Current
+  solar-terrestrial data, with explanation of their influence on HF propagation
+  and propagation forecast.
 
 ## CB
 
@@ -82,15 +82,15 @@ setup.
 
 ### Links
 
-* [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
-for parts, radios, antennas and mounts.
-* [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.
-* [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)
-* [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)
-* [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)
-* [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)
-* [CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)
-* [Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)
+- [Right Channel Radios](http://www.rightchannelradios.com/) - Good online shop
+  for parts, radios, antennas and mounts.
+- [CB Slang](http://www.cbslang.com/) - mostly humorous, but kinda helpful.
+- [CB Slang (wikipedia)](http://en.wikipedia.org/wiki/List_of_CB_slang)
+- [CB Talk and etiquette](http://www.jeepforum.com/forum/f8/cb-radio-etiquette-jeep-trail-1169815/)
+- [Skip](http://cbradiomagazine.com/Articles/How%20to%20Shoot%20Skip.htm)
+- [Silly CB Handles](http://www.somethingawful.com/news/cb-handles/)
+- [CB FAQ](http://www.advancedspecialties.net/cb-radio-faq.htm)
+- [Frequency Table](http://www.radioreference.com/apps/db/?aid=7731)
 
 ## SDR (Software Defined Radio)
 
@@ -104,24 +104,26 @@ I would like contributors for this section.
 
 ### Links
 
-* [Gqrx](http://gqrx.dk/)
-* [sdrsharp on .NET](http://sdrsharp.com)
+- [Gqrx](http://gqrx.dk/)
+- [sdrsharp on .NET](http://sdrsharp.com)
 
 ### Hardware
-* __Recommended starter hardware__ On the low end,
+
+- **Recommended starter hardware** On the low end,
   [RTL-SDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr) is a super-cheap usb
   dongle, around which a thriving community has been founded.
-* On the other side of the cost spectrum, [pervices](http://www.pervices.com/)
+- On the other side of the cost spectrum, [pervices](http://www.pervices.com/)
   makes some really high-throughput, PCIe devices for when you need to log all
   the traffic ever. The software and community support for this is less good,
   though (for which you can blame @outofculture).
-* You can also browse through the [big
+- You can also browse through the [big
   list](https://gnuradio.org/redmine/projects/gnuradio/wiki/Hardware) of all
   compatible hardware.
-* Antennas are their own body of options and tradeoffs, about which I know
+- Antennas are their own body of options and tradeoffs, about which I know
   nothing.
 
 ### Software
+
 Depending on the hardware you're using, it may ship with some demo software to
 play around with. This is great for just getting a chance to see some waves and
 start to get an idea of what's possible. Otherwise, [GNU
@@ -155,25 +157,25 @@ modern technology we use today.
 
 ### Links
 
-* American Radio Relay League - [ARRL](http://www.arrl.org/)
-* The Wireless Institute of Australia [WIA](http://www.wia.org.au/)
-* Radio Society of Great Britain - [RSGB](http://rsgb.org/)
-* Pakistan Amateur Radio Society - [PARS](http://www.pakhams.com/)
-* [The International Amateur Radio Union](http://www.iaru.org/)
-* [Japanese asteroid mission](http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space)
-* [Slow-scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
+- American Radio Relay League - [ARRL](http://www.arrl.org/)
+- The Wireless Institute of Australia [WIA](http://www.wia.org.au/)
+- Radio Society of Great Britain - [RSGB](http://rsgb.org/)
+- Pakistan Amateur Radio Society - [PARS](http://www.pakhams.com/)
+- [The International Amateur Radio Union](http://www.iaru.org/)
+- [Japanese asteroid mission](http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space)
+- [Slow-scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
 
 I would like contributors for this section.
 
 ### Amateur Radio License
 
-* In the [US](http://www.arrl.org/getting-licensed) there are three license
+- In the [US](http://www.arrl.org/getting-licensed) there are three license
   classes—Technician, General and Extra.
-* [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in
+- [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in
   Australia.
-* [Foundation Licence]
+- [Foundation Licence]
   (http://rsgb.org/main/clubs-training/for-students/foundation/) in the UK.
-* In
+- In
   [Pakistan](http://www.pakhams.com/index.php?option=com_content&view=article&id=75&Itemid=92)
   first you apply for SWL (Short Wave Listener) membership and then you are
   eligible to [apply for the HAM
@@ -197,6 +199,6 @@ group and the base station will find an empty frequency to transmit on.
 
 ### Links
 
-* [Project 25](http://www.project25.org/)
-* [Project 25 wikipedia](http://en.wikipedia.org/wiki/Project_25)
-* [Trunked Radio wikipedia](http://en.wikipedia.org/wiki/Trunked_radio_system)
+- [Project 25](http://www.project25.org/)
+- [Project 25 wikipedia](http://en.wikipedia.org/wiki/Project_25)
+- [Trunked Radio wikipedia](http://en.wikipedia.org/wiki/Trunked_radio_system)

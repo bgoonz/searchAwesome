@@ -1,6 +1,7 @@
 # Awesome Quality Assurance Roadmap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
+
 - [Introduction](#introduction)
 - [Test Plan Sample](#test-plan-sample)
 - [The Road Map](#the-road-map)

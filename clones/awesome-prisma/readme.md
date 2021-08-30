@@ -19,7 +19,7 @@
 
 ## :tipping_hand_woman: About this List
 
-This is a collection of **awesome resources** about [Prisma](https://www.prisma.io/ 'Modern Database Access for TypeScript & Node.js') :heart_eyes:
+This is a collection of **awesome resources** about [Prisma](https://www.prisma.io/ "Modern Database Access for TypeScript & Node.js") :heart_eyes:
 
 **Prisma is an open-source ORM**. It makes database access easy with type safety and an auto-generated query builder for TypeScript & Node.js.
 
@@ -87,11 +87,13 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Building a Backend for React with Next.js, Prisma 2, and PostgreSQL](https://www.youtube.com/watch?v=Bqacj0iOL68)
 
 ### Tutorials with [Nexus](https://www.nexusjs.org/#/)
+
 - [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)
 - [Improve Your GraphQL performance with Prisma](https://dev.to/ahmedelywa/improve-your-graphql-performance-with-prisma-2jia)
 - [Let's take Prisma 2 for a test drive on AWS Lambda with GraphQL](https://itnext.io/lets-take-prisma-2-for-a-test-drive-on-aws-lambda-with-graphql-%EF%B8%8F-f4be711e93cc)
 
 ### Tutorials with [NestJS](https://nestjs.com/)
+
 - [How to query your database using Prisma with NestJS](https://notiz.dev/blog/how-to-connect-nestjs-with-prisma)
 
 ## :family_man_woman_girl_boy: Community

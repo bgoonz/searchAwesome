@@ -7,6 +7,7 @@
 [Preact](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Contents
+
 - [Community](#community)
 - [Toolkits](#toolkits)
 - [Boilerplates](#boilerplates)
@@ -21,12 +22,14 @@
 - [Tips](#tips)
 
 ### Community
+
 - [Slack](https://chat.preactjs.com/) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
 - [Github](https://github.com/developit/preact)
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
+
 - [Preact CLI](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds.
 - [Vite](https://github.com/vitejs/vite) - Fast native-ESM powered web dev build tool for Preact, Vue or React.
 - [nwb](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
@@ -36,6 +39,7 @@
 - [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) - Storybook for Preact is a UI development environment for your Preact components.
 
 ### Boilerplates
+
 - [Official Boilerplate](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
 - [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
 - [Preact Offline Starter](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact.
@@ -49,15 +53,17 @@
 - [Preact Web Extension](https://github.com/PiyushSuthar/preact-webext) - ⚡️ WebExtension Vite Starter Template with Preact.
 
 ### Routing
+
 - [Preact Router](https://github.com/developit/preact-router) - URL router for Preact.
 - [Preact Route Async](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 - [Wouter](https://github.com/molefrog/wouter) - A tiny (1KB gzip) router for Preact/React with React Router-like API.
 
 ### Components
+
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 - [Preact Scroll Header](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact.
 - [Preact Progress](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
-- [Preact Compat](https://git.io/preact-compat) - Use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
+- [Preact Compat](https://git.io/preact-compat) - Use any React library with Preact _([full example](http://git.io/preact-compat-example))_.
 - [Preact Render To String](https://git.io/preact-render-to-string) - Universal rendering.
 - [Preact Markup](https://git.io/preact-markup) - Render HTML & Custom Elements as JSX & Components.
 - [Preact Portal](https://git.io/preact-portal) - Render Preact components into (a) SPACE.
@@ -94,10 +100,11 @@
 - [Preact Translate](https://github.com/DenysVuika/preact-translate) - Minimalistic translate (i18n) library for Preact.
 - [Preact Dock](https://github.com/TimDaub/preact-touchable-dock) - Simple DnD and touch-enabled Dock for Preact apps.
 - [Preact Particles](https://github.com/matteobruni/tsparticles#preact) - Lightweight component to easily add cool particles animations to websites.
-- [Pant](https://github.com/webyom/pant) - Mobile UI Components built on Preact *([docs and demos](https://webyom.github.io/pant))*. Ported from awesome Vue components of [Vant](https://github.com/youzan/vant).
+- [Pant](https://github.com/webyom/pant) - Mobile UI Components built on Preact _([docs and demos](https://webyom.github.io/pant))_. Ported from awesome Vue components of [Vant](https://github.com/youzan/vant).
 - [Preact Transitioning](https://github.com/fakundo/preact-transitioning) - Exposes Preact components for easily implementing basic CSS animations and transitions.
 
 ### Libraries
+
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux with a single store and no reducers.
 - [Unistore](https://github.com/developit/unistore) - 350b / 650b state container with component actions for Preact & React.
 - [FPreact](https://github.com/UnwrittenFun/fpreact) - Provides an alternative api for creating preact components, heavily inspired by elm.
@@ -107,12 +114,14 @@
 - [hooked-head](https://github.com/JoviDeCroock/hooked-head) - Hooks to manipulate the `<head>` section of the DOM. This has a subpackage with core preact support (using `preact/hooks`).
 
 ### Testing Utils
+
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
 - [Preact Render Spy](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 - [Preact Test Utils](https://github.com/windyGex/preact-test-utils) - Mock react-test-utils enzyme in preact.
 - [Preact Testing Library](https://github.com/antoaravinth/preact-testing-library) - Simple and complete Preact DOM testing utilities that encourage good testing practices.
 
 ### Articles
+
 - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
 - [The Inner Workings of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf)
 - [Using Preact Instead of React](https://medium.com/@rajaraodv/using-preact-instead-of-react-70f40f53107c)
@@ -122,6 +131,7 @@
 - [Authentication with Auth0](https://auth0.com/blog/preact-authentication-tutorial)
 
 ### Example Apps
+
 - [Preact HN](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 - [TodoMVC](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 - [Colors App](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
@@ -157,18 +167,24 @@
 - [**Windows 11 Web**](https://win11.vercel.app) - Awe-amazing Windows 11 clone for the web! ⚡ _([Github project](https://github.com/PiyushSuthar/Windows-11-Web))_.
 
 ### Related Libraries
+
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 - [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine.
 
 ### Tips
+
 Contribute some ;)
 
 ---
+
 ### Contribution
+
 Your contributions and suggestions are welcome anytime. Build great stuffs with Preact, share with us ;) <br/>
 Make sure you follow the [guidelines](/contributing.md). Thank you!
 
 ---
+
 ### License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
