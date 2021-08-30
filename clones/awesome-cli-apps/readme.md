@@ -15,7 +15,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Entertainment](#entertainment)
   - [Music](#music)
   - [Social Media](#social-media)
@@ -188,7 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [mycli](https://github.com/dbcli/mycli) - MySQL client with autocompletion and syntax highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
-- [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
+- [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
@@ -556,6 +555,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Shows digital fireplace.
 
 ## Graphics
+
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 - [pastel](https://github.com/sharkdp/pastel) - Generate, analyze, convert and manipulate colors.

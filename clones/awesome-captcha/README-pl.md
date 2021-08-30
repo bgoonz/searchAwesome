@@ -3,8 +3,7 @@
 > Wyselekcjonowana lista wspaniałych bibliotek CAPTCHA i narzędzi do łamania CAPTCHA.
 > CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart)
 
-[CAPTCHA](https://pl.wikipedia.org/wiki/CAPTCHA) to rodzaj techniki stosowanej jako zabezpieczenie na stronach internetowych, celem której jest dopuszczenie do przesłania danych tylko wypełnionych przez człowieka. 
-
+[CAPTCHA](https://pl.wikipedia.org/wiki/CAPTCHA) to rodzaj techniki stosowanej jako zabezpieczenie na stronach internetowych, celem której jest dopuszczenie do przesłania danych tylko wypełnionych przez człowieka.
 
 [English](README.md) | [中文](README-zh.md) | [Polish](README-pl.md)
 
@@ -20,7 +19,6 @@
 - [Opiekunowie](#opiekunowie)
 - [Współtworzenie](#współtworzenie)
 
-
 ## Biblioteki
 
 - [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - CAPTCHA dla Laravel 5.
@@ -32,8 +30,8 @@
 - [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA dla Laravel.
 - [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API do różnych usług rozwiązywania CAPTCHA.
 
-
 ## Generowanie
+
 - [dchest/captcha](https://github.com/dchest/captcha) - pakiet Go CAPTCHA implementuje generowanie i weryfikację obrazu i dźwięku CAPTCHA.
 - [lepture/captcha](https://github.com/lepture/captcha) - biblioteka CAPTCHA która generuje CAPTCHA audio oraz obraz.
 - [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) - generuje svg CAPTCHA w Node.js.
@@ -46,6 +44,7 @@
 ## Łamanie
 
 ### Ogólne
+
 - [arunpatala/captcha](https://github.com/arunpatala/captcha) - łamanie CAPTCHA używając torch.
 - [zakizhou/CAPTCHA](https://github.com/zakizhou/CAPTCHA) - implementacja klasyfikacji dla CAPTCHA w TensorFlow.
 - [nladuo/captcha-break](https://github.com/nladuo/captcha-break) - łamanie CAPTCHA oparte na opencv2, tesseract-ocr i algorytmie uczenia maszynowego.
@@ -54,7 +53,7 @@
 - [rickyhan/SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) - rozwiązywanie CAPTCHA bez ręcznego oznaczania zestawu treningowego.
 - [arunpatala/captcha.irctc](https://github.com/arunpatala/captcha.irctc) - czytanie irctc CAPTCHAs z 98% dokładnością za pomocą deep learning.
 - [JackonYang/captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image CAPTCHA Solving używając TensorFlow oraz CNN Model.
-- [skyduy/CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
+- [skyduy/CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras 框架、验证码识别）.
 - [PatrickLib/captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition CAPTCHA bez segmentacji obrazu.
 - [zhengwh/captcha-svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple CAPTCHA.
 - [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) - Łamanie CAPTCHA z CNN.
@@ -66,13 +65,13 @@
 - [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - oparte na CNN5/DenseNet+BLSTM/LSTM+CTC do realizacji identyfikacji kodu weryfikacyjnego. Tylko do treningu modelu.
 
 ### Chińskie
+
 - [burness/chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - rozpoznawanie chińskiego pisma ręcznego.
 - [taosir/cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - tak jak wskazuje nazwa, handwritten_chinese_recognition z cnn.
 - [soloice/Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - ten projekt pokazuje jak używać CNN, aby wykonać rozpoznawanie chińskich znaków, jest to znacznie bardziej skomplikowane zadanie w porównaniu do rozpoznawania cyfr MNIST.
 - [muchrooms/zheye](https://github.com/muchrooms/zheye) - Chinese CAPTCHA recognition program for handstand character of zhihu.
 - [aaronshan/12306-captcha](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
 - [nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize CAPTCHA by Tensorflow.
-
 
 ## Narzędzia
 
@@ -83,21 +82,17 @@
 - [Securimage](https://github.com/dapphp/securimage) - PHP CAPTCHA Script.
 - [Captcha_solver](https://github.com/lorien/captcha_solver) - Univeral API do usług rozwiązywania CAPTCHA.
 
-
 ## Inne
 
 - [VisualCaptcha](https://github.com/emotionLoop/visualCaptcha) - Zbiór wszystkich innych wersji/repozytoriów visualCaptcha.
-
 
 ## Opiekunowie
 
 - [@ZYSzys](https://github.com/ZYSzys)
 
-
 ## Współtworzenie
 
 Dołącz śmiało! Sprawdź plik [contributing.md](contributing.md) lub [otwórz issue](https://github.com/ZYSzys/awesome-captcha/issues/new)!
-
 
 ## Licencja
 

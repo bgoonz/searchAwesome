@@ -1,4 +1,3 @@
-
 # Awesome Audiovisual [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Curated list of software, libraries and resources for lighting, video and audio professionals and hobbyists.
@@ -6,7 +5,9 @@
 Want to add something? Just make a pull request, but be sure to follow the [contributing guidelines](./contributing.md)! Question? Ask it in the [General Discussion issue](https://github.com/stingalleman/awesome-audiovisual/issues/2).
 
 ## Contents
+
 <!--lint ignore awesome-toc -->
+
 - [Lighting](#Lighting)
   - [Lighting Software](#Lighting-Software)
   - [Visualizers](#Visualizer)
@@ -37,7 +38,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ## Lighting
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 ### Lighting Software
 
@@ -63,7 +64,7 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ## Audio
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 ### Audio Software
 
@@ -81,13 +82,13 @@ Want to add something? Just make a pull request, but be sure to follow the [cont
 
 ## Video
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme).
 
 ## Tools
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 - [Livescript](https://github.com/Netlob/livescript) - Insert a musical/theatre-script from Google Docs and use this for a live "autocue" and scroller with everyone on the site. `✓ open-source`.
 - [StageClock](http://notelek.com/StageClock/) - StageClock is a Java based graphical timekeeping application. It outputs a clean feed from an attached monitor, and has time/date, timer, and show information. `⚠ freemium`.
@@ -116,7 +117,7 @@ Timecode is a sequence of numeric codes generated at regular intervals by a timi
 
 ## Libraries and frameworks
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 - [Open Lighting Architecture](https://www.openlighting.org/ola/) - A framework for lighting control information. Supports a range of protocols and over a dozen of USB devices. [Source Code](https://github.com/OpenLightingProject/ola)
 - [node-dmx](https://github.com/node-dmx/dmx) - DMX controller library for Node.js. `nodejs` `✓ open-source`.
@@ -128,25 +129,26 @@ Timecode is a sequence of numeric codes generated at regular intervals by a timi
 
 ## Hardware
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 See [HARDWARE.md](./HARDWARE.md).
 
 ## Graphics
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 - [GIMP](https://www.gimp.org/) - GIMP is a cross-platform image editor available for Linux, Windows, and macOS.
 - [Inkscape](https://inkscape.org/) - Inkscape is a professional vector graphics editor for Linux, Windows and macOS.
 
 ## Management
-**[`^        back to top        ^`](#Contents)**
+
+**[`^ back to top ^`](#Contents)**
 
 - [Rentman](https://rentman.io/) - Cloud rental software for AV & Event companies. Resource planning, scheduling and more. `⚠ not free`
 
 ## Resources
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 - [Chamsys Programmers and Users facebook group](https://www.facebook.com/groups/chamsys.users/) - The best place to find information about Chamsys consoles and software.
 - [Christian Jackson](https://www.youtube.com/channel/UCdLor-EVzOjOY7OZNXt8eIw) - YouTube channel about concert lighting. Also has great MA tutorials.
@@ -165,7 +167,7 @@ See [HARDWARE.md](./HARDWARE.md).
 
 ## Tutorials
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 ### GrandMA2 tutorials
 
@@ -173,7 +175,7 @@ See [HARDWARE.md](./HARDWARE.md).
 
 ## Misc/other
 
-**[`^        back to top        ^`](#Contents)**
+**[`^ back to top ^`](#Contents)**
 
 - [Blender ArtNet](https://github.com/BryanCrotaz/blender-artnet) - Blender script to push ArtNet data to Evee lights. Runs at 30fps with Evee rendering in the viewport. `✓ open-source`.
 - [Linux](https://en.wikipedia.org/wiki/Linux) - A free operating system that can run on pretty much every kind of computer and is great for breathing new life into old computers that aren't supported by the newer Windows editions. There's tons of different distributions to choose from,. The most common one for general computer stuff is [Ubuntu](https://ubuntu.com/). `✓ open-source`.

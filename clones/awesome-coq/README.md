@@ -136,7 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Analysis](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
 - [Category Theory in Coq](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
-- [Completeness and Decidability of Modal Logic Calculi](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K*, CTL, and PDL.
+- [Completeness and Decidability of Modal Logic Calculi](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
 - [CoqPrime](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
 - [CoRN](https://github.com/coq-community/corn) - Library of constructive real analysis and algebra.
 - [Coqtail Math](https://github.com/coq-community/coqtail-math) - Library of mathematical results ranging from arithmetic to real and complex analysis.

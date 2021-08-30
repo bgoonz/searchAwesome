@@ -1,7 +1,7 @@
 ruleset:
   one_suggestion:
     name: "a single suggestion / PR"
-    events: [ pull_request ]
+    events: [pull_request]
     comment: >
       @{{ user.login }}, please only add one suggestion per PR.
     when:
@@ -11,7 +11,7 @@ ruleset:
 
   require_url:
     name: "the line contains a URL"
-    events: [ pull_request ]
+    events: [pull_request]
     comment: >
       @{{ user.login }}, suggestions should contain links.
     when:
@@ -21,7 +21,7 @@ ruleset:
 
   broken_links:
     name: "the URL is accessible (200 status code)"
-    events: [ pull_request ]
+    events: [pull_request]
     comment: >
       @{{ user.login }}, the link for your suggestion (in the diff) did not return
       an HTTP status code of 200. Please check for broken links and/or redirects.
@@ -33,7 +33,7 @@ ruleset:
 
   link_in_description:
     name: "the URL matches the URL in the PR's body"
-    events: [ pull_request ]
+    events: [pull_request]
     comment: >
       @{{ user.login }}, please include links you added in the diff
       directly to the pull request body also to make it easier to check, thanks.

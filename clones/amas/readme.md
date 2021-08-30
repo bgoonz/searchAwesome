@@ -188,16 +188,13 @@
 - [IIIT Vadodara](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 - [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - Loves [making](https://nikitavoloboev.xyz/projects/) and [sharing](https://wiki.nikitavoloboev.xyz/sharing) things. Building [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) and [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
 
-
 ---
 
 #### [Create your own AMA!](create-ama.md)
 
 ---
 
-
-*Fun: AMAs is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym).*
-
+_Fun: AMAs is a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym)._
 
 ## License
 

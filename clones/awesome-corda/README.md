@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://www.corda.net/"><img width="250px" src="./project_logo.png">
   </a><br />
@@ -6,9 +5,9 @@
   <br />Corda allows you to build interoperable blockchain networks that transact in strict privacy. Corda's smart contract technology allows businesses to transact directly, with value.
   <br />
 
-  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-</div>
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+</div>
 
 Pull requests are welcome!
 
@@ -28,12 +27,10 @@ Pull requests are welcome!
 - [Official](#official)
 - [Contribute](#contribute)
 
-
 ## Documentation
 
 - [Documentation](https://docs.corda.net/) - Corda documentation. The go-to place for all things.
 - [Technical whitepaper](https://www.r3.com/reports/corda-technical-whitepaper/) - Technical description of Corda.
-
 
 ## Programming
 
@@ -47,7 +44,7 @@ Pull requests are welcome!
 - [Corbeans](https://manosbatsis.github.io/corbeans) - Corda integration for Spring Boot.
 - [Cordage](https://github.com/LayerXcom/cordage) - Provide modules that make the interoperability possible between Corda and other blockchains without further trusted third party.
 - [Cordalo](https://github.com/cordalo-ch) - Provide Corda frameworks to speed up your development in the decentralized space.
-- [Corda Lean State](https://manosbatsis.github.io/corda-lean-state) - Generate Corda Contract and Persistent states from a simplified interface. 
+- [Corda Lean State](https://manosbatsis.github.io/corda-lean-state) - Generate Corda Contract and Persistent states from a simplified interface.
 - [Cordentity](https://github.com/hyperledger-labs/cordentity) - Integrate [Hyperledger Indy](https://www.hyperledger.org/projects/hyperledger-indy) capabilities into Corda.
 - [DAML for Corda](https://github.com/chainstack/awesome-corda) - DAML smart contracts for Corda.
 - [DemoBench](https://www.corda.net/demobench/) - A standalone desktop app to configure and launch local Corda nodes.
@@ -62,7 +59,7 @@ Pull requests are welcome!
 - [VS Code Corda extension](https://github.com/corda/vscode-corda) - VS Code tools for developing CorDapps on the Corda platform.
 - [Web3j integration for Corda](http://corda.web3j.io/) - A lightweight client library for working with CorDapps.
 - [XTS Fountain](https://cordite.foundation/) - Mint XTS tokens and send them to a token account on a Corda node.
-- [Splunk App for Corda](https://github.com/splunkdlt/splunk-app-for-corda) - Splunk official integration app for Corda monitoring. 
+- [Splunk App for Corda](https://github.com/splunkdlt/splunk-app-for-corda) - Splunk official integration app for Corda monitoring.
 
 ## Tutorials
 
@@ -71,18 +68,15 @@ Pull requests are welcome!
 - [No ticket scalping CorDapp](https://docs.chainstack.com/tutorials/no-ticket-scalping-cordapp-on-corda) - Build, run, and interact with a CorDapp from scratch.
 - [Vaultaire: Corda Vault Queries Made Simple](https://medium.com/@manosbatsis/vaultaire-corda-vault-queries-made-simple-d13db4147298) - Upgrade to a clean and easy to use query DSL generated just for you.
 
-
 ## Learning and online courses
 
 - [Official Corda Training Platform](https://training.corda.net/) - Free training platform maintained by R3 (Corda + SDKs). Self-paced with optional support.
 - [Introduction to Corda Development](https://www.udemy.com/course/corda-development/) - A free self-paced online course.
 - [Corda developer certification](https://www.r3.com/training-and-certification/) - Become a certified Corda developer.
 
-
 ## Videos
 
 - [Corda Bootcamp](https://www.youtube.com/playlist?list=PLi1PppB3-YrVq5Qy_RM9Qidq0eh-nL11N) - A playlist of 20 videos for Corda beginners.
-
 
 ## CorDapps
 
@@ -101,23 +95,19 @@ Try out CorDapps and get inspired. Also explore the [CorDapp marketplace](https:
 - [Corda Testnet](https://docs.corda.net/corda-testnet-intro.html) - A free public testnet with minimal permissions run by the the Corda Network Foundation.
 - [Cordite Network](https://cordite.foundation/) - A testnet open to anyone run by the Cordite Foundation.
 
-
 ## Community
 
 - [Slack](http://slack.corda.net/) - Talk to the Corda community.
 - [Mailing list](https://groups.io/g/corda-dev) - Join the Corda developers mailing list.
 - [Corda Code Club](https://www.meetup.com/Corda-Code-Club/) - Corda Developer Meetup in London.
 
-
 ## Misc
 
 - [Corda developer blog](https://lankydan.dev) - A very helpful blog from a Corda developer.
 
-
 ## Official
 
 - [Corda website](https://www.corda.net/)
-
 
 ## Contribute
 

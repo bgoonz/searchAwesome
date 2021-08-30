@@ -11,16 +11,18 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 ## Summary
 
 - [Canvas](#canvas)
-    - [Definition](#definition)
-    - [Examples](#examples)
+
+  - [Definition](#definition)
+  - [Examples](#examples)
 
 - [Libraries](#libraries)
 
 - [Resources](#resources)
-    - [Talks](#talks)
-    - [Books](#books)
-    - [Twitter](#twitter)
-    - [Websites and Tutorials](#websites-and-tutorials)
+
+  - [Talks](#talks)
+  - [Books](#books)
+  - [Twitter](#twitter)
+  - [Websites and Tutorials](#websites-and-tutorials)
 
 - [License](#license)
 
@@ -32,46 +34,44 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 
 ### Examples
 
-*Some good examples about creation with canvas.*
+_Some good examples about creation with canvas._
 
-
-* [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) [[show me the code](http://codepen.io/soulwire/pen/Ffvlo)] • A result of a study creating performant particles with Canvas 2D.
-* [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
-* [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
-* [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
-* [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
-* [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
-* [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
-* [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
-* [Draw Table](http://raphamorim.io/canvas-experiments/draw) - [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
-* [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
-* [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
-* [Inception](http://raphamorim.io/canvas-experiments/inception) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie 
-* [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) [[show me the code](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
-* [Just Canvas](http://raphamorim.io/just-canvas/) [[show me the code](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
-* [Linjer](http://lab.hakim.se/linjer/) • Amazing experiment about nodes effects in addition with cloth and animation effect.
-* [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html) • A good example about Liquid Particles.
-* [LucidChart](http://www.lucidchart.com/documents/demo) • A complete tool to draw diagrams and other geometric forms, made in canvas.
-* [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/) • A example about fractal renderer using canvas.
-* [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) [[show me the code](http://codepen.io/ara_node/pen/nuJCG)] • A example about typeface animation.
-* [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) [[show me the code](http://cssdeck.com/labs/neatnait-canvas-rain)] • A reference to create rain particles.
-* [Particles](http://codepen.io/pixelgrid/full/ECrKd) [[show me the code](http://codepen.io/pixelgrid/pen/ECrKd)] • Reference to create astonishing particles.
-* [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created using canvas.
-* [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) [[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)] • Besides being a good example, it also is a tutorial about game made with canvas.
-* [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
-* [PixelCraft](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
-* [Raining Day](http://raphamorim.io/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
-* [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
-* [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
-* [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
-* [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
-* [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
-* [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)] • Wipers receiving life with canvas.
-* [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)] • A simple canvas example showing a Lorenz atractor
-* [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) [[show me the code](http://cssdeck.com/labs/xtunjekt)] • Excelent example about vector postion and movement.
-* [3D Space Craft](http://07055944295.com/solvalou.php) • A Space Craft made and rotating with canvas.
-* [Wormz](https://www.chromeexperiments.com/experiment/wormz) • Particles experiment.
-
+- [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) [[show me the code](http://codepen.io/soulwire/pen/Ffvlo)] • A result of a study creating performant particles with Canvas 2D.
+- [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)] • This demo is an implementation of a full 8-bit color cycling engine, rendered into an HTML5 Canvas in real-time.
+- [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
+- [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
+- [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
+- [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
+- [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
+- [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
+- [Draw Table](http://raphamorim.io/canvas-experiments/draw) - [[show me the code](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
+- [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
+- [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
+- [Inception](http://raphamorim.io/canvas-experiments/inception) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie
+- [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) [[show me the code](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
+- [Just Canvas](http://raphamorim.io/just-canvas/) [[show me the code](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
+- [Linjer](http://lab.hakim.se/linjer/) • Amazing experiment about nodes effects in addition with cloth and animation effect.
+- [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html) • A good example about Liquid Particles.
+- [LucidChart](http://www.lucidchart.com/documents/demo) • A complete tool to draw diagrams and other geometric forms, made in canvas.
+- [L-System Turtle Fractal Renderer](http://www.kevs3d.co.uk/dev/lsystems/) • A example about fractal renderer using canvas.
+- [Motion Graphic Typeface](http://codepen.io/ara_node/full/nuJCG/) [[show me the code](http://codepen.io/ara_node/pen/nuJCG)] • A example about typeface animation.
+- [Neatnait Canvas Rain](http://cssdeck.com/labs/full/neatnait-canvas-rain) [[show me the code](http://cssdeck.com/labs/neatnait-canvas-rain)] • A reference to create rain particles.
+- [Particles](http://codepen.io/pixelgrid/full/ECrKd) [[show me the code](http://codepen.io/pixelgrid/pen/ECrKd)] • Reference to create astonishing particles.
+- [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created using canvas.
+- [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) [[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)] • Besides being a good example, it also is a tutorial about game made with canvas.
+- [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
+- [PixelCraft](https://github.com/rgab1508/PixelCraft) • A pixel-art editor made using canvas
+- [Raining Day](http://raphamorim.io/raining-day/) [[show me the code](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
+- [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazing example about line movement and animation.
+- [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)] • An example about creating a star time-lapse sky using canvas.
+- [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
+- [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)] • Simple trigonometry visualisation.
+- [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
+- [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)] • Wipers receiving life with canvas.
+- [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)] • A simple canvas example showing a Lorenz atractor
+- [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) [[show me the code](http://cssdeck.com/labs/xtunjekt)] • Excelent example about vector postion and movement.
+- [3D Space Craft](http://07055944295.com/solvalou.php) • A Space Craft made and rotating with canvas.
+- [Wormz](https://www.chromeexperiments.com/experiment/wormz) • Particles experiment.
 
 ## Libraries
 
@@ -82,31 +82,31 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [d3](https://github.com/d3/d3) (or D3.js) is a JavaScript library for visualizing data using web standards. D3 helps you bring data to life using SVG, Canvas and HTML.
 - [EaselJS](https://createjs.com/easeljs) is a JavaScript library that makes working with the HTML5 Canvas element easy. Useful for creating games, generative art, and other highly graphical experiences. EaselJS is part of CreateJS - a modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
-and also has SVG-to-canvas (and canvas-to-SVG) parser
+  and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
-- [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. 
+- [Konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [Origami.js](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 - [p5.js](https://p5js.org) - p5.js is a JS client-side library for creating graphic and interactive experiences
 - [Paper.js](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 - [Pencil.js](https://pencil.js.org/) - Nice modular Javascript library with clear OOP syntaxe and lots of features.
 - [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
-    - [Overview](http://ejohn.org/blog/overview-of-processing/)
-    - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
-- [Proton](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects 
+  - [Overview](http://ejohn.org/blog/overview-of-processing/)
+  - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
+- [Proton](https://github.com/a-jie/Proton) is a lightweight and powerful javascript particle engine. With it you can easily create countless cool effects
 - [Pts.js](https://ptsjs.org) - Pts is a javascript library for visualization and creative-coding.
 - [Scrawl-canvas](https://scrawl-v8.rikweb.org.uk/) - easily add multiple responsive, accessible and interactive &lt;canvas> elements to a web page
 - [Sketch](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
-    - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
-    - [Some amazing examples](http://threejs.org/examples/)
+  - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
+  - [Some amazing examples](http://threejs.org/examples/)
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
 - [zDog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [zrender](https://github.com/ecomfe/zrender) - A lightweight canvas library which providing 2d draw for Apache ECharts (incubating)
 
 ### For other purposes, but still use canvas
-- [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
 
+- [React Canvas](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
 
 ## Resources
 
@@ -120,23 +120,22 @@ Where to discover more about Canvas.
 - [High Performance Mobile Web Game Development in HTML5, by Sangmin Shim](https://www.youtube.com/watch?v=T8OCEqM7mqU)
 - [HTML5 Canvas Animation with Javascript, by Josh Robertson](https://www.youtube.com/watch?v=sLt9WeyGVEQ)
 
-
 ### Books
 
 - [HTML5 Canvas](http://shop.oreilly.com/product/0636920013327.do) by Steve Fulton, Jeff Fulton - O'Reilly. Updated: [2nd Edition](http://shop.oreilly.com/product/0636920026266.do)
-- [HTML5 Canvas For Dummies](http://www.amazon.com/HTML5-Canvas-For-Dummies-Cowan/dp/1118385357) by  Don Cowan
+- [HTML5 Canvas For Dummies](http://www.amazon.com/HTML5-Canvas-For-Dummies-Cowan/dp/1118385357) by Don Cowan
 - [Foundation HTML5 Canvas: For Games and Entertainment](http://www.amazon.com/gp/product/1430232919/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=rawkes-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1430232919) by Rob Hawkes
 - [HTML5 Canvas Cookbook](https://www.packtpub.com/web-development/html5-canvas-cookbook) - by Eric Rowell
 - [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/title.html) - by Josh Marinacci
 
 ### Twitter
 
-* [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js](https://github.com/jeresig/processing-js)
-* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js)
-* [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
-* [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
-* [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
-* [@end3r](https://twitter.com/end3r) - HTML5 game developer and EnclaveGames indie studio founder
+- [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js](https://github.com/jeresig/processing-js)
+- [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js](https://github.com/mrdoob/three.js)
+- [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
+- [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
+- [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
+- [@end3r](https://twitter.com/end3r) - HTML5 game developer and EnclaveGames indie studio founder
 
 ### Websites and Tutorials
 

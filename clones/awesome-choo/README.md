@@ -24,6 +24,7 @@
 - [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
 
 ### Dependencies
+
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
@@ -89,9 +90,11 @@ Templates for [choo-cli](https://github.com/trainyard/choo-cli)
 - [simonwjackson/atomic-choo](https://github.com/simonwjackson/atomic-choo) - An opinionated project seed to get started developing with electron, webpack and choo.
 
 Other CLI templates
+
 - [graforlock/choo-bandwagon](https://github.com/graforlock/choo-bandwagon)
 
 ### Resources
+
 > :movie_camera: : videos
 > :computer: : tutorials
 > :book: : articles

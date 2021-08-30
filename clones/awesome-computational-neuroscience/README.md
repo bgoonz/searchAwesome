@@ -838,7 +838,6 @@ In addition to names of PIs, excerpts of their academic biographies, and links t
 | PI(Ph.D.s) | Research Areas | Research | +/=/- computational |
 | ---------- | -------------- | -------- | ------------------- |
 
-
 </div>
 
 ##### Massachussetts Institute of Technology

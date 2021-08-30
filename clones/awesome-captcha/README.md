@@ -4,7 +4,6 @@
 
 [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) is a type of challenge–response test used in computing to determine whether or not the user is human.
 
-
 [English](README.md) | [中文](README-zh.md) | [Polish](README-pl.md)
 
 ## Contents
@@ -18,7 +17,6 @@
 - [Other](#other)
 - [Maintainers](#maintainers)
 
-
 ## Libraries
 
 - [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - Captcha for Laravel 5.
@@ -30,8 +28,8 @@
 - [anhskohbo/no-captcha](https://github.com/anhskohbo/no-captcha) - No CAPTCHA reCAPTCHA For Laravel.
 - [lorien/captcha_solver](https://github.com/lorien/captcha_solver) - Universal python API to different captcha solving services.
 
-
 ## Generation
+
 - [dchest/captcha](https://github.com/dchest/captcha) - Go package captcha implements generation and verification of image and audio CAPTCHAs.
 - [lepture/captcha](https://github.com/lepture/captcha) - A captcha library that generates audio and image CAPTCHAs.
 - [lemonce/svg-captcha](https://github.com/lemonce/svg-captcha) - Generate svg captcha in Node.js.
@@ -46,10 +44,10 @@
 - [Lokno/click-captcha](https://github.com/Lokno/click-captcha) - A visual, click-based CAPTCHA for human authentication.
 - [ArgoZhang/SliderCaptcha](https://github.com/ArgoZhang/SliderCaptcha) - Slider captcha supporting mobile.
 
-
 ## Crack
 
 ### General
+
 - [arunpatala/captcha](https://github.com/arunpatala/captcha) - Breaking captchas using torch.
 - [zakizhou/CAPTCHA](https://github.com/zakizhou/CAPTCHA) - Implement classification for CAPTCHA in TensorFlow.
 - [nladuo/captcha-break](https://github.com/nladuo/captcha-break) - Captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
@@ -58,7 +56,7 @@
 - [rickyhan/SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha) - Solve captcha without manually labeling a training set.
 - [arunpatala/captcha.irctc](https://github.com/arunpatala/captcha.irctc) - Reading irctc captchas with 98% accuracy using deep learning.
 - [JackonYang/captcha-tensorflow](https://github.com/JackonYang/captcha-tensorflow) - Image Captcha Solving Using TensorFlow and CNN Model.
-- [skyduy/CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras框架、验证码识别）.
+- [skyduy/CNN_keras](https://github.com/skyduy/CNN_keras) - CNN | Keras | CAPTCHA recognition（卷积神经网络、Keras 框架、验证码识别）.
 - [PatrickLib/captcha_recognize](https://github.com/PatrickLib/captcha_recognize) - Image Recognition captcha without image segmentation.
 - [zhengwh/captcha-svm](https://github.com/zhengwh/captcha-svm) - Use svm to hack simple captcha.
 - [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) - Crack captcha with CNN.
@@ -70,13 +68,13 @@
 - [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - Based on CNN5/DenseNet+BLSTM/LSTM+CTC to realize verification code identification. Only for training the model.
 
 ### Chinese
+
 - [burness/chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - Handwritten chinese recognition.
 - [taosir/cnn_handwritten_chinese_recognition](https://github.com/taosir/cnn_handwritten_chinese_recognition) - As the name shows, handwritten_chinese_recognition with cnn.
 - [soloice/Chinese-Character-Recognition](https://github.com/soloice/Chinese-Character-Recognition) - This project shows how to use CNN to perform Chinese character recognition, a much more complicated task compared to MNIST digit recognition.
 - [muchrooms/zheye](https://github.com/muchrooms/zheye) - Chinese captcha recognition program for handstand character of zhihu.
 - [aaronshan/12306-captcha](https://github.com/aaronshan/12306-captcha) - Recognize 12306 captcha with deep learning.
 - [nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha) - Use cnn recognize captcha by tensorflow.
-
 
 ## Tools
 
@@ -87,22 +85,18 @@
 - [Securimage](https://github.com/dapphp/securimage) - PHP CAPTCHA Script.
 - [Captcha_solver](https://github.com/lorien/captcha_solver) - Univeral API to captcha solving services.
 
-
 ## Other
 
 - [VisualCaptcha](https://github.com/emotionLoop/visualCaptcha) - A collection of all the different versions/repos of visualCaptcha.
 - [Hashcash for PHP/JavaScript forms](https://github.com/007/hashcash-js) - An alternative to captcha to fight spam, based on proof-of-work.
 
-
 ## Maintainers
 
 - [@ZYSzys](https://github.com/ZYSzys)
 
-
 ## Contribute
 
 Please do! Check out the [contributing.md](contributing.md) file, or [open an issue](https://github.com/ZYSzys/awesome-captcha/issues/new)!
-
 
 ## License
 

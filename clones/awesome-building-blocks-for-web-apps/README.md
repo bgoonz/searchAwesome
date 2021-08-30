@@ -10,6 +10,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 ## Contents
 
 - [UI Elements](#ui-elements)
@@ -53,11 +54,13 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Creative Designs Guru](https://creativedesignsguru.com) - Themes for React, Nextjs and Eleventy, built with Tailwind CSS.
 
 ## Exit Intent Popup
+
 - [Wisepops](https://wisepops.com/) - Contextual popups, banners and bars for mobile and desktop visitors.
 - [Listagram](https://www.listagram.com) - Interactive opt-in form for collecting email addresses.
 - [Poptin](https://www.poptin.com) - Popups and forms that can be integrated anywhere in the website.
 
 ## Auth
+
 - [Auth0](https://auth0.com/) - Authentication management with native support for Angular, React and VueJS.
 - [Firebase](https://firebase.google.com) - PaaS from Google, including authentication management.
 - [Okta](https://www.okta.com/) - Authentication and Authorization solution with support for Angular, React and VueJS.
@@ -66,6 +69,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [AWS Cognito](https://aws.amazon.com/cognito/) - AWS authentication management. Frontend integration is part of [AWS Amplify](https://aws.amazon.com/de/amplify/).
 
 ## Booking
+
 - [Calendly](https://calendly.com/) - Stand-alone booking solution.
 - [Zoho Bookings](https://www.zoho.com/bookings/) - Online scheduler integrated into Zoho Suite.
 - [Acuity Scheduling](https://acuityscheduling.com/) - Appointment scheduling with extensive API.
@@ -80,6 +84,7 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Cogsworth Scheduler](https://get.cogsworth.com/) - Online Scheduler for business with a powerful API.
 
 ## Notification
+
 - [OneSignal](https://onesignal.com/) - Mobile and web notifications.
 - [Notific](https://notific.io/) - Notifications including a PHP SDK.
 - [WonderPush](https://www.wonderpush.com/) - Notifications focused on speed.
@@ -87,26 +92,32 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Signalize](https://signalize.com/) - Free notifications with paid analytics add on.
 
 ## Social
+
 - [Stream](https://getstream.io/) - Activity feed & chat APIs.
 - [EmbedSocial's embedfeed](https://embedsocial.com/products/embedfeed/) - Social media aggregator.
 
 ## Chat Bot
+
 - [Fresh chat](https://www.freshworks.com/live-chat-software/) - Chatbot in Freshworks support suite.
 - [Tiledesh](https://www.tiledesk.com/) - AI-powered live chat.
 
 ## Chat
+
 - [Daily.co](https://www.daily.co/) - Video chat.
 
 ## Monitoring
+
 - [Sentry](https://sentry.io/) - Full-stack error monitoring with release management included.
 - [Raygun Crash Reporting](https://raygun.com/platform/crash-reporting) - Error monitoring as part of the Raygun suite.
 - [Honeybadger](https://www.honeybadger.io/) - Error, uptime and check-in monitoring.
 - [Rollbar](https://rollbar.com/) - Error monitoring with the ability to replay HTTP requests that caused errors.
 
 ## Content Management
+
 - [Contentful](https://www.contentful.com) - Headless content management system.
 
 ## Consent Management
+
 - [Cookiefirst](https://cookiefirst.com/) - Cookie consent manager.
 - [usercentrics](https://usercentrics.com/) - Compliance manager that can be implemented as part of existing pages.
 - [Sourcepoint](https://www.sourcepoint.com/) - Compliance management as part of a suite including also ad blocker recovery.
@@ -124,17 +135,21 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [React Cookie Banner](https://github.com/buildo/react-cookie-banner) - React cookie banner which can be automatically dismissed with a scroll.
 
 ## Media
+
 - [Mux](https://mux.com/) - Stream hosted and live videos.
 - [Spotify web playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/) - Client-side JavaScript library which allows you to create a new player in Spotify Connect and play any audio track from Spotify in the browser via encrypted media extensions.
 
 ## Form
+
 - [Static Forms](https://www.staticforms.xyz/) - Form that sends its results to your email.
 - [FlyingForms](https://flyingforms.io/?utm_source=github-awesome-components&utm_medium=referral&utm_campaign=awesome-list) - Building, versioning and managing forms.
 
 ## Marketing
+
 - [TrustPulse](https://trustpulse.com/) - Shows recent buyers on your website.
 
 ## Changelog
+
 - [Beamer](https://www.getbeamer.com) - Combination of push notifications and changelog management.
 - [Changelogfy](https://changelogfy.com/) - A product release notes tool.
 - [Changefeed](https://changefeed.app/) - Changelog as stand-alone page or embeddable widget.
@@ -143,28 +158,34 @@ If you like these building blocks, check out [componently.com](https://www.compo
 - [Changes](https://changes.blue) - Changelog building kit.
 
 ## Telecommunication
+
 - [Vonage](https://www.vonage.com/) - Voice, messaging, video and data capabilities across unified communications, contact centers and communications APIs.
 
 ## Social Media
+
 - [AddThis](https://www.addthis.com/) - Social sharing buttons, available on AMPs.
 - [ShareThis](https://sharethis.com/) - Social sharing buttons.
 - [AddToAny](https://www.addtoany.com/) - Sharing buttons for many different target services.
 
 ## Search
+
 - [Algolia](https://www.algolia.com/) - Search for your application.
 - [Search UI](https://github.com/elastic/search-ui) - UI integration for ElastiSearch.
 
 ## Feature flags
+
 - [Optimizely's Rollouts](https://www.optimizely.com/rollouts) - Feature flags combined with A/B testing.
 - [LaunchDarkly](https://launchdarkly.com/) - Feature management with multiple integrations in CI servers and ticketing systems.
 - [Split](https://www.split.io/) - Another feature management with multiple integrations in CI servers and ticketing systems.
 - [Rollout](https://rollout.io/) - Feature management focusing on segmented roll-out of features.
 
 ## Reviews
+
 - [JustReview](https://justreview.co/) - Collect reviews from e-commerce, social media and review service providers and embed on a website.
 - [ReviewsOnMyWebsite](https://reviewsonmywebsite.com/) - Collect, monitor and display customer reviews.
 
 ## Related awesome-lists
+
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends)

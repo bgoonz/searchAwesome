@@ -13,6 +13,7 @@
 Pull-Requests are welcomed.
 
 ## Contents
+
 - [News & Blog Posts](#news--blog-posts)
 - [Patterns & Best Practices](#patterns--best-practices)
   - [Map/Reduce](#mapreduce)
@@ -48,7 +49,6 @@ Pull-Requests are welcomed.
 - [12 pro tips for better code with PouchDB](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html)
 - [Linux tuning for better CouchDB performance](https://github.com/assafmo/couchdb-linux-performance)
 
-
 ### Map/Reduce
 
 - [PouchDB - Secondary Indexes](https://pouchdb.com/2014/05/01/secondary-indexes-have-landed-in-pouchdb.html)
@@ -59,23 +59,19 @@ Pull-Requests are welcomed.
 - [Cloudant - Design Documents](https://docs.cloudant.com/design_documents.html) - Cloudant's documentation is also great resource for learning concepts of CouchDB.
 - [Cloudant - Design Document Management](https://docs.cloudant.com/design_document_management.html) - How to manage design doc changes in production.
 
-
 ### Joins
 
 - [Joins with Views](http://docs.couchdb.org/en/2.0.0/couchapp/views/joins.html#joins-with-views) - Must read for understanding approach on doing efficient joins for CouchDB/PouchDB.
 - [Grouping related documents together in Cloudant](https://docs.cloudant.com/transactions.html) - An approach that leverages CouchDB high availability nature.
-
 
 ### Document Versioning
 
 - [Document Revisions (from wiki)](https://wiki.apache.org/couchdb/Document_revisions?action=show&redirect=DocumentRevisions)
 - [Simple Document Versioning](http://web.archive.org/web/20100701165612/http://blog.couch.io/post/632718824/simple-document-versioning-with-couchdb)
 
-
 ## Blogs
 
 - [Official Blog](https://blog.couchdb.org/)
-
 
 ## Docs
 
@@ -86,7 +82,6 @@ Pull-Requests are welcomed.
 
 - [The Definitive Guide](http://guide.couchdb.org/) - CouchDB's _"Dog"_ Book.
 - [List of books on the Wiki](https://cwiki.apache.org/confluence/display/COUCHDB/Books)
-
 
 ## Videos
 
@@ -105,7 +100,6 @@ Pull-Requests are welcomed.
 - [Apache CouchDB Conf](http://conf.couchdb.org/) - Lots of video links.
 - [Bylaws](http://couchdb.apache.org/bylaws.html), [Minutes](https://whimsy.apache.org/board/minutes/CouchDB.html)
 
-
 ### Mailing List
 
 > -dev is where developers of couchdb chat, -user is where users of couchdb chat
@@ -116,21 +110,17 @@ Pull-Requests are welcomed.
 - [Mailing Lists Description](http://svn.apache.org/repos/asf/couchdb/site/htdocs/community/lists.html?p=900000)
 - [Grokbase](http://grokbase.com/s/couchdb) - Mailing lists in a [Stack Overflow](http://stackoverflow.com/questions/tagged/couchdb)-like interface.
 
-
-[:star2:**The** ***Amazing*** **CouchDB Committers** *and* **Project Managers** :heart_eyes_cat:](http://people.apache.org/committers-by-project.html#couchdb) 
-
+[:star2:**The** **_Amazing_** **CouchDB Committers** _and_ **Project Managers** :heart_eyes_cat:](http://people.apache.org/committers-by-project.html#couchdb)
 
 ### Companies
 
 - [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices](https://github.com/eHealthAfrica/couchdb-best-practices).
-
 
 #### Hosting
 
 - [Cloudant](https://cloudant.com/) - Distributed database as a service (DBaaS).
 - [Smileupps](https://www.smileupps.com/) - CouchDB hosting.
 - [Bitnami Launchpad for Google Cloud Platform](https://bitnami.com/stack/couchdb/cloud/google) - Host CouchDB on Google Cloud Platform.
-
 
 ### Related Projects
 
@@ -139,7 +129,6 @@ Pull-Requests are welcomed.
 - [Hoodie](http://hood.ie/) - A backend for Offline First applications.
 - [Couchbase](https://www.couchbase.com/) - NoSQL database.
   - [Migrating from Apache CouchDB](https://docs.couchbase.com/server/current/install/migrate-couchdb.html) - Comparison of CouchDB and CouchBase
-
 
 ## Misc/Technical
 
@@ -157,23 +146,19 @@ Pull-Requests are welcomed.
 - [Cloudant - Attachments Performance Considerations](https://docs.cloudant.com/attachments.html#performance-considerations)
 - [Are attachments duplicated for each revision?](http://grokbase.com/t/couchdb/user/14a1phbzrb/are-attachments-duplicated-for-each-revision-as-well) - Mailing list discussion about attachments across revisions.
 
-
 ### Backups
 
 - [Simple CouchDB and Cloudant Backup](https://developer.ibm.com/clouddataservices/2016/03/22/simple-couchdb-and-cloudant-backup/) - Article on IBM about backups.
 - [Cloudant Backup Guide](https://docs.cloudant.com/backup-guide.html) - Cloudant docs on backups.
-
 
 ### CouchApps
 
 - [List of CouchApps](https://couchapp.readthedocs.io/en/latest/user/list-of-couchapps.html)
 - [Ddoc Lab](http://ddoc.me/) - Create couchapps and CouchDB design docs right in your browser.
 
-
 ### Scaling
 
 - [Bitnami CouchDB](https://bitnami.com/stack/couchdb) - Bitnami makes it easy to run CouchDB in the cloud.
-
 
 ## Resource Lists
 
@@ -185,4 +170,5 @@ Pull-Requests are welcomed.
 - [Old Wiki's Related Projects List](https://wiki.apache.org/couchdb/Related_Projects)
 
 ## License
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.

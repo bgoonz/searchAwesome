@@ -1,4 +1,5 @@
 # Awesome Cassandra [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) - Deprecated items
+
 This list contains deprecated or unmaintained projects that still provide useful information. With Cassandra and technology being ever advancing, as resources from awesome-cassandra become outdated they will be recorded here for reference.
 
 ## Contents
@@ -37,8 +38,11 @@ This list contains deprecated or unmaintained projects that still provide useful
   - [Slides](#slides)
 
 ## General
+
 ### Integrating with Cassandra
+
 #### Spark
+
 - [Stratio Deep](https://github.com/Stratio/stratio-deep) - Deep is a thin integration layer between Apache Spark and several NoSQL datastores. We actually support Apache Cassandra and MongoDB, but in the near future we will add support for sever other datastores.
 
 ## Databases
@@ -46,17 +50,22 @@ This list contains deprecated or unmaintained projects that still provide useful
 ### Timeseries Databases
 
 #### Custom Time Series
+
 - [Spotify/Heroic](https://github.com/spotify/heroic) - The, now deprecated, Heroic Time Series Database built by Spotify which works on Cassandra and Elasticsearch. The authors mention it will no longer be updated, but should work bug-free.
 - [Heroic Documentation](https://spotify.github.io/heroic/docs/overview) - The Heroic Time Series Database documentation.
 
 #### Search / Secondary Indexes
+
 - [Solandra](https://github.com/tjake/Solandra) - Solandra is a real-time distributed search engine built on Apache Solr and Apache Cassandra.
 
 ### Libraries
+
 - [Netflix Astyanax](https://github.com/Netflix/astyanax) - This is an old library. Astyanax was a high level Java client for Apache Cassandra, based on Thrift protocol. Not maintained any more.
 
 ### Tools
+
 - [trireme](https://github.com/o19s/trireme) - Migration tool providing support for Apache Cassandra, DataStax Enterprise Cassandra, & DataStax Enterprise Solr.
 
 ### Open Source applications
+
 - [CMB](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service compatible with AWS SQS and SNS.

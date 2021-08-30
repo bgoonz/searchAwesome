@@ -1,4 +1,5 @@
 # Awesome Algorithms Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 An algorithm is a list of rules to follow in order to solve a problem.
 
 Algorithms need to have their steps in the right order. Think about an algorithm for getting dressed in the morning. What if you put on your coat before your jumper? Your jumper would be on top of your coat and that would be silly! When you write an algorithm the order of the instructions is very important.
@@ -8,6 +9,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md)
 
 ## Contents
+
 - [Courses](#courses)
 - [Competitive programming](#competitive-programming)
 - [Visualizations](#visualizations)
@@ -19,12 +21,15 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Miscellaneous](#miscellaneous)
 
 ## Courses
+
 #### Introductory
+
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Khan Academy.
 - [Fundamentals of Algorithms](http://www.geeksforgeeks.org/fundamentals-of-algorithms) - Geeks for Geeks.
 - [Algorithm course for smart programming](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C) - Korean / Inflearn.
 
 #### Intermediate
+
 - [Algorithms and Data Structures](https://www.class-central.com/subject/algorithms-and-data-structures) - Class Central.
 - [Algorithms](https://www.edx.org/course/algorithms) - edX(IITBombay).
 - [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Udacity.
@@ -38,10 +43,12 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Coursera(Princeton University).
 
 #### Advanced
+
 - [Data Structures and Algorithms](http://online-learning.harvard.edu/course/data-structures-and-algorithms) - Paid Content. / Harvard University.
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - Paid Content. / Coursera(Stanford University).
 
 ## Competitive programming
+
 - [HackerRank](https://www.hackerrank.com/domains/algorithms)
 - [Codility](https://app.codility.com/programmers)
 - [TopCoder](https://www.topcoder.com)
@@ -79,6 +86,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [SW Expert Academy](https://www.swexpertacademy.com) - Korean.
 
 ## Visualizations
+
 - [Algorithm Visualizer](http://algo-visualizer.jasonpark.me)
 - [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/)
 - [VisuAlgo](https://visualgo.net) - English, Korean, Chinese, Japanese.
@@ -97,6 +105,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [GeneaQuilts](http://www.aviz.fr/geneaquilts) - Java Programming Language.
 
 ## Interviews
+
 - [Interview Cake](https://www.interviewcake.com)
 - [Top 10 Algorithms for Coding Interview](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview)
 - [Software Engineering technical interviews](https://github.com/kdn251/interviews)
@@ -104,6 +113,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 ## Videos
+
 - [How algorithms shape our world](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world) - Kevin Slavin.
 - [Algorithms](https://www.youtube.com/playlist?list=PL01A89F4E9E5F3ADE) - Oresoft LWC.
 - [Computer Sc - Programming and Data Structure](https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16) - Nptelhrd.
@@ -114,6 +124,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos) - Sapientia University.
 
 ## Books
+
 - [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY)
 - [Data Structures and Algorithms](https://people.mpi-inf.mpg.de/~mehlhorn/Toolbox.html)
 - [Korea Olympiad in Informatics](http://www.digitalculture.or.kr/koi/StudyBook.do)
@@ -126,18 +137,21 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Algorithmic Problem Solving Strategies](http://book.algospot.com) - Korean.
 
 ## Articles
+
 - [stoimen's web log](http://www.stoimen.com/category/algorithms)
 - [What are the best and efficient ways to learn algorithms for beginners?](https://www.quora.com/What-are-the-best-and-efficient-ways-to-learn-algorithms-for-beginners)
 - [What are the best books on algorithms and data structures?](https://www.quora.com/What-are-the-best-books-on-algorithms-and-data-structures)
 - [Study data for algorithm](http://d2.naver.com/news/4850628) - Korean.
 
 ## Competitions
+
 - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam) - Google’s largest coding competition, calls on programmers around the world to put their skills to the test by solving multiple rounds of algorithmic puzzles.
 - [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - University students looking to develop their coding skills and potentially pursue a Google career.
 - [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode) - Students in Africa, Europe, and the Middle East looking to work as a team on real Google problems.
 - [Google Summer of Code](https://summerofcode.withgoogle.com) - A global program focused on introducing students to open source software development. Students work on a 3 month programming project with an open source organization during their break from university.
 
 ## Miscellaneous
+
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists)
 - [OEDb(Open Education Databases): Algorithm](http://oedb.org/open/search-results/?search-term=algorithm)
@@ -150,6 +164,7 @@ Language: **[😎 English](readme-en.md)** • [한국어 (Korean)](readme-ko.md
 - [Tech stack for Baekjoon online judge](https://goo.gl/qwgBAp) - Korean / How to choose a technology stack for judge?
 
 ## License
+
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [gaerae](https://github.com/gaerae) has waived all copyright and related or neighboring rights to this work.

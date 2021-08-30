@@ -15,7 +15,6 @@ This list includes all the best tools, tutorials and examples related to the awe
    :sparkles: <a href="https://github.com/WebCreationClub/awesome-construct/blob/master/c2vsc3.md">Compare Construct 2 and Construct 3</a>  :sparkles:
 </p>
 
-
 ## Contents
 
 - [Community](#community)
@@ -29,6 +28,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Useful Links](#useful-links)
 
 ## Community
+
 - [Discord Server](https://discord.gg/8RJBHbX) - [Scirra Forum Thread](https://www.construct.net/forum/construct-2/general-discussion-17/there-is-a-construct-2-discord-117214).
 - [FAQ](https://www.construct.net/forum/construct-2/how-do-i-18/how-do-i-frequently-asked-ques-41236)
 - [Forums](https://www.construct.net/forum)
@@ -38,11 +38,13 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Facebook](https://www.facebook.com/ConstructTeam/)
 
 ## Games Showcase
+
 - [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
 - [Games on itch.io](https://itch.io/games/tag-construct-2) - List of itch.io games made with the engine.
 - [Games made with Construct](https://www.madewithconstruct.com/) - A website that list all the games made with the engine.
 
 ## Hosting
+
 - [itch.io](http://www.itch.io) - Platform where to host, showcase, promote or sell your games - **Free**.
 - [GitHub Pages](http://pages.github.com) - Platform where to host an exported game as a static website - **Free**.
 - [Surge](https://surge.sh/) - Platform where to host an exported game as a static website - **Free/Paid**.
@@ -50,17 +52,21 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Netlify](https://www.netlify.com/) - Platform where to host an exported game as a static website - **Free/Paid**.
 
 ## Tools
+
 - [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
 
-## Export 
+## Export
+
 - [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW.js.
 - [Chowdren](http://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
 ## Plugins/Behaviors/Effects
+
 - [[Kyatric] C2 Plugins and Behaviors List](https://www.construct.net/forum/extending-construct-2/addons-29/c2-plugins-and-behaviors-list-42712) - Complete list of Plugins and Behaviours available on the forums.
 - [[Kyatric] WebGL Effects List](https://www.construct.net/forum/extending-construct-2/effects-31/webgl-effects-list-51897) - Complete list of Effects available on the forums.
 
 ## Tutorials
+
 ### YouTube
 
 - [[ArcadEdGames] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - YouTube channel about making all sort of stuff.
@@ -92,14 +98,14 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [[TutPlus] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2) - General tutorials.
 
 ## E-Books
+
 - [Level Zero](https://www.construct.net/blogs/construct-official-blog-1/level-zero-free-construct-2-book-853) - Complete book on how to make games.
 
 ## Useful Links
+
 - [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
-- [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "*The biggest list of game development resources on the web*".
+- [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "_The biggest list of game development resources on the web_".
 
 ## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-
-

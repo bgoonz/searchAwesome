@@ -1,11 +1,15 @@
 # Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <!--lint disable double-link-->
+
 [<img src="ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
 
 > A collaborative curated list of awesome Ansible resources, tools, Roles, tutorials and other related stuff.
 
-[Ansible](https://www.ansible.com/) is an open source toolkit, written in Python, it is used for  configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general.
+[Ansible](https://www.ansible.com/) is an open source toolkit, written in Python, it is used for configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general.
+
 <!--lint enable double-link-->
+
 ## Contents
 
 - [Official resources](#official-resources)
@@ -78,7 +82,7 @@
 - [ARA](https://github.com/ansible-community/ara) - ARA Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 - [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - Speed up Ansible substantially with Mitogen.
 - [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule aids in the development and testing of Ansible roles.
-- [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
+- [Packer Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 - [ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.

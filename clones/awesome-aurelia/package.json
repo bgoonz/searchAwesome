@@ -18,7 +18,10 @@
     "aurelia",
     "awesome"
   ],
-  "authors": ["Alexandru Badiu","Behzad Abbaso"],
+  "authors": [
+    "Alexandru Badiu",
+    "Behzad Abbaso"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aurelia-contrib/awesome-aurelia/issues"

@@ -43,8 +43,7 @@
 - [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 - [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
-- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
-
+- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
 
 ## Experiments
 
@@ -141,7 +140,6 @@
 - [audioMotion](https://audiomotion.me) - High-resolution real-time audio spectrum analyzer and full-featured music player written in JavaScript. Includes binaries for Windows, Linux and macOS.
 - [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound](https://github.com/processing/p5.js-sound), on an HTML5 Canvas by Amanda Yeh.
 
-
 ## Experiments on Codepen
 
 - [SVG Animated Drum Kit](http://codepen.io/iamjoshellis/full/KVdQqm/) - Play an amazing Drum made with SVG and realistic sounds by @iamjoshellis.
@@ -186,7 +184,6 @@
 - [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
 - [meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 
-
 ## Libraries Visualization
 
 - [p5.js](http://p5js.org/) - A JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
@@ -209,10 +206,11 @@
 - [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
 - [Slang](https://github.com/kylestetz/slang) - An audio programming language built in JS
 - [audioMotion-analyzer](https://www.npmjs.com/package/audiomotion-analyzer) - High-resolution real-time audio spectrum analyzer JS module with no dependencies.
-- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
-- [Muser](https://jonshamir.github.io/muser/) - Using machine learning to enhance music visualization in the browser. 
+- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
+- [Muser](https://jonshamir.github.io/muser/) - Using machine learning to enhance music visualization in the browser.
 
 ## People to Follow
+
 - [Aaron Koblin](http://www.aaronkoblin.com/) - Artist, designer, programmer, and entrepreneur specializing in data and digital technologies.
 - [Joshua Davis](http://www.joshuadavis.com/) - An American designer, technologist, author and artist in new media.
 - [Robert Hodgin](http://roberthodgin.com/) - A creative coder living in Brooklyn. Co-creator of the Cinder C++.
@@ -281,9 +279,9 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 
 ## Authors
 
-| ![Willian Justen](https://avatars2.githubusercontent.com/u/3991845?v=3&s=150)                | ![Luis Henrique](https://avatars2.githubusercontent.com/u/12835911?v=3&s=150) | ![Márcio Ribeiro](https://avatars3.githubusercontent.com/u/13159727?v=3&s=150)
-|:---------------------:|:-------------------:|:-------------------:|
-|  [Willian Justen](https://github.com/willianjusten/)   |     [Luis Henrique](https://github.com/lhbzr)    |    [Márcio Ribeiro](https://github.com/marcioshiz)
+| ![Willian Justen](https://avatars2.githubusercontent.com/u/3991845?v=3&s=150) | ![Luis Henrique](https://avatars2.githubusercontent.com/u/12835911?v=3&s=150) | ![Márcio Ribeiro](https://avatars3.githubusercontent.com/u/13159727?v=3&s=150) |
+| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+|              [Willian Justen](https://github.com/willianjusten/)              |                   [Luis Henrique](https://github.com/lhbzr)                   |                [Márcio Ribeiro](https://github.com/marcioshiz)                 |
 
 ## License
 

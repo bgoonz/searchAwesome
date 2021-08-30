@@ -16,17 +16,16 @@ This page represents a curated list of Contexture websites, libraries, and resou
 - [Presentations](#presentations)
 - [Videos](#videos)
 
-## Websites 
+## Websites
 
 - [contexture-site](https://contexture.site) - Showcase of Contexture searches adapting to diverse datasets such as: car crashes, restaurant locations, COVID-19, SAT scores, school grants, bank failures.
 - [contexture-imdb](https://github.com/smartprocure/contexture-imdb) - An example usage of Contexture to present a search interface for an ElasticSearch index of movie records based on IMDB.
 - [GovSpend](https://app.govspend.com/) - A Contexture web-based tool that makes it easy for government agencies to find a product's best price, identify and validate vendors, request quotes and connect with peers.
 
-
-## Libraries 
+## Libraries
 
 - [contexture](https://github.com/smartprocure/contexture) - The core library that exectues the DSL to retrieve data.
-- [contexture-client](https://github.com/smartprocure/contexture-client) - The client library that manages the DSL, allowing for hyper efficient updates running only what is exactly needed. 
+- [contexture-client](https://github.com/smartprocure/contexture-client) - The client library that manages the DSL, allowing for hyper efficient updates running only what is exactly needed.
 - [contexture-react](https://github.com/smartprocure/contexture-react) - React components for building Contexture interfaces.
 - [grey-vest](https://github.com/smartprocure/grey-vest) - Component library built for contexture-react.
 - [contexture-mongo](https://github.com/smartprocure/contexture-mongo) - MongoDB provider for Contexture.
@@ -34,8 +33,8 @@ This page represents a curated list of Contexture websites, libraries, and resou
 - [contexture-exports](https://github.com/smartprocure/contexture-export) - A library that extends Contexture by allowing developers to export searches into files or any other target.
 - [contexture-api](https://github.com/ltchris/contexture-api) - A simple FeathersJS REST API for Contexture.
 
-
 ## Documentation
+
 - [Contexture Docs](https://docs.contexture.site/) - Documentation of the entire Contexture ecosystem in one place.
 - [Contexture React Storybook](https://smartprocure.github.io/contexture-react) - Contexture React components documentation and examples.
 - [GreyVest Storybook](https://smartprocure.github.io/grey-vest) - GreyVest component library's documentation and examples.
@@ -45,17 +44,16 @@ This page represents a curated list of Contexture websites, libraries, and resou
 - [Contexture MongoDB](https://github.com/smartprocure/contexture-mongo#overview) - Usage and API documentation for the Contexture MongoDB provider library.
 - [Contexture Exports](https://github.com/smartprocure/contexture-export#index) - Core concepts and usage documentation for the Contexture Exports library.
 
-
 ## Presentations
+
 - [contexture-ec18-talk](https://github.com/smartprocure/contexture-ec18-talk) - Elasticon 2018 talk About Contexture.
 - [DataContexts talk](https://github.com/smartprocure/dc-talk) - Older presentation on DataContexts, the precursor to contexture-client.
 
-
 ## Videos
+
 - [Contexture Talk (raw)](https://www.youtube.com/watch?v=H1i0SdKLHWc) - This is a raw, unedited version of the talk about Contexture, a toolset for building highly interactive data exploration (aka search) interfaces at the 2018 South Florida Code Camp.
 - [Contexture Talk (screen)](https://youtu.be/ZsXVcHWZwWI) - This is a raw, unedited version of the talk about Contexture. This version only shows the screencast.
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-

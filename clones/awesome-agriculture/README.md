@@ -94,15 +94,15 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 - [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
 - [DRO-Matic](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.
-- [FarmBot](https://github.com/farmbot) -  Open source precision agriculture CNC farming project.
+- [FarmBot](https://github.com/farmbot) - Open source precision agriculture CNC farming project.
 - [Farm Hack](https://farmhack.org/tools) - Worldwide community of farmers that build and modify our own tools.
-- [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
+- [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) - Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
 - [OpenMinder](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
-- [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
+- [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools.
 
 ## Knowledgebases and Learning Resources
 
-- [Harvest Helper](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.
+- [Harvest Helper](https://github.com/damwhit/harvest_helper) - Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails.
 
 ## Remote Sensing and Imagery

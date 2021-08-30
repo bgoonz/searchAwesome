@@ -14,7 +14,6 @@ Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome]
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Awesome AutoIt](#awesome-autoit-)
   - [UDF/Libraries](#udflibraries)
     - [Automation](#automation)
@@ -75,11 +74,11 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Chrome (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=154439) - The same as above for Google Chrome. Automate the most common tasks in Chrome with the Chrome UDF.
 - [Firefox (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=95595) - A little less support for automation than IE, but still very good.
 - [FireFox Profile Backup 1.0 (by careca)](https://www.autoitscript.com/forum/files/file/224-firefox-profile-backup/) - Backup or restore your firefox profile, the application searches for the profile in home drive, That will be the one to backup.
-- [_FF_AutoLogin (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=124330) - This is a auto-login function and login-function-generator for FireFox and the FF.au3.
-- [_FF_DM (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=92035) - UDF to control the FireFox Download-Manager (not the download-window).
-- [_FF_FoxBox (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91650) - UDF to control Fox!Box (A Mozilla Firefox extension for the AVM FRITZ!Box) with FF.au3.
-- [_FF_Screengrab (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91665) - UDF to control Screengrab! (FireFox-AddOn) with FF.au3.
-- [_HTML (by Stilgar)](https://www.autoitscript.com/forum/topic/124330-_htmlau3-v101/) - Get informations from any HTML (XML) source, without any browser.
+- [\_FF_AutoLogin (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=124330) - This is a auto-login function and login-function-generator for FireFox and the FF.au3.
+- [\_FF_DM (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=92035) - UDF to control the FireFox Download-Manager (not the download-window).
+- [\_FF_FoxBox (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91650) - UDF to control Fox!Box (A Mozilla Firefox extension for the AVM FRITZ!Box) with FF.au3.
+- [\_FF_Screengrab (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91665) - UDF to control Screengrab! (FireFox-AddOn) with FF.au3.
+- [\_HTML (by Stilgar)](https://www.autoitscript.com/forum/topic/124330-_htmlau3-v101/) - Get informations from any HTML (XML) source, without any browser.
 - [HTMLDocumentEvents (by SmOke_N)](https://www.autoitscript.com/forum/index.php?showtopic=166542) - Track IE document events.
 - [IEEx (by SmOke_N)](https://www.autoitscript.com/forum/index.php?showtopic=167035) - IE extended library with some Javascript options.
 - [NavInfo (by Nessie)](https://www.autoitscript.com/forum/index.php?showtopic=149203) - With this UDF you can check if a specified browser/software is installed and which version is being used.
@@ -105,7 +104,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [EzMySql (by oriz)](https://www.autoitscript.com/forum/index.php?showtopic=116072) - EzMySql - Use MySql Databases with autoit.
 - [FireBird (by eltorro)](https://www.autoitscript.com/forum/topic/94920-solved-passing-parameters-using-dllcall-to-a-c-dll/?do=findComment&comment=684751) - FireBird, Interbase dll udf.
 - [MS SQL (by TheLuBu)](https://www.autoitscript.com/forum/index.php?showtopic=127101) - MSSQL.au3.
-- [MS SQL (by ChrisL)](https://www.autoitscript.com/forum/index.php?showtopic=51952) - _SQL.au3. ADODB Connection.
+- [MS SQL (by ChrisL)](https://www.autoitscript.com/forum/index.php?showtopic=51952) - \_SQL.au3. ADODB Connection.
 - [MySQL (by cdkid)](https://www.autoitscript.com/forum/index.php?showtopic=20814) - MySQL relational database management system UDF.
 - [MySQL (by ProgAndy)](https://www.autoitscript.com/forum/index.php?showtopic=85617) - MySQL UDFs (without ODBC).
 - [MySQL (by James)](https://www.autoitscript.com/forum/topic/122360-mysql-odbc-connector-udf) - MySQL ODBC Connector.
@@ -139,21 +138,21 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 ### GUI Additions
 
-- [3D Pie chart (by WideBoyDixon)](https://www.autoitscript.com/forum/index.php?showtopic=97241) - 3D Pie chart.  
-- [Chart_UDF (by Kanashius)](https://www.autoitscript.com/forum/index.php?showtopic=173924) - This UDF can be used to Display bar charts in a window.).  
-- [ContextHelp.au3 (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=96258) - Management of context help ([original](https://www.autoitscript.com/forum/index.php?showtopic=72152-contexthelp/)).  
-- [Easy Scrollbars (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=113723) - Easily create scrollable sections in your GUI.  
-- [ExtMsgBox (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=109096) - A very customisable replacement for MsgBox.  
-- [GUICtrlOnChangeRegister (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=105582) - Call a function when an edits content is changed.  
-- [GUIExtender (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=145149) - Expand and contract sections of your GUI ([original](https://www.autoitscript.com/forum/index.php?showtopic=117909)).  
-- [GUIFrame (by Melba23 & Kip)](https://www.autoitscript.com/forum/index.php?showtopic=119505) - Divide a GUI into adjustable frames.  
-- [GUI Panel (by FireFox)](https://www.autoitscript.com/forum/index.php?showtopic=144207) - Manage child GUIs as panel ctrls.  
-- [Modern tray menu (by Holger)](https://www.autoitscript.com/forum/index.php?showtopic=20967) - Allows the creation of modern, fancy GUI and tray menus with icons and colors.  
-- [Pie chart (by Andreik)](https://www.autoitscript.com/forum/index.php?showtopic=161750) - Pie chart.  
-- [SetOnEvent (by martin)](https://www.autoitscript.com/forum/index.php?showtopic=71811) - Provides an easy way for an event to call functions with parameters.  
-- [Uskin (by JScript)](https://www.autoitscript.com/forum/index.php?showtopic=132864) - A library that allows a user to skin their application GUI using the Windows _.MSstyles_ files.  
-- [Toast (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=108445) - Small message GUIs which pop out of the Systray.  
-- [XSkin (by Valuater)](https://www.autoitscript.com/forum/index.php?showtopic=32494) - A large library that allows skinning of your GUI and to apply custom skins.  
+- [3D Pie chart (by WideBoyDixon)](https://www.autoitscript.com/forum/index.php?showtopic=97241) - 3D Pie chart.
+- [Chart_UDF (by Kanashius)](https://www.autoitscript.com/forum/index.php?showtopic=173924) - This UDF can be used to Display bar charts in a window.).
+- [ContextHelp.au3 (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=96258) - Management of context help ([original](https://www.autoitscript.com/forum/index.php?showtopic=72152-contexthelp/)).
+- [Easy Scrollbars (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=113723) - Easily create scrollable sections in your GUI.
+- [ExtMsgBox (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=109096) - A very customisable replacement for MsgBox.
+- [GUICtrlOnChangeRegister (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=105582) - Call a function when an edits content is changed.
+- [GUIExtender (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=145149) - Expand and contract sections of your GUI ([original](https://www.autoitscript.com/forum/index.php?showtopic=117909)).
+- [GUIFrame (by Melba23 & Kip)](https://www.autoitscript.com/forum/index.php?showtopic=119505) - Divide a GUI into adjustable frames.
+- [GUI Panel (by FireFox)](https://www.autoitscript.com/forum/index.php?showtopic=144207) - Manage child GUIs as panel ctrls.
+- [Modern tray menu (by Holger)](https://www.autoitscript.com/forum/index.php?showtopic=20967) - Allows the creation of modern, fancy GUI and tray menus with icons and colors.
+- [Pie chart (by Andreik)](https://www.autoitscript.com/forum/index.php?showtopic=161750) - Pie chart.
+- [SetOnEvent (by martin)](https://www.autoitscript.com/forum/index.php?showtopic=71811) - Provides an easy way for an event to call functions with parameters.
+- [Uskin (by JScript)](https://www.autoitscript.com/forum/index.php?showtopic=132864) - A library that allows a user to skin their application GUI using the Windows _.MSstyles_ files.
+- [Toast (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=108445) - Small message GUIs which pop out of the Systray.
+- [XSkin (by Valuater)](https://www.autoitscript.com/forum/index.php?showtopic=32494) - A large library that allows skinning of your GUI and to apply custom skins.
 - [Real Vista Aero Glass (by James)](https://www.autoitscript.com/forum/index.php?showtopic=75429) - Real Vista Aero Glass UDF - you can apply glass effect to your gui.
 
 ### Controls
@@ -182,7 +181,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [DirectShow (by monoceres)](https://www.autoitscript.com/forum/index.php?showtopic=97487) - DirectShow UDF.
 - [DirectSound (by eukalyptus)](https://www.autoitscript.com/forum/index.php?showtopic=164700) - DirectSound UDF.
 - [Direct2D (by eukalyptus)](https://www.autoitscript.com/forum/index.php?showtopic=164701) - Direct2D UDF.
-- [FritzBox (by Allow2010)](https://www.autoitscript.com/forum/index.php?showtopic=138989) - _FB_Tools - manage your FritzBox from Autoit.
+- [FritzBox (by Allow2010)](https://www.autoitscript.com/forum/index.php?showtopic=138989) - \_FB_Tools - manage your FritzBox from Autoit.
 - [I/O Port Functions (by Ascend4nt)](https://www.autoitscript.com/forum/index.php?showtopic=121084) - Input/Output UDF for interacting with ports (x64 Parallel Port, Keyboard etc.).
 - [Monitor Configuration (by jaberwacky)](https://www.autoitscript.com/forum/index.php?showtopic=154350) - Monitor Configuration UDF.
 - [Mouse (by AlmarM)](https://www.autoitscript.com/forum/index.php?showtopic=155469) - AutoIt powered mouse events.
@@ -215,7 +214,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [JSON (by ozmike)](https://www.autoitscript.com/forum/index.php?showtopic=156794) - Bridge to Native Windows JSON plus OO extension for AutoIt.
 - [JSONgen: JSON generator (by Jefrey)](https://www.autoitscript.com/forum/index.php?showtopic=173797) - UDF to generate JSON.
 - [POP3 (by Apzo)](https://www.autoitscript.com/forum/index.php?showtopic=22838) - POP3 library for retrieving email messages. Not compatible with Gmail because it uses SSL.
-- [_POP3_Ex (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=167339) - POP3 UDF According to the 1939 RFC, modified version with Quoted Printable decoder.
+- [\_POP3_Ex (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=167339) - POP3 UDF According to the 1939 RFC, modified version with Quoted Printable decoder.
 - [POP3 SSL (by Fox2)](https://www.autoitscript.com/forum/index.php?showtopic=64051) - A POP3 library that's compatible with Gmail. It uses an external executable that must be supplied with your script.
 - [Prowl (by mrflibblehat)](https://www.autoitscript.com/forum/index.php?showtopic=154530) - Push notifications to iPhone, iPod touch or iPad using Prowl (Growl client for iOS).
 - [Request (by Ward)](https://www.autoitscript.com/forum/topic/173129-request-udf-the-simplest-way-to-make-http-request) - Powerful and easy-to-use HTTP client for AutoIt based on Curl.au3 and Json.au3.
@@ -242,7 +241,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Roman Numerals (by AZJIO)](https://www.autoitscript.com/forum/topic/94770-integer-to-roman-numerals/#entry1043544) - Roman Numerals.
 - [Root function (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=98160) - Working out real roots of numbers.
 - [StringAPL (by minx)](https://www.autoitscript.com/forum/index.php?showtopic=163899) - inline APL interpreter.
-- [Trigonometry math functions (by trancexx)](https://www.autoitscript.com/forum/index.php?showtopic=82722) - _ATan2(), _Cosh(), _Frexp(), _Hypot(), _Ldexp(), _Logb(), _Sinh(), _Tanh().
+- [Trigonometry math functions (by trancexx)](https://www.autoitscript.com/forum/index.php?showtopic=82722) - \_ATan2(), \_Cosh(), \_Frexp(), \_Hypot(), \_Ldexp(), \_Logb(), \_Sinh(), \_Tanh().
 
 ### Media
 
@@ -288,7 +287,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [MPDF (by taietel)](https://www.autoitscript.com/forum/index.php?showtopic=118827) - Create PDF from your application.
 - [PDFCreator (by ptrex)](https://www.autoitscript.com/forum/index.php?showtopic=42776) - Automation of PDFCreator allows you to create and manipulate PDF files.
 - [PDFCreator (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=170550) - UDF for PDFCreator v1.x.x with working EVENTs Handler.
-- [_StringToPDF (by Tam0r)](https://www.autoitscript.com/forum/index.php?showtopic=32261) - Write a string to a PDF file and specify font size, type etc.
+- [\_StringToPDF (by Tam0r)](https://www.autoitscript.com/forum/index.php?showtopic=32261) - Write a string to a PDF file and specify font size, type etc.
 
 ### Security
 
@@ -351,10 +350,10 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [CmdLine (by Jefrey)](https://www.autoitscript.com/forum/index.php?showtopic=169610) - Collection of functions to parse command line arguments.
 - [Copy (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=121833) - Copy or move files and directories without suspending your script. Retrieve the current state (copied bytes, error code etc.) while copying.
 - [DDEML (by doudou)](https://www.autoitscript.com/forum/index.php?showtopic=55994) - With DDEML UDF one can use an AutoIt script as a DDE client or server.
-- [_DLLStructDisplay (by Ascend4nt)](https://www.autoitscript.com/forum/index.php?showtopic=99106) - Show Struct in ListView.
+- [\_DLLStructDisplay (by Ascend4nt)](https://www.autoitscript.com/forum/index.php?showtopic=99106) - Show Struct in ListView.
 - [Experimental Maps UDF (by TheDcoder)](https://github.com/TheDcoder/Experimental-Maps-UDF) - UDF for the new Map datatype in AutoIt, similar to the Array UDF included in standard UDFs.
 - [FASM (by Ward)](https://www.autoitscript.com/forum/index.php?showtopic=111613) - The Embedded Flat Assembler (FASM) UDF.
-- [_FileGetMimeType (by Wiliat87)](https://www.autoitscript.com/forum/index.php?showtopic=157689) - _FileGetMimeType UDF.
+- [\_FileGetMimeType (by Wiliat87)](https://www.autoitscript.com/forum/index.php?showtopic=157689) - \_FileGetMimeType UDF.
 - [File locking with cooperative semaphores (by willichan)](https://www.autoitscript.com/forum/topic/117033-file-locking-with-cooperative-semaphores) - Simple file locking without a server.
 - [FindMimeFromData (by twbradio)](https://www.autoitscript.com/forum/index.php?showtopic=157241) - FindMimeFromData using urlmon.dll.
 - [Hotkey.au3 (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=90492) - Management of Hotkeys UDF, with several advantages over HotkeySet().
@@ -397,12 +396,14 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 
 - [Official Website](https://www.autoitscript.com/)
 - [Official Forum](https://www.autoitscript.com/forum/)
- + [Vietnamese Forum](http://autoitvn.com/)
- + [French Forum](http://www.autoitscript.fr/)
- + [Brazilian Forum](http://forum.autoitbrasil.com/)
- + [Germany Forum](https://autoit.de/)
- + [Russian Forum](http://autoit-script.ru/)
- + [Spanish Forum](http://www.emesn.com/autoitforum/)
+
+* [Vietnamese Forum](http://autoitvn.com/)
+* [French Forum](http://www.autoitscript.fr/)
+* [Brazilian Forum](http://forum.autoitbrasil.com/)
+* [Germany Forum](https://autoit.de/)
+* [Russian Forum](http://autoit-script.ru/)
+* [Spanish Forum](http://www.emesn.com/autoitforum/)
+
 - [AutoIt Wiki](https://www.autoitscript.com/wiki)
 - [Programs](https://www.autoitscript.com/wiki/AutoIt_Programs) - a list of programs created in AutoIt.
 - [AutoIt Group on Facebook](https://www.facebook.com/groups/autoitscript/) (Vietnamese).
@@ -419,7 +420,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [AutoIt Tutorials](https://www.youtube.com/user/AutoitFrench/videos) by AutoitFrench.
 - [AutoIt for Beginner](https://www.youtube.com/playlist?list=PLNeDQQ_ukvRoz5IKgFy1pgfZVqDuZf5X2) by Lee Sai.
 - [AutoIt for Beginner](https://www.youtube.com/playlist?list=PLADZ5XR0fS9B1AL1FmLUCfrXoRu2nYOKu) by Hai The Luong.
-- [Advanced AutoIt Tutorials](https://www.youtube.com/playlist?list=PL_-NI9iPtoB741rTw1hjNPirk3jTMKtrQ) by Juno\_okyo [[Subscribe](https://www.youtube.com/channel/UCEETpUrNm5qI-LENbBON2Gw/?sub_confirmation=1)].
+- [Advanced AutoIt Tutorials](https://www.youtube.com/playlist?list=PL_-NI9iPtoB741rTw1hjNPirk3jTMKtrQ) by Juno_okyo [[Subscribe](https://www.youtube.com/channel/UCEETpUrNm5qI-LENbBON2Gw/?sub_confirmation=1)].
 
 ### Books
 

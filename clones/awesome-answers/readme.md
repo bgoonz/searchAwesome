@@ -1,54 +1,48 @@
-Awesome Answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===
+# Awesome Answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
 
-TOC
----
+## TOC
 
- - [Algorithms](#algorithms)
- - [Compilers](#compilers)
- - [Data Structures](#data-structures)
- - [Functional Programming](#functional-programming)
- - [Learning to program](#learning-how-to-program)
- - [Math](#math)
- - Programming Languages
- 	- [Clojure](#clojure)
- 	- [C/C++](#cc)
-	- [Haskell](#haskell)
- 	- [JavaScript](#javascript)
- 	- [PHP](#php)
- 	- [Python](#python)
- 	- [Ruby](#ruby)
- - [Programming Languages Theory](#programming-languages-theory)
- - [Version Control Systems](#version-control-systems)
- - [Miscellaneous](#miscellaneous)
+- [Algorithms](#algorithms)
+- [Compilers](#compilers)
+- [Data Structures](#data-structures)
+- [Functional Programming](#functional-programming)
+- [Learning to program](#learning-how-to-program)
+- [Math](#math)
+- Programming Languages
+  - [Clojure](#clojure)
+  - [C/C++](#cc)
+  - [Haskell](#haskell)
+  - [JavaScript](#javascript)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+- [Programming Languages Theory](#programming-languages-theory)
+- [Version Control Systems](#version-control-systems)
+- [Miscellaneous](#miscellaneous)
 
-Algorithms
----
+## Algorithms
 
- - [Algorithm: Is there a good way of solving a comparison?](http://stackoverflow.com/a/2296538/1766338)
- - How do you identify edge cases on algorithms? [[1]](http://qr.ae/Loah1) [[2]](http://programmers.stackexchange.com/a/72779)
- - [What all basic data structures and algorithms should one learn before starting competitive programming?](http://qr.ae/LefWv)
- - [How can I be a guru in algorithms?](http://qr.ae/07Px4)
- - [Sorting 1 million 8 digit numbers in 1MB of RAM](http://stackoverflow.com/a/13067807)
- - [Which hashing algorithm is best for uniqueness and speed?](http://programmers.stackexchange.com/a/145633)
+- [Algorithm: Is there a good way of solving a comparison?](http://stackoverflow.com/a/2296538/1766338)
+- How do you identify edge cases on algorithms? [[1]](http://qr.ae/Loah1) [[2]](http://programmers.stackexchange.com/a/72779)
+- [What all basic data structures and algorithms should one learn before starting competitive programming?](http://qr.ae/LefWv)
+- [How can I be a guru in algorithms?](http://qr.ae/07Px4)
+- [Sorting 1 million 8 digit numbers in 1MB of RAM](http://stackoverflow.com/a/13067807)
+- [Which hashing algorithm is best for uniqueness and speed?](http://programmers.stackexchange.com/a/145633)
 
-Compilers
----
+## Compilers
 
 - [Compilers: What is a supercompiler?](http://qr.ae/dVwDk)
 
-Data Structures
----
+## Data Structures
 
- - [Are new data structures still being invented in computer science?](http://qr.ae/QHYgb)
- - [Why is processing a sorted array faster than an unsorted array?](http://stackoverflow.com/a/11227902)
- - [What are some lesser known but useful data structures?](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
- - [What are the underlying data structures used for Redis?](http://stackoverflow.com/a/9626334)
+- [Are new data structures still being invented in computer science?](http://qr.ae/QHYgb)
+- [Why is processing a sorted array faster than an unsorted array?](http://stackoverflow.com/a/11227902)
+- [What are some lesser known but useful data structures?](http://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
+- [What are the underlying data structures used for Redis?](http://stackoverflow.com/a/9626334)
 
-Functional Programming
----
+## Functional Programming
 
 - [What is a good beginning text on functional programming?](http://stackoverflow.com/a/23193)
 - [In what ways are the major modern functional languages different from each other?](http://qr.ae/QHK6v)
@@ -70,37 +64,37 @@ Functional Programming
 - [Specification for a Functional Reactive Programming language](http://stackoverflow.com/a/5878525/1766338)
 - [What are some myths about functional programming and functional programming languages?](https://www.quora.com/What-are-some-myths-about-functional-programming-and-functional-programming-languages/answer/Tikhon-Jelvis)
 
-Learning to program
----
+## Learning to program
 
- - [How can I become a world-class coder in under three years?](http://qr.ae/E8UPT)
- - [What should every programmer know about security?](http://stackoverflow.com/q/2794016)
- - [What are some basic concepts that every engineering student should know?](http://qr.ae/k6Ekm)
- - [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/q/46716)
- - [How does one become a great coder?](http://qr.ae/dQTYn)
- - [We all hear about how simple programming can be, but what are some truly complex concepts that even experienced programmers struggle with?](http://qr.ae/LefKC)
+- [How can I become a world-class coder in under three years?](http://qr.ae/E8UPT)
+- [What should every programmer know about security?](http://stackoverflow.com/q/2794016)
+- [What are some basic concepts that every engineering student should know?](http://qr.ae/k6Ekm)
+- [What technical details should a programmer of a web application consider before making the site public?](http://programmers.stackexchange.com/q/46716)
+- [How does one become a great coder?](http://qr.ae/dQTYn)
+- [We all hear about how simple programming can be, but what are some truly complex concepts that even experienced programmers struggle with?](http://qr.ae/LefKC)
 
-Math
----
+## Math
 
- - [Visually stunning math concepts which are easy to explain](http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
- - [If floating-point can't represent 0.1, how does parseFloat (".1") equal .1?](http://qr.ae/7PKwoT)
+- [Visually stunning math concepts which are easy to explain](http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain)
+- [If floating-point can't represent 0.1, how does parseFloat (".1") equal .1?](http://qr.ae/7PKwoT)
 
-Programming Languages
----
+## Programming Languages
 
 ### Clojure
+
 - [Common programming mistakes for Clojure developers to avoid](http://stackoverflow.com/a/2021343/1766338)
 - [Why would someone learn Clojure?](http://qr.ae/7PKRiN)
 - [Why are Clojure's `let` and `for` both monads?](http://stackoverflow.com/a/21763329/1766338)
 
 ### C/C++
-- [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282/1766338) 
+
+- [The Definitive C++ Book Guide and List](http://stackoverflow.com/a/388282/1766338)
 - [Can a local variable's memory be accessed outside its scope?](http://stackoverflow.com/a/6445794/1104488)
 - [Why do many C functions have an extra F?](http://qr.ae/7vBEnF)
 - [What are the valid signatures for C's main() function? ](http://stackoverflow.com/questions/2108192/what-are-the-valid-signatures-for-cs-main-function)
 
 ### Haskell
+
 - [Getting started with Haskell](http://stackoverflow.com/a/1016986/1766338)
 - [Update Map in Haskell](http://codereview.stackexchange.com/a/57850)
 - [I am building an investment engine for a startup, and my choice for developer wants to code it in Haskell. Is this the right choice? Do enough people know this so if he leaves I can continue without interruption?](http://qr.ae/d6vcE)
@@ -110,6 +104,7 @@ Programming Languages
 - [Does Haskell have tail-recursive optimization?](http://stackoverflow.com/a/13052612)
 
 ### JavaScript
+
 - [How does “this” keyword work within a JavaScript object literal?](http://stackoverflow.com/a/134149/1766338)
 - [Use of .apply() with 'new' operator. Is this possible?](http://stackoverflow.com/a/1608546/1766338)
 - [Is JavaScript's “new” keyword considered harmful?](http://stackoverflow.com/a/383503/1766338)
@@ -129,36 +124,39 @@ Programming Languages
 - [What are the actual uses of ES6 WeakMap?](http://stackoverflow.com/a/29416340)
 
 ### PHP
- - [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
+
+- [Is PHP a badly designed programming language?](http://qr.ae/QVSuX)
 
 ### Python
- - [Why are banks like JP Morgan and Bank of America Merrill Lynch using Python to replace historic legacy systems built in Java/C++?](http://qr.ae/RCkmhJ)
- - [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://qr.ae/RCkmKa)
- - [What are some of the best time-saving tips for Python?](http://qr.ae/RCkmoh)
- - [How can I tell if a string repeats itself in Python?](http://stackoverflow.com/a/29489919)
- - [Python Hidden Features](http://stackoverflow.com/questions/101268/hidden-features-of-python)
+
+- [Why are banks like JP Morgan and Bank of America Merrill Lynch using Python to replace historic legacy systems built in Java/C++?](http://qr.ae/RCkmhJ)
+- [What are killer Python tips which could make our coder lives more productive, easier and happier?](http://qr.ae/RCkmKa)
+- [What are some of the best time-saving tips for Python?](http://qr.ae/RCkmoh)
+- [How can I tell if a string repeats itself in Python?](http://stackoverflow.com/a/29489919)
+- [Python Hidden Features](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 
 ### Ruby
- - [Ruby craziness: Class vs Object?](http://stackoverflow.com/a/4969822/1766338)
 
-Programming Languages Theory
----
- - [What makes a good programming language?](http://qr.ae/QHArY)
- - [What is referential transparency?](http://stackoverflow.com/a/9859966/565303)
- - [Research and open challenges in Programming Language Theory](http://cstheory.stackexchange.com/a/17870/32199)
- - [Why are there so many programming languages?](http://cs.stackexchange.com/a/458/29071)
- - [Uses of algebraic structures in theoretical computer science](http://cstheory.stackexchange.com/a/10929/32199)
- - [What is the difference between the statement "Everything is an object" when said about JavaScript and when said about Ruby?](http://qr.ae/Q973e)
- - [Which programming concept do people usually find harder: loops or recursion?](http://qr.ae/QjpjD)
- - [If you would create a new programming language, what would it look like?](http://qr.ae/fgPsq)
- - [What is fascinating about dynamically-typed programming languages?](http://qr.ae/7PKzmF)
+- [Ruby craziness: Class vs Object?](http://stackoverflow.com/a/4969822/1766338)
 
-Version Control Systems
----
+## Programming Languages Theory
+
+- [What makes a good programming language?](http://qr.ae/QHArY)
+- [What is referential transparency?](http://stackoverflow.com/a/9859966/565303)
+- [Research and open challenges in Programming Language Theory](http://cstheory.stackexchange.com/a/17870/32199)
+- [Why are there so many programming languages?](http://cs.stackexchange.com/a/458/29071)
+- [Uses of algebraic structures in theoretical computer science](http://cstheory.stackexchange.com/a/10929/32199)
+- [What is the difference between the statement "Everything is an object" when said about JavaScript and when said about Ruby?](http://qr.ae/Q973e)
+- [Which programming concept do people usually find harder: loops or recursion?](http://qr.ae/QjpjD)
+- [If you would create a new programming language, what would it look like?](http://qr.ae/fgPsq)
+- [What is fascinating about dynamically-typed programming languages?](http://qr.ae/7PKzmF)
+
+## Version Control Systems
+
 - [How to update GitHub forked repository?](http://stackoverflow.com/a/7244456)
 
-Miscellaneous
----
+## Miscellaneous
+
 - [Can I parse XHTML with Regex?](http://stackoverflow.com/a/1732454)
 - [How does a visually impaired computer programmer do programming?](http://qr.ae/L5FfY)
 - [What are the best examples of software bugs that became features (a.k.a. misbugs)?](http://qr.ae/LO834)

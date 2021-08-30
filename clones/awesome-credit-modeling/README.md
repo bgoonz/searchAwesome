@@ -1,4 +1,5 @@
 # Awesome Credit Modeling [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 > A growing collection of awesome papers, articles and various resources on credit scoring and credit risk modeling.
@@ -27,7 +28,7 @@ Credit scoring is the term used to describe formal statistical methods used for 
 
 - [Machine Learning in Financial Crisis Prediction: A Survey](https://ieeexplore.ieee.org/document/6069610) - Reviews 130 journal papers from the period between 1995 and 2010, focusing on the development of state-of-the-art machine-learning techniques for bankruptcy prediction and credit score modeling. Also presents their current achievements and limitations.
 
-- [Fintech and big tech credit: a new database](https://www.bis.org/publ/work887.pdf) - This Working Paper by the Bank of International Settlements, while not as focused on credit risk, maps the conditions for and niches occupied by alternative credit, be it provided by fintechs or big tech companies. 
+- [Fintech and big tech credit: a new database](https://www.bis.org/publ/work887.pdf) - This Working Paper by the Bank of International Settlements, while not as focused on credit risk, maps the conditions for and niches occupied by alternative credit, be it provided by fintechs or big tech companies.
 
 ## Credit Scoring
 
@@ -87,7 +88,7 @@ Credit scoring is the term used to describe formal statistical methods used for 
 
 - [Reject inference, augmentation, and sample selection](https://www.sciencedirect.com/science/article/abs/pii/S0377221706011969) - In-depth discussion.
 
-- [Instance sampling in credit scoring: An empirical study of sample size and balancing](http://www.research.lancs.ac.uk/portal/en/publications/instance-sampling-in-credit-scoring-an-empirical-study-of-sample-size-and-balancing(89b83914-c7f2-499a-8fa1-844d6cb6004d).html) - Discusses the traditional sampling conventions in credit modeling and argues that using larger samples provides a significant increase in accuracy across algorithms.
+- [Instance sampling in credit scoring: An empirical study of sample size and balancing](<http://www.research.lancs.ac.uk/portal/en/publications/instance-sampling-in-credit-scoring-an-empirical-study-of-sample-size-and-balancing(89b83914-c7f2-499a-8fa1-844d6cb6004d).html>) - Discusses the traditional sampling conventions in credit modeling and argues that using larger samples provides a significant increase in accuracy across algorithms.
 
 ## Feature Selection
 

@@ -13,10 +13,12 @@
 ---
 
 ## Learning
+
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 - [DevTools Snippets](https://github.com/bahmutov/code-snippets) - Collection of snippets.
 
 ### Multiuser DevTools
+
 - [DevTools Remote](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 
 ---
@@ -24,24 +26,30 @@
 ## DevTools tooling and ecosystem
 
 ### Object formatting
+
 - [immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
 
 ### Network Inspection
+
 - [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel.
 - [Weer](https://weerdbg.com/) - A HTTP protocol debugger **(closed source)**
 
 ### CPU profile
-- [call-trace](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
+
+- [call-trace](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile` of the of the complete (non-sampled) execution. View either time or call counts.
 - [cpuprofilify](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
 - [Wishbone python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - Profiling data can export as `.cpuprofile`.
 
 ### Multimedia
+
 - [snapline](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
 
 ### Timeline, Tracing & Profiling
+
 - [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/) - Share URLs of your timeline recordings.
 
 ### Chrome Debugger integration with Editors
+
 - [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) - Breakpoint debugging in VS Code.
 - [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) - Elements panel inside VS Code.
 - [ChromeREPL](https://github.com/acarabott/ChromeREPL) - Within Sublime Text, use the Chrome console.
@@ -51,10 +59,12 @@
 ---
 
 ## Chrome DevTools Protocol
+
 - [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
 - [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events.
 
 ### Developing with the protocol
+
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes.
 - [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - Tool for debugging clients using devtools protocol.
 - [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
@@ -64,6 +74,7 @@
 - [BrowserGap Community Edition](https://github.com/dosycorp/browsergap.ce) - A remote browser product, open sourced. Makes heavy use of the raw, tip-of-tree Chrome DevTools protocol.
 
 ### Automation
+
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol.
   - Python port: [pyppeteer](https://github.com/pyppeteer/pyppeteer)
   - Rust port: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
@@ -77,11 +88,12 @@
 - Also all `Protocol Driver Libraries` below
 
 ### Protocol Driver Libraries
+
 - JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
 - TypeScript/Node.js: [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client)
 - Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
 - Java: [karate](https://intuit.github.io/karate/karate-core/) - Web-service testing framework with a Java API to automate Chrome
-- Java: [jvppeteer](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java 
+- Java: [jvppeteer](https://github.com/fanyong920/jvppeteer) - Headless Chrome For Java
 - Python: [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
 - Python: [chromewhip](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
 - Python: [pychrome](https://github.com/fate0/pychrome) - low level CDP transport handler
@@ -100,31 +112,37 @@
 - PHP: [chrome-devtools-protocol](https://github.com/jakubkulhan/chrome-devtools-protocol) - A PHP client library for the protocol.
 
 ### Browser Adapters
+
 - [Remote Debug Firefox adapter](https://github.com/RemoteDebug/remotedebug-firefox-adapter) - Translates Firefox's devtools protocol to the CDP.
 - [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
   - [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
 - [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
 
-
 ## Using DevTools frontend with other platforms
 
 #### Android
+
 - [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
 - [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) - Debugging JavaScript running in [J2V8](https://github.com/eclipsesource/J2V8) with Chrome DevTools.
 
 #### ClojureScript
+
 - [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
 
 #### Lua
+
 - [Mare](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools.
 
 #### iOS
+
 - [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools.
 
 #### Go
+
 - [go-debugger-devtools](https://github.com/allada/go-debugger-devtools)
 
 #### Node.js
+
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - An improved Node.js debugging experience with the DevTools Frontend.
 - [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - Guide on using the full debugging and profiling support in Node v6.3+.
 - [thetool](https://github.com/sfninja/thetool) - CPU, memory, coverage, type profiling with Node.
@@ -135,9 +153,11 @@
 ## DevTools Extensions
 
 ### Accessibility (A11y)
+
 - [Chromelens](http://chromelens.xyz) - See how your web app will look to people with different types of vision and the path users will travel when tabbing through your page.
 
 ### Workflow
+
 - [Clockwork](https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - View PHP application profiling data.
 - [Emulated Device Lab](https://chrome.google.com/webstore/detail/emulated-device-lab/oaonfodocibcdobdeelbbfggjombamff) - Experiment with multiple devices being emulated at the same time.
 - [RailsPanel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US) - View Ruby on Rails application profiling data.
@@ -156,10 +176,12 @@
 - [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) - Inspect the Metal component hierarchies.
 
 ### Themes
+
 - [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - A selection of themes to modify parts of DevTools related to authoring web applications.
 - [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Dark theme for Chrome Developer Tools.
 - [Material UI Theme](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) - Provides various Material Design inspired themes.
 
 ### Performance
+
 - [sloth](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
 - [TracerBench](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.

@@ -5,156 +5,19 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Conflict-Prevention-Resolution</title>
-  <style>
-    html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
-      color: #1a1a1a;
-      background-color: #fdfdfd;
-    }
-    body {
-      margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
-      padding-top: 50px;
-      padding-bottom: 50px;
-      hyphens: auto;
-      overflow-wrap: break-word;
-      text-rendering: optimizeLegibility;
-      font-kerning: normal;
-    }
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 1em;
-      }
-    }
-    @media print {
-      body {
-        background-color: transparent;
-        color: black;
-        font-size: 12pt;
-      }
-      p, h2, h3 {
-        orphans: 3;
-        widows: 3;
-      }
-      h2, h3, h4 {
-        page-break-after: avoid;
-      }
-    }
-    p {
-      margin: 1em 0;
-    }
-    a {
-      color: #1a1a1a;
-    }
-    a:visited {
-      color: #1a1a1a;
-    }
-    img {
-      max-width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 1.4em;
-    }
-    h5, h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-    h6 {
-      font-weight: normal;
-    }
-    ol, ul {
-      padding-left: 1.7em;
-      margin-top: 1em;
-    }
-    li > ol, li > ul {
-      margin-top: 0;
-    }
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
-    code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
-      font-size: 85%;
-      margin: 0;
-    }
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-    pre code {
-      padding: 0;
-      overflow: visible;
-      overflow-wrap: normal;
-    }
-    .sourceCode {
-     background-color: transparent;
-     overflow: visible;
-    }
-    hr {
-      background-color: #1a1a1a;
-      border: none;
-      height: 1px;
-      margin: 1em 0;
-    }
-    table {
-      margin: 1em 0;
-      border-collapse: collapse;
-      width: 100%;
-      overflow-x: auto;
-      display: block;
-      font-variant-numeric: lining-nums tabular-nums;
-    }
-    table caption {
-      margin-bottom: 0.75em;
-    }
-    tbody {
-      margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
-    }
-    th {
-      border-top: 1px solid #1a1a1a;
-      padding: 0.25em 0.5em 0.25em 0.5em;
-    }
-    td {
-      padding: 0.125em 0.5em 0.25em 0.5em;
-    }
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
-    #TOC li {
-      list-style: none;
-    }
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
-    code{white-space: pre-wrap;}
-    span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <h2 id="conflict-prevention-and-conflict-resolution">Conflict Prevention and Conflict Resolution</h2>
 <h3 id="conflict-prevention">Conflict Prevention</h3>
 <ul>
 <li><p><a href="https://retrospective.co/brilliant-jerks-cost-more-than-they-are-worth/">Brilliant Jerks Cost More Than They Are Worth</a>, <a href="https://web.archive.org/web/20171114045913/https://retrospective.co/brilliant-jerks-cost-more-than-they-are-worth/">WebArchive Mirror</a> - by Retrospective.co/Anonymous. Takeaway: “Brilliant jerks harm team morale and productivity. They don’t have to worry about being nice, because they are the top dog, and people need their natural talent. They have no incentive to try to improve, because they can simply go somewhere else. If you look carefully, you’ll notice that they often bounce around from place to place. They know they can get away with it.” You must apply a “no jerks” policy.</p></li>
-<li><p><a href="http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html">Brilliant Jerks in Engineering</a> - by Brendan Gregg. Takeaway: Identifies selfless (cares about the company) and selfish (cares primarily about themselves) brilliant jerks. “Companies can adopt a ‘no asshole rule,’ or more politely, a ‘no brilliant jerks’ policy. Colleagues may be genuinely conflicted about how to deal with [the selfish type of ”brilliant jerk”]: on the one hand, he is a real jerk, but on the other he is a ‘high performer,’ so isn’t it in the company’s best interest to tolerate his behavior? A policy helps you decide, and it can be as simple as three words: no brilliant jerks.”</p></li>
+<li><p><a href="http://www.brendangregg.com/blog/2017-11-13/brilliant-jerks.html">Brilliant Jerks in Engineering</a> - by Brendan Gregg. Takeaway: Identifies selfless (cares about the company) and selfish (cares primarily about themselves) brilliant jerks. “Companies can adopt a ‘no asshole rule,’ or more politely, a ‘no brilliant jerks’ policy. Colleagues may be genuinely conflicted about how to deal with [the selfish type of "brilliant jerk"]: on the one hand, he is a real jerk, but on the other he is a ‘high performer,’ so isn’t it in the company’s best interest to tolerate his behavior? A policy helps you decide, and it can be as simple as three words: no brilliant jerks.”</p></li>
 <li><p><a href="https://firstround.com/review/clean-up-corrosive-interpersonal-dynamics-on-your-team-with-this-system/">Clean Up Corrosive Interpersonal Dynamics on Your Team with This System</a> - by FirstRound. Takeaway: Executive coach Laura Gates describes how to build “vital, authentic conversations into your company’s culture at regular intervals to eliminate built-up tension systematically.”</p></li>
 <li><p><a href="https://shift.newco.co/2017/12/27/Hard-and-Soft-Skills-in-Tech/">Hard and Soft Skills in Tech</a> - by Yonatan Zunger. Takeaway: “One very reliable pattern I’ve observed in a lot of situations is that the strength of people’s emotional response to a statement tells you a lot about how close this statement cuts to their biggest worries. It’s sort of obvious if you say it that way, but if you apply it as a detection method, it’s very powerful: strong responses lead you to where the real problems are, the real threats to people.”</p></li>
 <li><p><a href="https://www.mckinsey.com/business-functions/organization/our-insights/the-hidden-toll-of-workplace-incivility">The Hidden Toll of Workplace Incivility</a> - by McKinsey. Takeaway: “[D]e-energizing relationships—those that are negative or draining—have a 4 to 7 times stronger negative impact on performance than the positive effects of relationships that are energizing (defined as leaving employees feeling enthused or upbeat).”</p></li>
@@ -177,7 +40,7 @@
 <li><p><a href="http://firstround.com/review/power-up-your-team-with-nonviolent-communication-principles/">Power up Your Team with Nonviolent Communication Principles</a> - by First Round. An enlightened interview with executive coaches Ann Mehl and Jerry Colonna, who teach major tech companies about nonviolent communication principles through emphasizing awareness, responsibility and empathy.</p></li>
 <li><p><a href="https://www.inc.com/brenda-barbosa/a-psychologist-studied-relationship-dynamics-in-60.html">A Psychologist Studied 6,000 People for 40 Years and Found This 1 Super Effective Conflict Resolution Tactic</a> - by Brenda Barbosa. Takeaway: Taking some cues from psychologist and couples researcher John Gottman, avoid conflict by lightening up; showing empathy; calming yourself down; and showing appreciation for the other person.</p></li>
 <li><p><a href="https://firstround.com/review/use-this-equation-to-determine-diagnose-and-repair-trust/">Use This Equation to Determine, Diagnose, and Repair Trust</a> - by FirstRound. Takeaway: “Essentially, the amount you trust someone is the sum of how credible you believe they are on a subject, how reliable they’ve proven themselves to be over time, and how authentic you think they are as a person, divided by how much you think they’re acting in their own self interest. Looking at her colleagues’ relationship through this lens, [article subject Anne Raimondi, who’s been a Director of Product at eBay, VP Marketing at SurveyMonkey, CRO at TaskRabbit, SVP Operations at Zendesk, and COO at Earnin] helped them diagnose when and how trust had eroded, and eventually work with them to heal the rift.”</p></li>
-<li><p><a href="https://hbr.org/2018/01/why-we-should-be-disagreeing-more-at-work">Why We Should Be Disagreeing More at Work</a> - by Amy Gallo. Takeaway: “[M]ost people don’t want to disagree or know how to do it. In fact, we’ve come to equate saying “I see it differently” or “I don’t agree” with being angry, rude, or unkind, so it makes most people horribly uncomfortable…Disagreements are an inevitable, normal, and healthy part of relating to other people. There is no such thing as a conflict-free work environment. You might dream of working in a peaceful utopia, but it wouldn’t be good for your company, your work, or you. In fact, disagreements — when managed well — have lots of positive outcomes.”</p></li>
+<li><p><a href="https://hbr.org/2018/01/why-we-should-be-disagreeing-more-at-work">Why We Should Be Disagreeing More at Work</a> - by Amy Gallo. Takeaway: “[M]ost people don’t want to disagree or know how to do it. In fact, we’ve come to equate saying “I see it differently” or “I don’t agree” with being angry, rude, or unkind, so it makes most people horribly uncomfortable…Disagreements are an inevitable, normal, and healthy part of relating to other people. There is no such thing as a conflict-free work environment. You might dream of working in a peaceful utopia, but it wouldn’t be good for your company, your work, or you. In fact, disagreements — when managed well — have lots of positive outcomes."</p></li>
 </ul>
 </body>
 </html>

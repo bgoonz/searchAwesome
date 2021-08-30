@@ -1,4 +1,5 @@
 # Awesome Algorithms Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 알고리즘은 문제를 해결하기 위해 따라야 할 규칙의 목록입니다.
 
 알고리즘은 올바른 순서대로 있어야 합니다. 아침에 옷을 입기 위한 일도 알고리즘입니다. 외투를 입고 티셔츠를 위에 입는 다면 어떨까요? 알고리즘을 작성할 때 순서가 매우 중요합니다.
@@ -8,6 +9,7 @@
 언어: [English](readme-en.md) • **[😎 한국어(Korean)](readme-ko.md)**
 
 ## Contents
+
 - [Courses](#courses) 강좌
 - [Competitive programming](#competitive-programming) 알고리즘 트레이닝
 - [Visualizations](#visualizations) 시각화
@@ -19,9 +21,11 @@
 - [Miscellaneous](#miscellaneous) 도움될만한 읽을거리
 
 ## Courses
+
 > 강좌
 
 #### Introductory
+
 > 초급 강좌
 
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Khan Academy.
@@ -29,6 +33,7 @@
 - [영리한 프로그래밍을 위한 알고리즘 강좌](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C) - 한국어 / Inflearn.
 
 #### Intermediate
+
 > 중급 강좌
 
 - [Algorithms and Data Structures](https://www.class-central.com/subject/algorithms-and-data-structures) - Class Central.
@@ -44,12 +49,14 @@
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Coursera(Princeton University).
 
 #### Advanced
+
 > 고급 강좌
 
 - [Data Structures and Algorithms](http://online-learning.harvard.edu/course/data-structures-and-algorithms) - 유료 콘텐츠 / Harvard University.
 - [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - 유료 콘텐츠 / Stanford University.
 
 ## Competitive programming
+
 > 알고리즘 트레이닝
 
 - [HackerRank](https://www.hackerrank.com/domains/algorithms)
@@ -88,8 +95,8 @@
 - [Codeground](https://www.codeground.org) - 영어, 한국어.
 - [SW Expert Academy](https://www.swexpertacademy.com) - 한국어.
 
-
 ## Visualizations
+
 > 시각화
 
 - [Algorithm Visualizer](http://algo-visualizer.jasonpark.me)
@@ -110,6 +117,7 @@
 - [GeneaQuilts](http://www.aviz.fr/geneaquilts) - Java 프로그래밍 언어.
 
 ## Interviews
+
 > 인터뷰
 
 - [Interview Cake](https://www.interviewcake.com)
@@ -119,6 +127,7 @@
 - [Interactive Python coding interview challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 ## Videos
+
 > 비디오
 
 - [How algorithms shape our world](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world) - Kevin Slavin.
@@ -131,6 +140,7 @@
 - [AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos) - Sapientia University.
 
 ## Books
+
 > 도서
 
 - [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY)
@@ -145,6 +155,7 @@
 - [프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략](http://book.algospot.com) - 한국어
 
 ## Articles
+
 > 문서
 
 - [stoimen's web log](http://www.stoimen.com/category/algorithms)
@@ -153,6 +164,7 @@
 - [NEXTERS 알고리즘 스터디 자료 외](http://d2.naver.com/news/4850628) - 한국어.
 
 ## Competitions
+
 > 대회
 
 - [Google Code Jam](https://code.google.com/codejam) - 전 세계의 프로그래머들과 알고리즘 경쟁을 해볼 수 있는 프로그램입니다.
@@ -161,6 +173,7 @@
 - [Google Summer of Code](https://summerofcode.withgoogle.com) - 오픈 소스 소프트웨어 개발을 위해 학생들을 소개하는 데 초점을 맞춘 글로벌 프로그램이다. 학생들은 대학을 졸업하는 동안 열린 소스 기관과 함께 3개월 동안 프로그래밍 프로젝트를 한다.
 
 ## Miscellaneous
+
 > 도움될만한 읽을거리
 
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
@@ -175,6 +188,7 @@
 - [백준 온라인 저지는 어떻게 만들어졌을까?](https://goo.gl/qwgBAp) - 한국어.
 
 ## License
+
 > 라이선스
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
