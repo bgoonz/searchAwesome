@@ -24,9 +24,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Tips](#tips)
 
 ## Server
+
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
+
 - [Ruby](https://github.com/appium/ruby_lib)
 - [Python](https://github.com/appium/python-client)
 - [Java](https://github.com/appium/java-client)
@@ -37,6 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary)
 
 ## Inspectors
+
 - [Appium Desktop](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux.
 - [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
@@ -44,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [app-inspector](https://github.com/macacajs/app-inspector) - Macacajs App Inspector.
 
 ## Become an Appium Pro
+
 - [Seeding the iOS simulator with test photos](https://appiumpro.com/editions/1)
 - [Seeding an Android device with test photos](https://appiumpro.com/editions/2)
 - [Running arbitrary ADB commands via Appium](https://appiumpro.com/editions/3)
@@ -151,6 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Paid Tools And Services For Mobile App Performance Testing](https://appiumpro.com/editions/105)
 
 ## Tutorials
+
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
 - [GURU99](http://www.guru99.com/introduction-to-appium.html) - Appium tutorial for beginners.
 - [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) - Appium tutorials.
@@ -160,33 +165,35 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016.
 
 ## Blogs
- - [All about Appium Desired Capabilities](https://caps.cloudgrey.io/) - All about Appium's desired capabilities.
- - [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) - Appium Architecture, settings, etc (Updated)
- - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Architecture of Appium.
- - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress.
- - [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - Appium with Image Recognition - Simon Kaz.
- - [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - Automate Android Actions using Appium - kkashyap1707.
- - [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) - How to deal with Network Connection from Appium 4.0.0 - Elias Nogueira.
- - [How to change language in Appium](https://medium.com/@eliasnogueira/appium-tips-changing-the-app-language-f0a1762dd927#.68mvqisri) - Appium Tips — Changing the app Language - Elias Nogueira.
- - [Automated UI testing of a UWP app using Appium](https://medium.com/@yostane/automated-ui-testing-of-a-uwp-app-using-appium-dc10d8df6631#.3efp60w1j) - Windows Application driver makes UWP Apps compatible using Appium - Yassine benabbas.
- - [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) Switching to a Dynamically Named Context Handle with Appium and Java - Kevin Berg.
- - [A Robot Should Be Running Your Appium Tests](https://medium.com/devs-foodit/iphone-automation-with-a-one-fingered-robot-a2936c840285#.l37adndb3) - How to run Appium Tests using Robots. - Dan Cuellar.
- - [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) - Automates building, deploying and gathering feedback for mobile apps - Stipe Kolovrat.
- - [Android setup Linux](https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/) - From Zero To Appium: A How-To Guide For Configuring Appium With Android
- - [Useful Appium Series] (http://bitbar.com/tag/appium/) - Appium Tip Series
- - [Inspect iOS app's with Appium 1.6] (https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo) - The options of inspecting iOS 10 app with Appium 1.6
- - [GraphWalker](http://graphwalker.github.io/appium-example/) - GraphWalker is a open source Model-based testing tool for test automation. It's designed to make it easy to design your tests using graphs
- - [Appium + Mobile Game Testing](http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/) - MOBILE GAME TESTING – PART #2: UI AND FUNCTIONALITY + IMAGE RECOGNITION
- - [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) - WinAppDriver - Test any app with Appium's Selenium-like tests on Windows
- - [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - USING APPIUM FOR MOBILE GAME TESTING
- - [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) - By KazuCocoa
-  - [Adding AI to Appium](https://medium.com/testdotai/adding-ai-to-appium-f8db38ea4fac) - By test.ai
- 
+
+- [All about Appium Desired Capabilities](https://caps.cloudgrey.io/) - All about Appium's desired capabilities.
+- [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) - Appium Architecture, settings, etc (Updated)
+- [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Architecture of Appium.
+- [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress.
+- [Appium with Image Recognition](https://medium.com/@SimonKaz/appium-with-image-recognition-17a92abaa23d#.x19ffxwbk) - Appium with Image Recognition - Simon Kaz.
+- [Automate Android Actions using Appium](http://testingalert.com/automate-android-actions-using-appium/) - Automate Android Actions using Appium - kkashyap1707.
+- [Network Connection in Appium](https://medium.com/@eliasnogueira/how-to-deal-with-network-connection-in-appium-4-0-0-2134021fac25#.z5dfdv2jg) - How to deal with Network Connection from Appium 4.0.0 - Elias Nogueira.
+- [How to change language in Appium](https://medium.com/@eliasnogueira/appium-tips-changing-the-app-language-f0a1762dd927#.68mvqisri) - Appium Tips — Changing the app Language - Elias Nogueira.
+- [Automated UI testing of a UWP app using Appium](https://medium.com/@yostane/automated-ui-testing-of-a-uwp-app-using-appium-dc10d8df6631#.3efp60w1j) - Windows Application driver makes UWP Apps compatible using Appium - Yassine benabbas.
+- [Context Switching in Appium](https://medium.com/@kevinmarkvi/switching-to-a-dynamically-named-context-handle-with-appium-and-java-c78d2b972eb6#.2ylda6ul6) Switching to a Dynamically Named Context Handle with Appium and Java - Kevin Berg.
+- [A Robot Should Be Running Your Appium Tests](https://medium.com/devs-foodit/iphone-automation-with-a-one-fingered-robot-a2936c840285#.l37adndb3) - How to run Appium Tests using Robots. - Dan Cuellar.
+- [Appium Tests on Buddybuild](https://medium.com/@stipe.kolovrat/appium-cucumber-tests-up-running-on-buddybuild-8955a88ab589#.wsyazko3g) - Automates building, deploying and gathering feedback for mobile apps - Stipe Kolovrat.
+- [Android setup Linux](https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/) - From Zero To Appium: A How-To Guide For Configuring Appium With Android
+- [Useful Appium Series] (http://bitbar.com/tag/appium/) - Appium Tip Series
+- [Inspect iOS app's with Appium 1.6] (https://medium.com/@chenchaoyi/the-options-of-inspecting-ios-10-app-with-appium-1-6-534ba166b958#.ezq1q0iuo) - The options of inspecting iOS 10 app with Appium 1.6
+- [GraphWalker](http://graphwalker.github.io/appium-example/) - GraphWalker is a open source Model-based testing tool for test automation. It's designed to make it easy to design your tests using graphs
+- [Appium + Mobile Game Testing](http://bitbar.com/mobile-game-testing-part-2-ui-and-functionality-image-recognition/) - MOBILE GAME TESTING – PART #2: UI AND FUNCTIONALITY + IMAGE RECOGNITION
+- [WinAppDriver](http://www.hanselman.com/blog/WinAppDriverTestAnyAppWithAppiumsSeleniumlikeTestsOnWindows.aspx) - WinAppDriver - Test any app with Appium's Selenium-like tests on Windows
+- [IMAGE RECOGNITION WITH APPIUM](http://bitbar.com/appium-tip-27-using-appium-for-mobile-game-testing/) - USING APPIUM FOR MOBILE GAME TESTING
+- [Uncover invisible changes in automated tests](https://sourcediving.com/how-to-uncover-invisible-changes-in-automated-tests-b6a5dbff564e) - By KazuCocoa
+- [Adding AI to Appium](https://medium.com/testdotai/adding-ai-to-appium-f8db38ea4fac) - By test.ai
 
 ## Workshops
+
 - [Appium Workshop Selnium Conf 2016](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison.
 
 ## Cloud and Docker Solutions
+
 - [Appium Tests in AWS Device Farm](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
 - [Appium Tests in OpenSTF Device Farm](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
 - [Official Appium Docker Images](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
@@ -195,10 +202,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appium Docker File](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
 
 ## Git Books
+
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - A quick reference book on how to use Appium for automating Android Application using Java - Nishant Verma.
 
-## Test Frameworks 
+## Test Frameworks
+
 - [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
 - [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) - Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.
 - [coteafs-appium](https://github.com/WasiqB/coteafs-appium) - A tester friendly Mobile Automation Framework built on top of Appium which supports testing web and native apps for Android, iOS and Windows real or emulator Mobiles and Tablets.
@@ -207,6 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
 
 ## Community
+
 - [Discuss](https://discuss.appium.io)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/appium)
 - [`@appiumdevs` on Twitter](https://twitter.com/AppiumDevs)
@@ -215,7 +225,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Tips
 
 Contribute some ;)
-
 
 ## Contribute
 

@@ -27,7 +27,7 @@ A curated list of ad-free alternatives to popular services on the web.
   - [Groups](#groups)
   - [Make Money Without Ads](#make-money-without-ads)
   - [Talks](#talks)
- - [License](#license)
+- [License](#license)
 
 ## Alternatives
 
@@ -77,10 +77,10 @@ Alternatives to ad-supported websites, software, and publications.
 - [Adbusters](https://www.adbusters.org/) - Magazine about the takeover of psychological, physical, and cultural environments by commercial forces.
 - [Aeon](https://aeon.co/) - Digital magazine that publishes original thinking on science, philosophy, society, and the arts.
 - [Armstrong Economics](https://www.armstrongeconomics.com/uncategorized/no-advertising/) - Educational blog about markets and the global economy.
-- [Common Dreams](https://www.commondreams.org/) -  Progressive news website.
+- [Common Dreams](https://www.commondreams.org/) - Progressive news website.
 - [Consumerist](https://consumerist.com/) - Independent source of consumer news and information.
 - [Ello](https://ello.co/) - Media platform for creators and artists that does not sell user data.
-- [Popular Resistance](https://popularresistance.org/) -  Independent, nonviolent, and diverse movements to end the power of concentrated wealth and put human needs before corporate greed.
+- [Popular Resistance](https://popularresistance.org/) - Independent, nonviolent, and diverse movements to end the power of concentrated wealth and put human needs before corporate greed.
 - [RealSport](https://realsport101.com/) - Fans write articles on football, basketball, cricket, e-sports, motorsports, and most other sports out there. This site is committed to maintaining an experience free of pop-ups, fake news, click-bait, and ads.
 - [The Conversation](https://theconversation.com/) - High quality, authenticated, explanatory journalism funded by universities.
 
@@ -94,7 +94,7 @@ Alternatives to ad-supported websites, software, and publications.
 ### Social
 
 - [Are.na](https://www.are.na/) - Visual platform to help you think about and organize online content.
-- [diaspora*](https://diasp.org/) - Feeds, likes, profiles, and tags; you are in control of your data.
+- [diaspora\*](https://diasp.org/) - Feeds, likes, profiles, and tags; you are in control of your data.
 - [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
 - [Libranet](https://libranet.de/) - Popular site running friendica, a federated Facebook-style social network.
 - [Lobsters](https://lobste.rs/) - Simple link aggregation site with explanations required to downvote.
@@ -163,6 +163,7 @@ These business don't advertise yet are successful.
 - [What if there was no advertising?](https://www.youtube.com/watch?v=01PUSrLCvcM)
 
 ## No longer maintained
+
 - [No More Ads](https://nomoreads.org) - Practical advice for an ad-free internet. ([Wayback Machine archive](http://web.archive.org/web/20190121234844/https://nomoreads.org/))
 - [Voltra](https://voltra.co/) - DRM-free music listening and discovery software that supports artists directly.
 - [Art Not Ads](http://artnotads.org) - Artists creating change in the urban landscape, but not by going after the ads themselves. ([Wayback Machine archive](http://web.archive.org/web/20190111233537/http://artnotads.org/))

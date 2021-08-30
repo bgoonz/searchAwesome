@@ -65,7 +65,6 @@
 - [Building Backbone apps using Flux](https://medium.com/@victordoss/building-backbone-apps-using-flux-f656fd8a873a) by Victor Doss
 - [Bringing Meteor’s reactive collections to Backbone](https://mixmax.com/blog/meteor-and-backbone) by Jeff Wear
 
-
 ## Books
 
 - [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/) by Addy Osmani

@@ -1,4 +1,4 @@
-# Awesome Blockchain AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Blockchain AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Blockchain projects for Artificial Intelligence and Machine Learning.
 
@@ -48,6 +48,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [Cortex Labs](https://www.cortexlabs.ai/) - Cortex Labs is a decentralized AI platform with a virtual machine that allows you to execute AI programs on-chain.
 
 ### Blockchain projects for AI algorithms
+
 - [Danku](https://github.com/algorithmiaio/danku) - A blockchain-based protocol for evaluating and purchasing ML models on a public blockchain such as Ethereum. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
 - [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) - 0xDeCA10B is a framework to host and train publicly available machine learning models in smart contracts with incentive mechanisms to encourage good quality training data while keeping the models free to use for prediction. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
@@ -72,7 +73,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 
 - [Numerai](https://numer.ai/) - Numerai is a hedge fund powered by a network of anonymous data scientists that build machine learning models to operate on encrypted data and stake cryptocurrency to express confidence in their models.
 - [Napoleon X](https://www.napoleonx.ai/) - Napoleon X is an open online computer driven asset management platform selecting quantitative strategies (trading bots) from world class traders, where each crypto-fund dedicated to a specific Asset Class.
-- [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators. 
+- [Cindicator](https://cindicator.com/) - Cindicator is a crowd-sourced prediction engine for financial and crypto indicators.
 - [Erasure](https://erasure.xxx/) - Erasure is a decentralized protocol and data marketplace for financial predictions.
 
 ## Blockchains for AI in medicine
@@ -90,7 +91,7 @@ These projects are not active anymore.
 - [Dopamine](https://dopamine.ai/) - Decentralized AI workforce and services marketplace.
 - [Trane AI](http://www.trane.ai/) - A decentralized economy for tagging, storing and modeling data for AI-training.
 - [starmine AI](http://starmine.ai/) - Starmine is a robust and highly scalable platform for constructing, trading and exchanging advanced algorithmically generated on-demand datasets for machine learning and artificial intelligence efforts.
-- [Cerebrum](https://cerebrum.world/) - Cerebrum is a decentralized platform for crowdsourced machine learning. Cerebrum enables anyone to encrypt their data and host machine learning competitions to utilize crowd-sourced machine learning models. 
+- [Cerebrum](https://cerebrum.world/) - Cerebrum is a decentralized platform for crowdsourced machine learning. Cerebrum enables anyone to encrypt their data and host machine learning competitions to utilize crowd-sourced machine learning models.
 - [Fitchain](https://fitchain.io/) - Fitchain is a blockchain-based machine learning factory that allows data scientists to train models, tracing them from inception and throughout their lifetime.
 - [Namahe](https://namahe.io/) - Namahe is platform that aims to bring efficiency to supply chain industries by incorporating an A.I. layer.
 - [Pandora Boxchain](https://pandoraboxchain.ai/) - A marketplace for AI kernels, computations and big data powered by Proof of Cognitive Work (PoCW).

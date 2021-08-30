@@ -1,6 +1,7 @@
 # ₿ 加密货币工具和算法大合集
 
 维基百科—
+
 > [加密货币](https://en.m.wikipedia.org/wiki/Cryptocurrency)加密货币是一种利用密码学原理来保证账户之间交易的安全性并且控制货币发行量的数字资产。
 
 现在市面上已经存在各种各样根据不同加密原理的加密货币。这篇文章中列举了那些主流加密货币的相关信息以及非常有用的工具。希望可以帮助到大家。
@@ -24,16 +25,17 @@
 
 ## ☤ 货币市场高效工具
 
-- **[Coinbin.org](http://coinbin.org)** — 用于快速获取货币数据（汇率，预测，，，）用户友好的API
+- **[Coinbin.org](http://coinbin.org)** — 用于快速获取货币数据（汇率，预测，，，）用户友好的 API
 
-    * [已知加密货币列表](http://coinbin.org/coins) `/coins`
-    * [BTC 实时币值](http://coinbin.org/btc) `/btc`
-    * [BTC 每日币值](http://coinbin.org/btc/history) `/btc/history`
-    * [BTC / ETH 汇率](http://coinbin.org/btc/to/eth) `/btc/to/eth`
-    * [20.01 BTC 价格](http://coinbin.org/btc/20.01) `/btc/20.01`
-    * [42 ETH 价格（BTC）](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
-    * 支持所有加密货币.
-- [CoinMarketCap](https://coinmarketcap.com) — 所有加密货币实时Dashboard.
+  - [已知加密货币列表](http://coinbin.org/coins) `/coins`
+  - [BTC 实时币值](http://coinbin.org/btc) `/btc`
+  - [BTC 每日币值](http://coinbin.org/btc/history) `/btc/history`
+  - [BTC / ETH 汇率](http://coinbin.org/btc/to/eth) `/btc/to/eth`
+  - [20.01 BTC 价格](http://coinbin.org/btc/20.01) `/btc/20.01`
+  - [42 ETH 价格（BTC）](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
+  - 支持所有加密货币.
+
+- [CoinMarketCap](https://coinmarketcap.com) — 所有加密货币实时 Dashboard.
 - [MoneyHash](https://moneyhash.today) — 根据可用的算力在货币市场计算出利润率。
 
 ## ☤ 阅读资源
@@ -50,7 +52,7 @@
 
 [挖什么](https://whattomine.com)的列表.
 
-- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — 根据你的GPU自动进行最优配置 & 挖 **比特币（BTC）**.
+- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — 根据你的 GPU 自动进行最优配置 & 挖 **比特币（BTC）**.
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
 - **SC**: https://sia.nanopool.org/
@@ -59,12 +61,11 @@
 - **ZEC**: https://zec.nanopool.org/
 - **ETC**: https://etc.nanopool.org/
 
-
 ## ☤ 算力租借
 
 - [NiceHash](https://www.nicehash.com/?refby=386829) — 支持所有的哈希算法, 根据使用量支付 **BTC** .
 - [Bitcoin.com 矿池](https://pool.bitcoin.com/index_en.html) — 听说这里有一些有意思的事.
-- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) — 网站看起来乱七八糟的，但是他们提供ASIC解决方案。
+- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) — 网站看起来乱七八糟的，但是他们提供 ASIC 解决方案。
 
 ## ☤ 钱包
 
@@ -99,7 +100,6 @@
 - [Qvolta](https://qvolta.com) — 使用本地的交易渠道买/卖加密货币。
 - [Coinwale](https://coinwale.com) - 匿名加密货币交易所。
 
-
 ## ☤ 跨平台界面应用
 
 - [**Sia** 界面](http://sia.tech/apps/) — SC 钱包, 文件托管, 存储
@@ -110,28 +110,29 @@
 - [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — 这里你可以出售你的 GPU/CPU 算力给矿工获利! 根据你的硬件自动进行最优配置(可调整).
 
 [![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
+
 - [MinerGate](https://minergate.com) - 挖最赚钱的币。
 
 ## ☤ MacOS 界面应用
 
-- [MacMiner](http://macminer.fabulouspanda.com/macminer/) — 应用里有 bfgminer, cgminer和sgminer.
+- [MacMiner](http://macminer.fabulouspanda.com/macminer/) — 应用里有 bfgminer, cgminer 和 sgminer.
 
 ## ☤ MacOS 终端应用
 
-- [bfgminer](http://macminer.fabulouspanda.com/commandline/) — 用C写的模块化ASIC/FPGA 终端工具, 提供超频、实时监控、风扇转速控制和远程接口等功能。
-- [cgminer](http://macminer.fabulouspanda.com/commandline/) — C语言写的用ASIC和FPGA挖比特币的挖矿工具。
+- [bfgminer](http://macminer.fabulouspanda.com/commandline/) — 用 C 写的模块化 ASIC/FPGA 终端工具, 提供超频、实时监控、风扇转速控制和远程接口等功能。
+- [cgminer](http://macminer.fabulouspanda.com/commandline/) — C 语言写的用 ASIC 和 FPGA 挖比特币的挖矿工具。
 - [sgminer](http://macminer.fabulouspanda.com/commandline/) — Scrypt 显卡挖矿工具.
 - [nheqminer](https://github.com/kozyilmaz/nheqminer-macos) — Equihash CPU & GPU 挖矿工具.
 
 ## ☤ 推荐硬件
 
 - [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) — 消费级地表最强显卡。
-- [Asrock H110 Pro BTC+ 挖矿母版](http://amzn.to/2xadkYk) — 至少能插12个PCI-E显卡.
+- [Asrock H110 Pro BTC+ 挖矿母版](http://amzn.to/2xadkYk) — 至少能插 12 个 PCI-E 显卡.
 
 ## ☤ 趣味 加密货币/区块链
 
-- [Bit](https://github.com/ofek/bit) — Python最快的比特币工具库，3行代码实现转账。
-- [bcoin](http://bcoin.io) — 纯Node.js实现的全链路比特币，可以在浏览器中运行，有钱包，内存池，区块链和挖矿工具。
+- [Bit](https://github.com/ofek/bit) — Python 最快的比特币工具库，3 行代码实现转账。
+- [bcoin](http://bcoin.io) — 纯 Node.js 实现的全链路比特币，可以在浏览器中运行，有钱包，内存池，区块链和挖矿工具。
 - [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
 - [Tezos](https://www.tezos.com) — 自愈区块链。
 - [Tendermint](https://tendermint.com) — 任何语言下的拜占庭容错复制状态机(Replicated State Machine)。
@@ -370,8 +371,7 @@ As of 2017-08-23:
 [tcc](https://coinbin.org/tcc)
 [cat](https://coinbin.org/cat)
 
-----------------------------------
-
+---
 
 ## 这篇文章帮助到你了么?
 

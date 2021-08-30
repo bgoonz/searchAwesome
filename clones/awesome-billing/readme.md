@@ -78,7 +78,7 @@ This knowledge base cover the first columnar perimeter on the right of the cloud
 
 Here we set out the big picture: definition and strategic importance of the domain, plus some critical features.
 
-- [Open guide to AWS](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the *Billing and Cost Management* section.
+- [Open guide to AWS](https://github.com/open-guides/og-aws#billing-and-cost-management) - Links to the _Billing and Cost Management_ section.
 
 - [Use-cases for cloud services](https://news.ycombinator.com/item?id=19830022) - To optimize ROI, keep all regular workload in traditional architecture and reserve cloud computing for elastic and experimental projects.
 

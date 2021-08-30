@@ -26,7 +26,7 @@
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  20m |
 
-### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
+### [Ticket to Ride](<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
 
 > ...a cross-country train adventure where players collect cards of various types of train cars that enable them to claim railway routes connecting cities in various countries around the world.
 
@@ -36,7 +36,7 @@
 | ------: | -------: | -----: |
 |   2 - 5 |        8 | 30-60m |
 
-### [Pandemic](https://wikipedia.org/wiki/Pandemic_(board_game))
+### [Pandemic](<https://wikipedia.org/wiki/Pandemic_(board_game)>)
 
 > Can you save humanity in this cooperative game where deadly viruses are spreading across the globe? Together, you will treat diseases, share knowledge, and fly all over the world to prevent outbreaks and slow down the epidemic.
 
@@ -60,13 +60,13 @@
 
 > Soar to dizzying heights in the electrifying cooperative adventure. Work as a team to explore a mysterious platform that floats at the center of a savage storm. Connect a circuit of cables to launch a secret rocket — all before you are struck by lightning or blown off to the depths below. It's a high-wire act that will test your team's capacity for courage and cooperation. One false step and you all could be grounded.This latest installment in the Forbidden that game series takes you to new heights with several novel challenges, including collectively planning a terrain using only limited information and constructing a real electrical circuit.
 
-![Forbidden Sky image](https://cf.geekdo-images.com/itemrep/img/zu-kq_Fnq8twvfhPG5PevtT4z5E=/fit-in/246x300/filters:strip_icc()/pic4177924.jpg)
+![Forbidden Sky image](<https://cf.geekdo-images.com/itemrep/img/zu-kq_Fnq8twvfhPG5PevtT4z5E=/fit-in/246x300/filters:strip_icc()/pic4177924.jpg>)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
 |   2 - 5 |       10 |  60m |
 
-### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_(card_game))
+### [Elder Sign](<https://wikipedia.org/wiki/Elder_Sign_(card_game)>)
 
 > Set in a world of Lovecraftian horror, cooperatively investigate a museum full of strange artefacts and stranger demons. Collect eldritch symbols, "elder signs", to close the portals and prevent the creatures from invading our world. Collect enough before the time is up or suffer the wrath of the Ancient Ones.
 
@@ -88,7 +88,7 @@
 | ------: | -------: | ---: |
 |   3 - 6 |       13 |  60m |
 
-### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
+### [Dixit](<https://en.wikipedia.org/wiki/Dixit_(card_game)>)
 
 > Using a deck of cards illustrated with dreamlike images, players select cards that match a title suggested by the "storyteller", and attempt to guess which card the "storyteller" selected.
 
@@ -152,11 +152,11 @@
 
 ### [Chutes and Ladders](https://en.wikipedia.org/wiki/Snakes_and_Ladders)
 
-> Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones. 
+> Also known as Snakes and Ladders, Chutes and Ladders is simple and easy to play, even for those who can't read. Going up the ladders and down the chutes, a child will learn (by the pictures) the rewards of good deeds and the consequences of naughty ones.
 
 ![Chutes and Ladders game image](https://upload.wikimedia.org/wikipedia/en/b/ba/Cnl03.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        4 | 15-30m |
 
@@ -184,7 +184,7 @@
 
 > Battleball is a football board game but with teams made of players with physical and mechanical enhancements - which has made the sport more intense and more deadly. Plan a strategy and do your best to score two touchdowns without having all of your players be destroyed!
 
-![Battleball Image](https://cf.geekdo-images.com/itemrep/img/_ybsCFVKunSnqyGPCiuXbT2kuDo=/fit-in/246x300/filters:strip_icc()/pic227687.jpg)
+![Battleball Image](<https://cf.geekdo-images.com/itemrep/img/_ybsCFVKunSnqyGPCiuXbT2kuDo=/fit-in/246x300/filters:strip_icc()/pic227687.jpg>)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
@@ -196,7 +196,7 @@
 
 ![Parcheesi Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parcheesi-board-perspective.jpg/320px-Parcheesi-board-perspective.jpg)
 
-| Players | Min. Age | Time   |
+| Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 4 |        8 | 30-60m |
 
@@ -204,22 +204,21 @@
 
 > In Tokaido, each player is a traveler crossing the "East sea road", one of the most magnificent roads of Japan. While traveling, you will meet people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and wild places but at the end of the day, when everyone has arrived at the end of the road you'll have to be the most initiated traveler – which means that you'll have to be the one who discovered the most interesting and varied things. All of the actions in Tokaido are very simple, and combined with a unique graphic design, Tokaido offers players a peaceful zen mood in its play.
 
-![Tokaido Image](https://cf.geekdo-images.com/itemrep/img/oNPKz7nD6d53yT7CDIquGw6moNg=/fit-in/246x300/filters:strip_icc()/pic3747956.png)
+![Tokaido Image](<https://cf.geekdo-images.com/itemrep/img/oNPKz7nD6d53yT7CDIquGw6moNg=/fit-in/246x300/filters:strip_icc()/pic3747956.png>)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 5 |        8 |    45m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 5 |        8 |  45m |
 
 ### [Santorini](https://boardgamegeek.com/boardgame/194655/santorini)
 
 > Santorini is an accessible strategy game, simple enough for an elementary school classroom while aiming to provide gameplay depth and content for hardcore gamers to explore, The rules are simple. Each turn consists of 2 steps. those are Move (move one of your builders into a neighboring space) and Build (construct a building level adjacent to the builder you move). If either of your builders reaches the third level, you win.
 
-![Santorini Image](https://cf.geekdo-images.com/itemrep/img/8vG-UtGeFbhMXPTzLDUOqWot8hA=/fit-in/246x300/filters:strip_icc()/pic3283110.png)
+![Santorini Image](<https://cf.geekdo-images.com/itemrep/img/8vG-UtGeFbhMXPTzLDUOqWot8hA=/fit-in/246x300/filters:strip_icc()/pic3283110.png>)
 
-| Players | Min. Age | Time   |
-| ------: | -------: | -----: |
-|   2 - 4 |        8 |    20m |
-
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |        8 |  20m |
 
 ## Strategy
 
@@ -233,7 +232,7 @@
 | ------: | -------: | ----: |
 |       2 |        5 | 5-60m |
 
-### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
+### [Tak](<https://en.wikipedia.org/wiki/Tak_(game)>)
 
 > The objective of Tak is to be the first to connect any two opposite edges of the board with their pieces, called "stones", creating a road. To this end, players will take turns attacking and capturing their opponent's pieces while supporting their own.
 
@@ -243,7 +242,7 @@
 | ------: | -------: | ---: |
 |       2 |        5 |  30m |
 
-### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_(board_game))
+### [7 Wonders](<https://wikipedia.org/wiki/7_Wonders_(board_game)>)
 
 > You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, and affirm your military supremacy. Build your city and erect an architectural wonder which will transcend future times.
 
@@ -295,7 +294,7 @@
 | ------: | -------: | -------: |
 |   1 - 5 |       14 | 120-180m |
 
-### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game))
+### [Game of Thrones](<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
 > A Game of Thrones allows the players to take on the roles of several of the Great Houses vying for control of the Seven Kingdoms, including House Stark, House Lannister, House Baratheon, House Greyjoy, House Tyrell, and as of the expansion A Clash of Kings, House Martell. Players maneuver armies to secure support in the various regions that comprise the Seven Kingdoms, with the goal of capturing enough support to claim the Iron Throne. The basic gameplay mechanics are reminiscent of Diplomacy, especially in the order-giving process, though A Game of Thrones is significantly more complicated overall.
 
@@ -355,7 +354,7 @@
 | ------: | -------: | ---: |
 |   2 - 8 |        8 |  15m |
 
-### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
+### [Carcassonne](<https://en.wikipedia.org/wiki/Carcassonne_(board_game)>)
 
 > Tile-placement game in which the players draw and place a tile with a piece of southern French landscape on it. Build your castles, connect them with roads and grassland, assign meeples to roles and score points.
 
@@ -476,11 +475,11 @@
 | ------: | -------: | -----: |
 |   2 - 4 |       13 | 30-45m |
 
-### [Heroscape](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
+### [Heroscape](<https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg>)
 
 > Join the battle of all time! Draft your army from troops of all different eras, species, and battle styles then fight on a battlefield created by you and your friends. Work together to accomplish a scenario laid out in the included rules or duke it out amongst yourselves to see who's the greater battlefield commander.
 
-![Heroscape Master Set: Rise of the Valkyrie](https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg)
+![Heroscape Master Set: Rise of the Valkyrie](<https://cf.geekdo-images.com/itemrep/img/QxW14xwSXjhYU8h_KlvG09nbBd0=/fit-in/246x300/filters:strip_icc()/pic244662.jpg>)
 
 | Players | Min. Age | Time |
 | ------: | -------: | ---: |
@@ -490,7 +489,7 @@
 
 > In Stone Age, players live in the early days of human history, competing for food and collecting resources to expand their tribe and achieve new levels of civilization. Take turns assigning your tribe members to limited areas on the board that benefit you in different ways, sequence your actions strategically and feed your people to avoid losing points or resources.
 
-![Stone Age](https://cf.geekdo-images.com/itemrep/img/vApiI-gvXtwafEriPc4jDVJ1ajA=/fit-in/246x300/filters:strip_icc()/pic1632539.jpg)
+![Stone Age](<https://cf.geekdo-images.com/itemrep/img/vApiI-gvXtwafEriPc4jDVJ1ajA=/fit-in/246x300/filters:strip_icc()/pic1632539.jpg>)
 
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
@@ -508,7 +507,7 @@
 | ------: | -------: | ---: |
 |   2 - 8 |        7 |  10m |
 
-### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
+### [Mysterium](<https://wikipedia.org/wiki/Mysterium_(board_game)>)
 
 > As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
 
@@ -817,21 +816,21 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Catan: Explorers & Pirates is the fourth major expansion for The Settlers of Catan. It includes five scenarios and three missions; some of the scenarios make use of the missions while others do not. This expansion is based on the CATAN base game rules but also contains a number of new game mechanisms. For example, ships are now equipped for expeditions and can be moved freely across the board. In the ships you transport settlers, crews, fish, or spices across the seas. The main goal is to build new outposts on the islands that are still undiscovered and to complete the Council of Catan's missions in the most skillful way possible. Catan: Explorers & Pirates differs from the Catan base game in three main ways. First, instead of having only a single island in the game on which players build and compete for resources, three islands are present. Second, instead of using cities, Catan: Explorers & Pirates allows players to build port settlements. Like cities, port settlements are worth two victory points (VPs), and the number of VPs required to win depends on the scenario. Third, if a player receives no resources during the production roll (other than on a roll of 7), she receives one gold in compensation. The winner is the first one who reaches 17 VPs.
 
-![Catan image](https://cf.geekdo-images.com/itemrep/img/mSwnoBBEdGDnzC5wlDVU9dhpIyA=/fit-in/246x300/filters:strip_icc()/pic2420310.jpg)
+![Catan image](<https://cf.geekdo-images.com/itemrep/img/mSwnoBBEdGDnzC5wlDVU9dhpIyA=/fit-in/246x300/filters:strip_icc()/pic2420310.jpg>)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|   2 - 4 |      12+ |  90-120m |
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 4 |      12+ | 90-120m |
 
 ### [The Mind](https://www.boardgamegeek.com/boardgame/244992/mind)
 
 > The Mind is more than just a game. It's an experiment, a journey, a team experience in which you can't exchange information, yet will become one to defeat all the levels of the game. In more detail, the deck contains cards numbered 1-100, and during the game you try to complete 12, 10, or 8 levels of play with 2, 3, or 4 players. In a level, each player receives a hand of cards equal to the number of the level: one card in level 1, two cards in level 2, etc. Collectively you must play these cards into the center of the table on a single discard pile in ascending order but you cannot communicate with one another in any way as to which cards you hold. You simply stare into one another's eyes, and when you feel the time is right, you play your lowest card. If no one holds a card lower than what you played, great, the game continues! If someone did, all players discard face up all cards lower than what you played, and you lose one life.
 
-![The Mind image](https://cf.geekdo-images.com/itemrep/img/w6x_ahGLQVe2u6trDx0kO91OprM=/fit-in/246x300/filters:strip_icc()/pic3979766.png)
+![The Mind image](<https://cf.geekdo-images.com/itemrep/img/w6x_ahGLQVe2u6trDx0kO91OprM=/fit-in/246x300/filters:strip_icc()/pic3979766.png>)
 
-| Players | Min. Age | Time     |
-| ------: | -------: | --------:|
-|   2 - 4 |      8+  |      15m |
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       8+ |  15m |
 
 ## Contribute
 

@@ -5,13 +5,14 @@
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
 
 From Wikipedia—
+
 > A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) is a digital asset designed to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency.
 
 Many algorithms are used in different crypto–currencies. This document references which algorithms are used in crypto-currencies, and provide a nice list of helpful services and utilities for managing coins.
 
 ## So, Before We Begin…
 
-This "coin" stuff may be confusing if you are not familiar with algorithms and data structures. Let me explain what I know so far — 
+This "coin" stuff may be confusing if you are not familiar with algorithms and data structures. Let me explain what I know so far —
 
 There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
 
@@ -34,13 +35,13 @@ Hope that helps clear things up.
 ## ☤ Coin Market Tools & Utilities
 
 - **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, predictions, &c.)
-    * [List of All Known Coins](http://coinbin.org/coins) `/coins`
-    * [BTC Current Value](http://coinbin.org/btc) `/btc`
-    * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`
-    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/btc/to/eth`
-    * [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
-    * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
-    * Supports all crypto–currencies.
+  - [List of All Known Coins](http://coinbin.org/coins) `/coins`
+  - [BTC Current Value](http://coinbin.org/btc) `/btc`
+  - [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`
+  - [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/btc/to/eth`
+  - [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
+  - [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
+  - Supports all crypto–currencies.
 - [CoinMarketCap](https://coinmarketcap.com) — Shows all currencies on a real-time dashboard.
 - [CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.
 
@@ -56,16 +57,16 @@ Hope that helps clear things up.
 - [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) — Official subreddit about crypto-currencies and crypto-assets.
 - [Golden Cryptocurrency and Blockchain Cluster](https://golden.com/wiki/Cluster%3A_Blockchain_%26_cryptocurrency) - a cluster of topic pages on cryptocurrency and blockchain.
 - Publications
-    * [Cryptoeconomics](https://medium.com/@cryptoeconomics) / The team at cryptoeconomics.com.au
-    * [Minessence](https://vinnylingham.com/) / Vinny Lingham, Co-founder & CEO of Civic.com
-    * [CryptoOracle](https://medium.com/crypto-oracle) / Lou Kerner
-    * [CryptoCurrencyHub](https://cryptocurrencyhub.io/)
-    * [Build Blockchain](https://www.buildblockchain.tech/newsletter/issues/)
-    * Hackernoon's
-      * [Blockchain](https://hackernoon.com/blockchain/home)
-      * [Bitcoin](https://hackernoon.com/bitcoin/home)
-      * [Coin & Crypto](https://medium.com/@coinandcrypto) 
-      * [Daniel Jeffries](https://hackernoon.com/@dan.jeffries)
+  - [Cryptoeconomics](https://medium.com/@cryptoeconomics) / The team at cryptoeconomics.com.au
+  - [Minessence](https://vinnylingham.com/) / Vinny Lingham, Co-founder & CEO of Civic.com
+  - [CryptoOracle](https://medium.com/crypto-oracle) / Lou Kerner
+  - [CryptoCurrencyHub](https://cryptocurrencyhub.io/)
+  - [Build Blockchain](https://www.buildblockchain.tech/newsletter/issues/)
+  - Hackernoon's
+    - [Blockchain](https://hackernoon.com/blockchain/home)
+    - [Bitcoin](https://hackernoon.com/bitcoin/home)
+    - [Coin & Crypto](https://medium.com/@coinandcrypto)
+    - [Daniel Jeffries](https://hackernoon.com/@dan.jeffries)
 
 ## ☤ Coin Mining Pools
 
@@ -119,14 +120,13 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Coin Exchanges
 
-- [Binance](https://www.binance.com) — Exchange the world. 
+- [Binance](https://www.binance.com) — Exchange the world.
 - [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) — Wallets for all currencies, trading to/from all currencies.
 - [Shapeshift](https://shapeshift.io/#/coins) — The fastest exchange on Earth.
 - [Bittrex](https://bittrex.com) — Wallets for all currencies, trading to/from all currencies.
 - [Qvolta](https://qvolta.com) — Sell and buy crypto assets around the world for local payment methods.
 - [InstaEx](https://instaex.io) - Instant Cryptocurrency Exchange.
 - [ExchangeRates.Pro](https://exchangerates.pro) — Price comparison of exchanges worldwide, including the P2P market.
-
 
 ## ☤ Universal GUI Apps
 
@@ -139,6 +139,7 @@ Actual Hosted Coin Wallets:
 - [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — Resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (adjustable).
 
 [![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
+
 - [MinerGate](https://minergate.com) - Mine the most profitable cryptocurrency.
 
 ## ☤ MacOS GUI Apps
@@ -161,7 +162,7 @@ Actual Hosted Coin Wallets:
 
 - [Bit](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
   to be made in only 3 lines of code.
-- [bcoin](http://bcoin.io) — Bitcoin fullnode implementation written entirely in Node.js that you can even run in a browser, includes wallet, mempool, chain, and mining. 
+- [bcoin](http://bcoin.io) — Bitcoin fullnode implementation written entirely in Node.js that you can even run in a browser, includes wallet, mempool, chain, and mining.
 - [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
 - [Tezos](https://www.tezos.com) — Self-healing blockchain.
 - [Tendermint](https://tendermint.com) — Byzantine fault-tolerant replicated state machines in any programming language.
@@ -399,8 +400,7 @@ As of 2017-08-23:
 [tcc](https://coinbin.org/tcc)
 [cat](https://coinbin.org/cat)
 
-----------------------------------
-
+---
 
 ## Find this useful?
 

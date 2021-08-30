@@ -1,5 +1,5 @@
-'use strict';
+"use strict";
 
-const awesomeLint = require('awesome-lint');
+const awesomeLint = require("awesome-lint");
 
-awesomeLint.report({ filename: 'README.md'});
+awesomeLint.report({ filename: "README.md" });
