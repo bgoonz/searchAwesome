@@ -3,6 +3,7 @@
   "repository": "https://github.com/BubuAnabelas/awesome-markdown/",
   "author": "BubuAnabelas <BubuAnabelas@cryptolab.net>",
   "dependencies": {
+
     "remark-cli": "4.0.0",
     "remark-lint": "6.0.1",
     "remark-lint-alphabetize-lists": "^2.0.0",
