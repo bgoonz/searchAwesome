@@ -221,7 +221,7 @@ autolinker@~0.28.0:
   dependencies:
     gulp-header "^1.7.1"
 
-awesome-lint@^0.13.0:
+awesome-lint@0.13.0:
   version "0.13.0"
   resolved "https://registry.yarnpkg.com/awesome-lint/-/awesome-lint-0.13.0.tgz#ff99b113011680be04ba8023e78b17966587a76f"
   integrity sha512-IBK7q6yrCJoGa835c9PmmbxiqRiI2zb0IvsAbo6Xrc2u0sZdB1e1PDombua+emdfgyp50szgVWtg6VBBp/i2Ag==

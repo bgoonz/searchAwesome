@@ -28,11 +28,11 @@
   },
   "homepage": "https://github.com/git-tips/tips#readme",
   "devDependencies": {
-    "doxie": "^0.2.2",
-    "doxie.append": "^0.1.0",
-    "doxie.inject": "^0.1.1",
-    "doxie.output": "^0.3.0",
-    "doxie.render": "^0.3.0",
-    "husky": "^0.8.1"
+    "doxie": "0.2.4",
+    "doxie.append": "0.1.0",
+    "doxie.inject": "0.1.1",
+    "doxie.output": "0.3.0",
+    "doxie.render": "0.3.2",
+    "husky": "0.8.1"
   }
 }
