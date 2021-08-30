@@ -70,8 +70,8 @@
 .cate-search-result {
   position: absolute;
   opacity: 0.978;
-  top: 50px;
-  padding: 5px;
+  top: 40px;
+  padding: 4px;
   right: 0px;
   width: 184px;
   background-color: white;
@@ -80,7 +80,7 @@
   -moz-border-raius: 3px;
   -webkit-border-radius: 3px;
   -o-border-radius: 3px;
-  margin: 3px;
+  margin: 2px;
   font-size: 12px;
   line-height: normal;
   z-index: 999;
@@ -150,6 +150,7 @@
   bottom: 20px;
   right: 20px;
 }
+
 body,
 html {
   font-family: "Vollkorn", "Helvetica Neue", Helvetica, Arial;
@@ -172,6 +173,7 @@ buttons {
 a {
   cursor: pointer;
 }
+
 /*
  *  Usage:
  *
@@ -214,6 +216,7 @@ a {
     opacity: 0;
   }
 }
+
 /**
  * Layout CSS
  */
@@ -337,11 +340,11 @@ a {
   list-style: none;
 }
 
-#sidedrawer > ul {
+#sidedrawer>ul {
   padding-left: 0px;
 }
 
-#sidedrawer > ul > li:first-child {
+#sidedrawer>ul>li:first-child {
   padding-top: 15px;
 }
 
@@ -355,9 +358,10 @@ a {
   background-color: #e0e0e0;
 }
 
-#sidedrawer strong + ul > li {
+#sidedrawer strong+ul>li {
   padding: 6px 0px;
 }
+
 .content-hidden {
   display: none;
 }
