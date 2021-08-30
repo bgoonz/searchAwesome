@@ -17,7 +17,6 @@
 - [Videos](#videos)
 - [Community](#community)
 
-
 ## Client Drivers (official)
 
 List of officially supported drivers to connect with Grakn Server.
@@ -26,13 +25,11 @@ List of officially supported drivers to connect with Grakn Server.
 - [`client-nodejs`](http://github.com/graknlabs/client-nodejs)
 - [`client-python`](http://github.com/graknlabs/client-python)
 
-
 ## Client Drivers (unofficial)
 
 - [`client-elixir`](https://github.com/taxfix/grakn_elixir)
 - [`Grakn.Net`](https://github.com/WalternativE/Grakn.Net)
 - [`GraknClient.jl`](https://github.com/Humans-of-Julia/GraknClient.jl)
-
 
 ## IDE and editors support
 
@@ -40,7 +37,6 @@ List of officially supported drivers to connect with Grakn Server.
 - [`graql-language-vscode`](https://github.com/idealley/graql-language-vscode) - Graql language for Visual Studio Code.
 - [`JetBrains-Graql-Plugin`](https://github.com/BFergerson/JetBrains-Graql-Plugin) - JetBrains support for the Graql language.
 - [`language-graql`](https://github.com/ShishkinDmitriy/language-graql) - Atom's syntax highlighting for Graql.
-
 
 ## Open source projects using TypeDB
 

@@ -1,5 +1,4 @@
-# Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Build Status](https://api.travis-ci.org/deanhume/typography.svg?branch=master)](https://travis-ci.org/deanhume/typography)
-
+# Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/deanhume/typography.svg?branch=master)](https://travis-ci.org/deanhume/typography)
 
 A curated collection of awesome web typography articles.
 
@@ -36,10 +35,10 @@ A curated collection of awesome web typography articles.
 - [Animated Typographic Cheat Sheet](https://www.supremo.co.uk/typeterms/)
 - [Typography for User Interfaces](https://viljamis.com/2016/typography-for-user-interfaces/)
 - [Loading Web Fonts Asynchronously](https://calendar.perfplanet.com/2016/loading-web-fonts-asynchronously/)
-- [Font-size: An Unexpectedly Complex CSS Property](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
- -[93 most popular premium fonts alternative google fonts](https://designtheway.com/most-used-fonts-alternative-google-fonts/)
+- [Font-size: An Unexpectedly Complex CSS Property](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/) -[93 most popular premium fonts alternative google fonts](https://designtheway.com/most-used-fonts-alternative-google-fonts/)
 
 ## Web Fonts & Web Performance
+
 - [Controlling Font Performance with font-display](https://developers.google.com/web/updates/2016/02/font-display)
 - [Lightning Fast Font Loading Techniques](https://davidwalsh.name/font-loading)
 - [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html)
@@ -53,6 +52,7 @@ A curated collection of awesome web typography articles.
 - [Tips for balancing web fonts & page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 
 ## Tools
+
 - [The State of Web Type - Up-to-date data on support for type and typographic features on the web](http://stateofwebtype.com/)
 - [A simple plugin to keep font-size in proportion with it's containers size](https://github.com/jkroso/flowtype)
 - [Type Rendering Mix](http://typerendering.com/)
@@ -68,6 +68,7 @@ A curated collection of awesome web typography articles.
 - [Using Custom Fonts in Emails](https://github.com/ladjs/custom-fonts-in-emails)
 
 ## Books
+
 - [On Web Typography](https://abookapart.com/products/on-web-typography)
 - [The Elements of Typographic Style](https://www.amazon.co.uk/Elements-Typographic-Style-Robert-Bringhurst/dp/0881792063)
 - [The Elements of Typographic Style - Online Version](http://webtypography.net/)
@@ -76,6 +77,7 @@ A curated collection of awesome web typography articles.
 - [The Typography Handbook](http://typographyhandbook.com/)
 
 ## Font Combinations
+
 - [Mixfont](https://www.mixfont.com/)
 - [Font Combinations](https://www.canva.com/font-combinations/)
 - [Google web fonts in action](http://femmebot.github.io/google-type/)
@@ -88,10 +90,12 @@ A curated collection of awesome web typography articles.
 - [Google Font Pairing Tool](http://www.ourownthing.co.uk/fontpairing/)
 
 ## Talks
+
 - [Web Fonts are Rocket Science](https://www.filamentgroup.com/lab/rocket-science.html)
 - [Video Screencast - Font Loading with Zach Leatherman](https://css-tricks.com/video-screencasts/152-font-loading-zach-leatherman/)
 
 ## Featured
+
 - This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
 
 ![Google I/O Device Wall](https://raw.githubusercontent.com/deanhume/typography/master/images/device-wall-small.jpg)

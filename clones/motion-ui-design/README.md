@@ -45,8 +45,6 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 - [appealing.](http://app-ealing.com/) – A collection of mobile transitions and animations.
 - [UI Movement](https://uimovement.com/) - Animated interfaces and newsletter.
 
-
-
 ### Pinterest boards
 
 - [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov.

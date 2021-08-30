@@ -446,6 +446,7 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
 ## Tutorials
 
 - "**Let's Build Web Components!**" by [Benny Powers](https://github.com/bennypowers)
+
   - [Part 1: The Standards](https://dev.to/bennypowers/lets-build-web-components-part-1-the-standards-3e85)
   - [Part 2: The Polyfills](https://dev.to/bennypowers/lets-build-web-components-part-2-the-polyfills-dkh)
   - [Part 3: Vanilla Components](https://dev.to/bennypowers/lets-build-web-components-part-3-vanilla-components-4on3)
@@ -455,11 +456,13 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
   - [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
 
 - "**Web components: from zero to hero**" by [Pascal Schilp](https://github.com/thepassle)
+
   - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)
   - [Part 2: Supercharging Web Components with lit-html](https://dev.to/thepassle/web-components-from-zero-to-hero-part-two-38p4)
   - [Part 3: Web Components hero with LitElement](https://dev.to/thepassle/web-components-from-zero-to-hero-part-three-3c5h)
 
 - "**The Modern JavaScript Tutorial**" by [Ilya Kantor](https://github.com/iliakan)
+
   - [Part 1: From the orbital height](https://javascript.info/webcomponents-intro)
   - [Part 2: Custom Elements](https://javascript.info/custom-elements)
   - [Part 3: Shadow DOM](https://javascript.info/shadow-dom)
@@ -469,12 +472,14 @@ CSS Shadow Parts allow developers to expose certain elements inside Shadow DOM f
   - [Part 7: Shadow DOM and events](https://javascript.info/shadow-dom-events)
 
 - "**HowTo: Components**" by [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+
   - [Overview](https://developers.google.com/web/fundamentals/web-components/examples)
   - [`<howto-checkbox>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-checkbox)
   - [`<howto-tabs>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tabs)
   - [`<howto-tooltip>`](https://developers.google.com/web/fundamentals/web-components/examples/howto-tooltip)
 
 - **CSS tricks** article series by [Caleb Williams](https://css-tricks.com/author/calebdwilliams/)
+
   - [Part 1: An Introduction to Web Components](https://css-tricks.com/an-introduction-to-web-components/)
   - [Part 2: Crafting Reusable HTML Templates](https://css-tricks.com/crafting-reusable-html-templates/)
   - [Part 3: Creating a Custom Element from Scratch](https://css-tricks.com/creating-a-custom-element-from-scratch)

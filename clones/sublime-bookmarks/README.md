@@ -37,7 +37,7 @@ This list not supposed to include absolutely all Sublime Text plugins, due we al
 ## Screencasts
 
 - [The Complete Visual Guide to Sublime Text 3](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts): Getting Started and Keyboard Shortcuts (free course).
-- [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) by  Jesse Liberty (Pluralsight).
+- [Sublime Text 3 From Scratch](http://www.pluralsight.com/courses/sublime-text-3-from-scratch) by Jesse Liberty (Pluralsight).
 - [Sublime Text 2](https://pragprog.com/screencasts/v-mrst2/sublime-text-2) by Mike Riley (Pragmatic Studio).
 - [Perfect Workflow in Sublime Text 2](http://code.tutsplus.com/courses/perfect-workflow-in-sublime-text-2) — 34 video free lessons at Nettuts+.
 
@@ -168,7 +168,7 @@ Some of the most popular schemes:
 
 - [Base 16](https://github.com/chriskempson/base16) — carefully chosen syntax highlighting and a default set of sixteen colors.
 - [Solarized](http://ethanschoonover.com/solarized) — balanced dark and light themes.
-- [Dracula](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween.  Also available for terminal and [several other applications](https://draculatheme.com/).
+- [Dracula](https://github.com/dracula/sublime) - spooky color scheme, perfect for Halloween. Also available for terminal and [several other applications](https://draculatheme.com/).
 
 ### Alternative Icons
 
