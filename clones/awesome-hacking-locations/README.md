@@ -1,5 +1,4 @@
-Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===============================
+# Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists](https://github.com/sindresorhus/awesome) thing.
 
@@ -134,9 +133,9 @@ A place where you would go and take your friends to go hacking with, power and w
 
 Webpage: PLACE WEBPAGE (IF NOT AVAILABLE, USE FOURSQUARE SHORT URL)
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✘ | ❄️/♨️ | [ADDRESS](GOOGLE MAPS SHORT URL) | OPEN HOURS
+| Wifi | Power | Climatization | Address                          | Open Hours |
+| ---- | ----- | ------------- | -------------------------------- | ---------- |
+| ✔    | ✘     | ❄️/♨️         | [ADDRESS](GOOGLE MAPS SHORT URL) | OPEN HOURS |
 ```
 
 ## Hackerspaces
@@ -149,8 +148,9 @@ Hackerspaces are great places to hack, and in fact they are so great that they h
 
 CoWorking offices are awesome, but typically require a long term commitment, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Austria 🇦🇹
 
@@ -163,12 +163,13 @@ CoWorking offices are awesome, but typically require a long term commitment, if 
 
 Webpage: https://metalab.at
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rathausstraße 6, 1010 Wien](https://metalab.at/) | All time as long as a Key member is present
+| Wifi | Power | Address                                           | Open Hours                                  |
+| ---- | ----- | ------------------------------------------------- | ------------------------------------------- |
+| ✔    | ✔     | [Rathausstraße 6, 1010 Wien](https://metalab.at/) | All time as long as a Key member is present |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Belgium 🇧🇪
 
@@ -180,9 +181,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.facebook.com/WorkshopCafeBelgium/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av Louise, 146 1050 Brussels](https://goo.gl/maps/hsGKR1Ytn6N2) | Mon-Sun 8:00-19:00
+| Wifi | Power | Address                                                          | Open Hours         |
+| ---- | ----- | ---------------------------------------------------------------- | ------------------ |
+| ✔    | ✔     | [Av Louise, 146 1050 Brussels](https://goo.gl/maps/hsGKR1Ytn6N2) | Mon-Sun 8:00-19:00 |
 
 ![](http://www.speedtest.net/result/6022204011.png)
 
@@ -192,12 +193,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://hsbxl.be/
 
-Wifi | Power  | Address | Open Hours
----- | ----- | -------- | ------
-✔ | ✔ | [Rue des Goujons 152, 1070 Brussels](https://goo.gl/maps/7UqJcxPrsar) | Tue 19:00-00:00
+| Wifi | Power | Address                                                               | Open Hours      |
+| ---- | ----- | --------------------------------------------------------------------- | --------------- |
+| ✔    | ✔     | [Rue des Goujons 152, 1070 Brussels](https://goo.gl/maps/7UqJcxPrsar) | Tue 19:00-00:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Brazil 🇧🇷
 
@@ -209,12 +211,13 @@ Wifi | Power  | Address | Open Hours
 
 Webpage: http://grama.cc/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx) | Mon-Fri 11:00-20:00, ask for a different time
+| Wifi | Power | Address                                                                       | Open Hours                                    |
+| ---- | ----- | ----------------------------------------------------------------------------- | --------------------------------------------- |
+| ask  | ✔     | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx) | Mon-Fri 11:00-20:00, ask for a different time |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Bulgaria 🇧🇬
 
@@ -226,10 +229,9 @@ ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa
 
 Webpage: https://foursquare.com/v/фабрика-дъга/541969e5498e5713ab53d2ff
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [10 Veslets str., Sofia, Bulgaria](https://goo.gl/maps/XWFWmDT3nF62) | Mon-Fri 8:00-22:00,Sat 10:00-22:00, Sun 10:00-20:00
-
+| Wifi | Power | Address                                                              | Open Hours                                          |
+| ---- | ----- | -------------------------------------------------------------------- | --------------------------------------------------- |
+| ✔    | ✔     | [10 Veslets str., Sofia, Bulgaria](https://goo.gl/maps/XWFWmDT3nF62) | Mon-Fri 8:00-22:00,Sat 10:00-22:00, Sun 10:00-20:00 |
 
 #### SoHo
 
@@ -237,13 +239,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://soho.bg/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu)  | Mon-Fri 9:00-19:00
+| Wifi | Power | Address                                                          | Open Hours         |
+| ---- | ----- | ---------------------------------------------------------------- | ------------------ |
+| ✔    | ✔     | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu) | Mon-Fri 9:00-19:00 |
 
+---
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
 
 # Cameroon 🇨🇲
 
@@ -253,12 +255,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://activspaces.com
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [ActivSpaces Buea, Fako Ship Plaza](https://activspaces.com/) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
+| Wifi | Power | Address                                                       | Open Hours                             |
+| ---- | ----- | ------------------------------------------------------------- | -------------------------------------- |
+| ✔    | ✔     | [ActivSpaces Buea, Fako Ship Plaza](https://activspaces.com/) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Canada 🇨🇦
 
@@ -270,12 +273,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.mulberrycoffeehouse.com/
 
-Wifi| Power | Address  | Open Hours
---- | --- | ------------------------------ | -------------------------------------------
-✔ | ✔  |  [193 James St N, Hamilton, ON L8R 2L2, Canada](https://goo.gl/maps/zWdNUs9jNMy) | Mon-Tue 7:00-22:00, Wed-Fri 7:00-23:30, Sat 8:00-23:30, Sun 8:00-20:00
+| Wifi | Power | Address                                                                         | Open Hours                                                             |
+| ---- | ----- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| ✔    | ✔     | [193 James St N, Hamilton, ON L8R 2L2, Canada](https://goo.gl/maps/zWdNUs9jNMy) | Mon-Tue 7:00-22:00, Wed-Fri 7:00-23:30, Sat 8:00-23:30, Sun 8:00-20:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 ## Montréal <a id="montreal"></a>
 
@@ -285,9 +289,9 @@ Wifi| Power | Address  | Open Hours
 
 Webpage: http://cafereplika.com
 
-Wifi| Power | Address  | Open Hours
---- | --- | ------------------------------ | -------------------------------------------
-✔ | ✔  |  [252 Rue Rachel E, Montréal, QC H2W 1E5](https://goo.gl/maps/SJfZronENoT2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00
+| Wifi | Power | Address                                                                    | Open Hours                             |
+| ---- | ----- | -------------------------------------------------------------------------- | -------------------------------------- |
+| ✔    | ✔     | [252 Rue Rachel E, Montréal, QC H2W 1E5](https://goo.gl/maps/SJfZronENoT2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00 |
 
 # Denmark 🇩🇰
 
@@ -299,9 +303,9 @@ Wifi| Power | Address  | Open Hours
 
 Webpage: http://www5.kb.dk/en/dia/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔    | ✔     | [Søren Kierkegaards Plads 1, Copenhagen](https://goo.gl/maps/FYgBmyrYyEc7h9zR7) | Mon-Fri 8:00-20:00, Sat 9:00-18:00
+| Wifi | Power | Address                                                                         | Open Hours                         |
+| ---- | ----- | ------------------------------------------------------------------------------- | ---------------------------------- |
+| ✔    | ✔     | [Søren Kierkegaards Plads 1, Copenhagen](https://goo.gl/maps/FYgBmyrYyEc7h9zR7) | Mon-Fri 8:00-20:00, Sat 9:00-18:00 |
 
 #### Copenhagen Coffee Lab
 
@@ -309,9 +313,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://copenhagencoffeelab.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✘ | ✔ | [Boldhusgade 6, 1062 København K](https://goo.gl/maps/nN7zjHsSmcU2) | Mon-Fri 7:30-17:00, Sat 11:00-17.00
+| Wifi | Power | Address                                                             | Open Hours                          |
+| ---- | ----- | ------------------------------------------------------------------- | ----------------------------------- |
+| ✘    | ✔     | [Boldhusgade 6, 1062 København K](https://goo.gl/maps/nN7zjHsSmcU2) | Mon-Fri 7:30-17:00, Sat 11:00-17.00 |
 
 #### The Coffee Collective (Godthåbsvej)
 
@@ -319,25 +323,25 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://coffeecollective.dk/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✘ | ✔ | [Godthåbsvej 34B, 2000 Frederiksberg](https://goo.gl/maps/pTQ1iiZqJuF2) | Mon-Fri 7:30-19:00, Sat 9:00-18:00, Sun 10:00-18:00
+| Wifi | Power | Address                                                                 | Open Hours                                          |
+| ---- | ----- | ----------------------------------------------------------------------- | --------------------------------------------------- |
+| ✘    | ✔     | [Godthåbsvej 34B, 2000 Frederiksberg](https://goo.gl/maps/pTQ1iiZqJuF2) | Mon-Fri 7:30-19:00, Sat 9:00-18:00, Sun 10:00-18:00 |
 
 #### Emmerys (Store Kongensgade)
 
 Webpage: http://www.emmerys.dk/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Store Kongensgade 97, 1264 København K](https://goo.gl/maps/BPXXzi37DfE2) |
+| Wifi | Power | Address                                                                    | Open Hours |
+| ---- | ----- | -------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Store Kongensgade 97, 1264 København K](https://goo.gl/maps/BPXXzi37DfE2) |
 
 #### Emmerys (Store Strandstræde)
 
 Webpage: http://www.emmerys.dk/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Store Strandstræde 21, 1255 København K](https://goo.gl/maps/rsYsgqpWugy) |
+| Wifi | Power | Address                                                                    | Open Hours |
+| ---- | ----- | -------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Store Strandstræde 21, 1255 København K](https://goo.gl/maps/rsYsgqpWugy) |
 
 #### Paludan Bogcafé
 
@@ -345,9 +349,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.paludan-cafe.dk
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Fiolstræde 10, 1171 København](https://goo.gl/maps/BaqeGzohcdC2) | Mon-Fri 9:00-22:00, Sat-Sun 10:00-22:00
+| Wifi | Power | Address                                                           | Open Hours                              |
+| ---- | ----- | ----------------------------------------------------------------- | --------------------------------------- |
+| ✔    | ✔     | [Fiolstræde 10, 1171 København](https://goo.gl/maps/BaqeGzohcdC2) | Mon-Fri 9:00-22:00, Sat-Sun 10:00-22:00 |
 
 #### Riccos Kaffebar (Sluseholmen)
 
@@ -355,9 +359,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.riccos.dk
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | At sofa | [Sluseholmen 28, 2450 København SV](https://goo.gl/maps/3w6ZXGg6EUo) | Mon-Sun 8:00-17:45
+| Wifi | Power   | Address                                                              | Open Hours         |
+| ---- | ------- | -------------------------------------------------------------------- | ------------------ |
+| ✔    | At sofa | [Sluseholmen 28, 2450 København SV](https://goo.gl/maps/3w6ZXGg6EUo) | Mon-Sun 8:00-17:45 |
 
 #### Bevar's
 
@@ -365,12 +369,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.bevars.dk
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Ravnsborggade 10B, 2200 København](https://goo.gl/maps/9x8KcbPzN7B2) | Mon 9:30—23:00, Tue-Wed 9:30—24:00, Thu 9:30—2:00, Fri 9:30—3:00, Sat 10:00—3:00, Sun 10:00—21:30
+| Wifi | Power | Address                                                               | Open Hours                                                                                        |
+| ---- | ----- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| ✔    | ✔     | [Ravnsborggade 10B, 2200 København](https://goo.gl/maps/9x8KcbPzN7B2) | Mon 9:30—23:00, Tue-Wed 9:30—24:00, Thu 9:30—2:00, Fri 9:30—3:00, Sat 10:00—3:00, Sun 10:00—21:30 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Estonia 🇪🇪
 
@@ -384,15 +389,15 @@ Wifi | Power | Address | Open Hours
 - Bees, honey
 - Quiet office, if you don't have time for fun
 
-Net | Power | Coffee | Food | Shower | Address | Open Hours
---- | --- | --- | --- | --- | --- | ---
-10G+10G | 25kW + UPS | ✔ | ✔ | ✔ | [Akadeemia tee 21/1](https://what3words.com/firm.promises.dolphins) | 24/7
+| Net     | Power      | Coffee | Food | Shower | Address                                                             | Open Hours |
+| ------- | ---------- | ------ | ---- | ------ | ------------------------------------------------------------------- | ---------- |
+| 10G+10G | 25kW + UPS | ✔      | ✔    | ✔      | [Akadeemia tee 21/1](https://what3words.com/firm.promises.dolphins) | 24/7       |
 
 Food: Vending Machine + Cafés and Diners + Convenience stores
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
 
+---
 
 # France 🇫🇷
 
@@ -404,17 +409,17 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 Webpage: https://www.facebook.com/CafeShopSouthPigalle
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✘ | [53 Avenue Trudaine, 75009 Paris](https://goo.gl/maps/RRm5Qdx2k3u) | Mon-Fri 7:30-18:30, Sat-Sun: 9:00-18:30
+| Wifi | Power | Address                                                            | Open Hours                              |
+| ---- | ----- | ------------------------------------------------------------------ | --------------------------------------- |
+| ✔    | ✘     | [53 Avenue Trudaine, 75009 Paris](https://goo.gl/maps/RRm5Qdx2k3u) | Mon-Fri 7:30-18:30, Sat-Sun: 9:00-18:30 |
 
 #### Le Progrès
 
 Webpage: http://www.tripadvisor.com/Restaurant_Review-g187147-d1171207-Reviews-Le_Progres-Paris_Ile_de_France.html
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✘ | [7 Rue des Trois Frères, 75018 Paris](https://goo.gl/maps/EPuXWaLcKa22) |
+| Wifi | Power | Address                                                                 | Open Hours |
+| ---- | ----- | ----------------------------------------------------------------------- | ---------- |
+| ✔    | ✘     | [7 Rue des Trois Frères, 75018 Paris](https://goo.gl/maps/EPuXWaLcKa22) |
 
 #### Loustic
 
@@ -422,9 +427,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.cafeloustic.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [40 Rue Chapon, 75003 Paris](https://goo.gl/maps/UaCpEQj8YAS2) | Mon-Fri 8:00-18:00, Sat 9:00-18:00, Sun 10:00-18:00
+| Wifi | Power | Address                                                        | Open Hours                                          |
+| ---- | ----- | -------------------------------------------------------------- | --------------------------------------------------- |
+| ✔    | ✔     | [40 Rue Chapon, 75003 Paris](https://goo.gl/maps/UaCpEQj8YAS2) | Mon-Fri 8:00-18:00, Sat 9:00-18:00, Sun 10:00-18:00 |
 
 ![](http://www.speedtest.net/result/4990205803.png)
 
@@ -434,9 +439,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.anticafe.eu/louvre
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [10 Rue Richelieu, 75001 Paris](https://goo.gl/maps/RAFpjLLeSPJ2) | Mon-Fri 9:00-22:30, Sat-Sun 10:00-21.30
+| Wifi | Power | Address                                                           | Open Hours                              |
+| ---- | ----- | ----------------------------------------------------------------- | --------------------------------------- |
+| ✔    | ✔     | [10 Rue Richelieu, 75001 Paris](https://goo.gl/maps/RAFpjLLeSPJ2) | Mon-Fri 9:00-22:30, Sat-Sun 10:00-21.30 |
 
 ![](http://www.speedtest.net/result/4986816433.png)
 
@@ -446,9 +451,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.anticafe.eu/beaubourg
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [79 Rue Quincampoix 75003 Paris](https://goo.gl/maps/S9GT8mH6oYT2) | Mon-Fri 9:00-22:30, Sat-Sun 10:00-9:30
+| Wifi | Power | Address                                                            | Open Hours                             |
+| ---- | ----- | ------------------------------------------------------------------ | -------------------------------------- |
+| ✔    | ✔     | [79 Rue Quincampoix 75003 Paris](https://goo.gl/maps/S9GT8mH6oYT2) | Mon-Fri 9:00-22:30, Sat-Sun 10:00-9:30 |
 
 ![](http://www.speedtest.net/result/4987963541.png)
 
@@ -458,12 +463,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www-bsg.univ-paris1.fr
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [10 place du Panthéon (Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM
+| Wifi | Power | Address                                                                            | Open Hours                |
+| ---- | ----- | ---------------------------------------------------------------------------------- | ------------------------- |
+| ✔    | ✔     | [10 place du Panthéon (Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2) | Mon–Sat 10:00 AM–10:00 PM |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Germany 🇩🇪
 
@@ -476,9 +482,9 @@ Wifi | Power | Address | Open Hours
 Webpage: https://www.c-base.org/
 Wikipedia: https://en.wikipedia.org/wiki/C-base
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
+| Wifi | Power | Address                                                                  | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------ | ---------- |
+| ✔    | ✔     | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable   |
 
 #### Schiller Bar
 
@@ -486,9 +492,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.schillerbar.com
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
+| Wifi | Power | Address                                                            | Open Hours          |
+| ---- | ----- | ------------------------------------------------------------------ | ------------------- |
+| ✔    | ✔     | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00 |
 
 #### St. Oberholz
 
@@ -496,9 +502,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://sanktoberholz.de/en/coffee/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rosenthaler Str. 72A, 10437 Berlin](https://goo.gl/vWXWvD) | Mon-Thu 08:00-00:00, Fri 08:03:00, Sat 09:00-03:00, Sun 09:00-00:00
+| Wifi | Power | Address                                                     | Open Hours                                                          |
+| ---- | ----- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| ✔    | ✔     | [Rosenthaler Str. 72A, 10437 Berlin](https://goo.gl/vWXWvD) | Mon-Thu 08:00-00:00, Fri 08:03:00, Sat 09:00-03:00, Sun 09:00-00:00 |
 
 ## Dresden
 
@@ -509,9 +515,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-(eduroam only) | ✔ | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00
+| Wifi           | Power | Address                                                              | Open Hours                         |
+| -------------- | ----- | -------------------------------------------------------------------- | ---------------------------------- |
+| (eduroam only) | ✔     | [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2) | Mon-Thu 9:00-17:00; Fri 9:00-15:00 |
 
 ## Hamburg
 
@@ -521,9 +527,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [blog.attraktor.org](https://blog.attraktor.org/)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Eschelsweg 4, 22767 Hamburg](https://goo.gl/maps/hYt8h5hKfgF2) | [Variable](https://blog.attraktor.org/tuerstatus-faq/)
+| Wifi | Power | Address                                                         | Open Hours                                             |
+| ---- | ----- | --------------------------------------------------------------- | ------------------------------------------------------ |
+| ✔    | ✔     | [Eschelsweg 4, 22767 Hamburg](https://goo.gl/maps/hYt8h5hKfgF2) | [Variable](https://blog.attraktor.org/tuerstatus-faq/) |
 
 #### CCC Hamburg
 
@@ -531,9 +537,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Zeiseweg 9, 22765 Hamburg](https://goo.gl/maps/kBtfZNjEfjv) | [Variable](https://wiki.hamburg.ccc.de/Calendar)
+| Wifi | Power | Address                                                      | Open Hours                                       |
+| ---- | ----- | ------------------------------------------------------------ | ------------------------------------------------ |
+| ✔    | ✔     | [Zeiseweg 9, 22765 Hamburg](https://goo.gl/maps/kBtfZNjEfjv) | [Variable](https://wiki.hamburg.ccc.de/Calendar) |
 
 ## Jena
 
@@ -542,9 +548,9 @@ Wifi | Power | Address | Open Hours
 > Next to the university; below the local hackspace
 > home-baked cake and pastries;
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Krautgasse 26, 07743 Jena](https://goo.gl/maps/kGtrdrehFHy) | Mon-Fri 07:30–19:00; Sat 10:00–17:00
+| Wifi | Power | Address                                                      | Open Hours                           |
+| ---- | ----- | ------------------------------------------------------------ | ------------------------------------ |
+| ✔    | ✔     | [Krautgasse 26, 07743 Jena](https://goo.gl/maps/kGtrdrehFHy) | Mon-Fri 07:30–19:00; Sat 10:00–17:00 |
 
 ## Munich
 
@@ -554,12 +560,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [lostweekend.de](http://lostweekend.de)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Schellingstr. 3, 80799 Munich](https://goo.gl/maps/XjseoLrhLS92) | Mon-Fri 8:00-20:00; Sat 10:00-20:00; Sun 12:00-18:00
+| Wifi | Power | Address                                                           | Open Hours                                           |
+| ---- | ----- | ----------------------------------------------------------------- | ---------------------------------------------------- |
+| ✔    | ✔     | [Schellingstr. 3, 80799 Munich](https://goo.gl/maps/XjseoLrhLS92) | Mon-Fri 8:00-20:00; Sat 10:00-20:00; Sun 12:00-18:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Hong Kong 🇭🇰
 
@@ -569,12 +576,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.facebook.com/PinkCoffeeHK
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Shop 305, D2 Place, Lai Chi Kok](https://goo.gl/maps/SuyKBeM86752) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
+| Wifi | Power | Address                                                             | Open Hours                             |
+| ---- | ----- | ------------------------------------------------------------------- | -------------------------------------- |
+| ✔    | ✔     | [Shop 305, D2 Place, Lai Chi Kok](https://goo.gl/maps/SuyKBeM86752) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # India 🇮🇳
 
@@ -586,12 +594,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.whiteboard.cafe, [Zomato](https://www.zomato.com/whiteboardcafe)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Plot 15/1, 1st Floor, Sector 2, Opposite Cyber Gateway, Hitech City, Hyderabad](https://goo.gl/maps/XkwPfawQWrp) | Mon-Sun 8:00-22:00
+| Wifi | Power | Address                                                                                                           | Open Hours         |
+| ---- | ----- | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
+| ✔    | ✔     | [Plot 15/1, 1st Floor, Sector 2, Opposite Cyber Gateway, Hitech City, Hyderabad](https://goo.gl/maps/XkwPfawQWrp) | Mon-Sun 8:00-22:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Italy 🇮🇹
 
@@ -603,12 +612,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.caffeperu.it/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Via di Monserrato, 46, 00186 Roma](https://goo.gl/maps/HXioZUdXoPS2) | Mon-Thu 6:00-14:00, Fri-Sat 6:00-14:30, Sun 9:00-21:00
+| Wifi | Power | Address                                                               | Open Hours                                             |
+| ---- | ----- | --------------------------------------------------------------------- | ------------------------------------------------------ |
+| ✔    | ✔     | [Via di Monserrato, 46, 00186 Roma](https://goo.gl/maps/HXioZUdXoPS2) | Mon-Thu 6:00-14:00, Fri-Sat 6:00-14:30, Sun 9:00-21:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Japan 🇯🇵
 
@@ -620,10 +630,11 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.trunkcoffee.com
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | 月～木／9:30-21:00　金／9:30-22:00
-　土／9:00-22:00　日・祝／9:00-19:00
+| Wifi | Power | Address                                                                                      | Open Hours                          |
+| ---- | ----- | -------------------------------------------------------------------------------------------- | ----------------------------------- |
+| ✔    | ✔     | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | 月～木／9:30-21:00 　金／9:30-22:00 |
+
+土／9:00-22:00 　日・祝／9:00-19:00
 
 ![](http://www.speedtest.net/result/5777729518.png)
 
@@ -635,9 +646,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.fuglen.com/japanese/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [1 Chome-16-11 Tomigaya, 渋谷区 Tokyo 151-0063, Japan](https://goo.gl/maps/QyW3BodxKiK2) | Mon-Tue: 8am-10pm, Wed-Thu: 8am-1am, Fri: 8am-2am, Sat: 9am-2am, Sun: 9am-12am
+| Wifi | Power | Address                                                                                  | Open Hours                                                                     |
+| ---- | ----- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| ✔    | ✔     | [1 Chome-16-11 Tomigaya, 渋谷区 Tokyo 151-0063, Japan](https://goo.gl/maps/QyW3BodxKiK2) | Mon-Tue: 8am-10pm, Wed-Thu: 8am-1am, Fri: 8am-2am, Sat: 9am-2am, Sun: 9am-12am |
 
 #### Open Source Cafe
 
@@ -645,10 +656,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.osscafe.net/ja/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [〒155-0033 Tokyo, Setagaya, Daita, 6 Chome−11−14, G1](https://goo.gl/maps/ek2VPvXcVjA2) | Daily: 10:00-20:00. Closed Fridays.
-
+| Wifi | Power | Address                                                                                   | Open Hours                          |
+| ---- | ----- | ----------------------------------------------------------------------------------------- | ----------------------------------- |
+| ✔    | ✔     | [〒 155-0033 Tokyo, Setagaya, Daita, 6 Chome−11−14, G1](https://goo.gl/maps/ek2VPvXcVjA2) | Daily: 10:00-20:00. Closed Fridays. |
 
 #### Unir Coffee
 
@@ -656,9 +666,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://unir-coffee-akasaka.com
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky) | Daily: 00:00-23:59
+| Wifi | Power | Address                                                                              | Open Hours         |
+| ---- | ----- | ------------------------------------------------------------------------------------ | ------------------ |
+| ✔    | ✔     | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky) | Daily: 00:00-23:59 |
 
 ![](http://www.speedtest.net/result/5787230824.png)
 
@@ -670,12 +680,13 @@ Wifi | Power | Address | Open Hours
 
 Webapage: https://www.mos.jp/shop/detail/02388/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [〒604-8162 Kyoto, Nakagyō-ku, Shichikannoncho, 烏丸通六角下る253-1 読売京都ビル](https://goo.gl/maps/7fMyyAVBkmWomHM17) | Daily: 10:00-21:00
+| Wifi | Power | Address                                                                                                                    | Open Hours         |
+| ---- | ----- | -------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| ✔    | ✔     | [〒 604-8162 Kyoto, Nakagyō-ku, Shichikannoncho, 烏丸通六角下る 253-1 読売京都ビル](https://goo.gl/maps/7fMyyAVBkmWomHM17) | Daily: 10:00-21:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Lithuania 🇱🇹
 
@@ -689,12 +700,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://vaga.lt/knygynas/draugyste-knygynas-gedimino-pr-2-vilnius
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Gedimino pr. 2-4, Vilnius 01103, Lithuania](https://goo.gl/maps/cyxVp2RshEy) | 9–21
+| Wifi | Power | Address                                                                       | Open Hours |
+| ---- | ----- | ----------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Gedimino pr. 2-4, Vilnius 01103, Lithuania](https://goo.gl/maps/cyxVp2RshEy) | 9–21       |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Netherlands 🇳🇱
 
@@ -706,9 +718,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [dwazezaken.nl](http://www.dwazezaken.nl/)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Prins Hendrikkade 50, 1012 AC Amsterdam, Netherlands](https://goo.gl/maps/fZ1feyFpyMn) | Mon-Sat 9:00-00:00, Sun 9:00-17:30
+| Wifi | Power | Address                                                                                 | Open Hours                         |
+| ---- | ----- | --------------------------------------------------------------------------------------- | ---------------------------------- |
+| ✔    | ✔     | [Prins Hendrikkade 50, 1012 AC Amsterdam, Netherlands](https://goo.gl/maps/fZ1feyFpyMn) | Mon-Sat 9:00-00:00, Sun 9:00-17:30 |
 
 #### YsBreeker
 
@@ -716,9 +728,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.deysbreeker.nl/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM
+| Wifi | Power | Address                                                                 | Open Hours                       |
+| ---- | ----- | ----------------------------------------------------------------------- | -------------------------------- |
+| ✔    | ✔     | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM |
 
 #### Public Space
 
@@ -726,9 +738,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Bercylaan 301, 1031 KP Amsterdam, Netherlands](https://g.page/public-space-amsterdam) | Mon-Fri 9:00-17:00, Sun 10:00-17:00
+| Wifi | Power | Address                                                                                | Open Hours                          |
+| ---- | ----- | -------------------------------------------------------------------------------------- | ----------------------------------- |
+| ✔    | ✔     | [Bercylaan 301, 1031 KP Amsterdam, Netherlands](https://g.page/public-space-amsterdam) | Mon-Fri 9:00-17:00, Sun 10:00-17:00 |
 
 ## Delft
 
@@ -738,12 +750,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Voldersgracht 27, Delft, Netherlands](https://goo.gl/maps/PUKMd1YMKPD2) | Mon-Fri 8:30-18:00, Sat-Sun 9:00-18:00
+| Wifi | Power | Address                                                                  | Open Hours                             |
+| ---- | ----- | ------------------------------------------------------------------------ | -------------------------------------- |
+| ✔    | ✔     | [Voldersgracht 27, Delft, Netherlands](https://goo.gl/maps/PUKMd1YMKPD2) | Mon-Fri 8:30-18:00, Sat-Sun 9:00-18:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Norway 🇳🇴
 
@@ -755,10 +768,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.coffeeberry.com/
 
-Wifi| Power | Address  | Open Hours
---- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Klubbgata 3](https://goo.gl/maps/67j81KFYqSt) | Mon-Fri 7:00-19:00, Sat 9:00-18:00, Sun 11:00-18:00
-
+| Wifi | Power | Address                                        | Open Hours                                          |
+| ---- | ----- | ---------------------------------------------- | --------------------------------------------------- |
+| ✔    | ✔     | [Klubbgata 3](https://goo.gl/maps/67j81KFYqSt) | Mon-Fri 7:00-19:00, Sat 9:00-18:00, Sun 11:00-18:00 |
 
 #### Kokko
 
@@ -766,10 +778,9 @@ Wifi| Power | Address  | Open Hours
 
 Webpage: http://www.kokkokokko.no/
 
-Wifi| Power | Address  | Open Hours
---- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Østervåg 43](https://goo.gl/maps/EUugf632tpy) | Mon-Thu 10:00-19:00, Fri-Sat 10:00-01:00, Sun 11:00-18:00
-
+| Wifi | Power | Address                                        | Open Hours                                                |
+| ---- | ----- | ---------------------------------------------- | --------------------------------------------------------- |
+| ✔    | ✔     | [Østervåg 43](https://goo.gl/maps/EUugf632tpy) | Mon-Thu 10:00-19:00, Fri-Sat 10:00-01:00, Sun 11:00-18:00 |
 
 #### Bluebird
 
@@ -777,9 +788,9 @@ Wifi| Power | Address  | Open Hours
 
 Webpage: https://www.facebook.com/Bluebirdkaffebar/
 
-Wifi| Power | Address  | Open Hours
---- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Kongsgata 48](https://goo.gl/maps/PJDE5hSi3BJ2) | Mon-Fri 8:00-18:00, Sat 10:00-17:00, Sun Closed.
+| Wifi | Power | Address                                          | Open Hours                                       |
+| ---- | ----- | ------------------------------------------------ | ------------------------------------------------ |
+| ✔    | ✔     | [Kongsgata 48](https://goo.gl/maps/PJDE5hSi3BJ2) | Mon-Fri 8:00-18:00, Sat 10:00-17:00, Sun Closed. |
 
 ## Tromsø
 
@@ -789,9 +800,9 @@ Wifi| Power | Address  | Open Hours
 
 Webpage: https://facebook.com/lugar34
 
-Wifi| Power | Address  | Open Hours
---- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Storgata 34](https://goo.gl/maps/x2h8ApkDiSw) | 09–01
+| Wifi | Power | Address                                        | Open Hours |
+| ---- | ----- | ---------------------------------------------- | ---------- |
+| ✔    | ✔     | [Storgata 34](https://goo.gl/maps/x2h8ApkDiSw) | 09–01      |
 
 ## Ålesund
 
@@ -799,13 +810,13 @@ Wifi| Power | Address  | Open Hours
 
 Webpage: https://www.facebook.com/Racoon-Coffee-More-as-303455009847582/
 
-Wifi| Power | Address  | Open Hours
---- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Kongens gate 6](https://her.is/2qR96l4) | Mon-Thu 7:30-17:00, Fri 7:30-23:00, Sat 10:00-17:00, Sun 12:00-17:00
+| Wifi | Power | Address                                  | Open Hours                                                           |
+| ---- | ----- | ---------------------------------------- | -------------------------------------------------------------------- |
+| ✔    | ✔     | [Kongens gate 6](https://her.is/2qR96l4) | Mon-Thu 7:30-17:00, Fri 7:30-23:00, Sat 10:00-17:00, Sun 12:00-17:00 |
 
+---
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
 
 # Poland 🇵🇱
 
@@ -817,9 +828,9 @@ Wifi| Power | Address  | Open Hours
 
 Webpage: http://www.karmaroasters.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu) | Mon-Fri 8:00-20:00, Sat-Sun 10:00-19:00
+| Wifi | Power | Address                                                        | Open Hours                              |
+| ---- | ----- | -------------------------------------------------------------- | --------------------------------------- |
+| ✔    | ✔     | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu) | Mon-Fri 8:00-20:00, Sat-Sun 10:00-19:00 |
 
 #### COFFEE Street
 
@@ -827,9 +838,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Dolnych Młynów 3. 31-000 Kraków](https://goo.gl/maps/WY8CapFQ2N72) | Mon-Fri 6:30-21:00, Sat-Sun 7:30-20:00
+| Wifi | Power | Address                                                             | Open Hours                             |
+| ---- | ----- | ------------------------------------------------------------------- | -------------------------------------- |
+| ✔    | ✔     | [Dolnych Młynów 3. 31-000 Kraków](https://goo.gl/maps/WY8CapFQ2N72) | Mon-Fri 6:30-21:00, Sat-Sun 7:30-20:00 |
 
 #### Blossom
 
@@ -837,9 +848,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.facebook.com/BlossomCoffeeAndFood/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv) | Mon-Sat 8:00-20:00, Sun 8:00-19:00
+| Wifi | Power | Address                                                         | Open Hours                         |
+| ---- | ----- | --------------------------------------------------------------- | ---------------------------------- |
+| ✔    | ✔     | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv) | Mon-Sat 8:00-20:00, Sun 8:00-19:00 |
 
 #### Café Lisboa
 
@@ -847,9 +858,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.facebook.com/cafelisboa.krakow/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | x | [33-332, Dolnych Młynów 3, 33-332 Kraków](https://goo.gl/maps/qJ1DVt4jAU92) | Mon-Wed 08:00-20:00, Thu-Fri 08:00-21:00, Sat-Sun 10:00-20:00
+| Wifi | Power | Address                                                                     | Open Hours                                                    |
+| ---- | ----- | --------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| ✔    | x     | [33-332, Dolnych Młynów 3, 33-332 Kraków](https://goo.gl/maps/qJ1DVt4jAU92) | Mon-Wed 08:00-20:00, Thu-Fri 08:00-21:00, Sat-Sun 10:00-20:00 |
 
 #### Café Tektura
 
@@ -857,9 +868,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.facebook.com/TEKTURAcafe/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2) | Mon-Sun 08:00-21:00
+| Wifi | Power | Address                                                        | Open Hours          |
+| ---- | ----- | -------------------------------------------------------------- | ------------------- |
+| ✔    | ✔     | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2) | Mon-Sun 08:00-21:00 |
 
 #### Coffee Corner
 
@@ -867,9 +878,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.coffeecorner.pl/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252) | Mon-Sun 05:00-22:00
+| Wifi | Power | Address                                                     | Open Hours          |
+| ---- | ----- | ----------------------------------------------------------- | ------------------- |
+| ✔    | ✔     | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252) | Mon-Sun 05:00-22:00 |
 
 #### Spółdzielnia Ogniwo
 
@@ -877,9 +888,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://ogniwo.org/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Paulińska 28, first floor, 31-065 Kraków](https://goo.gl/maps/Xhwzcabr9Wp) | Mon-Sun 16:00-22:00
+| Wifi | Power | Address                                                                     | Open Hours          |
+| ---- | ----- | --------------------------------------------------------------------------- | ------------------- |
+| ✔    | ✔     | [Paulińska 28, first floor, 31-065 Kraków](https://goo.gl/maps/Xhwzcabr9Wp) | Mon-Sun 16:00-22:00 |
 
 ## Gliwice
 
@@ -889,12 +900,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://kafo.info/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Józefa Wieczorka 14, 44-100 Gliwice](https://goo.gl/maps/3KBX4BrxovL2) | Mon-Fri 7:00-20:00, Sat 9:00-20:00, Sun 10:00-20:00
+| Wifi | Power | Address                                                                 | Open Hours                                          |
+| ---- | ----- | ----------------------------------------------------------------------- | --------------------------------------------------- |
+| ✔    | ✔     | [Józefa Wieczorka 14, 44-100 Gliwice](https://goo.gl/maps/3KBX4BrxovL2) | Mon-Fri 7:00-20:00, Sat 9:00-20:00, Sun 10:00-20:00 |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Portugal 🇵🇹
 
@@ -906,22 +918,21 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [mercadonegro-aveiro.blogspot.pt](https://mercadonegro-aveiro.blogspot.pt)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Mon 21:00-02:00, Tue-Fri 17:00-02:00, Sat-Sun 14:00-02:00
+| Wifi | Power | Address                                                                  | Open Hours                                                |
+| ---- | ----- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
+| ✔    | ✔     | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Mon 21:00-02:00, Tue-Fri 17:00-02:00, Sat-Sun 14:00-02:00 |
 
 ![](https://www.speedtest.net/result/9023464358.png)
 
 #### NATA Lisboa
 
-> Small modern place in the  city "centre". Calm, clean, a good variety of tapas to eat. Speciality natas.
+> Small modern place in the city "centre". Calm, clean, a good variety of tapas to eat. Speciality natas.
 
 Webpage: [natalisboa.com](https://natalisboa.com)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Praça Marquês de Pombal 3, 3810-076 Aveiro](https://g.page/nata-lisboa-aveiro) | Tue-Sun 09:00-19:00
-
+| Wifi | Power | Address                                                                         | Open Hours          |
+| ---- | ----- | ------------------------------------------------------------------------------- | ------------------- |
+| ✔    | ✔     | [Praça Marquês de Pombal 3, 3810-076 Aveiro](https://g.page/nata-lisboa-aveiro) | Tue-Sun 09:00-19:00 |
 
 ## Braga
 
@@ -932,9 +943,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.facebook.com/Nordicocoffeeshop/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [R. do Anjo 90A, 4700-305 Braga](https://goo.gl/maps/L2yeswCyJoG2) | Mon: 12-19h, Wed-Sat: 10h30-19h, Sun: 11-17h
+| Wifi | Power | Address                                                            | Open Hours                                   |
+| ---- | ----- | ------------------------------------------------------------------ | -------------------------------------------- |
+| ✔    | ✔     | [R. do Anjo 90A, 4700-305 Braga](https://goo.gl/maps/L2yeswCyJoG2) | Mon: 12-19h, Wed-Sat: 10h30-19h, Sun: 11-17h |
 
 ![](http://www.speedtest.net/result/7911413495.png)
 
@@ -944,10 +955,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.starbucks.pt/store-locator/search/location/Braga%2C%20Portugal/detail/1021430
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00
-
+| Wifi | Power | Address                                                                                                      | Open Hours                                  |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
+| ✔    | ✔     | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42) | Sun-Thu 8:00 - 23:00, Fri-Sat 08:00 - 01:00 |
 
 #### Café São Martinho
 
@@ -955,9 +965,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: N/A
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua de São Rosendo - nr 17, 4700-099 Braga](https://goo.gl/maps/F76rgZNjvF92) | Mon-Thu 7:30 - 21:00, Fri-Sat 7:30 - 22:00, Sun 7:30-14:00
+| Wifi | Power | Address                                                                        | Open Hours                                                 |
+| ---- | ----- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| ✔    | ✔     | [Rua de São Rosendo - nr 17, 4700-099 Braga](https://goo.gl/maps/F76rgZNjvF92) | Mon-Thu 7:30 - 21:00, Fri-Sat 7:30 - 22:00, Sun 7:30-14:00 |
 
 ![](http://www.speedtest.net/result/5678886940.png)
 
@@ -967,9 +977,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.novaarcada.pt/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Avenida de Lamas, nº 100 União de Freguesias Real, Dume e Semelhe 4700 Braga](https://goo.gl/maps/gGLiRqiWK9k) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00
+| Wifi | Power | Address                                                                                                         | Open Hours                                        |
+| ---- | ----- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| ✔    | ✔     | [Avenida de Lamas, nº 100 União de Freguesias Real, Dume e Semelhe 4700 Braga](https://goo.gl/maps/gGLiRqiWK9k) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00 |
 
 ## Guimarães
 
@@ -979,9 +989,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://espaco-guimaraes.klepierre.pt
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [R. 25 de Abril 210, 4835-400 Silvares](https://goo.gl/maps/nQwiW3qHkvUkJz46A) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00
+| Wifi | Power | Address                                                                        | Open Hours                                        |
+| ---- | ----- | ------------------------------------------------------------------------------ | ------------------------------------------------- |
+| ✔    | ✔     | [R. 25 de Abril 210, 4835-400 Silvares](https://goo.gl/maps/nQwiW3qHkvUkJz46A) | Mon-Thu, Sun 10:00 - 23:00; Fri-Sat 10:00 - 24:00 |
 
 ## Lisbon
 
@@ -991,9 +1001,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://ilovenicolau.com
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️ | [R. Ferreira Borges 101, 1350-128 Lisboa](https://goo.gl/maps/Bi2T5KDHpa82) | 9am - 9pm
+| Wifi | Power | Climatization | Address                                                                     | Open Hours |
+| ---- | ----- | ------------- | --------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | ❄️            | [R. Ferreira Borges 101, 1350-128 Lisboa](https://goo.gl/maps/Bi2T5KDHpa82) | 9am - 9pm  |
 
 ![](http://www.speedtest.net/result/7625788478.png)
 
@@ -1003,9 +1013,9 @@ Wifi pw: `ilovenicolau`
 
 Webpage: http://4sq.com/XuO7me
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) | Sun-Sat 7:00 - 20:00
+| Wifi | Power | Address                                                                   | Open Hours           |
+| ---- | ----- | ------------------------------------------------------------------------- | -------------------- |
+| ✔    | ?     | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) | Sun-Sat 7:00 - 20:00 |
 
 #### Confeitaria Lisboa
 
@@ -1013,9 +1023,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://4sq.com/1JRQG4q
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
+| Wifi | Power | Climatization | Address                                      | Open Hours         |
+| ---- | ----- | ------------- | -------------------------------------------- | ------------------ |
+| ✔    | ✔     | ❄️/♨️         | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM |
 
 #### Copenhagen Coffee Lab, Lisboa
 
@@ -1023,9 +1033,9 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 Webpage: http://copenhagencoffeelab.com/cafe-at-rua-nova-da-piedade/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✘ | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
+| Wifi | Power | Address                                                                              | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------------ | ---------- |
+| ✔    | ✘     | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
 
 ![](http://www.speedtest.net/result/6156014466.png)
 
@@ -1035,9 +1045,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.lerdevagar.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Desenvolvimento e PatrocínioRua Rodrigues Faria,n. 103 - Ed. G - 0.3, 1300-501 LISBOA](https://goo.gl/maps/AgAc47QqSts) |
+| Wifi | Power | Address                                                                                                                  | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| ✔    | ✔     | [Desenvolvimento e PatrocínioRua Rodrigues Faria,n. 103 - Ed. G - 0.3, 1300-501 LISBOA](https://goo.gl/maps/AgAc47QqSts) |
 
 ![](http://www.speedtest.net/result/6152715433.png)
 
@@ -1047,9 +1057,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://4sq.com/1dQaY6h
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✘ | ✘ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
+| Wifi | Power | Address                                                                             | Open Hours |
+| ---- | ----- | ----------------------------------------------------------------------------------- | ---------- |
+| ✘    | ✘     | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
 
 #### Montana Lisboa Café
 
@@ -1057,9 +1067,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://4sq.com/2fHRcQF
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️ | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm
+| Wifi | Power | Climatization | Address                                                                                                     | Open Hours |
+| ---- | ----- | ------------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | ❄️            | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm |
 
 ![](http://beta.speedtest.net/result/6938533453.png)
 
@@ -1071,9 +1081,9 @@ Wifi pw: `graffiti`
 
 Webpage: http://www.opaonosso.pt/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [R. Marquês Sá da Bandeira 46, 1050-149 Lisboa, Portugal](https://goo.gl/maps/FD69tn3WZ2G2) |
+| Wifi | Power | Address                                                                                     | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [R. Marquês Sá da Bandeira 46, 1050-149 Lisboa, Portugal](https://goo.gl/maps/FD69tn3WZ2G2) |
 
 ![](http://www.speedtest.net/result/6430591434.png)
 
@@ -1085,9 +1095,9 @@ Wifi pw: `fermento`
 
 Webpage: apadariaportuguesa.pt
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️ | [Av. 24 de Julho 1G, 1200-425 Lisboa](https://goo.gl/maps/6szBk5Tsaaq) | 7am - 10:45pm
+| Wifi | Power | Climatization | Address                                                                | Open Hours    |
+| ---- | ----- | ------------- | ---------------------------------------------------------------------- | ------------- |
+| ✔    | ✔     | ❄️            | [Av. 24 de Julho 1G, 1200-425 Lisboa](https://goo.gl/maps/6szBk5Tsaaq) | 7am - 10:45pm |
 
 ![](http://beta.speedtest.net/result/6946089256.png)
 
@@ -1097,9 +1107,9 @@ Wifi pw: `portuguesa`
 
 Webpage: http://www.poiscafe.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |
+| Wifi | Power | Address                                                                | Open Hours |
+| ---- | ----- | ---------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |
 
 #### Quatro ao Rato
 
@@ -1107,9 +1117,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://pt-pt.facebook.com/quatroaorato/
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ♨️ | [Largo do Rato 4A, 1250-096 Lisboa](https://goo.gl/maps/BChdxAHRKmT2) | 8am - 20pm
+| Wifi | Power | Climatization | Address                                                               | Open Hours |
+| ---- | ----- | ------------- | --------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | ♨️            | [Largo do Rato 4A, 1250-096 Lisboa](https://goo.gl/maps/BChdxAHRKmT2) | 8am - 20pm |
 
 ![](http://www.speedtest.net/result/7121883484.png)
 
@@ -1119,17 +1129,17 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 Webpage: http://www.royalecafe.com
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [Largo Rafael Bordalo Pinheiro 29 R/C Lisboa](https://goo.gl/maps/Eho6a8ufqRQ2) | Mon-Wed 12-11pm & Thu-Sun 12pm-12am
+| Wifi | Power | Climatization | Address                                                                         | Open Hours                          |
+| ---- | ----- | ------------- | ------------------------------------------------------------------------------- | ----------------------------------- |
+| ✔    | ✔     | ❄️/♨️         | [Largo Rafael Bordalo Pinheiro 29 R/C Lisboa](https://goo.gl/maps/Eho6a8ufqRQ2) | Mon-Wed 12-11pm & Thu-Sun 12pm-12am |
 
 #### Tartine
 
 Webpage: http://tartine.pt/
 
-Wifi | Power | Climatization | Address | Open Hours
----- | ----- | ------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
+| Wifi | Power | Climatization | Address                                                                 | Open Hours |
+| ---- | ----- | ------------- | ----------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | ❄️/♨️         | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
 
 ![](http://beta.speedtest.net/result/6628785269.png)
 
@@ -1139,9 +1149,9 @@ Wifi | Power | Climatization | Address | Open Hours
 
 Webpage: https://www.facebook.com/wishslowcoffeehouse
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Rodrigues Faria, 103 - Espaço G2 1300-501 Lisbon](https://goo.gl/maps/h5rSLnrrEmx) |
+| Wifi | Power | Address                                                                                 | Open Hours |
+| ---- | ----- | --------------------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Rua Rodrigues Faria, 103 - Espaço G2 1300-501 Lisbon](https://goo.gl/maps/h5rSLnrrEmx) |
 
 ![](http://www.speedtest.net/result/5789565474.png)
 
@@ -1151,21 +1161,21 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.merceariadocampo.pt/en_GB/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Saraiva de Carvalho - 115 R/C, 1250-242 Lisboa](https://goo.gl/maps/AX6XdBCy2bN2) | Mon-Thu 08:00 - 00:00, Fri-Sat 09:00 - 02:00
+| Wifi | Power | Address                                                                                | Open Hours                                   |
+| ---- | ----- | -------------------------------------------------------------------------------------- | -------------------------------------------- |
+| ✔    | ✔     | [Rua Saraiva de Carvalho - 115 R/C, 1250-242 Lisboa](https://goo.gl/maps/AX6XdBCy2bN2) | Mon-Thu 08:00 - 00:00, Fri-Sat 09:00 - 02:00 |
 
 ![](http://www.speedtest.net/result/7297518934.png)
 
-####  Eric Kayser
+#### Eric Kayser
 
-> Open space even with wifi outdoors and nice cakes, could be noisy sometimes 
+> Open space even with wifi outdoors and nice cakes, could be noisy sometimes
 
 Webpage: https://www.facebook.com/erickayserportugal
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Amoreiras Plaza Rua Professor, R. Carlos Alberto da Mota Pinto 9, 1250-252 Lisboa](https://goo.gl/maps/zxuU8HZMJbRwNpPWA) | Sat-Sun 08:00 - 20:00, Mon-Fri 07:30 - 20:30
+| Wifi | Power | Address                                                                                                                    | Open Hours                                   |
+| ---- | ----- | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| ✔    | ✔     | [Amoreiras Plaza Rua Professor, R. Carlos Alberto da Mota Pinto 9, 1250-252 Lisboa](https://goo.gl/maps/zxuU8HZMJbRwNpPWA) | Sat-Sun 08:00 - 20:00, Mon-Fri 07:30 - 20:30 |
 
 ## Porto
 
@@ -1175,20 +1185,21 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.bop.pt
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw) | Mon 12:30pm - 1:00am, Tue-Sun 10:00am - 1:00am
+| Wifi | Power | Address                                                               | Open Hours                                     |
+| ---- | ----- | --------------------------------------------------------------------- | ---------------------------------------------- |
+| ✔    | ✔     | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw) | Mon 12:30pm - 1:00am, Tue-Sun 10:00am - 1:00am |
 
 ![](http://www.speedtest.net/result/5468130872.png)
 
 #### Costa COFFEE
+
 > Influencer vibes, great coffee, English-speaking, accepts AliPay and has nice croissants.
 
 Webpage: https://https://www.costa.co.uk/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Praça dos Clérigos, Rua de São felipe de Nery, 4050-162 Porto](https://goo.gl/maps/ehNhrXQH3bXDyMjA8) | Mon-Sun 09:00am - 00:00pm
+| Wifi | Power | Address                                                                                                | Open Hours                |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------------- |
+| ✔    | ✔     | [Praça dos Clérigos, Rua de São felipe de Nery, 4050-162 Porto](https://goo.gl/maps/ehNhrXQH3bXDyMjA8) | Mon-Sun 09:00am - 00:00pm |
 
 ![](https://www.speedtest.net/result/8644645756.png)
 
@@ -1198,9 +1209,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: (duasdeletra.pt)[http://duasdeletra.pt/]
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Passeio de São Lázaro Nº 48, Porto, Portugal](https://goo.gl/maps/ouhN2fTzyKG2) | Mon-Thu 10:00am - 10:00pm, Fri-Sat 10:00am - 12:00am, Sun 02:00pm - 08:00pm
+| Wifi | Power | Address                                                                          | Open Hours                                                                  |
+| ---- | ----- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| ✔    | ✔     | [Passeio de São Lázaro Nº 48, Porto, Portugal](https://goo.gl/maps/ouhN2fTzyKG2) | Mon-Thu 10:00am - 10:00pm, Fri-Sat 10:00am - 12:00am, Sun 02:00pm - 08:00pm |
 
 ![](http://www.speedtest.net/result/5736595558.png)
 
@@ -1210,9 +1221,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: embaixadaporto.com
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
+| Wifi | Power | Address                                                                         | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
 
 ![](http://www.speedtest.net/result/5456704202.png)
 
@@ -1222,9 +1233,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://4sq.com/28XN73L
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av. de Camilo 325, Porto, Portugal](https://goo.gl/maps/aVZ1cFWQatT2) | Mon - Fri 8:30am-7:00pm, Sat 10:00am - 7:00pm
+| Wifi | Power | Address                                                                | Open Hours                                    |
+| ---- | ----- | ---------------------------------------------------------------------- | --------------------------------------------- |
+| ✔    | ✔     | [Av. de Camilo 325, Porto, Portugal](https://goo.gl/maps/aVZ1cFWQatT2) | Mon - Fri 8:30am-7:00pm, Sat 10:00am - 7:00pm |
 
 ![](http://www.speedtest.net/result/5425343488.png)
 
@@ -1234,9 +1245,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.moustache.pt/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2) | Mon-Wed 8:00 - 20:00, Thu-Sat 8:00 - 2:00, Sun 14:00-20:00
+| Wifi | Power | Address                                                                       | Open Hours                                                 |
+| ---- | ----- | ----------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| ✔    | ✔     | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2) | Mon-Wed 8:00 - 20:00, Thu-Sat 8:00 - 2:00, Sun 14:00-20:00 |
 
 #### Café Candelabro
 
@@ -1244,9 +1255,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.cafecandelabro.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua da Conceição 2, Porto, Portugal](https://goo.gl/maps/fDQuuCgAZPZSgdgt7) | Sat 4:00pm - 2:00am, Sunday 4:00pm - 12:00am, Monday 1:00pm - 2:00am, Tuesday - Friday 10:30am - 2:00am
+| Wifi | Power | Address                                                                      | Open Hours                                                                                              |
+| ---- | ----- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| ✔    | ✔     | [Rua da Conceição 2, Porto, Portugal](https://goo.gl/maps/fDQuuCgAZPZSgdgt7) | Sat 4:00pm - 2:00am, Sunday 4:00pm - 12:00am, Monday 1:00pm - 2:00am, Tuesday - Friday 10:30am - 2:00am |
 
 #### Café Vitória
 
@@ -1254,9 +1265,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.cafevitoria.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
+| Wifi | Power | Address                                                                          | Open Hours                                                                                           |
+| ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ✔    | ✔     | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am |
 
 ## Viana do Castelo
 
@@ -1266,9 +1277,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://pt.foursquare.com/v/pastelaria-jardim/4f1c28e5e4b08fa665830c09<Paste>
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Joao Tomas da Costa, Viana do Castelo 4900-509, Portugal](https://goo.gl/maps/bpfWKYvfsTk) |
+| Wifi | Power | Address                                                                                         | Open Hours |
+| ---- | ----- | ----------------------------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Rua Joao Tomas da Costa, Viana do Castelo 4900-509, Portugal](https://goo.gl/maps/bpfWKYvfsTk) |
 
 ![](http://www.speedtest.net/result/5643463433.png)
 
@@ -1278,14 +1289,15 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1bfd0cfcb7a
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Cândido Dos Reis, N° 20](https://goo.gl/maps/bpfWKYvfsTk) |
+| Wifi | Power | Address                                                        | Open Hours |
+| ---- | ----- | -------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Rua Cândido Dos Reis, N° 20](https://goo.gl/maps/bpfWKYvfsTk) |
 
 ![](http://www.speedtest.net/result/5644569150.png)
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Singapore 🇸🇬
 
@@ -1297,9 +1309,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.facebook.com/JWCEverton/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM
+| Wifi | Power | Address                                                                          | Open Hours                               |
+| ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------- |
+| ✔    | ✔     | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM |
 
 #### Bread & Hearth
 
@@ -1307,9 +1319,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://breadandhearth.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM
+| Wifi | Power | Address                                                       | Open Hours          |
+| ---- | ----- | ------------------------------------------------------------- | ------------------- |
+| ✔    | ?     | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM |
 
 ## one north
 
@@ -1319,16 +1331,17 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.jimmymonkey.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM
+| Wifi | Power | Address                                                                                                | Open Hours          |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------ | ------------------- |
+| ✔    | ✔     | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM |
 
 # Slovenia 🇸🇮
 
 See https://github.com/otobrglez/awesome-workplaces-slovenia
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # South Korea 🇰🇷
 
@@ -1350,14 +1363,15 @@ Google Maps: https://goo.gl/maps/osWKar7YQfm
 
 Naver Map: http://naver.me/FjThMRso
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [478, Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea](https://goo.gl/maps/osWKar7YQfm) | 24H, Everyday
+| Wifi | Power | Address                                                                                     | Open Hours    |
+| ---- | ----- | ------------------------------------------------------------------------------------------- | ------------- |
+| ✔    | ✔     | [478, Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea](https://goo.gl/maps/osWKar7YQfm) | 24H, Everyday |
 
 ![](http://www.speedtest.net/result/7264247601.png)
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Spain 🇪🇸
 
@@ -1369,9 +1383,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://4sq.com/14xZ71H
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
+| Wifi | Power | Address                                                                         | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
 
 ![](http://www.speedtest.net/result/5453643373.png)
 
@@ -1381,9 +1395,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://espaijoliu.tumblr.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Carrer de Badajoz 95. Poblenou. Barcelona](https://goo.gl/maps/jtdnk5FfwL72) |
+| Wifi | Power | Address                                                                       | Open Hours |
+| ---- | ----- | ----------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Carrer de Badajoz 95. Poblenou. Barcelona](https://goo.gl/maps/jtdnk5FfwL72) |
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
@@ -1393,9 +1407,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://frenesicafe.com
 
-Wifi | Power | Address | Open Hours
----- | ----- | -------------- | -------
-✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz) | Mon: Closed, Tue-Thu: 9-19, Fri-Sun: 10-17
+| Wifi | Power | Address                                                           | Open Hours                                 |
+| ---- | ----- | ----------------------------------------------------------------- | ------------------------------------------ |
+| ✔    | ✔     | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz) | Mon: Closed, Tue-Thu: 9-19, Fri-Sun: 10-17 |
 
 #### Federal Café
 
@@ -1403,17 +1417,17 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://federalcafe.es/barcelona-gotic/
 
-Wifi | Power | Address | Open Hours
----- | ----- | -------------- | -------
-✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
+| Wifi | Power | Address                                                   | Open Hours |
+| ---- | ----- | --------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
 
 #### 52 Moments
 
 > Cafe with lots of free tables (most of which have a power socket nearby) since most people only come for takeaway. Staff mostly speaks a little English, enough to communicate. Fairly loud, bring a headset, not ideal for meeting heavy days.
 
-Wifi | Power | Address | Open Hours
----- | ----- | -------------- | -------
-✔ | ✔ | [C. de Rocafort, 35, 08015 Barcelona](https://goo.gl/maps/bUuKBrot4EWwnp1E9) | Mo-Su 06:00-22:00
+| Wifi | Power | Address                                                                      | Open Hours        |
+| ---- | ----- | ---------------------------------------------------------------------------- | ----------------- |
+| ✔    | ✔     | [C. de Rocafort, 35, 08015 Barcelona](https://goo.gl/maps/bUuKBrot4EWwnp1E9) | Mo-Su 06:00-22:00 |
 
 ![Speedtest result](https://www.speedtest.net/result/11650923969.png)
 
@@ -1425,14 +1439,15 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.26grados.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Calle Rosal, 13, 33009 Oviedo, Asturias](hhttps://goo.gl/maps/btPUB2EHodR2) |
+| Wifi | Power | Address                                                                      | Open Hours |
+| ---- | ----- | ---------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Calle Rosal, 13, 33009 Oviedo, Asturias](hhttps://goo.gl/maps/btPUB2EHodR2) |
 
 ![](http://www.speedtest.net/result/5453643373.png)
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Sweden 🇸🇪
 
@@ -1446,9 +1461,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://cafefatoljen.com
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23
+| Wifi | Power | Address                               | Open Hours |
+| ---- | ----- | ------------------------------------- | ---------- |
+| ✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23       |
 
 #### Café Pascal
 
@@ -1456,9 +1471,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://cafepascal.se
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19
+| Wifi | Power | Address                                    | Open Hours |
+| ---- | ----- | ------------------------------------------ | ---------- |
+| ✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19       |
 
 ## Uppsala
 
@@ -1468,12 +1483,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://www.facebook.com/cafelinne/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden  | 8–22
+| Wifi | Power | Address                                    | Open Hours |
+| ---- | ----- | ------------------------------------------ | ---------- |
+| ✔    | Some  | Svartbäcksgatan 22, 75 332 Uppsala, Sweden | 8–22       |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Switzerland 🇨🇭
 
@@ -1485,14 +1501,15 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.borealcoffee.ch/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔    | Some plugs  | Talacker 41 CH-8001 Zürich  | Mon - Fri: 07:00 - 19:00 Sat - Sun: 09:00 - 19:00
+| Wifi | Power      | Address                    | Open Hours                                        |
+| ---- | ---------- | -------------------------- | ------------------------------------------------- |
+| ✔    | Some plugs | Talacker 41 CH-8001 Zürich | Mon - Fri: 07:00 - 19:00 Sat - Sun: 09:00 - 19:00 |
 
 ![](http://www.speedtest.net/result/7234244439.png)
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # Turkey 🇹🇷
 
@@ -1502,9 +1519,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://istanbulhs.org
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |
+| Wifi | Power | Address                                                                                      | Open Hours |
+| ---- | ----- | -------------------------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |
 
 ## Denizli
 
@@ -1514,12 +1531,13 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.denizlihs.org/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z)| 24/7
+| Wifi | Power | Address                                                                                                                  | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| ✔    | ✔     | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z) | 24/7       |
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # United Kingdom 🇬🇧
 
@@ -1533,9 +1551,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://london.hackspace.org.uk/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
+| Wifi | Power | Address                                                             | Open Hours          |
+| ---- | ----- | ------------------------------------------------------------------- | ------------------- |
+| ✔    | ✔     | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only) |
 
 ## Scotland
 
@@ -1547,9 +1565,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://edinburghhacklab.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [1 Summerhall, Edinburgh, EH9 1PL](https://goo.gl/maps/JNmhHj7JoVn) | Open night every tuesday
+| Wifi | Power | Address                                                             | Open Hours               |
+| ---- | ----- | ------------------------------------------------------------------- | ------------------------ |
+| ✔    | ✔     | [1 Summerhall, Edinburgh, EH9 1PL](https://goo.gl/maps/JNmhHj7JoVn) | Open night every tuesday |
 
 #### BrewLab
 
@@ -1557,14 +1575,15 @@ Wifi | Power | Address | Open Hours
 
 Webpage: www.brewlabcoffee.co.uk
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [6-8 South College Street, Edinburgh, EH8 9AA](https://goo.gl/maps/zBEETf2NjaB2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00
+| Wifi | Power | Address                                                                          | Open Hours                             |
+| ---- | ----- | -------------------------------------------------------------------------------- | -------------------------------------- |
+| ✔    | ✔     | [6-8 South College Street, Edinburgh, EH8 9AA](https://goo.gl/maps/zBEETf2NjaB2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00 |
 
 ![](http://www.speedtest.net/result/5370523932.png)
 
----------------------------------------------------------------
----------------------------------------------------------------
+---
+
+---
 
 # United States 🇺🇸
 
@@ -1576,9 +1595,9 @@ Wifi | Power | Address | Open Hours
 
 > local art, some food, kind of punk/dingy, lots of people at their computers, 24/7
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔| [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) |24/7
+| Wifi | Power | Address                                                                  | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------ | ---------- |
+| ✔    | ✔     | [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) | 24/7       |
 
 ## California <a id="california"></a>
 
@@ -1589,9 +1608,9 @@ Wifi | Power | Address | Open Hours
 > Casually cow-themed cafe and deli, with lots of 1st and 2nd floor seating,
 > literally a block from the Pacific Ocean.
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔| [34 Washington Blvd, Venice, CA 90292](https://goo.gl/maps/Swe3G5wnFuy) |6AM - 9PM
+| Wifi | Power | Address                                                                 | Open Hours |
+| ---- | ----- | ----------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [34 Washington Blvd, Venice, CA 90292](https://goo.gl/maps/Swe3G5wnFuy) | 6AM - 9PM  |
 
 ### San Diego, CA <a id="san-diego-ca"></a>
 
@@ -1600,9 +1619,9 @@ Wifi | Power | Address | Open Hours
 > Very Californian and laid back. Common spot for locals with wonderful food
 > and ice cream.
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔ | [300 Carlsbad Village Dr #211, Carlsbad, CA 92008](https://goo.gl/maps/x9ReUJVpnYD2) | 7AM - 10PM
+| Wifi | Power | Address                                                                              | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------------------ | ---------- |
+| ✔    | ✔     | [300 Carlsbad Village Dr #211, Carlsbad, CA 92008](https://goo.gl/maps/x9ReUJVpnYD2) | 7AM - 10PM |
 
 ### Mountain View, CA <a id="mountain-view-ca"></a>
 
@@ -1610,9 +1629,9 @@ Wifi | Power | Address | Open Hours
 
 > Red walls set the mood at a cafe where art & live music are often served with the coffee & snacks
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔| [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo) | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00
+| Wifi | Power | Address                                                                   | Open Hours                                                         |
+| ---- | ----- | ------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| ✔    | ✔     | [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo) | Mon-Thu 7:00-22:00, Fri 7:00-23:00, Sat 8:00-23:00, Sun 8:00-20:00 |
 
 ### Oakland, CA <a id="oakland-ca"></a>
 
@@ -1620,18 +1639,18 @@ Wifi | Power | Address | Open Hours
 
 > Huge, artsy space with ample power outlets, varied seating, and solid wifi.
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔| [4210 Telegraph Ave, Oakland, CA 94609](https://goo.gl/maps/QWCffXaT5482) | 8AM - 7PM
+| Wifi | Power | Address                                                                   | Open Hours |
+| ---- | ----- | ------------------------------------------------------------------------- | ---------- |
+| ✔    | ✔     | [4210 Telegraph Ave, Oakland, CA 94609](https://goo.gl/maps/QWCffXaT5482) | 8AM - 7PM  |
 
 #### Hudson Bay Cafe
 
 > Very sunny, cozy spot with tasty coffee and food. Right on the street corner
 > for optimal people-watching.
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔| [5401 College Ave, Oakland, CA 94618](https://goo.gl/maps/fHX4zid3HH72) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM
+| Wifi | Power | Address                                                                 | Open Hours                               |
+| ---- | ----- | ----------------------------------------------------------------------- | ---------------------------------------- |
+| ✔    | ✔     | [5401 College Ave, Oakland, CA 94618](https://goo.gl/maps/fHX4zid3HH72) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM |
 
 ### Palo Alto, CA <a id="palo-alto-ca"></a>
 
@@ -1641,9 +1660,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://hanahaus.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔| [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2) | Mon-Fri 7:00-19:00, Sat-Sun 8:00-19:00
+| Wifi | Power | Address                                                                     | Open Hours                             |
+| ---- | ----- | --------------------------------------------------------------------------- | -------------------------------------- |
+| ✔    | ✔     | [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2) | Mon-Fri 7:00-19:00, Sat-Sun 8:00-19:00 |
 
 #### Backyard Brew
 
@@ -1651,9 +1670,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://aoccoffee.com/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-  ✔ | ✔ | great | [444 California Ave, Palo Alto, CA 94301](https://goo.gl/maps/8hugtvc2vUM2) | Mon-Sat 8:00-17:00, Sun 8:00-15:00
+| Wifi | Power | Coffee | Address                                                                     | Open Hours                         |
+| ---- | ----- | ------ | --------------------------------------------------------------------------- | ---------------------------------- |
+| ✔    | ✔     | great  | [444 California Ave, Palo Alto, CA 94301](https://goo.gl/maps/8hugtvc2vUM2) | Mon-Sat 8:00-17:00, Sun 8:00-15:00 |
 
 ![](https://www.speedtest.net/result/7995445392.png)
 
@@ -1663,9 +1682,9 @@ Wifi | Power | Coffee | Address | Open Hours
 
 > Big and spacious space with many seats, lots of plugs, not that great WiFi. During summer it may get quite hot as no AC/good airflow.
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔| [1890 Bryant St, San Francisco, CA 94110](https://goo.gl/maps/6i2sppYKZ2P2) | Mon-Fri 7:30-16:00, Sat 8:00-16:00, Sun 10:00-16:00
+| Wifi | Power | Address                                                                     | Open Hours                                          |
+| ---- | ----- | --------------------------------------------------------------------------- | --------------------------------------------------- |
+| ✔    | ✔     | [1890 Bryant St, San Francisco, CA 94110](https://goo.gl/maps/6i2sppYKZ2P2) | Mon-Fri 7:30-16:00, Sat 8:00-16:00, Sun 10:00-16:00 |
 
 #### Sightglass Coffee
 
@@ -1673,9 +1692,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: https://sightglasscoffee.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-Nope | Nope | [270 7th St, San Francisco, CA 94103](https://goo.gl/maps/Lr63kJgk43M2) | Mon-Sun 7:00-19:00
+| Wifi | Power | Address                                                                 | Open Hours         |
+| ---- | ----- | ----------------------------------------------------------------------- | ------------------ |
+| Nope | Nope  | [270 7th St, San Francisco, CA 94103](https://goo.gl/maps/Lr63kJgk43M2) | Mon-Sun 7:00-19:00 |
 
 #### Black Hammer Brewing
 
@@ -1683,32 +1702,31 @@ Nope | Nope | [270 7th St, San Francisco, CA 94103](https://goo.gl/maps/Lr63kJgk
 
 Webpage: https://blackhammerbrewing.com
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [544 Bryant St, San Francisco, CA 94107](https://goo.gl/maps/8VoTSniJ5FC2) | Mon-Sun 12:00-23:00
-
+| Wifi | Power | Address                                                                    | Open Hours          |
+| ---- | ----- | -------------------------------------------------------------------------- | ------------------- |
+| ✔    | ✔     | [544 Bryant St, San Francisco, CA 94107](https://goo.gl/maps/8VoTSniJ5FC2) | Mon-Sun 12:00-23:00 |
 
 ### San Jose, CA
 
 #### Caffe Frascati
 
-> Nice decor & theming, upstairs seating, and friendly staff. Wifi is *decent*.
+> Nice decor & theming, upstairs seating, and friendly staff. Wifi is _decent_.
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ----- | ------- | ----------
-ask | ✔ | ✔ | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2) | Mon-Thu 7:30-22:00, Fri-Sat 8:00-00:00, Sun 8:00-21:00
+| Wifi | Power | Coffee | Address                                                              | Open Hours                                             |
+| ---- | ----- | ------ | -------------------------------------------------------------------- | ------------------------------------------------------ |
+| ask  | ✔     | ✔      | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2) | Mon-Thu 7:30-22:00, Fri-Sat 8:00-00:00, Sun 8:00-21:00 |
 
 ### Santa Monica, CA <a id="santa-monica-ca"></a>
 
 #### Refinery
 
-> Great coffee and usually has available seating. Wifi is *bad*.
+> Great coffee and usually has available seating. Wifi is _bad_.
 
 Webpage: http://the-refinery.cafes-city.com/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-(✔) | ✔ | ✔ | [413 Santa Monica Blvd, Santa Monica, CA 90401](https://goo.gl/maps/uBJQacVNWd62) | Mon-Fri 7:30-18:00, Sat 8:00-18:00, Sun *closed*
+| Wifi | Power | Coffee | Address                                                                           | Open Hours                                       |
+| ---- | ----- | ------ | --------------------------------------------------------------------------------- | ------------------------------------------------ |
+| (✔)  | ✔     | ✔      | [413 Santa Monica Blvd, Santa Monica, CA 90401](https://goo.gl/maps/uBJQacVNWd62) | Mon-Fri 7:30-18:00, Sat 8:00-18:00, Sun _closed_ |
 
 ## Illinois
 
@@ -1720,9 +1738,9 @@ Wifi | Power | Coffee | Address | Open Hours
 
 Webpage: http://dolcecasacafe.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [4947 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/eNmG3ETExt92) | Mon-Fri 7:00-16:00, Sat-Sun 8:00-15:00
+| Wifi | Power | Address                                                                 | Open Hours                             |
+| ---- | ----- | ----------------------------------------------------------------------- | -------------------------------------- |
+| ✔    | ✔     | [4947 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/eNmG3ETExt92) | Mon-Fri 7:00-16:00, Sat-Sun 8:00-15:00 |
 
 #### The Perfect Cup
 
@@ -1730,20 +1748,21 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.perfectcupchicago.com/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00
+| Wifi | Power | Address                                                                 | Open Hours                             |
+| ---- | ----- | ----------------------------------------------------------------------- | -------------------------------------- |
+| ✔    | ✔     | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2) | Mon-Fri 6:30-20:00, Sat-Sun 7:00-20:00 |
 
 ## Maryland <a id="maryland"></a>
+
 ### Baltimore, MD <a id="baltimore-md"></a>
+
 #### The Bun Shop
 
 > Loftlike, late-night cafe for filled buns like piroshki & empanadas, plus Vietnamese coffee. BYOB.
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am
-
+| Wifi | Power | Address                                                                | Open Hours     |
+| ---- | ----- | ---------------------------------------------------------------------- | -------------- |
+| ✔    | ✔     | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2) | 7 days 7am-3am |
 
 ## Massachusetts <a id="massachusetts"></a>
 
@@ -1755,9 +1774,9 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://www.districthallboston.org/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxUyRJT2bS2) | Mon-Fri 08:00-02:00, Sat 12:00-02:00, Sun 12:00-21:00
+| Wifi | Power | Coffee | Address                                                                | Open Hours                                            |
+| ---- | ----- | ------ | ---------------------------------------------------------------------- | ----------------------------------------------------- |
+| open | ✔     | ✔      | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxUyRJT2bS2) | Mon-Fri 08:00-02:00, Sat 12:00-02:00, Sun 12:00-21:00 |
 
 #### Pavement Coffeehouse
 
@@ -1765,9 +1784,9 @@ open | ✔ | ✔ | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxU
 
 Webpage: http://pavementcoffeehouse.com/content/736-commonwealth
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [736 Commonwealth Avenue, Boston, MA 02215](https://goo.gl/maps/H3xzFxvo4nK2) | Mon-Fri 07:00-21:00, Sat 07:00-20:00, Sun 12:00-21:00
+| Wifi | Power | Coffee | Address                                                                       | Open Hours                                            |
+| ---- | ----- | ------ | ----------------------------------------------------------------------------- | ----------------------------------------------------- |
+| open | ✔     | ✔      | [736 Commonwealth Avenue, Boston, MA 02215](https://goo.gl/maps/H3xzFxvo4nK2) | Mon-Fri 07:00-21:00, Sat 07:00-20:00, Sun 12:00-21:00 |
 
 #### Pavement Coffeehouse
 
@@ -1775,9 +1794,9 @@ open | ✔ | ✔ | [736 Commonwealth Avenue, Boston, MA 02215](https://goo.gl/ma
 
 Webpage: http://www.pavementcoffeehouse.com/content/44-gainsborough
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [44 Gainsborough St, Boston, MA 02115](https://goo.gl/maps/wFZENJE3ppm) | Mon-Sun 07:00-20:00
+| Wifi | Power | Coffee | Address                                                                 | Open Hours          |
+| ---- | ----- | ------ | ----------------------------------------------------------------------- | ------------------- |
+| open | ✔     | ✔      | [44 Gainsborough St, Boston, MA 02115](https://goo.gl/maps/wFZENJE3ppm) | Mon-Sun 07:00-20:00 |
 
 ![Speedtest](http://www.speedtest.net/result/5528734206.png)
 
@@ -1789,9 +1808,9 @@ open | ✔ | ✔ | [44 Gainsborough St, Boston, MA 02115](https://goo.gl/maps/wF
 
 Webpage: http://www.tosci.com/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00
+| Wifi | Power | Coffee | Address                                                              | Open Hours                               |
+| ---- | ----- | ------ | -------------------------------------------------------------------- | ---------------------------------------- |
+| open | ✔     | ✔      | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJxcmX2bp) | Mon-Fri 08:00-23:00, Sat-Sun 09:00-23:00 |
 
 ### Somerville, MA <a id="somerville-ma"></a>
 
@@ -1801,9 +1820,9 @@ open | ✔ | ✔ | [1899 Main St, Cambridge, MA 02139](https://goo.gl/maps/moxJx
 
 Webpage: http://blocsomerville.com/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-paying | ✔ | ✔ | [11 bow st. union sq, Somerville, MA](https://goo.gl/maps/eytUQsvC6sB2) | Mon-Sun 07:00-20:00
+| Wifi   | Power | Coffee | Address                                                                 | Open Hours          |
+| ------ | ----- | ------ | ----------------------------------------------------------------------- | ------------------- |
+| paying | ✔     | ✔      | [11 bow st. union sq, Somerville, MA](https://goo.gl/maps/eytUQsvC6sB2) | Mon-Sun 07:00-20:00 |
 
 #### Diesel Cafe
 
@@ -1811,14 +1830,15 @@ paying | ✔ | ✔ | [11 bow st. union sq, Somerville, MA](https://goo.gl/maps/e
 
 Webpage: http://www.diesel-cafe.com/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-paying | ✔ | ✔ | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz) | Mon-Fri 06:00-23:00, Sat-Sun 07:00-23:00
+| Wifi   | Power | Coffee | Address                                                             | Open Hours                               |
+| ------ | ----- | ------ | ------------------------------------------------------------------- | ---------------------------------------- |
+| paying | ✔     | ✔      | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz) | Mon-Fri 06:00-23:00, Sat-Sun 07:00-23:00 |
 
 Notes:
-* Contact [@richlitt](https://twitter.com/richlitt) for wifi password if needed.
-* You get 45m of free wifi per day. More if you know what you're doing ;) (but $14/mo for wifi is worth it if you hack there often)
-* Using IPFS will get you kicked off their network in ~2hr (FYI).
+
+- Contact [@richlitt](https://twitter.com/richlitt) for wifi password if needed.
+- You get 45m of free wifi per day. More if you know what you're doing ;) (but $14/mo for wifi is worth it if you hack there often)
+- Using IPFS will get you kicked off their network in ~2hr (FYI).
 
 #### Forge Baking Company
 
@@ -1826,9 +1846,9 @@ Notes:
 
 Webpage: http://www.forgebakingco.com/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00
+| Wifi   | Power | Coffee | Address                                                                      | Open Hours          |
+| ------ | ----- | ------ | ---------------------------------------------------------------------------- | ------------------- |
+| paying | ✔     | ✔      | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62) | Mon-Fri 07:00-19:00 |
 
 ## Minnesota <a id="minnesota"></a>
 
@@ -1840,9 +1860,9 @@ paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/m
 
 Webpage: https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/maps/YaHLw8SkRLtYhG9q6) | Mon-Fri 06:30AM-08:00PM, Sat 07:00AM-08:00PM, Sun 8:00AM-8:00PM
+| Wifi | Power | Coffee | Address                                                                            | Open Hours                                                      |
+| ---- | ----- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| open | ✔     | ✔      | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/maps/YaHLw8SkRLtYhG9q6) | Mon-Fri 06:30AM-08:00PM, Sat 07:00AM-08:00PM, Sun 8:00AM-8:00PM |
 
 ## South Carolina <a id="south-carolina-"></a>
 
@@ -1854,9 +1874,9 @@ open | ✔ | ✔ | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/ma
 
 Webpage: https://yoghut.com/
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2) | Mon-Sat 9:30AM-11PM, Sun 10:30AM-1PM
+| Wifi | Power | Climatization | Address                                                             | Open Hours                           |
+| ---- | ----- | ------------- | ------------------------------------------------------------------- | ------------------------------------ |
+| ✔    | ✔     | ❄️/♨️         | [601 Main St, Columbia, SC 29201](https://goo.gl/maps/CPWuqG7QcVH2) | Mon-Sat 9:30AM-11PM, Sun 10:30AM-1PM |
 
 ## Texas
 
@@ -1864,13 +1884,13 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 #### Houndstooth Coffee
 
-> Unassuming place with pretty outstanding coffee and the space to get things done.  Plus it's in the Frost Bank Building, the most [evil looking building in Austin](https://www.reddit.com/r/evilbuildings/comments/4cdwap/frost_bank_looks_like_a_giant_evil_owl_staring/)!
+> Unassuming place with pretty outstanding coffee and the space to get things done. Plus it's in the Frost Bank Building, the most [evil looking building in Austin](https://www.reddit.com/r/evilbuildings/comments/4cdwap/frost_bank_looks_like_a_giant_evil_owl_staring/)!
 
 Webpage: https://www.houndstoothcoffee.com/
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [401 CONGRESS AVE STE 100C AUSTIN, TX 78701](https://goo.gl/maps/irEZayEujm32) | MON – FRI: 6:30 AM – 7 PM SAT & SUN: 8:00 AM – 5 PM
+| Wifi | Power | Climatization | Address                                                                        | Open Hours                                          |
+| ---- | ----- | ------------- | ------------------------------------------------------------------------------ | --------------------------------------------------- |
+| ✔    | ✔     | ❄️/♨️         | [401 CONGRESS AVE STE 100C AUSTIN, TX 78701](https://goo.gl/maps/irEZayEujm32) | MON – FRI: 6:30 AM – 7 PM SAT & SUN: 8:00 AM – 5 PM |
 
 ## New York <a id="new-york"></a>
 
@@ -1882,18 +1902,19 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | -------| ------- | ----------
-open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm
+| Wifi                   | Power | Coffee | Address                                                               | Open Hours                             |
+| ---------------------- | ----- | ------ | --------------------------------------------------------------------- | -------------------------------------- |
+| open, password on wall | ✔     | ✔      | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm |
 
 #### Ground Support Cafe
+
 > Great spot in Soho for getting things done and feeling like you belong with the cool soho crowd
 
 Webpage: http://www.groundsupportcafe.com/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | -------| ------- | ----------
-open, password on wall | ✔ | ✔ | [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Weekdays 7am - 8pm Weekends 8am - 8pm |
+| Wifi                   | Power | Coffee | Address                                                               | Open Hours                                 |
+| ---------------------- | ----- | ------ | --------------------------------------------------------------------- | ------------------------------------------ |
+| open, password on wall | ✔     | ✔      | [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Weekdays 7am - 8pm Weekends 8am - 8pm |
 
 #### Pushcart Coffee Chelsea
 
@@ -1901,9 +1922,9 @@ open, password on wall | ✔ | ✔ | [399 W Broadway, New York, NY 10013](https:
 
 Webpage: http://www.pushcartcoffee.com/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | -------| ------- | ----------
-open, password on Wall | ✔ | ✔  | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
+| Wifi                   | Power | Coffee | Address                                                               | Open Hours                                                               |
+| ---------------------- | ----- | ------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| open, password on Wall | ✔     | ✔      | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
 
 ## Virginia <a id="virginia"></a>
 
@@ -1915,9 +1936,9 @@ open, password on Wall | ✔ | ✔  | [401 W 25th St, New York, NY 10001](https:
 
 Webpage: https://ironcladcoffee.com/
 
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-open, password on wall | ✔ | ❄️/♨️ | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
+| Wifi                   | Power | Climatization | Address                                                                 | Open Hours                                                                    |
+| ---------------------- | ----- | ------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| open, password on wall | ✔     | ❄️/♨️         | [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
 
 ## Washington <a id="washington"></a>
 
@@ -1927,9 +1948,9 @@ open, password on wall | ✔ | ❄️/♨️ | [1805 E Grace St, Richmond, VA 23
 
 > Free to all, a lot of space, 3 floors, free parking lot.
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2) | Mon-Thu 9:00-21:00, Fri-Sat 10:00-18:00, Sun 12:00-20:00
+| Wifi | Power | Coffee | Address                                                                   | Open Hours                                               |
+| ---- | ----- | ------ | ------------------------------------------------------------------------- | -------------------------------------------------------- |
+| open | ✔     | ✔      | [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2) | Mon-Thu 9:00-21:00, Fri-Sat 10:00-18:00, Sun 12:00-20:00 |
 
 ## Seattle, WA <a id="seattle-wa"></a>
 
@@ -1937,9 +1958,9 @@ open | ✔ | ✔ | [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/M
 
 > Free to all, lots of space, must be quiet though.
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-1gbit | ✔ | ✔ | [1000 4th Ave, Seattle, WA 98104](https://goo.gl/maps/St7B69HGUKE2) | Mon-Thu 10:00-20:00, Fri-Sat 10:00-18:00, Sun 12:00-18:00
+| Wifi  | Power | Coffee | Address                                                             | Open Hours                                                |
+| ----- | ----- | ------ | ------------------------------------------------------------------- | --------------------------------------------------------- |
+| 1gbit | ✔     | ✔      | [1000 4th Ave, Seattle, WA 98104](https://goo.gl/maps/St7B69HGUKE2) | Mon-Thu 10:00-20:00, Fri-Sat 10:00-18:00, Sun 12:00-18:00 |
 
 #### Zeitgeist
 
@@ -1947,22 +1968,22 @@ Wifi | Power | Coffee | Address | Open Hours
 
 Webpage: http://zeitgeistcoffee.com/
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00
+| Wifi | Power | Coffee | Address                                                                 | Open Hours                                         |
+| ---- | ----- | ------ | ----------------------------------------------------------------------- | -------------------------------------------------- |
+| open | ✔     | ✔      | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00 |
 
 #### Ada's Technical Books
 
 > Tasty coffee and great food, free wifi and places, but also has paid day passes for private space.
 
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00
+| Wifi | Power | Coffee | Address                                                              | Open Hours         |
+| ---- | ----- | ------ | -------------------------------------------------------------------- | ------------------ |
+| ask  | ✔     | ✔      | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00 |
 
 #### Fix Coffeehouse
 
 > Cafe, with beer and nice location on Green Lake
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-ask | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
+| Wifi | Power | Address                                                                           | Open Hours                                         |
+| ---- | ----- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
+| ask  | ✔     | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00 |

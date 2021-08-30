@@ -85,7 +85,7 @@
 - [ROOSTER](https://github.com/flamingchickens1540/ROOSTER) - A common library of useful classes and systems for FIRST.
 - [FalconLibrary](https://github.com/FRC5190/FalconLibrary) - A library for programming robots in Kotlin, made by Team 5190.
 - [SnobotSim](https://github.com/snobotsim/SnobotSim) - A program that can simulate FRC robots programmed in Java.
-- [Lib5K](https://github.com/frc5024/lib5k) - A robotics library developed by team 5024 
+- [Lib5K](https://github.com/frc5024/lib5k) - A robotics library developed by team 5024
 
 ### C++
 

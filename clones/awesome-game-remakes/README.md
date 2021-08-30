@@ -7,6 +7,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 ---
 
 ## Contents
+
 - [Action](#action)
 - [Adventure](#adventure)
 - [Arcade](#arcade)
@@ -19,6 +20,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Strategy](#strategy)
 
 ## Action
+
 - [Carnage3D](https://github.com/codenamecpp/carnage3d) - Reimplementation of Grand Theft Auto.
 - [donut](https://github.com/plowteam/donut) - Reimplementation of The Simpsons: Hit & Run in modern C++ and modern OpenGL.
 - [MafiaUnity](https://github.com/MafiaHub/MafiaUnity) - Open-source Mafia game framework.
@@ -33,12 +35,14 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [TOMB5](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles disassembly translated to C source code.
 
 ## Adventure
+
 - [engge](https://github.com/scemino/engge) - Experimental game engine for Thimbleweed Park.
 - [raw(gl)](https://github.com/cyxx/rawgl) - Reimplementation of Another World.
 - [ResidualVM](https://github.com/residualvm/residualvm) - Game engine reimplementation that allows you to play 3D adventure games such as Grim Fandango and Escape from Monkey Island.
 - [ScummVM](https://github.com/scummvm/scummvm) - Allows you to run certain classic graphical point-and-click adventure games such Maniac Mansion and Monkey Island.
 
 ## Arcade
+
 - [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game.
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
@@ -50,6 +54,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
 
 ## FPS
+
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
 - [BetterSpades](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
 - [BStone](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
@@ -68,7 +73,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 - [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 - [NBlood](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
-- [Odamex](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. 
+- [Odamex](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements.
 - [OpenSpades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
 - [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
@@ -81,6 +86,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife.
 
 ## Online
+
 - [2006rebotted](https://github.com/dginovker/2006rebotted) - A 2006 Runescape Emulation Server.
 - [FreeSO](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
@@ -90,6 +96,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## RPG
+
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 - [Barony](https://github.com/TurningWheel/Barony) - Open source release of Barony.
 - [BtBuilder](https://github.com/dulsi/btbuilder) - An open source implementation of the Bard's Tale Construction Set.
@@ -117,6 +124,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [zorkClone](https://github.com/vatbub/zorkClone) - Reimplementation of the original Zork game developed by Infocom.
 
 ## Platformer
+
 - [Alive Reversing](https://github.com/AliveTeam/alive_reversing) - Reimplementation of Oddworld: Abe's Exoddus.
 - [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius) - Modern Interpreter for the Commander Keen Games.
 - [Jazz² Resurrection](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
@@ -129,16 +137,19 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [VVVVV](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
 
 ## Racing
+
 - [DreeRally](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 - [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
 
 ## Simulator
+
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
 - [Librelancer](https://github.com/Librelancer/Librelancer) - Reimplementation of the 2003 space game Freelancer.
 
 ## Strategy
+
 - [Antares](https://github.com/arescentral/antares) - Remake of Ares, a tactical space combat game.
 - [CivOne](https://github.com/SWY1985/CivOne) - Implementation of Sid Meier's Civilization.
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
@@ -171,6 +182,6 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Sourcehold](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
 - [VCMI](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
 - [Warcraft Remake](https://github.com/b3dgs/warcraft-remake) - Java remake of Warcraft: Orcs & Humans.
-- [Wargus](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
+- [Wargus](https://github.com/Wargus/wargus) - Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
 - [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Free and open-source real time strategy game.
 - [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.

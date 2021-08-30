@@ -28,7 +28,6 @@ The repository contains useful information for everyone who is looking for a tec
 - [2021 New Grad Applications](https://github.com/Pitt-CSC/NewGrad-2021) - A curated list of 2021 new grad roles.
 - [Relevant levels.fyi internships list](https://www.levels.fyi/internships/) - A collection of intern roles with salaries.
 
-
 ## How to write CV
 
 - [r/cscareerquestions FAQ](https://www.reddit.com/r/cscareerquestions/wiki/faq_resumes) - Tips from CS Career Questions.

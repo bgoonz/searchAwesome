@@ -191,7 +191,6 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - JupyterLab-based data science environment in the cloud.
 - [Spell.run](https://spell.run) - End-to-end platform for machine learning and deep learning.
 
-
 ## Official Resources and Documentation
 
 - [JupyterLab Documentation](http://jupyterlab.readthedocs.io/en/stable/index.html)
@@ -207,11 +206,10 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - GitHub - Topics: [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 - GitHub - Search: [jupyter](https://github.com/search?type=Repositories&q=jupyter)
 - Mailing Lists - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education)
-- PyPI - [``Framework :: Jupyter``](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
-is the PyPI trove classifier for Jupyter projects.
+- PyPI - [`Framework :: Jupyter`](https://pypi.org/search/?&c=Framework+%3A%3A+Jupyter)
+  is the PyPI trove classifier for Jupyter projects.
 - Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
 - Stack Overflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
-
 
 ## Articles/Guides/Tutorials
 

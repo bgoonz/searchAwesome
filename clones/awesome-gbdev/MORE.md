@@ -1,6 +1,5 @@
 # More
 
-
 - [gameboy homebrew](https://github.com/ProudGecko/gameboy) - Gameboy Homebrew Development (David Schamber).
 - [How to make a (GameBoy) emulator?](https://github.com/gb-archive/salvage/blob/master/misc/Petar-V-emulation.pdf) by Petar Veličković, University of Cambridge.
 - [New Down and Dirty Gameboy VRAM Timing Document + Test ROM](http://forums.nesdev.com/viewtopic.php?t=7861) by Kevtris.

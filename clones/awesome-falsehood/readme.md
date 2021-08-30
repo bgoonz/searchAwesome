@@ -13,9 +13,9 @@
   — Ludwig Wittgenstein<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-*Falsehood* articles are a form of commentary on a particular subject, and are appreciated by the developer community at large for their effectiveness and terseness. They're a convenient written form to approach an unfamiliar domain by dispelling myths, point out common pitfalls, show inconsistencies and subtleties.
+_Falsehood_ articles are a form of commentary on a particular subject, and are appreciated by the developer community at large for their effectiveness and terseness. They're a convenient written form to approach an unfamiliar domain by dispelling myths, point out common pitfalls, show inconsistencies and subtleties.
 
-In a sense, *Falsehood* articles are a suite of wordy unit-tests covering extensive edge-cases provided by real-world usage.
+In a sense, _Falsehood_ articles are a suite of wordy unit-tests covering extensive edge-cases provided by real-world usage.
 
 ## Contents
 
@@ -197,7 +197,7 @@ On character encoding, string formatting, unicode and internationalization.
 - [Myths about `/dev/urandom`](https://www.2uo.de/myths-about-urandom) - There are a few things about `/dev/urandom` and `/dev/random` that are repeated again and again. Still they are false.
 - [Hi\! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named "falsehoods about usernames (and other identifiers)".
 - [Popular misconceptions about `mtime`](https://apenwarr.ca/log/20181113) - Part of a post on why file's `mtime` comparison could be considered harmful.
-- [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not falsehoods *per-se*, but still a great list of good practices to implement autocompletion.
+- [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - Not falsehoods _per-se_, but still a great list of good practices to implement autocompletion.
 - [Floating Point Math](https://0.30000000000000004.com) - "Your language isn't broken, it's doing floating point math. (…) This is why, more often than not, `0.1 + 0.2 != 0.3`."
 - [The Hidden Complexity of Downloading Favicons, Told in 15+ Edge Cases](https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/) - Downloading that little icon you see in you browser tabs should be a simple exercise. It turned out to be a lot more complicated than you think. Be vigilant that you are not shaving a Yak.
 - [Norway is not False](https://mobile.twitter.com/chrisjrn/status/1232016100038266880) - Norway's ISO country code is also valid YAML for False.
@@ -217,4 +217,4 @@ The [header image](https://github.com/kdeldycke/awesome-falsehood/blob/main/asse
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">\[1\]</a>: [*Notebooks, 1914-1916*, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">\[1\]</a>: [_Notebooks, 1914-1916_, page 14e](https://archive.org/details/notebooks191419100witt/page/n35) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)

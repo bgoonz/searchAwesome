@@ -13,7 +13,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 **Note**: Some of the commands may not work out of the box. You might need to run a post install script to add aliases or add them manually.
 
-
 ## Table of Contents
 
 - [Git Extras](#git-extras)
@@ -63,7 +62,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Git Profile](#git-profile)
 - [git revise](#git-revise)
 - [filter-repo](#filter-repo)
-
 
 ## [git-extras](https://github.com/tj/git-extras)
 
@@ -516,7 +514,6 @@ $ git psykorebase --continue
 $ git psykorebase master feature
 ```
 
-
 ## [gitflow (AVH Edition)](https://github.com/petervanderdoes/gitflow-avh)
 
 ### flow init
@@ -571,7 +568,6 @@ $ git flow hotfix delete awesome-release
 $ git flow support
 ```
 
-
 ## [git-up](https://github.com/aanand/git-up)
 
 ```
@@ -582,7 +578,6 @@ changelog ahead of upstream
 master    fast-forwarding...
 returning to 4.0
 ```
-
 
 ## [hub](https://github.com/github/hub)
 
@@ -746,7 +741,6 @@ $ git ci-status
 success
 ```
 
-
 ## [git-deploy](https://github.com/mislav/git-deploy)
 
 ```
@@ -756,11 +750,9 @@ $ git deploy init
 $ git push production master
 ```
 
-
 ## [git-cal](https://github.com/k4rthik/git-cal)
 
 ![68747470733a2f2f7261772e6769746875622e636f6d2f6b34727468696b2f6769742d63616c2f6d61737465722f73637265656e73686f74732f696d67322e706e67](https://cloud.githubusercontent.com/assets/6316590/12465623/17d828ea-c023-11e5-8077-2e9a284defd6.png)
-
 
 ## [git-hooks](https://github.com/icefox/git-hooks)
 
@@ -779,7 +771,6 @@ pre-commit/bsd 	- Check for the BSD license.
 
 /GitHub/git-hooks/.githooks:
 ```
-
 
 ## [git-imerge](https://github.com/mhagger/git-imerge)
 
@@ -905,7 +896,6 @@ $ git imerge remove
 $ git imerge reparent
 67ebc0e6517ac791de6699453b71d2c7fd81ffcd
 ```
-
 
 ## [git-issue](https://github.com/dspinellis/git-issue)
 
@@ -1116,7 +1106,6 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-
 ## [git-lfs](https://github.com/github/git-lfs)
 
 ```
@@ -1138,7 +1127,6 @@ $ git lfs track
 Listing tracked paths
     *.mp3 (.gitattributes)
 ```
-
 
 ## [git-now](https://github.com/iwata/git-now)
 
@@ -1167,7 +1155,6 @@ Date:   Thu Aug 27 10:39:10 2015 +1000
        "repository": "gulpjs/gulp",
        "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
 ```
-
 
 ## [git-plus](https://github.com/tkrajina/git-plus)
 
@@ -1210,7 +1197,6 @@ $ git recent
      11.63 days: dev
 ```
 
-
 ## [git-test](https://github.com/spotify/git-test)
 
 ```
@@ -1220,7 +1206,6 @@ iter commit  tree    result
 0000 57af4b0 f5ef0d8 pass (cached)
 0001 10ed389 434370f pass
 ```
-
 
 ## [legit](https://github.com/kennethreitz/legit)
 
@@ -1287,7 +1272,6 @@ $ git unpublish master
 Unpublishing master.
 ```
 
-
 ## [git-when-merged](https://github.com/mhagger/git-when-merged)
 
 ```
@@ -1297,7 +1281,6 @@ $ git when-merged HEAD
 refs/heads/master                      Commit is directly on this branch.
 ```
 
-
 ## [git-playback](https://github.com/jianli/git-playback)
 
 ```
@@ -1306,7 +1289,6 @@ $ git playback README.md
 
 ![](https://camo.githubusercontent.com/9abe1d2de474dbc0d1ad4f48acf9e954ff0d0b30/68747470733a2f2f7261772e6769746875622e636f6d2f6a69616e6c692f6769742d706c61796261636b2f6d61737465722f616e696d6174696f6e2e676966)
 
-
 ## [git-branch-status](https://github.com/alexdavid/git-branch-status)
 
 ```
@@ -1314,7 +1296,6 @@ $ git branch-status
  4.0       [57 ahead and 38 behind master]    [up to date with origin/4.0]
  master    [current branch]                   [1 ahead of origin/master]
 ```
-
 
 ## [git-open](https://github.com/paulirish/git-open)
 
@@ -1328,7 +1309,6 @@ $ git open upstream
 $ git open upstream master
 > open https://github.com/REMOTE_UPSTREAM_USER/CURRENT_REPO/tree/master
 ```
-
 
 ## [git-my](https://github.com/davidosomething/git-my)
 
@@ -1346,7 +1326,6 @@ $ git my
   ......................... defunct-ios-app-nag
   .....[local]............. factor-bundles
 ```
-
 
 ## [git-ink](https://github.com/davidosomething/git-ink)
 
@@ -1369,7 +1348,6 @@ $ git ink
 • sass-lint ............................................. 2015-10-14
     - module does not work
 ```
-
 
 ## [recursive-blame](https://github.com/scottgonzalez/recursive-blame)
 
@@ -1411,9 +1389,7 @@ Match:  1 of 1
 7)   "bugs": "https://github.com/angular/angular/issues",
 ```
 
-
 ## [hyper-blame](https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/git-hyper-blame.html)
-
 
 ```
 $ git hyper-blame -i 3ddda43c ipsum.txt
@@ -1425,9 +1401,7 @@ c6eb3bfa (lorem 2014-08-11 23:15:57 +0000  5) NOSTRUD EXERCITATION ULLAMCO LABOR
 0f0d17bd (dolor 2014-06-02 11:31:48 +0000 6*) NISI UT ALIQUIP EX EA COMMODO CONSEQUAT.
 ```
 
-
 ## [git-word-blame](https://framagit.org/mdamien/git-word-blame)
-
 
 ```
 $ git word-blame README.md
@@ -1440,8 +1414,6 @@ results in /tmp/word-blame-output/
 ```
 
 ![git word-blame on this README](https://user-images.githubusercontent.com/1469823/57202569-0247eb00-6fa7-11e9-8549-f55d81299fab.png)
-
-
 
 ## [git-fire](https://github.com/qw3rtman/git-fire)
 
@@ -1461,11 +1433,9 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 Leave building!
 ```
 
-
 ## [git-town](https://github.com/Originate/git-town)
 
 TBD - PR Welcome!
-
 
 ## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else)
 
@@ -1473,7 +1443,6 @@ TBD - PR Welcome!
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
-
 
 ## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 
@@ -1483,11 +1452,9 @@ $ git dsf
 
 ![diff-highlight vs diff-so-fancy](https://user-images.githubusercontent.com/3429760/32387617-44c873da-c082-11e7-829c-6160b853adcb.png)
 
-
 ## [git-stats](https://github.com/IonicaBizau/git-stats)
 
 ![](http://i.imgur.com/PpM0i3v.png)
-
 
 ## [git-secret](https://github.com/sobolevn/git-secret)
 
@@ -1541,13 +1508,11 @@ File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
-
 ## [git-secrets](https://github.com/awslabs/git-secrets)
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
 TBD - PR Welcome!
-
 
 ## [git-fixup](https://github.com/keis/git-fixup)
 
@@ -1564,7 +1529,6 @@ $ git fixup 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8
 24aa3d9c10cc02fe813dc83d1ac792cc2e7d705d [F] add screenshot of git-stats <maochenyan@gmail.com>
 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L] changed gif with text <mail@sobolevn.me>
 ```
-
 
 ## [git-recent](https://github.com/paulirish/git-recent)
 
@@ -1605,7 +1569,6 @@ Options:
   [args...]              These arguments are passed verbatim to git-rebase.
 ```
 
-
 ## [git-user](https://github.com/gesquive/git-user)
 
 ```
@@ -1641,16 +1604,13 @@ Saved Profiles:
   work: Dr. Henry Jekyll <henry@jekyll.com>
 ```
 
-
 ## [gitsome](https://github.com/donnemartin/gitsome)
 
 TBD - PR Welcome!
 
-
 ## [git-hound](https://github.com/ezekg/git-hound)
 
 TBD - PR Welcome!
-
 
 ## [git-recall](https://github.com/Fakerr/git-recall)
 
@@ -1671,7 +1631,6 @@ $ git recall -f
 # Fetch commits beforehand.
 ```
 
-
 ## [git-standup](https://github.com/kamranahmedse/git-standup)
 
 ```
@@ -1686,7 +1645,6 @@ adbc5423 - add ci/cd to readme. (13 hours ago) <Steve Mao>
 a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
-
 
 ## [commitizen](https://github.com/commitizen/cz-cli)
 
@@ -1707,7 +1665,6 @@ Line 1 will be cropped at 100 characters. All other lines will be wrapped after 
   perf:     A code change that improves performance
   test:     Adding missing tests or correcting existing tests
 ```
-
 
 ## [git-fresh](https://github.com/imsky/git-fresh)
 
@@ -1760,7 +1717,7 @@ File:      lib/common.sh
 
 https://github.com/zdharma/git-url
 ```
- 
+
 ### git guclone
 
 ```
@@ -1777,7 +1734,6 @@ Resolving deltas: 100% (71/71), done.
 Checking out revision/reference v1.0... OK
 HEAD is at: 5d10a204, created directory git-url
 ```
-
 
 ## [git-signatures](https://github.com/hashbang/git-signatures)
 
@@ -1797,13 +1753,11 @@ To git@github.com:jsmith/test-signatures
  + 4de5afd...5b1f2cd v1.0.0 -> v1.0.0 (forced update)
 ```
 
-
 ### signatures verify
 
 ```
 $ git signatures verify v1.0.0
 ```
-
 
 ### signatures verify --min-count 2
 
@@ -1819,7 +1773,6 @@ For detailed signature status run:
 > git signatures show
 ```
 
-
 ### signatures show
 
 ```
@@ -1827,10 +1780,12 @@ $ git signatures show v1.0.0
  Public Key ID    | Status     | Trust     | Date                         | Signer Name
 =======================================================================================================================
 01234567890ABCDEF | VALIDSIG   | ULTIMATE  | Sat Nov 10 13:16:10 EST 2018 | Steve Mao <maochenyan@gmail.com>
- ```
+```
 
 ## [git-profile](https://github.com/dm3ch/git-profile-manager)
+
 ### add a work profile
+
 ```
 $ git profile add work
 Name: Name Surname
@@ -1840,12 +1795,14 @@ Profile work added successfully
 ```
 
 ### add a personal profile
+
 ```
 $ git profile add home -n "Name Surname" -e name@gmail.com
 Profile home added successfully
 ```
 
 ### list out our saved profiles
+
 ```
 $ git profile list
 Existing profiles:
@@ -1854,9 +1811,11 @@ home
 ```
 
 ### set the current git repository user to the home profile
+
 ```
 $ git profile use work
 ```
+
 Currently there will be no output in case of success
 
 ## [git-revise](https://github.com/mystor/git-revise)
@@ -1866,7 +1825,6 @@ TBD - PR Welcome!
 ## [filter-repo](https://github.com/newren/git-filter-repo)
 
 TBD - PR Welcome!
-
 
 ## License
 

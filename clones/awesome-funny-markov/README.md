@@ -2,10 +2,9 @@
 
 A facetiously curated list of delightfully amusing Markov chain output, inspired by [memorylessness](https://en.wikipedia.org/wiki/Memorylessness).
 
-If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/blob/master/contributing.md) to this list (please do), send a pull request or contact me [@sublimino](https://twitter.com/sublimino). 
+If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/blob/master/contributing.md) to this list (please do), send a pull request or contact me [@sublimino](https://twitter.com/sublimino).
 
 Looking for more information on Markov Chains? Try [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
-
 
 ## Table of Contents
 
@@ -15,7 +14,6 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [Tools](#tools)
 - [A history of funny Markov chains](#a-history-of-funny-markov-chains)
 - [Sober applications](#sober-applications)
-
 
 ## Web and Tech
 
@@ -47,7 +45,6 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [@icowid](https://twitter.com/icowid) - a markov bot trained on erowid trip reports and ICO whitepapers.
 - [@hipsterwid](https://twitter.com/hipsterwid) - An hipster bot trained on Erowid trip reports and Pitchfork's album reviews.
 
-
 ## Media
 
 - [Calvin and Markov](http://joshmillard.com/markov/calvin/) - Calvin and Hobbes strips reimagined.
@@ -60,7 +57,6 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [Markov Bible](https://web.archive.org/web/20081224025955/http://www.markovbible.com/) - The whole book (archive.org).
 - [Automatic Donald Trump](https://filiph.github.io/markov/) - Donald Trump's smart keyboard.
 - [Insta-Trump](http://trump.frost.works/) - create a mathematically generated Trump speech.
-
 
 ## Tools
 
@@ -76,13 +72,11 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning](ht
 - [Mark V. Shaney's Website](https://web.archive.org/web/19970418070034/http://softway.com.au/people/mvs/) - Mark V. Shaney's finest hours (archive.org).
 - [Fun With Markov Chains](http://www.eblong.com/zarf/markov/) - Featuring "Alice in Elsinore: The Alice books and Hamlet", and "The Revelation of St. Alice: The Alice books, and the books of Genesis and Revelation".
 
-
 ## Sober applications
 
 - [PageRank](https://en.wikipedia.org/wiki/PageRank?oldformat=true#Damping_factor) - Google is built on Markov Chains.
 - [Digital Music Programming](http://peabody.sapp.org/class/dmp2/lab/markov1/) - MIDI Markov music.
 - [A visual explanation of Markov chains](http://setosa.io/blog/2014/07/26/markov-chains/) - A useful guide to Markov chains by Victor Powell.
-
 
 ## License
 

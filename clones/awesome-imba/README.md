@@ -4,29 +4,26 @@
 	</a>
 </p>
 
-
 # Awesome Imba [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub contributors](https://img.shields.io/github/contributors/koolamusic/awesome-imba)](#contributors)
 
 > A curated list of awesome Imba frameworks, libraries, software and resources
 
 Imba is a programming language inspired by Ruby and Python and compiles to performant and readable JavaScript with build-in transpilers and webpack loader.
 
-
 ## Contents
 
 - [Resources](#resources)
-	- [Official Resources](#official-resources)
-	- [Toolkits and Frameworks](#toolkits-and-frameworks)
-	- [Editor Plugins and IDEs](#editor-plugins-and-ides)
-	- [Guides and Tutorials](#guides-and-tutorials)
-	- [Articles](#articles)
+  - [Official Resources](#official-resources)
+  - [Toolkits and Frameworks](#toolkits-and-frameworks)
+  - [Editor Plugins and IDEs](#editor-plugins-and-ides)
+  - [Guides and Tutorials](#guides-and-tutorials)
+  - [Articles](#articles)
 - [Built with Imba](#built-with-imba)
-	- [Real World Apps](#real-world-apps)
-	- [Tools](#tools)
-	- [Apps/Websites](#appswebsites)
+  - [Real World Apps](#real-world-apps)
+  - [Tools](#tools)
+  - [Apps/Websites](#appswebsites)
 - [Contribution](#contribution)
 - [Contributors](#contributors)
-
 
 ## Resources
 
@@ -38,15 +35,14 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 - [GitHub Repo](https://github.com/imba/imba)
 - [GitHub Organization](https://github.com/imba)
 
-
 #### Toolkits and Frameworks
 
 - [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect that was inspired by Create React App and Vue CLI.
 - [Hello World Imba](https://github.com/imba/hello-world-imba) - Official Imba "Hello World" example. Also you can use it as GitHub template.
 - [Imba Router](https://github.com/somebee/imba-router) - Experimental router for Imba.
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba.
-- [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
-processing of Imba files.
+- [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable
+  processing of Imba files.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - Material Design components written in Imba.
 - [Imba Inertia Adapter](https://github.com/haikyuu/imba-inertia-adapter) - Imba [Inertia](https://inertiajs.com) adapter.
 
@@ -55,7 +51,6 @@ processing of Imba files.
 - [Atom](http://github.com/somebee/language-imba) - Imba plugin for Atom.
 - [Sublime Text](http://github.com/somebee/sublime-imba) - Imba plugin for Sublime.
 - [VSCode](http://github.com/somebee/vscode-imba) - Imba plugin for VSCode.
-
 
 #### Guides and Tutorials
 
@@ -66,12 +61,10 @@ processing of Imba files.
 - [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - Learn how imba-router works in Imba.
 - [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB) - Learn how to create an app faster and easier with Imba.
 
-
 #### Articles
 
 - [An Intro to Imba: the JavaScript-compatible language for lightning fast DOM updates - freeCodeCamp](https://medium.freecodecamp.org/introduction-to-imba-the-alternative-to-javascript-e2aa1e3d1769)
 - [New JavaScript-based Web Language Challenges React - ADTMag](https://adtmag.com/articles/2016/01/14/imba-web-language.aspx)
-
 
 ## Built with Imba
 
@@ -81,7 +74,6 @@ processing of Imba files.
 - [Iceland Fish Auction Market](https://rsf.is) - A website for the iceland fish market.
 - [GitSpeak](https://gitspeak.com) - A project management tool for developers.
 
-
 #### Tools
 
 - [html2imba](https://github.com/konsumer/html2imba) - [view online](http://konsumer.js.org/html2imba/) - A tool to convert HTML to Imba tag source.
@@ -89,16 +81,15 @@ processing of Imba files.
 - [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) - Decoder for monoalphabetic cipher.
 - [RegExp Explorer](https://github.com/taw/imba-regexp-explorer) - [view online](https://taw.github.io/imba-regexp-explorer) - Regex tool.
 
-
 #### Apps/Websites
 
-- [Imba Todo MVC](https://github.com/somebee/todomvc-imba) -  Imba TodoMVC Example.
+- [Imba Todo MVC](https://github.com/somebee/todomvc-imba) - Imba TodoMVC Example.
 - [Other Todo MVC](https://github.com/shapkarin/imba-todo) - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc](https://github.com/tastejs/todomvc) rules.
 - [Simple Todo](https://github.com/taw/imba-todo-list) - [view online](https://taw.github.io/imba-todo-list) - More basic todo list app.
 - [Imba Realworld App](https://github.com/cartonalexandre/imba-realworld-example-app) - [view online](https://imba-realworld-example-app.netlify.com/) - Project was created to demonstrate a fully fledged fullstack application that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 - [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn) - Demonstration of Imba & Capacitor used to build Hacker News clone.
 - [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048) - 2048 Game.
-- [Calculator](https://github.com/taw/imba-calculator) - [view online](https://taw.github.io/imba-calculator)  - Calculator.
+- [Calculator](https://github.com/taw/imba-calculator) - [view online](https://taw.github.io/imba-calculator) - Calculator.
 - [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) - Memory game.
 - [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) - A cool interaction website.
 - [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) - Fifteen puzzle.
@@ -111,12 +102,11 @@ processing of Imba files.
 - [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zombie shooter game.
 - [Ping CRM](https://github.com/haikyuu/perfect-stack) - CRUD app with login, acccount, organizations and contacts management. Built with Inertia, Edgedb and Imba
 
-
 ## Contribution
+
 Your contributions and suggestions are welcome anytime. Are you building great stuff with Imba? Feel free to share with us! :blush:
 
 Here are [instructions](./CONTRIBUTING.md). Please read the [Code of Conduct](.github/CODE_OF_CONDUCT.md) as well.
-
 
 ## Contributors
 
@@ -143,8 +133,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-
 ## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 See [LICENSE.md](LICENSE.md)

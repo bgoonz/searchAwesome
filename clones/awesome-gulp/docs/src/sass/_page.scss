@@ -3,7 +3,7 @@
 */
 
 a {
-  color:#303F9F;
+  color: #303f9f;
   text-decoration: none;
 }
 
@@ -27,9 +27,9 @@ blockquote {
 .mdl-ribbon {
   width: 100%;
   height: 40vh;
-  background-color: #514A9D;
-  background: -webkit-linear-gradient(0deg,#303F9F 10%,#9C27B0 90%);
-  background: linear-gradient(90deg,#303F9F 10%,#9C27B0 90%);
+  background-color: #514a9d;
+  background: -webkit-linear-gradient(0deg, #303f9f 10%, #9c27b0 90%);
+  background: linear-gradient(90deg, #303f9f 10%, #9c27b0 90%);
   flex-shrink: 0;
 }
 
@@ -38,7 +38,7 @@ blockquote {
   flex-shrink: 0;
 }
 
-.mdl-header  {
+.mdl-header {
   .mdl-layout__header-row {
     padding-left: 0;
   }
@@ -50,13 +50,13 @@ blockquote {
   margin: 0 auto;
 }
 
-.mdl-layout.is-small-screen  {
+.mdl-layout.is-small-screen {
   .mdl-content {
     padding: 40px 28px;
   }
 }
 
-.mdl-content  {
+.mdl-content {
   border-radius: 2px;
   padding: 30px 45px;
   margin-bottom: 80px;

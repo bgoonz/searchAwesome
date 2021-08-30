@@ -52,9 +52,9 @@ If your project is on this list then you are entitled to proudly wear our humane
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
-Our mission is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 
+Our mission is: [**To Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322)
 
-We gladly invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about interesting Humane Technology subjects, participate in our discussions, and become a true :heart:  _Humane Tech Activist!_
+We gladly invite you to our [Humane Tech Community Forum](https://community.humanetech.com) to read more about interesting Humane Technology subjects, participate in our discussions, and become a true :heart: _Humane Tech Activist!_
 
 You can also follow us on the fediverse at [@humanetech@mastodon.social](https://mastodon.social/@humanetech).
 
@@ -368,7 +368,7 @@ Deaf and Hard of Hearing accessibility resources:
 
 - [OONI Probe](https://ooni.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ooni/probe) - Observation network to detect censorship, surveillance and traffic manipulation (first read [risks](https://ooni.io/about/risks/)).
 - [Green Tunnel](https://github.com/SadeghHayeri/GreenTunnel) - An anti-censorship utility designed to bypass ISPs that block access to certain websites.
-- [Wikiless](https://wikiless.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/orenom/Wikiless)  - Alternative Wikipedia front-end focused on privacy and anti-censorship.
+- [Wikiless](https://wikiless.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/orenom/Wikiless) - Alternative Wikipedia front-end focused on privacy and anti-censorship.
 
 ## Unmaintained
 
@@ -399,7 +399,7 @@ Also check out these sites for great alternatives to the monopolistic, privacy-i
 - [ReverseEagle-Developers](https://developers.reverseeagle.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/gitlab.svg?sanitize=true" width="16"/>](https://forge.tedomum.net/ReverseEagle/developers) - Privacy-conscious, ethical and safer alternatives to software for developers.
 - [ethical.net](https://ethical.net/resources/) - Ethical alternatives & resources.
 - [JustPrivacy](https://justprivacy.org/google-alternatives/) - An in-depth list of alternatives to Google and its products.
-- [Tromjaro Apps](https://www.tromjaro.com/apps/) - A curated collection of trade-free applications. 
+- [Tromjaro Apps](https://www.tromjaro.com/apps/) - A curated collection of trade-free applications.
 - [delightful project <img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/codeberg.svg?sanitize=true" width="16"/>](https://codeberg.org/teaserbot-labs/delightful) - Similar to awesome project, but only for FOSS, Open Data and Open Science.
 
 ## Contributing

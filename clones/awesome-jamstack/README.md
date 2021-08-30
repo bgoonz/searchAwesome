@@ -74,9 +74,10 @@
 - [Vercel](https://vercel.com) - All-in-one serverless platform for modern web apps with config-free tools and workflows.
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 
-*For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps].*
+_For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps]._
 
 ## No-Code Platforms
+
 - [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
 - [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components and Jamstack websites visually.
@@ -110,9 +111,10 @@
 - [Nift](https://nift.cc) - A cross-platform open source website generator developed in C++ that is lightning fast and extremely powerful.
 - [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 
-*For a more complete list see [StaticGen](https://www.staticgen.com/).*
+_For a more complete list see [StaticGen](https://www.staticgen.com/)._
 
 ## CMS
+
 - [Cosmic](https://cosmicjs.com) - Headless CMS with REST and GraphQL API options.
 - [Kentico Kontent](https://kontent.ai) - A cloud-native headless CMS that scales.
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
@@ -135,6 +137,7 @@
 - [Flotiq](https://flotiq.com) - An effortless headless CMS.
 - [TreacleWP](https://www.treaclewp.com) - WordPress API hosting.
 - [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
+
 ## API
 
 ### Authentication
@@ -184,6 +187,7 @@
 - [Jexia DataSet](https://jexia.com) - REST API Schema & Shemaless cloud data storage with built-in validators, relations, aggregation functions.
 
 ### File management
+
 - [Jexia FileSet](https://jexia.com) - REST API File manager for your application with indexing and extra functions.
 
 ### Automation
@@ -211,11 +215,11 @@
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - Serverless machine learning services that automatically scales built on custom Google hardware (Tensor Processing Units).
 - [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures.
 - [Cloudinary](https://cloudinary.com/) - Serverless media (images/videos) management platform. Provides SDKs in every popular language and media widgets for Jamstack to make it easy to manage media, CDN, storage, transformations, and more.
-- [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
+- [imgix](https://www.imgix.com/) - Serverless image delivery and management service. imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
 - [Elastictable](https://www.elastictable.com) - Backend as a Service solution built on AWS that's on a missing to increase the success rate of online businesses.
 - [Stormkit](https://stormkit.io) - Powerful serverless infrastructure for modern javascript apps powered by AWS. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 
-*For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
+_For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless)._
 
 ## Videos
 
@@ -271,6 +275,7 @@
 - [That's my Jamstack](https://thatsmyjamstack.com)
 
 ## Books
+
 - [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - By Mathias Biilmann & Phil Hawksworth (published by O'Reilly).
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 - [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) - By Christopher Pecoraro and Vincenzo Gambino

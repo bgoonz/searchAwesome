@@ -3,6 +3,7 @@
 > A curated list of awesome things related to Flask.
 
 <!--lint ignore double-link-->
+
 [Flask](https://flask.palletsprojects.com/) is a lightweight WSGI web application framework written in Python.
 
 ## Contents
@@ -122,6 +123,7 @@
 - [Flask-Migrate](https://flask-migrate.readthedocs.io) - Handles SQLAlchemy database migrations via Alembic.
 
 <!--lint ignore double-link-->
+
 > Curious about the differences between Alembic, Flask-Alembic, Flask-Migrate, and Flask-DB? Review [this item](https://github.com/nickjj/flask-db#differences-between-alembic-flask-migrate-flask-alembic-and-flask-db) from Flask-DB's FAQ.
 
 #### Other Tools
@@ -170,7 +172,6 @@
 - [Flask-WTF](https://flask-wtf.readthedocs.io) - Integrates Flask with WTForms (provides CSRF protection as well).
 
 ### Full-text Search
-
 
 - [flask-msearch](https://github.com/honmaple/flask-msearch) - Full-text search.
 - [Flask-WhooshAlchemy3](https://github.com/blakev/Flask-WhooshAlchemy3) - Full-text search + Whoosh indexing capabilities for Flask-SQLAlchemy.

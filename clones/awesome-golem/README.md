@@ -65,6 +65,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Golem Requestor Node](https://github.com/DerekJarvis/general-golem) - Dockerized requestor environment. Pass in the py script, it sets up the daemon and runs it.
 
 ### Testing
+
 - [Golem Test Harness (Goth)](https://github.com/golemfactory/goth) - Tool with the purpose of speeding up your development process and making it more enjoyable for application creators.
 - [Golem-afl](https://github.com/sladecek/golem-afl) - An experimental test-fuzzing framework. Assists in finding security holes.
 - [Golem Cargo Test](https://github.com/sladecek/golem_cargo_test) - An adaptive distributed test executor for Rust projects.
@@ -105,20 +106,25 @@ The users of Golem run the reference implementation in the form of the Rust impl
 - [Mutta Puffs](https://github.com/DeveloperInProgress/Mutta-Puffs) - Sports league scheduler that solves the Travelling Tournament Problem for a given set of teams using Population-based Simulated Annealing.
 
 ### Finance
+
 - [ZKSync .csv export](https://github.com/blue-notes-robot/zksync-csv-export) - Scrapes ZKSync to generate financial data in a .csv file.
 
 ### Machine Learning
+
 - [DeML-Golem](https://github.com/anshuman73/DeML-Golem) - Decentralised Machine Learning using Federated Learning to combine the sub-step models, it trains on different provider nodes into a full fleged model.
 
 ### Deep Learning
+
 - [Mlg](https://github.com/rezahsnz/mlg) - CNN predict services, a deep learning application that distributes popular CNNs pre-trained with ImageNet datasets.
 - [Deepart Golem](https://github.com/echinocacti/deepart_golem) - Makes art using distributed computing by running a tensorflow app, uploading your content and style picture.
 
 ### RNG
+
 - [Gandom](https://github.com/rezahsnz/gandom) - Extract random streams from providers. Supports two PRNGs, one based on Chaos machines and the other that makes use of Sodium.
 - [Entropythief](https://github.com/krunch3r76/entropythief) - Get random entropy at a steal of a rate from multiple providers utilizing the linux entropy source or Intel's RDRAND cpu instruction (inspired by Gandom).
 
 ### Password Recovery
+
 - [Golem-JTR](https://github.com/hhio618/golem-jtr) - Run John The Ripper to recover a password.
 - [Yacat](https://handbook.golem.network/requestor-tutorials/task-processing-development/task-example-2-hashcat) - Hashcat password-recovery step-by-step.
 
@@ -133,7 +139,7 @@ The users of Golem run the reference implementation in the form of the Rust impl
 
 ### Miscellaneous
 
-- [Gc__gvmi_hash](https://github.com/krunch3r76/gc__gvmi_hash) - Recalculate the hash of gvmi image file. Solves the issue of having lost the hash of a previously uploaded image or if you're unsure if a key corresponds to a specific image.
+- [Gc\_\_gvmi_hash](https://github.com/krunch3r76/gc__gvmi_hash) - Recalculate the hash of gvmi image file. Solves the issue of having lost the hash of a previously uploaded image or if you're unsure if a key corresponds to a specific image.
 - [gvm-vim](https://github.com/canokaue/gvm-vim) - Golemized docker image for compiling the VIM editor.
 - [YaJSapi fork with greeting example](https://github.com/rezahsnz/yajsapi) - Simple Node.js requestor app that greets you. It writes some important message to a file and then downloads it for you, the basic eskeleton of a requestor app. Look in `examples/greetings`.
 - [Golem Image Sharpening](https://github.com/visualNext/golem) - A tool to sharpen images.

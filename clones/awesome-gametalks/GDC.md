@@ -1,6 +1,7 @@
 # Free GDC Talks
 
-## 2014 ##
+## 2014
+
 - [2014, Europe] [Curating Video Game Culture: The New Wave of Video Game Events](http://gdcvault.com/play/1020374/): Sarah Brin, Marie Foulston, Kunal Gupta, Jim Munroe, Wiley Wiggins (Panel)
 - [2014, Europe] [Scapegoats No More: Improving the Public Image of Games (Presented by IGDA)](http://gdcvault.com/play/1018081/): Ian Bogost, Michael Capps, Daniel Greenberg (Panel)
 - [2014, Europe] [Antichamber: An Overnight Success, Seven Years in the Making](http://gdcvault.com/play/1020776/): Alexander Bruce (Antichamber)
@@ -15,7 +16,7 @@
 - [2014, Next] [Why Is Gone Home a Game?](http://gdcvault.com/play/1020376/): Steve Gaynor (The Fullbright Company)
 - [2014] [GDC Microtalks 2014: One Hour, Ten Speakers, a Panoply of Game Thinking!](http://gdcvault.com/play/1020391/): Emily Greer, Tadhg Kelly, Mitu Khandaker-Kokoris, Harry Lee, RichardLemarchand, Susan O'Connor, Lana Polansky, Elizabeth Sampat, Brian Sharp, Austin Wintory (Panel)
 - [2014] [Indie Grassroots Marketing](http://gdcvault.com/play/1021468/): Zach Gage, Rami Ismail, Raph Koster, Adam Saltsman (Panel)
-- [2014] [Indie Soapbox](http://gdcvault.com/play/1020582/): Leigh Alexander, Shawn Alexander Allen, Ryan Clark, Zach Gage, Kert Gartner, Nika Harper, Robin Hunicke, Ethan Levy,  Zoe Quinn, Lea Schonfelder (Panel)
+- [2014] [Indie Soapbox](http://gdcvault.com/play/1020582/): Leigh Alexander, Shawn Alexander Allen, Ryan Clark, Zach Gage, Kert Gartner, Nika Harper, Robin Hunicke, Ethan Levy, Zoe Quinn, Lea Schonfelder (Panel)
 - [2014] [Photorealism Through the Eyes of a FOX: The Core of Metal Gear Solid Ground Zeroes (Presented by Kojima Productions)](http://gdcvault.com/play/1018086/): Hideo Kojima, Hideki Sasaki, Masayuki Suzuki, Junji Tago (Panel)
 - [2014] [The 2014 European Innovative Games Showcase](http://gdcvault.com/play/1020863/): Sylvia Ritter, Luke Spierewka, Eline Muijres, Sherida Halatoe, Geert Nellen, Andreas Zecher, James Brown, Lea Schoenfelder, Matthew Warshaw, Eliott Johnson, Leonard Ritter, Adriaan de Jongh, Michael Brown, Thijmen Bink, Jonatan Van Hove (Panel)
 - [2014] [A Great Disturbance in Development: The Dark Side of Early Access](http://gdcvault.com/play/1020874/): James Crowe (Bohemia Interactive)
@@ -53,14 +54,15 @@
 - [2014] [Using YouTube to Market Your Indie Game](http://gdcvault.com/play/1020499/): Ryan Letourneau (Independent)
 - [2014] [Narrative Legos](http://gdcvault.com/play/1020434/): Ken Levine (Irrational Games)
 - [2014] [Antichamber: Three Years of Hardcore Iteration](http://gdcvault.com/play/1020586/): Alexander Bruce
-- [2014] [A Study in Transparency: How Board Games Matter](http://gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games) 
+- [2014] [A Study in Transparency: How Board Games Matter](http://gdcvault.com/play/1020408/): Soren Johnson (Mohawk Games)
 - [2014] [Interpreting Feedback and Maintaining Your Vision](http://gdcvault.com/play/1020495/): Andy Nguyen (Pocketwatch Games)
 - [2014] [Jiro Dreams of Game Design](http://gdcvault.com/play/1020496/): Brenda Romero (UC Santa Cruz)
 - [2014] [Preserving a Sense of Discovery in the Age of Spoilers](http://vimeo.com/91436410): James Crawford (Twinbeard Studios)
 - [2014] [Animation Bootcamp: An Indie Approach to Procedural Animation](http://gdcvault.com/play/1020583/): David Rosen (Wolfire Games)
 - [2014] [Enhancing Sportsmanship in Online Games](http://www.gdcvault.com/play/1020389/): Jeffrey Lin (Riot Games)
 
-## 2013 ##
+## 2013
+
 - [2013, Europe] [Crimewatch 2.0: Redesigning EVE Online's Policing System](http://gdcvault.com/play/1020382/): Matthew Woodward (CCP Games)
 - [2013, Europe] [Ellie: Buddy AI in The Last of Us](http://gdcvault.com/play/1020364/): Max Dyckhoff (Naughty Dog, Inc.)
 - [2013, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020902/): Annakaisa Kultima, Auriea Harvey, Brenda Romero, Zuraida Buter, Henrike aka Riker Lode, Siobhan Reddy, Leigh Alexander (Panel)
@@ -73,15 +75,17 @@
 - [2013] [Designing Journey](http://www.gdcvault.com/play/1017700/): Jenova Chen (thatgamecompany)
 - [2013] [AI Postmortems: Assassin's Creed III, XCOM: Enemy Unknown, and Warframe](http://www.gdcvault.com/play/1018058/): Daniel Brewer, Alex Cheng, Richard Dumas, Aleissia Laidacker (Panel)
 
-## 2012 ##
+## 2012
+
 - [2012] [The 5 Domains of Play: Applying Psychology's Big 5 Motivation Domains to Games](http://gdcvault.com/play/1015595/): Jason VandenBerghe (Ubisoft)
 - [2012] [A Theory of Fun 10 Years Later](http://www.gdcvault.com/play/1016632/): Raph Koster (Playdom)
 - [2012] [Attention, Not Immersion: Making Your Games Better with Psychology and Playtesting, the Uncharted Way](http://www.gdcvault.com/play/1015745/): Richard Lemarchand (Naughty Dog)
 - [2012] [Classic Game Postmortem: Harvest Moon](http://www.gdcvault.com/play/1015842/): Yasuhiro Wada (Toy Box, Inc.)
-- [2012] [Creating a Sequel to a Game That Doesn't Need One](https://www.youtube.com/watch?v=OLqk4aqpXlQ): Chet Faliszek, Erik Wolpaw (Valve) 
+- [2012] [Creating a Sequel to a Game That Doesn't Need One](https://www.youtube.com/watch?v=OLqk4aqpXlQ): Chet Faliszek, Erik Wolpaw (Valve)
 - [2012] [How I Got My Mom to Play Through Plants vs. Zombies](http://www.gdcvault.com/play/1015541/): George Fan (PopCap)
 
-## 2011 ##
+## 2011
+
 - [2011, Europe] [#1ReasonToBe](http://gdcvault.com/play/1020593/): Leigh Alexander, Deirdra Kiai, Anna Kipnis, Colleen Macklin, Laralyn McWilliams, Brenda Romero, Lauren Scott (Panel)
 - [2011] [Truth in Game Design](http://www.gdcvault.com/play/1014982/): Jonathan Blow (Number None, Inc.)
 - [2011] [Dynamics: The State of the Art](http://www.gdcvault.com/play/1014597/): Clint Hocking (LucasArts)
@@ -89,25 +93,29 @@
 - [2011] [Life and Death and Middle Pair: Go, Poker and the Sublime](http://gdcvault.com/play/1014383/): Frank Lantz (Zynga)
 - [2011] [The Road Ahead](https://www.youtube.com/watch?v=5fkSUQEMwV4): Cliff Bleszinski (Epic Games)
 
-## 2010 ##
+## 2010
+
 - [2010] [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](http://www.gdcvault.com/play/1012211/): Jaime Griesemer (Bungie)
 - [2010, Keynote] [Everything You Know is Wrong](https://www.youtube.com/watch?v=bY7aRJE-oOY): by Sid Meier (Firaxis Games)
 
-## 2009 ##
+## 2009
 
-#### AI Summit ####
+#### AI Summit
+
 - [2009] [Beyond Behavior: An Introduction to Knowledge Representation](http://gdcvault.com/play/1267/): Damian Isla, Peter Gorniak (Moonshot Games, MIT Media Lab)
 
-#### Programming ####
+#### Programming
 
 - [2009] [HALO WARS: The Terrain of Next-Gen](http://gdcvault.com/play/1277/): Colt McAnlis (Blizzard)
 - [2009] [Rasterization on Larrabee: A First Look at the Larrabee New Instructions (LRBni) in Action](http://gdcvault.com/play/1402/): Michael Abrash (Rad Game Tools)
 - [2009] [Rendering Techniques in GEARS OF WAR 2](http://gdcvault.com/play/1295/): Daniel Wright, Niklas Smedberg (Epic Games)
 
-#### Casual Games Summit ####
+#### Casual Games Summit
+
 - [2009] [Designing for the Blue Ocean](http://gdcvault.com/play/1359/): John Welch, Steve Meretzky, Brian Goble, Jason Kapalka, Margaret Wallace, Jane Jensen, Dan Prigg, Nick Fortugno, Ofer Leidner, Kenny Shea Dinkin, Todd Kerpelman (Panel)
 
-#### Game Design ####
+#### Game Design
+
 - [2009] [Burned by Friendly Fire: Game Critics Rant](http://gdcvault.com/play/1424/): Eric Zimmerman, N\'Gai Croal, Heather Chaplin, Adam Sessler, Stephen Totilo, Leigh Alexander, Jason Della Rocca, Tom Chick (Panel)
 - [2009] [Everything I Learned About Level Design I Learned from Disneyland](http://gdcvault.com/play/1305/): Scott Rogers (THQ)
 - [2009] [From COUNTER-STRIKE to LEFT 4 DEAD: Creating Replayable Cooperative Experiences](http://gdcvault.com/play/1422/): Michael Booth (Valve)
@@ -116,13 +124,16 @@
 - [2009] [Taming Your Game Production Demons: the Offset approach](http://gdcvault.com/play/1417/): Remi Arnaud, Ian Lewis (Intel)
 - [2009] [10 Ways to Make Your Game Appeal to Teens](http://gdcvault.com/play/1011920/): Joe Shochet, Mike Goslin (Hangout Industries, Mindspark Worlds)
 
-#### Visual Arts ####
+#### Visual Arts
+
 - [2009] [From Pipe Dream to Open World: The Terraforming of FAR CRY 2](http://gdcvault.com/play/1353/): Alexandre Amancio (Ubisoft Montreal)
 
-#### Business & Marketing ####
+#### Business & Marketing
+
 - [2009] [From Dragons and Daggers to Kart Racing, Cooking and Concerts...It's a Whole New MMO World](http://gdcvault.com/play/1011912/): John Smedley (Sony Online Entertainment)
 
-#### Graphics #####
+#### Graphics
+
 - [2009, Sponsored] [Having Your Cake and Eating it Too: Increasing Game Realism, Scale and Reach](http://gdcvault.com/play/1431/): Neal Robison, Jules Urbach (AMD)
 - [2009, Sponsored] [Maximizing Multi-GPU Performance](http://gdcvault.com/play/1432/): Thomas Fortier (AMD)
 - [2009, Sponsored] [CUDA and Multi-Core Gaming: Lessons from Gamebryo Floodgate](http://gdcvault.com/play/1445): Cem Cebenoyan, Dan Amerson (NVIDIA)
@@ -138,14 +149,16 @@
 - [2009, Sponsored] [Who Moved the Goalposts? The Rapidly Changing World of CPUs and Optimization](http://gdcvault.com/play/1413/): Leigh Davies (Intel)
 - [2009, Sponsored] [Your Game Needs Direct3D 11, So Get Started Now!](http://gdcvault.com/play/1430/): Bill Bilodeau (AMD)
 
-## 2008 ##
+## 2008
+
 - [2008] [FABLE 2 - The Big Three Features Revealed](http://gdcvault.com/play/28/): Peter Molyneux (Lionhead Studios)
 - [2008] [How to Create an Industry: The Making of the Brown Box and PONG](http://gdcvault.com/play/29/): Ralph H. Baer, Allan Alcorn (IMMI)
 
-## 2007 ##
+## 2007
+
 - [2007] [Bookworm Adventures Post-Mortem](http://gdcvault.com/play/1019226/): Tysen Henderson, Jeff Weinstein (PopCap Games)
 - [2007] [Building The Future Of Indie Games](http://gdcvault.com/play/1014825/) (Panel)
-Simon Carless, Mark Morris, Derek Yu, Greg Costikyan, Eric Zimmerman
+  Simon Carless, Mark Morris, Derek Yu, Greg Costikyan, Eric Zimmerman
 - [2007] [Design Principles for Casual Games](http://gdcvault.com/play/1019227/): Nick Fortugno (Playmatics)
 - [2007] [Episodic Gaming For Indies](http://gdcvault.com/play/1014830/): Dave Grossman, Kevin Bruner (Telltale Games)
 - [2007] [Indie Prototyping, Braid, & Making Innovative Games](http://gdcvault.com/play/1014831/): Jonathan Blow (Number None, Inc.)
@@ -157,12 +170,15 @@ Simon Carless, Mark Morris, Derek Yu, Greg Costikyan, Eric Zimmerman
 - [2007] [Postmortem: Gastronaut Studios' Small Arms](http://gdcvault.com/play/1014828/): Jacob Van Wingen (Gastronaut Studios LLC)
 - [2007] [Postmortems: Game, Franchise & Company](http://gdcvault.com/play/1019228/): Lee Crawford, Heidi Perry, Jim Greer (TwoFish, PlayFirst, Kongregate)
 
-## 2006 ##
+## 2006
+
 - [2006] [What's Next in Game Design?](http://gdcvault.com/play/1014845/): Will Wright
 - [2006] [Building a Better Battlestar](http://gdcvault.com/play/1016689/): Ronald Moore
 
-## 2005 ##
+## 2005
+
 - [2005] [Heart of a Gamer](http://gdcvault.com/play/1014847/): Satoru Iwata (Nintendo Co., Ltd.)
 
-## 2003 ##
+## 2003
+
 - [2003] [Is Your Business Model Evil? The Moral Maze of the New Games Business](http://gdcvault.com/play/1020343/): Ben Cousins (Scattered Entertainment/DeNA)

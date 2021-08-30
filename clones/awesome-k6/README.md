@@ -4,13 +4,14 @@
   </a>
 
 <!--lint disable awesome-heading-->
+
 # Awesome k6 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <!--lint enable awesome-heading-->
 
 </div>
 
 Open-source, developer-centric performance monitoring and load testing solution, <a href="https://k6.io/">k6</a>.
-
 
 Want to help in making this list better? Yay, that's awesome! Before you get started though, please have a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md).
 
@@ -25,6 +26,7 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Stacks](#stacks)
 
 ## Extensions
+
 - [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 
 ## Articles
@@ -37,8 +39,8 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [Load Testing Your API with Swagger/OpenAPI and k6](https://mostafa.dev/blog/load-testing-your-api-with-swagger-openapi-and-k6) - Generate k6 load test scripts from OpenAPI specifications.
 - [Load Testing Your API with Postman](https://mostafa.dev/blog/load-testing-your-api-with-postman) - How to use Postman collections to load test your API.
 - [Load Testing & Black Friday capacity planning](https://medium.com/back-market-engineering/how-back-market-sres-prepared-for-black-friday-5f017f343408) - How Back Market prepared for Black Friday with k6 based load testing.
-- [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly. 
-- [Introducing TestRail in your K6 tests](https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck) - Reporting k6 output to TestRail. 
+- [Load Testing SQL Databases with k6](https://k6.io/blog/load-testing-sql-databases-with-k6/) - How to use the xk6-sql extension to test SQL databases directly.
+- [Introducing TestRail in your K6 tests](https://dev.to/kwidera/introducing-testrail-in-you-k6-tests-eck) - Reporting k6 output to TestRail.
 
 ## Videos
 
@@ -72,8 +74,8 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 - [jslib.k6.io](https://jslib.k6.io/) - Useful utility libs for k6 scripts.
 - [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 
-
 ## CI
+
 - [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
 - [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
 - [k6 CircleCI Orb](https://circleci.com/developer/orbs/orb/k6io/test) - k6 Orb for running k6 in CircleCI. Supports running tests both on the CircleCI runner and in the k6 cloud SaaS service.
@@ -82,4 +84,3 @@ Want to help in making this list better? Yay, that's awesome! Before you get sta
 
 - [CloudPosse's Load Testing Stack](https://github.com/cloudposse/load-testing) - Load testing stack using k6, Grafana and InfluxDB.
 - [Load Impact's OSS Load Testing Stack](https://github.com/loadimpact/open-source-load-testing-stack) - Open-source stack that works well for running load tests, storing results and visualizing those results in dashboards.
-

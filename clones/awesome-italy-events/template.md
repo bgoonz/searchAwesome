@@ -2,9 +2,10 @@
 
 > A curated list of Awesome Tech Events in Italy
 
-This list contains awesome (tech related) events happening in Italy like: conferences, meetups, workshops and parties 🎉 
+This list contains awesome (tech related) events happening in Italy like: conferences, meetups, workshops and parties 🎉
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+
 - [What is an awesome list?](https://github.com/sindresorhus/awesome)
 - [Contribution guide](contributing.md)
 
@@ -17,6 +18,7 @@ Editions: [2019](archive/2019.md) [2020](archive/2020.md) [2021](README.md) [202
 Want to add an event? Send a [pull request](contributing.md) or send me a tweet [@il_doc](https://twitter.com/il_doc).
 
 ## Contents
+
 - [January](#january)
 - [February](#february)
 - [March](#march)
@@ -59,4 +61,5 @@ Want to add an event? Send a [pull request](contributing.md) or send me a tweet 
 ---
 
 ## License
+
 [![CC-BY-SA-4.0](https://upload.wikimedia.org/wikipedia/commons/d/d0/CC-BY-SA_icon.svg)](http://creativecommons.org/licenses/by-sa/4.0/)

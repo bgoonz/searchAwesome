@@ -10,11 +10,11 @@ Ethereum is an open-source, blockchain and smart contract computing platform.
 <br/>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 </div>
 <br/>
 
 Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
-
 
 ## Contents
 
@@ -32,7 +32,6 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 12. [Misc](#misc)
 13. [Official](#official)
 
-
 ## Documentation
 
 Official Ethereum Documentation.
@@ -40,7 +39,6 @@ Official Ethereum Documentation.
 - [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
 - [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
 - [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
-
 
 ## Programming
 
@@ -50,7 +48,6 @@ Official Ethereum Documentation.
 - [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
 - [Embark Framework](https://github.com/embark-framework/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms.
 - [Eth Fiddle](https://ethfiddle.com/) - Online editor for smart contracts.
-
 
 ## Tutorials
 
@@ -67,13 +64,11 @@ Step by step guides on using Ethereum.
 - [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
 - [Various Ethereum & Solidity Tutorials](https://www.codementor.io/learn/blockchain/solidity-tutorials) - How to create smart contracts, deploy your own DApps, create tokens, and more — from beginner to intermediate topics.
 
-
 ## Code
 
 - [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
 - [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - Experimental smart contract programming language intended to replace Solidity.
 - [Flint Documentation](https://docs.flintlang.org/) - Experimental contract orientated language for Ethereum.
-
 
 ## Learning and MOOCs
 
@@ -98,7 +93,6 @@ The Ideas behind the Ethereum Project.
 - [Making Smart Contracts Smarter](https://eprint.iacr.org/2016/633.pdf) - Smart contract security attacks.
 - [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy) - Some of the core philosophies of Ethereum.
 - [Ethereum Improvement Proposals](https://eips.ethereum.org/) - Standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
-
 
 ## Videos
 
@@ -153,13 +147,11 @@ Descriptions and implementations of Ethereum-related protocols.
   - [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - Exploring a universal distribution of IP via non-fungible tokens and curation markets.
   - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
 
-
 ## Books
 
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum.
 - [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
 - [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liason.
-
 
 ## Misc
 
@@ -170,14 +162,11 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
 - [Ethereum Wiki Page](https://eth.wiki/en/home)
 
-
 ## Official
 
 - [Ethereum Website](https://www.ethereum.org/)
 - [Ethereum Foundation](https://ethereum.foundation/)
 - [Ethereum GitHub](https://github.com/ethereum/)
-
-
 
 # Contribute
 

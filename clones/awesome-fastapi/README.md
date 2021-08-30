@@ -69,7 +69,7 @@
   - [FastAPI Example](https://tortoise-orm.readthedocs.io/en/latest/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
   - [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
   - [Aerich](https://tortoise-orm.readthedocs.io/en/latest/migration.html) - Tortoise ORM migrations tools.
-- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects. 
+- [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects.
 
 #### Query Builders
 
@@ -79,7 +79,7 @@
 #### ODMs
 
 - [Beanie](https://github.com/roman-right/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/)
-and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and schema migrations out of the box.
+  and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports data and schema migrations out of the box.
 - [MongoEngine](http://mongoengine.org/) - A Document-Object Mapper (think ORM, but for document databases) for working with MongoDB from Python.
 - [Motor](https://motor.readthedocs.io/) - Asynchronous Python driver for MongoDB.
 - [ODMantic](https://art049.github.io/odmantic/) - AsyncIO MongoDB ODM integrated with [Pydantic](https://pydantic-docs.helpmanual.io/).
@@ -276,7 +276,7 @@ Compute:
 - [Sprites as a service](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
 - [Slackers](https://github.com/uhavin/slackers) - Slack webhooks API.
 - [TermPair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
-- [Universities](https://github.com/ycd/universities) -  API service for obtaining information about +9600 universities worldwide.
+- [Universities](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
 
 ## Sponsors
 

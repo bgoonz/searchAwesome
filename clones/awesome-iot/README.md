@@ -33,7 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c) - The DragonBoard 410c, a product of Arrow Electronics, is the development board based on the mid-tier Qualcomm® Snapdragon™ 410E processor. It features advanced processing power, Wi-Fi, Bluetooth connectivity, and GPS, all packed into a board the size of a credit card.
 - [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview) - ESP32, the successor to the ESP8266. ESP32 is power packed with hardware features. The high speed dual core processors along with the numerous built in peripherals it is set to replace micro-controllers in connected products.
 - [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) - HummingBoard is a family of three Linux- and Android-ready, open source SBCs based on 1GHz Freescale i.MX6 SoCs, with a Pi-like 26-pin I/O connector.
-- [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - The Intel® Galileo Gen 2 board is the first in a family of Arduino*-certified development and prototyping boards based on Intel® architecture and specifically designed for makers, students, educators, and DIY electronics enthusiasts.
+- [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - The Intel® Galileo Gen 2 board is the first in a family of Arduino\*-certified development and prototyping boards based on Intel® architecture and specifically designed for makers, students, educators, and DIY electronics enthusiasts.
 - [Microduino](https://www.microduino.cc/) - Microduino and mCookie bring powerful, small, stackable electronic hardware to makers, designers, engineers, students and curious tinkerers of all ages. Build open-source projects or create innovative new ones.
 - [Node MCU (ESP 8266)](http://www.nodemcu.com/index_en.html) - NodeMCU is an open source IoT platform. It uses the Lua scripting language. It is based on the eLua project, and built on the ESP8266 SDK 0.9.5.
 - [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware) - OLinuXino is an Open Source Software and Open Source Hardware low cost (EUR 30) Linux Industrial grade single board computer with GPIOs capable of operating from -25°C to +85°C.
@@ -48,104 +48,105 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Operating systems
 
- - [Apache Mynewt](https://mynewt.apache.org/) - Apache Mynewt is a real-time, modular operating system for connected IoT devices that need to operate for long periods of time under power, memory, and storage constraints. The first connectivity stack offered is BLE 4.2.
- - [ARM mbed](http://www.mbed.com/) - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
- - [Contiki](http://www.contiki-os.org/) - Contiki is an open source operating system for the Internet of Things. Contiki connects tiny low-cost, low-power microcontrollers to the Internet.
- - [FreeRTOS](http://www.freertos.org/) - FreeRTOS is a popular real-time operating system kernel for embedded devices, that has been ported to 35 microcontrollers.
- - [Android Things](https://developer.android.com/things/) - Android Things extends the Android platform to all your connected devices, so they are easy to set up and work seamlessly with each other and your smartphone.
- - [OpenWrt](https://openwrt.org/) - OpenWrt is an operating system (in particular, an embedded operating system) based on the Linux kernel, primarily used on embedded devices to route network traffic. The main components are the Linux kernel, util-linux, uClibc or musl, and BusyBox. All components have been optimized for size, to be small enough for fitting into the limited storage and memory available in home routers.
- - [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy) - Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates.  It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
- - [NodeOS](http://node-os.com/) - NodeOS is an operating system entirely written in Javascript, and managed by npm on top of  the Linux kernel.
- - [Raspbian](https://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
- - [RIOT](http://www.riot-os.org/) - The friendly Operating System for the Internet of Things.
- - [Tiny OS](https://github.com/tinyos/tinyos-main) - TinyOS is an open source, BSD-licensed operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
- - [UBOS](https://ubos.net/) - UBOS is a Linux distro that focuses on making systems administration of home servers and Indie IoT devices running web applications much simpler. A derivative of Arch Linux, it runs on PCs, Raspberry Pis, ESPRESSObin, and cloud.
- - [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) - Windows 10 IoT is a family of Windows 10 editions targeted towards a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs.
-  - [Zephyr Project](https://www.zephyrproject.org/) - The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
+- [Apache Mynewt](https://mynewt.apache.org/) - Apache Mynewt is a real-time, modular operating system for connected IoT devices that need to operate for long periods of time under power, memory, and storage constraints. The first connectivity stack offered is BLE 4.2.
+- [ARM mbed](http://www.mbed.com/) - The ARM® mbed™ IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.
+- [Contiki](http://www.contiki-os.org/) - Contiki is an open source operating system for the Internet of Things. Contiki connects tiny low-cost, low-power microcontrollers to the Internet.
+- [FreeRTOS](http://www.freertos.org/) - FreeRTOS is a popular real-time operating system kernel for embedded devices, that has been ported to 35 microcontrollers.
+- [Android Things](https://developer.android.com/things/) - Android Things extends the Android platform to all your connected devices, so they are easy to set up and work seamlessly with each other and your smartphone.
+- [OpenWrt](https://openwrt.org/) - OpenWrt is an operating system (in particular, an embedded operating system) based on the Linux kernel, primarily used on embedded devices to route network traffic. The main components are the Linux kernel, util-linux, uClibc or musl, and BusyBox. All components have been optimized for size, to be small enough for fitting into the limited storage and memory available in home routers.
+- [Snappy Ubuntu](https://wiki.ubuntu.com/Snappy) - Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates. It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
+- [NodeOS](http://node-os.com/) - NodeOS is an operating system entirely written in Javascript, and managed by npm on top of the Linux kernel.
+- [Raspbian](https://raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
+- [RIOT](http://www.riot-os.org/) - The friendly Operating System for the Internet of Things.
+- [Tiny OS](https://github.com/tinyos/tinyos-main) - TinyOS is an open source, BSD-licensed operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters.
+- [UBOS](https://ubos.net/) - UBOS is a Linux distro that focuses on making systems administration of home servers and Indie IoT devices running web applications much simpler. A derivative of Arch Linux, it runs on PCs, Raspberry Pis, ESPRESSObin, and cloud.
+- [Windows 10 IoT Core](https://dev.windows.com/en-us/iot) - Windows 10 IoT is a family of Windows 10 editions targeted towards a wide range of intelligent devices, from small industrial gateways to larger more complex devices like point of sales terminals and ATMs.
+- [Zephyr Project](https://www.zephyrproject.org/) - The Zephyr™ Project is a scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
 
 #### Programming languages
 
 > This sections regroups every awesome programming language, whether it is compiled, interpreted or a DSL, related to embedded development.
 
- - [C](https://en.wikipedia.org/wiki/C_(programming_language)) - A general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
- - [C++](https://en.wikipedia.org/wiki/C%2B%2B) - A general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
- - [Groovy](http://www.groovy-lang.org/) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at multiplying developers’ productivity thanks to a concise, familiar and easy to learn syntax. It is used by the SmartThings development environment to create smart applications.
- - [Lua](http://www.lua.org/) - Lua is a powerful, fast, lightweight, embeddable scripting language. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
- - [eLua](http://www.eluaproject.net/) - eLua stands for Embedded Lua and the project offers the full implementation of the Lua Programming Language to the embedded world, extending it with specific features for efficient and portable software embedded development.
- - [ELFE](http://c3d.github.io/elfe/) - ELFE is a very simple and small programming language. While it is a general-purpose programming language, it is specifically tuned to facilitate the configuration and control of swarms of small devices such as sensors or actuators.
- - [MicroPython](https://docs.micropython.org/) - a lean and efficient Python implementation for microcontrollers and constrained systems
- - [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on [Pharo](https://pharo.org/) (a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback).
- - [TinyGo](https://tinygo.org/) - TinyGo is a project to bring the Go programming language to microcontrollers and modern web browsers by creating a new compiler based on LLVM. You can compile and run TinyGo programs on many different microcontroller boards such as the BBC micro:bit and the Arduino Uno.
+- [C](<https://en.wikipedia.org/wiki/C_(programming_language)>) - A general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B) - A general-purpose programming language. It has imperative, object-oriented and generic programming features, while also providing facilities for low-level memory manipulation.
+- [Groovy](http://www.groovy-lang.org/) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at multiplying developers’ productivity thanks to a concise, familiar and easy to learn syntax. It is used by the SmartThings development environment to create smart applications.
+- [Lua](http://www.lua.org/) - Lua is a powerful, fast, lightweight, embeddable scripting language. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
+- [eLua](http://www.eluaproject.net/) - eLua stands for Embedded Lua and the project offers the full implementation of the Lua Programming Language to the embedded world, extending it with specific features for efficient and portable software embedded development.
+- [ELFE](http://c3d.github.io/elfe/) - ELFE is a very simple and small programming language. While it is a general-purpose programming language, it is specifically tuned to facilitate the configuration and control of swarms of small devices such as sensors or actuators.
+- [MicroPython](https://docs.micropython.org/) - a lean and efficient Python implementation for microcontrollers and constrained systems
+- [PharoThings](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on [Pharo](https://pharo.org/) (a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback).
+- [TinyGo](https://tinygo.org/) - TinyGo is a project to bring the Go programming language to microcontrollers and modern web browsers by creating a new compiler based on LLVM. You can compile and run TinyGo programs on many different microcontroller boards such as the BBC micro:bit and the Arduino Uno.
 
 #### Frameworks
 
- - [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) - AllJoyn is an open source software framework that makes it easy for devices and apps to discover and communicate with each other.
- - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
- - [Astarte](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
- - [Blynk](http://www.blynk.cc) - Blynk is a platform for creating iOS and Android apps for connected things. You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets (right on the smartphone). Supports Ethernet, WiFi, Bluetooth, GSM/GPRS, USB/Serial connections with wide range of prototyping platforms from Arduino, Raspberry, ARM mbed, Particle, RedBear, etc.
- - [Countly IoT Analytics](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
- - [Eclipse Ditto™](https://eclipse.org/ditto/) - Eclipse Ditto is a framework for building so called "digital twins". It provides a cloud based representation and APIs to interact with connected physical devices. Ditto provides built-in authorization, search and connectivity capabilities to integrate with foreign systems like MQTT brokers, HTTP endpoints and Apache Kafka.
- - [Eclipse Smarthome](https://eclipse.org/smarthome/) - The Eclipse SmartHome framework is designed to run on embedded devices, such as a Raspberry Pi, a BeagleBone Black or an Intel Edison. It requires a Java 7 compliant JVM and an OSGi (4.2+) framework, such as Eclipse Equinox.
- - [Freedomotic](http://www.freedomotic.com) - Freedomotic is an open source, flexible, secure Internet of Things (IoT) development framework, useful to build and manage modern smart spaces. It is targeted to private individuals (home automation) as well as business users (smart retail environments, ambient aware marketing, monitoring and analytics, etc). Written in Java, it can interact with well known standard building automation protocols as well as with "do it yourself" solutions.
- - [Iotivity](https://iotivity.org/) - IoTivity is an open source software framework enabling seamless device-to-device connectivity to address the emerging needs of the Internet of Things.
- - [Kura](https://eclipse.org/kura/) - Kura aims at offering a Java/OSGi-based container for M2M applications running in service gateways. Kura provides or, when available, aggregates open source implementations for the most common services needed by M2M applications.
- - [Lelylan](http://www.lelylan.com/) - Lelylan is an IoT cloud platform based on a lightweight microservices architecture. The Lelylan platform is both hardware-agnostic and platform-agnostic. This means that you can connect any hardware, from the ESP8266 to the most professional embedded hardware solution and everything in between - and it can run on any public cloud, your own private datacenter, or even in a hybrid environment, whether virtualized or bare metal.
- - [Mihini](https://wiki.eclipse.org/Mihini) - The main goal of Mihini is to deliver an embedded runtime running on top of Linux, that exposes high-level API for building M2M applications. Mihini aims at enabling easy and portable development, by facilitating access to the I/Os of an M2M system, providing a communication layer, etc.
- - [OpenHAB](http://www.openhab.org/) - The openHAB runtime is a set of OSGi bundles deployed on an OSGi framework (Equinox). It is therefore a pure Java solution and needs a JVM to run. Being based on OSGi, it provides a highly modular architecture, which even allows adding and removing functionality during runtime without stopping the service.
- - [Gobot](http://gobot.io/) - Gobot is a framework for robotics, physical computing, and the Internet of Things, written in the Go programming language.
- - [Home Assistant](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
- - [Lightweight MQTT Machine Network](http://lwmqn.github.io/) - LWMQN is an open source project that follows part of OMA LWM2M v1.0 specification and uses the IP-base Smart Object model to meet the minimum requirements of machine network management. It provides both server-side and machine-side libraries to make full-stack IoT development possible with JavaScript and Node.js. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
- - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
- - [Pimatic](https://pimatic.org/) - Pimatic is a home automation framework that runs on node.js. It provides a common extensible platform for home control and automation tasks.
- - [IOTA](https://iota.org/) - Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.
- - [MyController](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
- - [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
- - [HStreamDB](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+- [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) - AllJoyn is an open source software framework that makes it easy for devices and apps to discover and communicate with each other.
+- [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
+- [Astarte](https://github.com/astarte-platform/astarte) - Astarte is an Open Source IoT platform written in Elixir. It is a turnkey solution which packs in everything you need for connecting a device fleet to a set of remote applications. It performs data modeling, automated data reduction, real-time events, and provides you with any feature you might expect in a modern IoT platform. Right now, Linux and ESP32 devices are supported out of the box using the provided SDKs.
+- [Blynk](http://www.blynk.cc) - Blynk is a platform for creating iOS and Android apps for connected things. You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets (right on the smartphone). Supports Ethernet, WiFi, Bluetooth, GSM/GPRS, USB/Serial connections with wide range of prototyping platforms from Arduino, Raspberry, ARM mbed, Particle, RedBear, etc.
+- [Countly IoT Analytics](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
+- [Eclipse Ditto™](https://eclipse.org/ditto/) - Eclipse Ditto is a framework for building so called "digital twins". It provides a cloud based representation and APIs to interact with connected physical devices. Ditto provides built-in authorization, search and connectivity capabilities to integrate with foreign systems like MQTT brokers, HTTP endpoints and Apache Kafka.
+- [Eclipse Smarthome](https://eclipse.org/smarthome/) - The Eclipse SmartHome framework is designed to run on embedded devices, such as a Raspberry Pi, a BeagleBone Black or an Intel Edison. It requires a Java 7 compliant JVM and an OSGi (4.2+) framework, such as Eclipse Equinox.
+- [Freedomotic](http://www.freedomotic.com) - Freedomotic is an open source, flexible, secure Internet of Things (IoT) development framework, useful to build and manage modern smart spaces. It is targeted to private individuals (home automation) as well as business users (smart retail environments, ambient aware marketing, monitoring and analytics, etc). Written in Java, it can interact with well known standard building automation protocols as well as with "do it yourself" solutions.
+- [Iotivity](https://iotivity.org/) - IoTivity is an open source software framework enabling seamless device-to-device connectivity to address the emerging needs of the Internet of Things.
+- [Kura](https://eclipse.org/kura/) - Kura aims at offering a Java/OSGi-based container for M2M applications running in service gateways. Kura provides or, when available, aggregates open source implementations for the most common services needed by M2M applications.
+- [Lelylan](http://www.lelylan.com/) - Lelylan is an IoT cloud platform based on a lightweight microservices architecture. The Lelylan platform is both hardware-agnostic and platform-agnostic. This means that you can connect any hardware, from the ESP8266 to the most professional embedded hardware solution and everything in between - and it can run on any public cloud, your own private datacenter, or even in a hybrid environment, whether virtualized or bare metal.
+- [Mihini](https://wiki.eclipse.org/Mihini) - The main goal of Mihini is to deliver an embedded runtime running on top of Linux, that exposes high-level API for building M2M applications. Mihini aims at enabling easy and portable development, by facilitating access to the I/Os of an M2M system, providing a communication layer, etc.
+- [OpenHAB](http://www.openhab.org/) - The openHAB runtime is a set of OSGi bundles deployed on an OSGi framework (Equinox). It is therefore a pure Java solution and needs a JVM to run. Being based on OSGi, it provides a highly modular architecture, which even allows adding and removing functionality during runtime without stopping the service.
+- [Gobot](http://gobot.io/) - Gobot is a framework for robotics, physical computing, and the Internet of Things, written in the Go programming language.
+- [Home Assistant](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+- [Lightweight MQTT Machine Network](http://lwmqn.github.io/) - LWMQN is an open source project that follows part of OMA LWM2M v1.0 specification and uses the IP-base Smart Object model to meet the minimum requirements of machine network management. It provides both server-side and machine-side libraries to make full-stack IoT development possible with JavaScript and Node.js. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
+- [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
+- [Pimatic](https://pimatic.org/) - Pimatic is a home automation framework that runs on node.js. It provides a common extensible platform for home control and automation tasks.
+- [IOTA](https://iota.org/) - Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.
+- [MyController](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
+- [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
+- [HStreamDB](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 
 #### Middlewares
 
- - [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
- - [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
- - [OPC Router](https://www.opc-router.com/opc-router-details/) - IoT Gateway with various plug-ins (OPC UA, Mqtt, SQL, REST, SAP, InfluxDB, Printer, ...)
- - [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
- - [Kaa](http://www.kaaproject.org/) - An open-source middleware platform for rapid creation of IoT solutions.
- - [Losant](https://losant.com) - Losant is an easy-to-use and powerful developer platform designed to help you quickly and securely build complex connected solutions. Losant uses open communication standards like REST and MQTT to provide connectivity from one to millions of devices. Losant provides powerful data collection, aggregation, and visualization features to help understand and quantify vast amounts of sensor data. Losant's drag-and-drop workflow editor allows you to trigger actions, notifications, and machine-to-machine communication without programming.
- - [MicroServiceBus.com](https://microservicebus.com) - MicroServiceBus.com is a device management platform for Azure, AWS and IBM IoT Hub, with integration to GitHub, ServiceNow, Cisco Jasper and more. It comes in a free (limited) version along with enterprise offerings.
- - [DreamFactory](http://www.dreamfactory.com) - DreamFactory is a free open source REST API Platform for mobile, web and IoT Applications.
- - [HiveMQ](https://www.hivemq.com/) - Enterprise ready MQTT broker that can scale to connect millions of IoT devices.
- - [I1820](https://i1820.github.io/) - I1820 is a free open source platform which provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
- - [IOStash](https://iostash.io) - IOStash is a high performance IoT platform that is free for DIY developers and non profit applications. It has multiple connectivity options and enables easy development of M2M or M2A applications. IOStash offers Nodejs and Android libraries for easy application creation.
- - [Thingsboard](https://thingsboard.io) - An open-source IoT platform. Device management, data collection, processing and visualization for your IoT solution.
- - [VerneMQ](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
- - [Kuzzle](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
- - [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
- - [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
- - [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
- - [NanoMQ](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
- - [Kuiper](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
- - [t6](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
+- [Corlysis](https://corlysis.com/) - Corlysis is a platform that helps you with storing and visualizing your time-series data. It is based on the open-source projects Grafana and InfluxDB that also SpaceX uses.
+- [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
+- [OPC Router](https://www.opc-router.com/opc-router-details/) - IoT Gateway with various plug-ins (OPC UA, Mqtt, SQL, REST, SAP, InfluxDB, Printer, ...)
+- [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+- [Kaa](http://www.kaaproject.org/) - An open-source middleware platform for rapid creation of IoT solutions.
+- [Losant](https://losant.com) - Losant is an easy-to-use and powerful developer platform designed to help you quickly and securely build complex connected solutions. Losant uses open communication standards like REST and MQTT to provide connectivity from one to millions of devices. Losant provides powerful data collection, aggregation, and visualization features to help understand and quantify vast amounts of sensor data. Losant's drag-and-drop workflow editor allows you to trigger actions, notifications, and machine-to-machine communication without programming.
+- [MicroServiceBus.com](https://microservicebus.com) - MicroServiceBus.com is a device management platform for Azure, AWS and IBM IoT Hub, with integration to GitHub, ServiceNow, Cisco Jasper and more. It comes in a free (limited) version along with enterprise offerings.
+- [DreamFactory](http://www.dreamfactory.com) - DreamFactory is a free open source REST API Platform for mobile, web and IoT Applications.
+- [HiveMQ](https://www.hivemq.com/) - Enterprise ready MQTT broker that can scale to connect millions of IoT devices.
+- [I1820](https://i1820.github.io/) - I1820 is a free open source platform which provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
+- [IOStash](https://iostash.io) - IOStash is a high performance IoT platform that is free for DIY developers and non profit applications. It has multiple connectivity options and enables easy development of M2M or M2A applications. IOStash offers Nodejs and Android libraries for easy application creation.
+- [Thingsboard](https://thingsboard.io) - An open-source IoT platform. Device management, data collection, processing and visualization for your IoT solution.
+- [VerneMQ](https://github.com/erlio/vernemq) - VerneMQ is a high-performance, distributed MQTT broker that connects IoT, M2M, Mobile, and web applications. It scales horizontally and vertically on commodity hardware to support a high number of concurrent publishers and consumers while maintaining low latency and fault tolerance.
+- [Kuzzle](https://github.com/kuzzleio/kuzzle) - An open-source backend with advanced features like real-time pub/sub or geofencing and a multiprotocol interface that supports MQTT, LoRaWAN and more. ([Website](https://kuzzle.io/solutions/technologies/iot-backend/))
+- [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
+- [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
+- [Waterstream](https://waterstream.io/) - MQTT broker leveraging Apache Kafka as its own storage and distribution engine.
+- [NanoMQ](https://github.com/nanomq/nanomq) - A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.
+- [Kuiper](https://github.com/emqx/kuiper) - An edge lightweight IoT data analytics/streaming software implemented by Golang, and it can be run at all kinds of resource-constrained edge devices.
+- [t6](https://github.com/mathcoll/t6) - Data-first IoT platform to connect physical Objects with time-series DB and perform Data Analysis.
 
 #### Libraries and Tools
 
- - [Cylon.js](http://cylonjs.com/) - Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.
- - [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua ! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powerful, yet memory efficient, embedded web applications.
- - [Johnny-Five](http://johnny-five.io/) - Johnny-Five is the original JavaScript Robotics programming framework. Released by Bocoup in 2012, Johnny-Five is maintained by a community of passionate software developers and hardware engineers.
- - [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
- - [WiringPi](http://wiringpi.com/) - WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.
- - [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
- - [MIMIC IoT Simulator](https://www.gambitcomm.com/site/iot_simulator.php) - Simulate large IoT environments for agile development / testing / proof-of-concept / training of IoT Applications based on MQTT, CoAP, REST
- - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
- - [ops](https://ops.city/) - A free open source tool to build, run, and deploy linux applications as unikernels.
- - [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
- - [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
- - [QuestDB](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applciations. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
+- [Cylon.js](http://cylonjs.com/) - Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.
+- [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua ! While this framework is not directly involved with IoT development, it is still a _great_ way to rapidly build powerful, yet memory efficient, embedded web applications.
+- [Johnny-Five](http://johnny-five.io/) - Johnny-Five is the original JavaScript Robotics programming framework. Released by Bocoup in 2012, Johnny-Five is maintained by a community of passionate software developers and hardware engineers.
+- [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
+- [WiringPi](http://wiringpi.com/) - WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.
+- [Node-RED](http://nodered.org/) - A visual tool for wiring the Internet of Things.
+- [MIMIC IoT Simulator](https://www.gambitcomm.com/site/iot_simulator.php) - Simulate large IoT environments for agile development / testing / proof-of-concept / training of IoT Applications based on MQTT, CoAP, REST
+- [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.
+- [ops](https://ops.city/) - A free open source tool to build, run, and deploy linux applications as unikernels.
+- [SmartObject](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
+- [United Manufacturing Hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example nodered, VerneMQ and timescaleDB)
+- [QuestDB](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applciations. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
 
 #### Miscellaneous
 
- - [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button is a Wi-Fi connected device that reorders your favorite item with the press of a button.
- - [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
- - [Nebula](http://nebula.readthedocs.io) -  A docker orchestrator designed to manage IoT devices.
- - [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
+- [Amazon Dash](https://fresh.amazon.com/dash/) - Amazon Dash Button is a Wi-Fi connected device that reorders your favorite item with the press of a button.
+- [Freeboard](http://freeboard.io/) - A real-time interactive dashboard and visualization creator implementing an intuitive drag & drop interface.
+- [Nebula](http://nebula.readthedocs.io) - A docker orchestrator designed to manage IoT devices.
+- [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
+
 ## Protocols and Networks
 
 ### Physical layer
@@ -205,14 +206,14 @@ Wi-Fi (or WiFi) is a local area wireless computer networking technology that all
 6LoWPAN is an acronym of IPv6 over Low power Wireless Personal Area Networks. 6LoWPAN is the name of a concluded working group in the Internet area of the IETF. - [Wikipedia](https://en.wikipedia.org/wiki/6LoWPAN)
 
 > The 6LoWPAN concept originated from the idea that "the Internet Protocol could and should be applied even to the smallest devices,"and that low-power devices with limited processing capabilities should be able to participate in the Internet of Things.
-The 6LoWPAN group has defined encapsulation and header compression mechanisms that allow IPv6 packets to be sent and received over IEEE 802.15.4 based networks. IPv4 and IPv6 are the work horses for data delivery for local-area networks, metropolitan area networks, and wide-area networks such as the Internet. Likewise, IEEE 802.15.4 devices provide sensing communication-ability in the wireless domain. The inherent natures of the two networks though, are different.
+> The 6LoWPAN group has defined encapsulation and header compression mechanisms that allow IPv6 packets to be sent and received over IEEE 802.15.4 based networks. IPv4 and IPv6 are the work horses for data delivery for local-area networks, metropolitan area networks, and wide-area networks such as the Internet. Likewise, IEEE 802.15.4 devices provide sensing communication-ability in the wireless domain. The inherent natures of the two networks though, are different.
 
 #### <img width="50" src="https://www.threadgroup.org/portals/0/images/contact/img1.svg" /> - [Thread](http://threadgroup.org/) (Thread Group)
 
 Thread is an IPv6 based protocol for "smart" household devices to communicate on a network.
 
 > In July 2014 Google Inc's Nest Labs announced a working group with the companies Samsung, ARM Holdings, Freescale, Silicon Labs, Big Ass Fans and the lock company Yale in an attempt to have Thread become the industry standard by providing Thread certification for products. Other protocols currently in use include ZigBee and Bluetooth Smart.
-Thread uses 6LoWPAN, which in turn uses the IEEE 802.15.4 wireless protocol with mesh communication, as does ZigBee and other systems. Thread however is IP-addressable, with cloud access and AES encryption. It supports over 250 devices on a network.
+> Thread uses 6LoWPAN, which in turn uses the IEEE 802.15.4 wireless protocol with mesh communication, as does ZigBee and other systems. Thread however is IP-addressable, with cloud access and AES encryption. It supports over 250 devices on a network.
 
 #### <img width="50" src="https://zigbeealliance.org/wp-content/uploads/2019/11/zb_logo-b_color_rgb_icon-e1573775155251.png" /> - [ZigBee](https://en.wikipedia.org/wiki/ZigBee) (ZigBee Alliance)
 
@@ -236,13 +237,13 @@ Constrained Application Protocol (CoAP) is a software protocol intended to be us
 
 #### [DTLS](https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security) (IETF)
 
-The Datagram Transport Layer Security (DTLS) communications protocol provides communications security for datagram protocols.  - [Wikipedia](https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security)
+The Datagram Transport Layer Security (DTLS) communications protocol provides communications security for datagram protocols. - [Wikipedia](https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security)
 
 > DTLS allows datagram-based applications to communicate in a way that is designed[by whom?] to prevent eavesdropping, tampering, or message forgery. The DTLS protocol is based on the stream-oriented Transport Layer Security (TLS) protocol and is intended to provide similar security guarantees.
 
-#### <img width="50" src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/2015-07-13_16-46-26.jpg" /> - [Eddystone](https://en.wikipedia.org/wiki/Eddystone_(Google)) (Google)
+#### <img width="50" src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/2015-07-13_16-46-26.jpg" /> - [Eddystone](<https://en.wikipedia.org/wiki/Eddystone_(Google)>) (Google)
 
-Eddystone is a beacon technology profile released by Google in July 2015. The open source, cross-platform software gives users location and proximity data via Bluetooth low-energy beacon format. - [Wikipedia](https://en.wikipedia.org/wiki/Eddystone_(Google))
+Eddystone is a beacon technology profile released by Google in July 2015. The open source, cross-platform software gives users location and proximity data via Bluetooth low-energy beacon format. - [Wikipedia](<https://en.wikipedia.org/wiki/Eddystone_(Google)>)
 
 > Though similar to the iBeacon released by Apple in 2013, Eddystone works on both Android and iOS, whereas iBeacon is limited to iOS platforms. A practical application of both softwares is that business owners can target potential customers based on the location of their smartphones in real time.
 
@@ -297,9 +298,9 @@ Extensible Messaging and Presence Protocol (XMPP) is a communications protocol f
 Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
 
 ### <img width="50" src="https://opcfoundation.org/wp-content/themes/opc/images/logo.jpg"/>- [OPCUA](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
+
 OPC-UA is a not only a protocol for industrial automation but also a technology that allows semantic description and object modelling of industrial environment.
 [Wikipedia](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
-
 
 ## Standards and Alliances
 
@@ -309,7 +310,7 @@ OPC-UA is a not only a protocol for industrial automation but also a technology 
 - [OneM2M](http://www.onem2m.org/) - The purpose and goal of oneM2M is to develop technical specifications which address the need for a common M2M Service Layer that can be readily embedded within various hardware and software, and relied upon to connect the myriad of devices in the field with M2M application servers worldwide.
 - [OPCUA](https://opcfoundation.org/) - OPC Unified Architecture (OPC UA) is an industrial M2M communication protocol for interoperability developed by the OPC Foundation.
 - [OCF](https://openconnectivity.org/) - OCF, The Open Connectivity Foundation, develop standards and certification for devices involved in the Internet of Things (IoT) based around Constrained Application Protocol (CoAP).
-- [W3C WoT](https://www.w3.org/WoT/) - The W3C Working Group for the Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending existing, standardized Web technologies. By providing standardized metadata and other re-usable technological building blocks, W3C WoT enables easy integration across IoT platforms and application domains. 
+- [W3C WoT](https://www.w3.org/WoT/) - The W3C Working Group for the Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending existing, standardized Web technologies. By providing standardized metadata and other re-usable technological building blocks, W3C WoT enables easy integration across IoT platforms and application domains.
 
 ### Alliances
 
@@ -318,7 +319,7 @@ OPC-UA is a not only a protocol for industrial automation but also a technology 
 - [IPSO Alliance](http://www.ipso-alliance.org/) - The IPSO Alliance provides a foundation for industry growth by fostering awareness, providing education, promoting the industry, generating research, and creating a better understanding of IP and its role in the Internet of Things.
 - [LoRa Alliance](https://www.lora-alliance.org/) - The LoRa Alliance is an open, non-profit association of members that believes the internet of things era is now. It was initiated by industry leaders with a mission to standardize Low Power Wide Area Networks (LPWAN) being deployed around the world to enable Internet of Things (IoT), machine-to-machine (M2M), and smart city, and industrial applications.
 - [OPC Foundation](https://opcfoundation.org/about/opc-foundation/mission-statement/) - The mission of the OPC Foundation is to manage a global organization in which users, vendors and consortia collaborate to create data transfer standards for multi-vendor, multi-platform, secure and reliable interoperability in industrial automation. To support this mission, the OPC Foundation
-creates and maintains specifications, ensures compliance with OPC specifications via certification testing and collaborates with industry-leading standards organizations.
+  creates and maintains specifications, ensures compliance with OPC specifications via certification testing and collaborates with industry-leading standards organizations.
 - [Thread Group](http://threadgroup.org/) - The Thread Group, composed of members from Nest, Samsung, ARM, Freescale, Silicon Labs, Big Ass Fans and Yale, drives the development of the Thread network protocol.
 - [Wi-Fi Alliance](https://www.wi-fi.org/) - Wi-Fi Alliance® is a worldwide network of companies composed of several companies forming a global non-profit association with the goal of driving the best user experience with a new wireless networking technology – regardless of brand.
 - [Zigbee Alliance](http://www.zigbee.org/) - The ZigBee Alliance is an open, non-profit association of approximately 450 members driving development of innovative, reliable and easy-to-use ZigBee standards.
@@ -328,36 +329,37 @@ creates and maintains specifications, ensures compliance with OPC specifications
 
 ### Books
 
-#### [Building the Web of Things: with examples in Node.js and Raspberry Pi](http://book.webofthings.io) (2016) *by [Dominique Guinard](http://amazon.com/author/domguinard) and Vlad Trifa* [5.0]
+#### [Building the Web of Things: with examples in Node.js and Raspberry Pi](http://book.webofthings.io) (2016) _by [Dominique Guinard](http://amazon.com/author/domguinard) and Vlad Trifa_ [5.0]
 
 > A hands-on guide that will teach how to design and implement scalable, flexible, and open IoT solutions using web technologies. This book focuses on providing the right balance of theory, code samples, and practical examples to enable you to successfully connect all sorts of devices to the web and to expose their services and data over REST APIs. The book covers a number of web technologies for your IoT toolbox: GPIO, Raspberry Pi, Embedded Systems, REST and HTTP, WS, MQTT, CoAP, JSON-LD, Social Networks, Node-RED, IFTTT, etc.
 
-#### [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](http://www.amazon.com/Abusing-Internet-Things-Blackouts-Freakouts/dp/1491902337) (2015) *by [Nitesh Dhanjani](http://www.amazon.com/Nitesh-Dhanjani/e/B001KDWB6W/ref=dp_byline_cont_book_1)* [5.0]
+#### [Abusing the Internet of Things: Blackouts, Freakouts, and Stakeouts](http://www.amazon.com/Abusing-Internet-Things-Blackouts-Freakouts/dp/1491902337) (2015) _by [Nitesh Dhanjani](http://www.amazon.com/Nitesh-Dhanjani/e/B001KDWB6W/ref=dp_byline_cont_book_1)_ [5.0]
 
->  future with billions of connected "things" includes monumental security concerns. This practical book explores how malicious attackers can abuse popular IoT-based devices, including wireless LED lightbulbs, electronic door locks, baby monitors, smart TVs, and connected cars.
+> future with billions of connected "things" includes monumental security concerns. This practical book explores how malicious attackers can abuse popular IoT-based devices, including wireless LED lightbulbs, electronic door locks, baby monitors, smart TVs, and connected cars.
 
-#### [Using the Web to Build the IoT](https://manning.com/books/using-the-web-to-build-the-iot) (2016) *by [Dominique Guinard](http://amazon.com/author/domguinard)
+#### [Using the Web to Build the IoT](https://manning.com/books/using-the-web-to-build-the-iot) (2016) \*by [Dominique Guinard](http://amazon.com/author/domguinard)
+
 and Vlad Trifa
+
 > Using the Web to Build the IoT is a free book built as a collection of six hand-picked chapters that introduce the key technologies and concepts for building the application layer of the IoT. Dom Guinard and Vlad Trifa, selected these specific topics to give you an overview of the Web of Things architecture, along with techniques for data ingestion, searching, security, and visualization.
 
-
-#### [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732) (2011) *by [Robert Faludi](http://www.amazon.com/Robert-Faludi/e/B004JKWA3C/ref=dp_byline_cont_book_1)* [4.5]
+#### [Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing](http://www.amazon.com/Building-Wireless-Sensor-Networks-Processing/dp/0596807732) (2011) _by [Robert Faludi](http://www.amazon.com/Robert-Faludi/e/B004JKWA3C/ref=dp_byline_cont_book_1)_ [4.5]
 
 > Get ready to create distributed sensor systems and intelligent interactive devices using the ZigBee wireless networking protocol and Series 2 XBee radios. By the time you're halfway through this fast-paced, hands-on guide, you'll have built a series of useful projects, including a complete ZigBee wireless network that delivers remotely sensed data.
 
-#### [Designing the Internet of Things](http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8&qid=1444905007&sr=8-1) (2013) *by [Adrian McEwen](http://www.amazon.co.uk/Adrian-McEwen/e/B00FF7V2VY/ref=dp_byline_cont_book_1) and [Hakim Cassimally](http://www.amazon.co.uk/Hakim-Cassimally/e/B00FF5I3Y0/ref=ntt_athr_dp_pel_2/277-3946068-7961614)* [4.0]
+#### [Designing the Internet of Things](http://www.amazon.co.uk/Designing-Internet-Things-Adrian-McEwen/dp/111843062X/ref=sr_1_1?ie=UTF8&qid=1444905007&sr=8-1) (2013) _by [Adrian McEwen](http://www.amazon.co.uk/Adrian-McEwen/e/B00FF7V2VY/ref=dp_byline_cont_book_1) and [Hakim Cassimally](http://www.amazon.co.uk/Hakim-Cassimally/e/B00FF5I3Y0/ref=ntt_athr_dp_pel_2/277-3946068-7961614)_ [4.0]
 
 > Whether it's called physical computing, ubiquitous computing, or the Internet of Things, it's a hot topic in technology: how to channel your inner Steve Jobs and successfully combine hardware, embedded software, web services, electronics, and cool design to create cutting-edge devices that are fun, interactive, and practical. If you'd like to create the next must-have product, this unique book is the perfect place to start.
 
-#### [Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511) (2014) *by [Kevin Townsend](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Carles Cufí](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Akiba](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription) and [Robert Davidson](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription)* [4.5]
+#### [Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511) (2014) _by [Kevin Townsend](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Carles Cufí](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Akiba](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription) and [Robert Davidson](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription)_ [4.5]
 
 > This book provides a solid, high-level overview of how devices use Ble to communicate with each other. You'll learn useful low-cost tools for developing and testing Ble-enabled mobile apps and embedded firmware and get examples using various development platforms including iOs and Android for app developers and embedded platforms for product designers and hardware engineers.
 
-#### [Smart Things: Ubiquitous Computing User Experience Design](http://www.amazon.com/Smart-Things-Ubiquitous-Computing-Experience/dp/0123748992) (2010) *by [Mike Kuniavsky](http://www.amazon.com/Mike-Kuniavsky/e/B001K8LTGU/ref=dp_byline_cont_book_1)* [4.5]
+#### [Smart Things: Ubiquitous Computing User Experience Design](http://www.amazon.com/Smart-Things-Ubiquitous-Computing-Experience/dp/0123748992) (2010) _by [Mike Kuniavsky](http://www.amazon.com/Mike-Kuniavsky/e/B001K8LTGU/ref=dp_byline_cont_book_1)_ [4.5]
 
 > Smart Things presents a problem-solving approach to addressing designers' needs and concentrates on process, rather than technological detail, to keep from being quickly outdated. It pays close attention to the capabilities and limitations of the medium in question and discusses the tradeoffs and challenges of design in a commercial environment.
 
-#### [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) *by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)* [early access book]
+#### [JavaScript on Things: Hardware for Web Developers](https://www.manning.com/books/javascript-on-things) (2018 - est.) _by [Lyza Danger Gardner](https://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Lyza+Danger+Gardner&search-alias=books&field-author=Lyza+Danger+Gardner&sort=relevancerank)_ [early access book]
 
 > JavaScript on Things is your first step into the exciting and downright entertaining world of programming for small electronics. If you know enough JavaScript to hack a website together, you'll be making things bleep, blink and spin faster than you can say "nodebot". This fully-illustrated, hands-on book shows you how to get going with platforms like Arduino, Tessel, and Raspberry Pi.
 
@@ -376,7 +378,6 @@ and Vlad Trifa
 - [IoT: A Vision, Architectural Elements, and Future Directions](http://arxiv.org/pdf/1207.0203.pdf) - This paper presents a cloud centric vision for worldwide implementation of Internet of Things. The key enabling technologies and application domains that are likely to drive IoT research in the near future are discussed.
 - [Realizing the Potential of the Internet of Things](https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf) - A white paper from the Telecommunications Industry Association (TIA) written in the form of a set of recommendations to policy maker on leveraging and realizing the potential of the Internet of Things market.
 - [The Internet of Things: Evolution or Revolution ?](http://www.aig.com/Chartis/internet/US/en/AIG%20White%20Paper%20-%20IoT%20English%20DIGITAL_tcm3171-677828_tcm3171-698578.pdf) - This white paper compares the current Internet of Things market rise to other industrial revolutions, the challenges it introduces, as well as its consequences on our daily lives.
-
 
 ## License
 

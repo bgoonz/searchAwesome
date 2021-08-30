@@ -119,7 +119,7 @@
 - [Ping CRM / React](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
 - [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
 
-### Other 
+### Other
 
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
 - [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.

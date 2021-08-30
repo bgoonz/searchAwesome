@@ -2,18 +2,18 @@
 
 > The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 
-
 - [IoT](#iot)
-	- [OS](#os)
-	- [Frameworks/Tools](#frameworks-tools)
-	- [Resources/websites/projects](#resources-websites-projects)
+  - [OS](#os)
+  - [Frameworks/Tools](#frameworks-tools)
+  - [Resources/websites/projects](#resources-websites-projects)
 - [IIoT](#iiot)
 - [Hybrid Desktop](#hybrid-desktop)
 - [Hybrid mobile](#hybrid-mobile)
-	- [Tools/Plugins](#tools-plugins)
+  - [Tools/Plugins](#tools-plugins)
 - [Miscellaneous](#miscellaneous)
 
 ## IoT
+
 - [Tessel](https://tessel.io/)
 - [Arduino](http://www.arduino.cc/)
 - [BeagleBoard](http://beagleboard.org/bone)
@@ -23,6 +23,7 @@
 - [Particle](https://www.particle.io/)
 
 #### OS
+
 - [Riot OS](http://www.riot-os.org/)
 - [Node OS](https://node-os.com/)
 - [Contiki OS](http://www.contiki-os.org/)
@@ -31,6 +32,7 @@
 - [BalenaOS](https://www.balena.io/os/)
 
 #### Frameworks-Tools
+
 - [CylonJS](http://cylonjs.com/)
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
@@ -39,6 +41,7 @@
 - [BalenaCloud](https://www.balena.io/)
 
 #### Resources-websites-projects
+
 - [Hackday](https://hackaday.io/projects)
 - [Instructables - tech](http://www.instructables.com/tag/type-id/category-technology/)
 - [Hackster](http://www.hackster.io/)
@@ -46,8 +49,8 @@
 - [Kaa Project](https://www.kaaproject.org/)
 
 ## IIoT (Industrial IoT)
-- [OPC Router](https://www.opc-router.com/) - IIoT Gateway/Workflow-Engine with various plug-ins (Mqtt Bridge, OPC UA Bridge, SQL Bridge, REST Bridge, SAP Bridge)
 
+- [OPC Router](https://www.opc-router.com/) - IIoT Gateway/Workflow-Engine with various plug-ins (Mqtt Bridge, OPC UA Bridge, SQL Bridge, REST Bridge, SAP Bridge)
 
 ## Hybrid Desktop
 
@@ -88,7 +91,6 @@
 3. Commit your changes: `git commit -am 'fix stuff'`
 4. Push to the branch: `git push origin my-new-branch`
 5. Submit a pull request
-
 
 ## License
 

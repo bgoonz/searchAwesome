@@ -27,7 +27,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Games
 
-*Open Source Games that use Godot.*
+_Open Source Games that use Godot._
 
 ### 2D
 
@@ -92,7 +92,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Projects
 
-*Non-game Open source projects made with Godot (tools/utilities).*
+_Non-game Open source projects made with Godot (tools/utilities)._
 
 #### Godot 3.2+
 
@@ -104,7 +104,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Templates
 
-*Projects to use as a base for your own games.*
+_Projects to use as a base for your own games._
 
 #### Godot 3.2+
 
@@ -120,7 +120,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Demos
 
-*Demos to learn GDScript, its concepts, and various game features.*
+_Demos to learn GDScript, its concepts, and various game features._
 
 #### Godot 3.2+
 
@@ -149,11 +149,11 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Tutorials
 
-> [**Notice:** *The list of tutorials has moved to the Godot documentation.*](https://docs.godotengine.org/en/latest/community/tutorials.html)
+> [**Notice:** _The list of tutorials has moved to the Godot documentation._](https://docs.godotengine.org/en/latest/community/tutorials.html)
 
 ## Plugins and scripts
 
-*Scripts that let you do new stuff, or enhance Godot functionality.*
+_Scripts that let you do new stuff, or enhance Godot functionality._
 
 #### Various Godot versions
 
@@ -167,7 +167,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [EffekseerForGodot3](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects (Godot 3.x).
 - [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework (Godot 2.1, 3.2+).
 - [GdUnit3](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework (Godot 3.x).
-- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.*).
+- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) - A GDScript and Godot Engine implementation for the Channels API of the Phoenix Framework (Godot 3.\*).
 - [Godot Recipes](http://godotrecipes.com/) - A large collection of tutorials and techniques, both big and small.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project (Godot 3.2+).
@@ -254,7 +254,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Modules
 
-*Stuff integrated into Godot core (C++).*
+_Stuff integrated into Godot core (C++)._
 
 #### Various Godot versions
 
@@ -298,7 +298,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## GDScript/C# editor support
 
-*Add-ons for text editors that implement GDScript or C# support.*
+_Add-ons for text editors that implement GDScript or C# support._
 
 - [Atom](https://atom.io/packages/lang-gdscript) - Syntax highlighting.
 - [Emacs](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
@@ -318,7 +318,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Godot script editor syntax themes
 
-*Alternative themes for the built-in script editor.*
+_Alternative themes for the built-in script editor._
 
 - [base16-godot](https://github.com/Calinou/base16-godot) - All [base16](https://github.com/chriskempson/base16) themes.
 - [Godot syntax themes](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
@@ -326,7 +326,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Unofficial Godot builds
 
-*Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk.*
+_Those builds will let you use recent versions of Godot Git, but they may be less stable than official ones – use at your own risk._
 
 - [Calinou's builds](https://hugo.pro/projects/godot-builds/) - Mainly master branch, other branches can be found [here](https://archive.hugo.pro/builds/godot/).
 - [iFire's builds](https://ifiregames.itch.io/stern-flowers-chibifire-com-godot-engine) - Distributed via Itch.io (automatic updates with [app](https://itch.io/app)), master branch only.
@@ -334,7 +334,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Bash scripts
 
-*Bash scripts can be placed in `~/.local/bin`.*
+_Bash scripts can be placed in `~/.local/bin`._
 
 - [build-godot](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot) - (and [build-godot-mono](https://github.com/aaronfranke/Linux-tools/blob/master/all-distros/build-godot-mono)) Scripts that compile and run Godot, attempting to install dependencies if needed.
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches the Git `master` branch.
@@ -350,7 +350,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 ## Other
 
-*Other stuff.*
+_Other stuff._
 
 - [codetranslator](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 - [gd2cs.py](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).

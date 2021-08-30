@@ -9,31 +9,31 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [General Tools](#general-tools)
 - [Utilities](#utilities)
 - [Libraries](#libraries)
-	- [ActionScript](#actionscript)
-	- [C++](#c)
-	- [C#](#c-sharp)
-	- [Haxe](#haxe)
-	- [Java](#java)
-	- [JavaScript](#javascript)
-	- [PHP](#php)
-	- [Objective-C](#objective-c)
-	- [Swift](#swift)
+  - [ActionScript](#actionscript)
+  - [C++](#c)
+  - [C#](#c-sharp)
+  - [Haxe](#haxe)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [PHP](#php)
+  - [Objective-C](#objective-c)
+  - [Swift](#swift)
 - [GUI](#gui)
 - [Hosting](#hosting)
 - [Online Tools](#online-tools)
 - [Community](#community)
 - [Niche](#niche)
 - [Scripts](#scripts)
-	- [Frames to GIF](#frames-to-gif)
-	- [GIF to frames](#gif-to-frames)
-	- [High quality GIF](#high-quality-gif)
-	- [Optimize GIF](#optimize-gif)
-	- [Lossy GIF compressor](#lossy-gif-compressor)
-	- [Making GIF from video](#making-gif-from-video)
-	- [Cinemagraphs](#cinemagraphs)
-	- [Perfect loop](#perfect-loop)
-	- [Youtube video to GIF](#youtube-video-to-gif)
-	- [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
+  - [Frames to GIF](#frames-to-gif)
+  - [GIF to frames](#gif-to-frames)
+  - [High quality GIF](#high-quality-gif)
+  - [Optimize GIF](#optimize-gif)
+  - [Lossy GIF compressor](#lossy-gif-compressor)
+  - [Making GIF from video](#making-gif-from-video)
+  - [Cinemagraphs](#cinemagraphs)
+  - [Perfect loop](#perfect-loop)
+  - [Youtube video to GIF](#youtube-video-to-gif)
+  - [Grabbing each frame of an HTML5 canvas](#grabbing-each-frame-of-an-html5-canvas)
 - [Miscellaneous](#miscellaneous)
 
 ### General Tools
@@ -156,13 +156,13 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 - [Glyph](http://www.glyph.video/) - tool for generating seamlessly looping GIFs and cinemagraphs from videos
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
 - [GIFs](https://github.com/orta/GIFs) - Mac App for finding GIFs
-- [VineGifR](https://github.com/caraesten/VineGifR ) - Mac app to turn Vine videos into GIFs
+- [VineGifR](https://github.com/caraesten/VineGifR) - Mac app to turn Vine videos into GIFs
 - [GifPro](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
 - [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 
 ### Hosting
 
-- [Gfycat](https://gfycat.com) - Maximum GIF/video length: 15 seconds.  Maximum file upload is 300Mb
+- [Gfycat](https://gfycat.com) - Maximum GIF/video length: 15 seconds. Maximum file upload is 300Mb
 - [Imgur](https://imgur.com) - Maximum file upload is 50MB
 
 ### Online Tools
@@ -188,15 +188,19 @@ A list of tools, scripts, libraries, examples & other resources related to the G
 #### Frames to GIF
 
 FFmpeg
+
 ```bash
 ffmpeg -f image2 -i image%d.jpg animated.gif
 ```
 
 Imagemagick
+
 ```bash
 convert   -delay 20   -loop 0   frames*.png   animated.gif
 ```
-Bash script (```frames2gif.sh```) for GraphicsMagick, ImageMagick, FFmpeg
+
+Bash script (`frames2gif.sh`) for GraphicsMagick, ImageMagick, FFmpeg
+
 ```bash
 #!/bin/bash
 if [ $# -ne 5 ]; then
@@ -226,14 +230,15 @@ else # use crappy gif-algorithm from ffmpeg
     $FFMPEG -f image2 -framerate ${FPS} -i "$1/%08d.${suffix}" "$3"
 fi
 ```
-From [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo), [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh)
 
+From [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo), [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh)
 
 #### GIF to frames
 
 ```bash
 ffmpeg -i video.mpg image%d.jpg
 ```
+
 ```bash
 convert -coalesce animated.gif image%05d.png
 ```
@@ -251,6 +256,7 @@ duration=3
 ffmpeg -y -ss $start_time -t $duration -i input.avi \
 -vf fps=10,scale=320:-1:flags=lanczos,palettegen palette.png
 ```
+
 - Output the GIF using the palette :
 
 ```bash
@@ -260,6 +266,7 @@ duration=3
 ffmpeg -ss $start_time -t $duration -i input.avi -i palette.png -filter_complex \
 "fps=10,scale=320:-1:flags=lanczos[x];[x][1:v]paletteuse" output.gif
 ```
+
 [article](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)
 
 #### Optimize GIF
@@ -274,8 +281,8 @@ convert -layers Optimize output.gif output_optimized.gif
 ./gifsicle -O3 --lossy=80 -o lossy-compressed.gif input.gif
 
 ```
-[Lossy Gif](https://kornel.ski/lossygif)
 
+[Lossy Gif](https://kornel.ski/lossygif)
 
 #### Making GIF from video
 
@@ -288,6 +295,7 @@ clip = (VideoFileClip("input.avi")
 clip.write_gif("output.gif")
 
 ```
+
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#converting-a-video-excerpt-into-a-gif)
 
 #### Cinemagraphs
@@ -303,6 +311,7 @@ clip = (VideoFileClip("input.avi")
         .fx(vfx.freeze_region, outside_region=(170, 230, 380, 320)))
 clip.write_gif("output.gif", fps=15)
 ```
+
 [article](http://zulko.github.io/blog/2014/01/23/making-animated-gifs-from-video-files-with-python/#freezing-a-region)
 
 ```bash
@@ -321,6 +330,7 @@ ffmpeg \
   eq=gamma=${gamma}:contrast=${contrast}:saturation=${saturation},unsharp                   `# final adjustments`
 " -an output.mp4
 ```
+
 by [Roger Barnes](https://bitbucket.org/snippets/rbarnesatl/6jRB)
 
 #### Perfect Loop
@@ -336,6 +346,7 @@ selected_scenes = scenes.select_scenes(2, 1, 4, 0.5)
 selected_scenes.write_gifs(clip.resize(width=450), "./outputs_directory")
 
 ```
+
 [article](http://zulko.github.io/blog/2015/02/01/extracting-perfectly-looping-gifs-from-videos-with-python-and-moviepy/)
 
 #### Youtube video to GIF
@@ -357,30 +368,36 @@ Using [PhantomJS](https://phantomjs.org).
 Example with this [canvas](http://www.effectgames.com/demos/canvascycle/?sound=0).
 
 ```javascript
-var webPage = require('webpage');
-var fs = require('fs');
+var webPage = require("webpage");
+var fs = require("fs");
 var page = webPage.create();
 
 var NB_FRAME = 100;
 var current = 0;
 
-page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',
-function(status) {
-  if (status === "success") {
+page.open(
+  "http://www.effectgames.com/demos/canvascycle/?sound=0",
+  function (status) {
+    if (status === "success") {
       var current = 0;
       var grabber = setInterval(function () {
-          var frame = page.evaluate(function() {
-           return document.getElementById('mycanvas').toDataURL("image/png").split(",")[1];
-          });
-          fs.write("./frame-" + current + ".png",atob(frame), 'wb');
-      if (++current === NB_FRAME) {
-         window.clearInterval(grabber);
-         phantom.exit(0);
-      }
-    }, 1000);
+        var frame = page.evaluate(function () {
+          return document
+            .getElementById("mycanvas")
+            .toDataURL("image/png")
+            .split(",")[1];
+        });
+        fs.write("./frame-" + current + ".png", atob(frame), "wb");
+        if (++current === NB_FRAME) {
+          window.clearInterval(grabber);
+          phantom.exit(0);
+        }
+      }, 1000);
+    }
   }
-});
+);
 ```
+
 or use [ccapture.js](https://github.com/spite/ccapture.js).
 
 ### Miscellaneous

@@ -130,7 +130,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt))
 - [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
-  
+
 ### Screencasting
 
 - [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2](https://github.com/jp9000/obs-studio/blob/master/COPYING))
@@ -152,7 +152,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 - [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 - [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
-  
+
 ### Video
 
 - [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
@@ -160,7 +160,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
 - [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
 - [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
-  
+
 ### Virtualization
 
 - [QEMU](http://www.qemu-project.org/) - QEMU is a generic and open source machine emulator and virtualizer. ([GNU GPLv2](http://wiki.qemu-project.org/License))
@@ -173,7 +173,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 - [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 - [GitLab](https://about.gitlab.com/installation/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
-- [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
+- [GNU social](https://gnu.io/social/) - Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
 - [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
 - [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
 - [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. ([BSD 3-clause](https://github.com/lobsters/lobsters/blob/master/LICENSE))
@@ -287,6 +287,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Wrishiraj Kaushik: I Am Not a Free Software Guy](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 
 ### Documentaries
+
 - 2019: [Hacking for the Commons, by Philippe Borrel](https://vimeo.com/channels/1540870/393778517).
 
 ## License

@@ -49,9 +49,11 @@
 - [Game Finishing and Packaging Tutorial - Step by Step with Flame and Flutter (Part 5 of 5)](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
 
 <!--lint ignore double-link-->
+
 ### Articles by [Fireslime](https://fireslime.xyz/)
 
 <!--lint ignore double-link-->
+
 - [Creating a virtual controller with Stack on Flame](https://fireslime.xyz/articles/20190902_Flame_Virtual_Controller_With_Stack.html)
 - [Basic Camera usage on Flame](https://fireslime.xyz/articles/20190911_Basic_Camera_Usage_In_Flame.html)
 
@@ -66,9 +68,11 @@
 - [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web) - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 <!--lint ignore double-link-->
+
 - [Dino Run - Flutter Game Development Series with Flame](https://youtube.com/playlist?list=PLiZZKL9HLmWOmQgYxWHuOHOWsUUlhCCOY) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage](https://www.youtube.com/devkage)
 
 <!--lint ignore double-link-->
+
 - [Spacescape - Flutter Game Development Series with Flame](https://www.youtube.com/playlist?list=PLiZZKL9HLmWPL0URlq9WLng1A_g1LDuxx) - An easy to follow tutorial on how to make 2D mobile game in Flutter using Flame engine. By [DevKage](https://www.youtube.com/devkage)
 
 ### Examples
@@ -80,6 +84,7 @@
 ### Official
 
 <!--lint ignore double-link-->
+
 - [flame_gamepad](https://github.com/flame-engine/flame_gamepad) - Flutter Gamepad Support.
 - [flame_geom](https://github.com/flame-engine/flame_geom) - Complement Flame with APIs for handling shapes and geometric operations.
 - [flame_scrolling_sprite](https://github.com/flame-engine/flame_scrolling_sprite) - Easy to use sprites that repeats itself on an area.
@@ -97,6 +102,7 @@
 #### Casual
 
 <!--lint ignore double-link-->
+
 - [Bob Box](https://github.com/fireslime/bounce_box) - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 - [Snaake!](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 - [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
@@ -108,6 +114,7 @@
 #### Endless Runner
 
 <!--lint ignore double-link-->
+
 - [BGUG](https://github.com/fireslime/bgug) - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
 - [Dino Run](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage)
@@ -125,41 +132,49 @@
 #### Arcade
 
 <!--lint ignore double-link-->
+
 - Air Hockey Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.airhockey), [iOS](https://apps.apple.com/us/app/air-hockey-classic/id1535374629) - Play the classic 'Air Hockey' arcade game now on your mobile device! By [Ignace Maes](https://ignacemaes.com/)
 
 #### Board
 
 <!--lint ignore double-link-->
+
 - Four In A Row - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.fourinarow), [iOS](https://apps.apple.com/us/app/four-in-a-row-classic/id1495540053) - Play the classic 'Four In A Row' board game! Will you be the first to connect 4 of your chips? Challenge the AI, or play against your friends and family. By [Ignace Maes](https://ignacemaes.com/)
 
 #### Casual
 
 <!--lint ignore double-link-->
+
 - KINGA - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.kinga), [iOS](https://apps.apple.com/us/app/kinga/id1506422810) - Protect the cookie from the pesky flies. By [Kevin Omyonga](https://kevinomyonga.com)
 
 <!--lint ignore double-link-->
+
 - Dhoruba - [Android](https://play.google.com/store/apps/details?id=com.knoeyes.games.dhoruba), [iOS](https://apps.apple.com/ke/app/dhoruba/id1542324108) - Can You Stand The Rain? By [Kevin Omyonga](https://kevinomyonga.com)
 
 <!--lint ignore double-link-->
-- Wormo - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique. 
-By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
+
+- Wormo - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.wormo), [iOS](https://apps.apple.com/us/app/wormo-the-game/id1530797595) - Meet Wormo the gooey worm in this wonderful casual game! Think you can put wormo in the nest? Think again, it requires an extraordinary technique.
+  By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 #### Metroidvania
 
 <!--lint ignore double-link-->
+
 - [Tales of a Lost Mine](https://fireslime.xyz/games/tales.html) - [Android](https://play.google.com/store/apps/details?id=xyz.fireslime.tales&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) - An awesome platform-adventure Metroidvania. Get in the role of a brave explorer and uncover the secrets of a long lost time. By [FireSlime](https://fireslime.xyz)
 
 #### Puzzle Games
 
 <!--lint ignore double-link-->
+
 - Ripple Effect Puzzle - [Android](https://play.google.com/store/apps/details?id=com.tbuonomo.rippleeffectpuzzle), [iOS](https://apps.apple.com/us/app/id1521454937) - A sophisticated variation of Sudoku.
-By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
+  By Tommy Buonomo ([Frenchie Games](https://frenchiegames.app/#/))
 
 - Tile Paths - [Android](https://play.google.com/store/apps/details?id=com.naslausky.tile_paths) - Drag the tiles and find the best path to make your character collect all items while avoiding the enemy. With 10 different stages you can challenge your friends to see who gets the best highscore in every one of them. By [Naslausky](https://github.com/naslausky)
 
 #### Sports
 
 <!--lint ignore double-link-->
+
 - Pool Ball Classic - [Android](https://play.google.com/store/apps/details?id=com.ignacemaes.poolball), [iOS](https://apps.apple.com/us/app/pool-ball-classic/id1557034712) - Play 8 Ball Pool like you know and love on your mobile device featuring 3D graphics, realistic physics, and a challenging AI mode. By [Ignace Maes](https://ignacemaes.com/)
 
 - Cycling Escape - [Android](https://play.google.com/store/apps/details?id=be.wive.cyclingescape), [iOS](https://apps.apple.com/us/app/cycling-escape/id1553634302#?platform=iphone), [GitHub](https://github.com/ikbendewilliam/CyclingEscape) - You start off with only one rider. Compete in races to start earning money. Unlock more team mates and compete in more extreme and longer races. Keep going and win the ultimate world tour! By [ikbendewilliam](https://github.com/ikbendewilliam)

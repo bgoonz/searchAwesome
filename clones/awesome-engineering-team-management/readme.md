@@ -189,7 +189,7 @@ In tech companies these roles are critical, and the frontier between the two is 
 
 - [The different skills needed to be a successful CTO](https://madewithlove.be/one-job-many-roles-the-different-skills-needed-to-be-a-successful-cto/) - The premise is a little misleading, as what is detailed there is the journey, in a startup, of the technical founder growing with the company to become a CTO. At which point the position described in the article is not CTO, but VP of Engineering.
 
-- [Hiring a VP of Engineering? Use This Framework](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopify%27s-vpe-to-get-it-right) - “*How do I hire a VP of Engineering?* After more than 20 years, eight companies, and thousands of hires, I'm starting to suspect this may be the wrong question. A better one is, *What is a VP of Engineering?*”
+- [Hiring a VP of Engineering? Use This Framework](https://review.firstround.com/hiring-a-vp-of-engineering-use-this-framework-from-shopify%27s-vpe-to-get-it-right) - “_How do I hire a VP of Engineering?_ After more than 20 years, eight companies, and thousands of hires, I'm starting to suspect this may be the wrong question. A better one is, _What is a VP of Engineering?_”
 
 - [“That's usually about the time I nope right out of the interview”](https://news.ycombinator.com/item?id=19188246) - Bad signs of a CTO trying to recruit an engineering manager, or the perils of not believing in hierarchies.
 
@@ -227,7 +227,7 @@ Managers came in all form and shape, and the title and daily activities varies a
 
 - [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) - “1. I'm a senior developer; 2. Everyone writes tests; 3. We're so far behind everyone else (a.k.a. tech FOMO); 4. Code quality matters most; 5. Everything must be documented; 6. Technical debt is bad; 7. Seniority means being the best at programming”.
 
-- [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - “I expect a 'senior' engineer to be a *mature* engineer.”
+- [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/) - “I expect a 'senior' engineer to be a _mature_ engineer.”
 
 - [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) - “I sat next to a senior software engineer for a year. Here's what I learnt.”
 
@@ -303,7 +303,7 @@ List of questions that can be used when vetting potential candidates, and topics
 
 - [Secret manager trick of hiring data scientists](https://twitter.com/kdeldycke/status/1008383946831417344) - Convince them that what they're doing is machine learning.
 
-- [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) - The essential of [*Who*, a popular book](https://amzn.com/0345504194/?tag=kevideld-20) on recruiting executives.
+- [Book Summary of "Who: The A Method for Hiring"](https://medium.com/mbreads/book-summary-who-c4a437d8ae3a) - The essential of [_Who_, a popular book](https://amzn.com/0345504194/?tag=kevideld-20) on recruiting executives.
 
 - “It's true that not all developers make positive contributions, however, I think that blaming "lowering hiring standards" (…) is a complete red herring.” ([source](https://news.ycombinator.com/item?id=13209317)) - Examples in which developers that might pass tough job interview just fine are bringing negative value later.
 
@@ -455,7 +455,7 @@ Expansive lists of well-known models and concepts.
 
 - [The six ways to influence people](https://www.bakadesuyo.com/2013/06/robert-cialdini-influence/) - 6 universal principles of influence that are used to persuade business professionals: reciprocity, consistency, social proof, getting people to like you, authority and scarcity.
 
-- [On Bullshit](http://ruby.fgcu.edu/courses/twimberley/EnviroPhilo/bullshit.pdf) - This [HN comment](https://news.ycombinator.com/item?id=23147605) perfectly describes the concept. “Unlike lying/fraud, where falsehood is instrumental, Frankfurt defined bullshit as potentially false speech where the truth *simply wasn't important*. Bullshit is characterized by giving the *surface appearance* of confidence, intelligence, or a convincing argument; whether it's actually true or not is besides the point.”
+- [On Bullshit](http://ruby.fgcu.edu/courses/twimberley/EnviroPhilo/bullshit.pdf) - This [HN comment](https://news.ycombinator.com/item?id=23147605) perfectly describes the concept. “Unlike lying/fraud, where falsehood is instrumental, Frankfurt defined bullshit as potentially false speech where the truth _simply wasn't important_. Bullshit is characterized by giving the _surface appearance_ of confidence, intelligence, or a convincing argument; whether it's actually true or not is besides the point.”
 
 ## Team Dynamics
 
@@ -467,7 +467,7 @@ On the day-to-day dynamics of the team, and its interaction with other teams.
 
 - [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/) - Highlighting unseen work in public allows managers to recognize efforts their reports are doing. Still, there is some cases in which it might put your collegue in a tight spot. So always ask if it's ok first.
 
-- [Eye Candy QA](https://techreflect.net/2020/01/05/eye-candy-qa-2005-2011/) - Retelling of author's job at Apple: “John Louch was my boss. (…) John always shared everything with us, even the *don't share this with your team* stuff. We were people he trusted, so it was as it should be. It made you feel like you were part of something greater.” Or why sharing some open secret promote strong trust in your entourage.
+- [Eye Candy QA](https://techreflect.net/2020/01/05/eye-candy-qa-2005-2011/) - Retelling of author's job at Apple: “John Louch was my boss. (…) John always shared everything with us, even the _don't share this with your team_ stuff. We were people he trusted, so it was as it should be. It made you feel like you were part of something greater.” Or why sharing some open secret promote strong trust in your entourage.
 
 - [A conversation with Elon Musk about Starship](https://youtu.be/cIQ36Kt7UVg?t=203) - In a team with very talented contributors, everyone's is a chief engineer: you are expected to challenge the status-quo and questions other department's constraints. This allow smart engineers to avoid the trap of optimizing for something that should not exist in the first place.
 
@@ -485,7 +485,7 @@ You're no longer an engineer. Still, your team is responsible for the systems, t
 
 ### The Technical Engineering Manager
 
-You shouldn't spend your time coding. Leave that to the engineers: your value lies elsewhere now. But does that means you must forget all things technical? The answer is an astounding *NO*. Here are some arguments:
+You shouldn't spend your time coding. Leave that to the engineers: your value lies elsewhere now. But does that means you must forget all things technical? The answer is an astounding _NO_. Here are some arguments:
 
 - [Do engineering managers need to be technical?](https://increment.com/teams/do-engineering-managers-need-to-be-technical/) - Yes. “Looking forward to the next 30 years of management trends, only a few things seem certain: Managers should be technical, and the definition of technical will continue to change.”
 
@@ -517,7 +517,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, whether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 
-- “Lots of people make the mistake of thinking there's only two vectors you can go to improve performance, high or wide. High - throw hardware at the problem, on a single machine. Wide - add more machines. [There's a third direction you can go, I call it *going deep*.](https://news.ycombinator.com/item?id=8902739)”
+- “Lots of people make the mistake of thinking there's only two vectors you can go to improve performance, high or wide. High - throw hardware at the problem, on a single machine. Wide - add more machines. [There's a third direction you can go, I call it _going deep_.](https://news.ycombinator.com/item?id=8902739)”
 
 - [You need to be this tall to use (micro) services](https://news.ycombinator.com/item?id=12509533) - Do not chase the hype. Yet. Micro-services only brings value past a certain infrastructure and organization size. This is a list of stuff you should focus on before bringing micro-services to the mix.
 
@@ -585,7 +585,7 @@ The environment we work in shapes us. Perks too.
 
 ## Product Management
 
-The Product Manager is supposed to be the *voice of the market*. Here are more links on the role and its reach.
+The Product Manager is supposed to be the _voice of the market_. Here are more links on the role and its reach.
 
 - “You're the broker for a lot of unstructured information and have to fend off all kinds of disruptive influences to land even close to where you're trying to go.” ([source](https://news.ycombinator.com/item?id=19050555))
 
@@ -661,11 +661,11 @@ How to find users, grow your customer base and make people talks about you produ
 
 ## Project Management
 
-If product management is about *what* is to be developed of the product, then project management activities answers on *how* to deliver that development. It is all about the execution, with a particular attention to delivery critical path and planning.
+If product management is about _what_ is to be developed of the product, then project management activities answers on _how_ to deliver that development. It is all about the execution, with a particular attention to delivery critical path and planning.
 
 But don't worry too much, every company has its own definition of the two roles, and sometimes hybrid positions.
 
-- [Let's have no managers, instead of managers with no engineering experience](https://medium.com/hackernoon/lets-have-no-managers-instead-of-managers-with-no-engineering-experience-e8b7cd29d398) - The title is misleading, article's argument is: we don't need *project* managers if we already have *product* managers and scrum masters.
+- [Let's have no managers, instead of managers with no engineering experience](https://medium.com/hackernoon/lets-have-no-managers-instead-of-managers-with-no-engineering-experience-e8b7cd29d398) - The title is misleading, article's argument is: we don't need _project_ managers if we already have _product_ managers and scrum masters.
 
 - [Best project management practices in 2018?](https://news.ycombinator.com/item?id=16377523) - There is no silver bullet.
 
@@ -937,7 +937,7 @@ Here we are, at the intersection of power and influence lies the political game.
 
 - [The Prince](https://en.wikipedia.org/wiki/The_Prince) - Machiavelli's ideas on how to accrue honor and power as a leader. Resorting to that level of politics in a company is a sure way to render the culture highly toxic, as well as corrupting and demoralizing the organization at all levels.
 
-- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on *The Office*.
+- [The Gervais Principle](https://www.ribbonfarm.com/the-gervais-principle/) - A cynical, bleak, but still fascinating take on the management ladder, based on _The Office_.
 
 - [The 48 Laws of Power](https://amzn.com/0140280197/?tag=kevideld-20) - By Robert Greene. Can teach you how to cover your ass and be effective in a highly political org.
 
@@ -1057,7 +1057,7 @@ Sometimes, you just have to call it quits.
 
 - [Colleague is leaving. How to investigate what went wrong?](https://news.ycombinator.com/item?id=20786755) - “Most of the time people leave bosses, not the job or the company.” And why you're unlikely to get any substantial insights from exit interviews. ([source](https://news.ycombinator.com/item?id=20787874))
 
-- “*People do get pissed off in clusters* is the best description of a team/company meltdown that I've ever seen.” ([source](https://news.ycombinator.com/item?id=19755001))
+- “_People do get pissed off in clusters_ is the best description of a team/company meltdown that I've ever seen.” ([source](https://news.ycombinator.com/item?id=19755001))
 
 <!--lint disable double-link-->
 
@@ -1085,4 +1085,4 @@ The [header image](https://github.com/kdeldycke/awesome-engineering-team-managem
 
 <!--lint disable no-undefined-references-->
 
-<a name="intro-quote-def">\[1\]</a>: [*Peopleware: Productive Projects and Teams, 1987*, page 34](https://amzn.com/0321934113/?tag=kevideld-20) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)
+<a name="intro-quote-def">\[1\]</a>: [_Peopleware: Productive Projects and Teams, 1987_, page 34](https://amzn.com/0321934113/?tag=kevideld-20) (Harper & Brothers, New York, 1961). [\[↑\]](#intro-quote-ref)

@@ -6,7 +6,6 @@
   <img width="400" src="https://cdn.rawgit.com/transitive-bullshit/awesome-ffmpeg/master/ffmpeg-logo.svg">
 </p>
 
-
 ## Contents
 
 - [Docs](#docs)
@@ -15,7 +14,6 @@
 - [Mobile](#mobile)
 - [Tutorials](#tutorials)
 - [Community](#community)
-
 
 ## Docs
 
@@ -26,7 +24,6 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [Man page](https://man.cx/ffmpeg) - Official FFmpeg man page.
 - [Wiki & Bug Tracker](https://trac.ffmpeg.org) - Lots of great info on here.
 - [CLI flags](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
-
 
 ## JavaScript
 
@@ -45,17 +42,14 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 - [ffparser](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
 
-
 ## Native
 
 - [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
-
 
 ## Mobile
 
 - [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) - FFmpeg examples for Android and iOS.
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android / iOS video player based on FFmpeg.
-
 
 ## Tutorials
 
@@ -63,18 +57,15 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 - [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 
-
 ## Community
 
 - [Stack Overflow](https://superuser.com/questions/tagged/ffmpeg)
 - [Mailing Lists](https://www.ffmpeg.org/contact.html#MailingLists)
 - [IRC](https://www.ffmpeg.org/contact.html#IRCChannels)
 
-
 ## Contribute
 
 Contributions welcome! Please read the [contributing guideline](contributing.md) first.
-
 
 ## License
 
