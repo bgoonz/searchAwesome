@@ -1,108 +1,75 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="description"
-      content="A website which makes you access the awesome curated lists more quickly."
-    />
-    <link
-      href="https://cdn.muicss.com/mui-latest/css/mui.min.css"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css"
-      type="text/css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
-    />
-    <link
-      rel="shortcut icon"
-      href="./build/img/favicon.ico"
-      type="image/x-icon"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Vollkorn"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link href="./build/css/index.css" rel="stylesheet" type="text/css" />
-    <title>Awesome Search</title>
-  </head>
-  <body>
-    <div id="sidedrawer" class="mui--no-user-select">
-      <div
-        id="sidedrawer-brand"
-        class="mui--appbar-line-height mui--text-title"
-      >
-        <div>
-          <input
-            class="cate-input"
-            type="text"
-            placeholder="Find Awesome Lists!"
-          />
-          <div class="cate-search-result content-hidden"></div>
-        </div>
-      </div>
 
-      <ul class="awesome-cate"></ul>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="A website which makes you access the awesome curated lists more quickly." />
+  <link href="https://cdn.muicss.com/mui-latest/css/mui.min.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css"
+    type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+  <link rel="shortcut icon" href="./build/img/favicon.ico" type="image/x-icon" />
+  <link href="https://fonts.googleapis.com/css?family=Vollkorn" rel="stylesheet" type="text/css" />
+  <link href="./build/css/index.css" rel="stylesheet" type="text/css" />
+  <title>Awesome Search</title>
+</head>
+
+<body>
+  <div id="sidedrawer" class="mui--no-user-select">
+    <div id="sidedrawer-brand" class="mui--appbar-line-height mui--text-title">
+      <div>
+        <input class="cate-input" type="text" placeholder="Find Awesome Lists!" />
+        <div class="cate-search-result content-hidden"></div>
+      </div>
     </div>
 
-    <header id="header">
-      <div class="mui-appbar mui--appbar-line-height">
-        <div class="mui-container-fluid">
-          <a
-            class="
+    <ul class="awesome-cate"></ul>
+  </div>
+
+  <header id="header">
+    <div class="mui-appbar mui--appbar-line-height">
+      <div class="mui-container-fluid">
+        <a class="
               sidedrawer-toggle
               mui--visible-xs-inline-block
               js-show-sidedrawer
-            "
-            ><i class="fa fa-list-ul"></i
-          ></a>
-          <a class="sidedrawer-toggle mui--hidden-xs js-hide-sidedrawer"
-            ><i class="fa fa-list-ul"></i
-          ></a>
-          <a class="home-button" style="float: right" src="/">
-            <h1>
-              <span style="color: #f8bbd0">Awesome</span
-              ><span style="color: #bbdefb">Search</span>
-            </h1>
-          </a>
-          <div class="mui-dropdown content-hidden">
-            <button
-              class="mui-btn mui-btn--raised mui-btn--accent"
-              data-mui-toggle="dropdown"
-            >
-              Categories
-              <span class="mui-caret"></span>
-            </button>
-            <ul class="mui-dropdown__menu"></ul>
-          </div>
+            "><i class="fa fa-list-ul"></i></a>
+        <a class="sidedrawer-toggle mui--hidden-xs js-hide-sidedrawer"><i class="fa fa-list-ul"></i></a>
+        <a class="home-button" style="float: right" src="/">
+          <h1>
+            <span style="color: #f8bbd0">Awesome</span><span style="color: #bbdefb">Search</span>
+          </h1>
+        </a>
+        <div class="mui-dropdown content-hidden">
+          <button class="mui-btn mui-btn--raised mui-btn--accent" data-mui-toggle="dropdown">
+            Categories
+            <span class="mui-caret"></span>
+          </button>
+          <ul class="mui-dropdown__menu"></ul>
         </div>
       </div>
-    </header>
+    </div>
+  </header>
 
-    <div id="content-wrapper">
-      <div class="mui--appbar-height"></div>
-      <div class="mui-container-fluid">
-        <div class="alert"></div>
-      </div>
-      <div class="mui-container-fluid readme-container">
-        <div id="readme">
-          <div class="mui--text-black-54 mui--text-body6">
-            <h1 style="color: red">
-              Head to new version of
-              <a href="http://dev.awesomelists.top">Awesome Search</a>!
-            </h1>
+  <div id="content-wrapper">
+    <div class="mui--appbar-height"></div>
+    <div class="mui-container-fluid">
+      <div class="alert"></div>
+    </div>
+    <div class="mui-container-fluid readme-container">
+      <div id="readme">
+        <div class="mui--text-black-54 mui--text-body6">
+          <input type="button"
+            style="position: fixed;top: 40px;left: 10px;width:80px;color:white;font-weight:bold;background-color:rgba(0, 0, 0, 0.856); border-radius:15px;"
+            value="Go Back" onclick="history.back(-1)" />
+          <?php
+        $url = htmlspecialchars($_SERVER['HTTP_REFERER']);
+        echo "<a href='$url'></a>
             <h1>
-              <span style="color: #f8bbd0">Awesome</span
-              ><span style="color: #bbdefb">Search</span>
+              <span style="color: #ff0000">Awesome</span
+              ><span style="color: #008cff">Search</span>
             </h1>
             <sup
               >Makes you find what you want in awesome lists more quickly.</sup
@@ -121,10 +88,7 @@
               alt="awesome badge."
             />
           </p>
-          <p>
-            <span class="repo-count-number" style="color: red"> </span> awesome
-            lists can be found by AwesomeSearch now.
-          </p>
+
           <h2 class="home-page-title"><i class="fa fa-question"></i> Why</h2>
           <p>
             There are many awesome lists in the Awesome
@@ -155,14 +119,16 @@
               >sindresorhus/awesome</a
             >.
           </p>
+          <h2 class="home-page-title"> Browse Lists </h2>
+          <a href="./readme-HTMLS/html/sitemap.html"></a>
           <h2 class="home-page-title">
-            <i class="fa fa-bolt"></i> Get started with a repo.
+            <i class="fa fa-bolt"></i> Browse
           </h2>
           <p>
             Check out
             <a
-              href="https://awesomelists.top/#repos/sindresorhus/awesome-nodejs"
-              >Awesome Node.js</a
+              href="./readme-HTMLS/html/sitemap.html"
+              >Directory View</a
             >!
           </p>
           <h2 class="home-page-title">

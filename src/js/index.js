@@ -1,48 +1,42 @@
-$(document).ready(function () {
-  var repoFinder;
-  var awesomeFinder;
-  var isAwesome = false; // is it sindre/awesome repo ?
-  var urlMap =
+$(document).ready(() => {
+  let repoFinder;
+  let awesomeFinder;
+  let isAwesome = false; // is it sindre/awesome repo ?
+  const urlMap =
     "https://raw.githubusercontent.com/lockys/awesome.json/master/awesome/awesome.json";
-  var urlMapObj = {};
-  var options = {
+  let urlMapObj = {};
+  const options = {
     keys: ["name"],
   };
-  var $awesome = $(".readme-container");
-  var $searchResult = $(".search-result");
-  var $searchBlock = $(".search-input-section");
-  var $innerDropDownMenu = $(".mui-dropdown__menu");
-  var $dropDownMenu = $(".mui-dropdown");
+  const $awesome = $(".readme-container");
+  let $searchResult = $(".search-result");
+  const $searchBlock = $(".search-input-section");
+  const $innerDropDownMenu = $(".mui-dropdown__menu");
+  const $dropDownMenu = $(".mui-dropdown");
 
   function processReadMe(content, repoURL, originRepoHTML) {
     $awesome.html("").append(content);
     $("#readme").prepend(originRepoHTML);
-    var $anchor = $("h6 a, h5 a, h4 a, h3 a, h2 a, h1 a");
-    var anchorLink = $('#readme a[href^="#"]').not(".anchor");
-    var maintainer = repoURL.split("/")[3];
-    var repo = repoURL.split("/")[4];
-    var githubRawURL =
-      "https://raw.githubusercontent.com/" +
-      maintainer +
-      "/" +
-      repo +
-      "/master/";
-    var githubURL =
-      "https://github.com/" + maintainer + "/" + repo + "/blob/master";
-    var tagLevel;
+    const $anchor = $("h6 a, h5 a, h4 a, h3 a, h2 a, h1 a");
+    const anchorLink = $('#readme a[href^="#"]').not(".anchor");
+    const maintainer = repoURL.split("/")[3];
+    const repo = repoURL.split("/")[4];
+    const githubRawURL = `https://raw.githubusercontent.com/${maintainer}/${repo}/master/`;
+    const githubURL = `https://github.com/${maintainer}/${repo}/blob/master`;
+    let tagLevel;
 
     /**
      * Dealing with some repos use relative image path.
      **/
-    var $imgArr = $("img");
-    var linksArr = [];
+    const $imgArr = $("img");
+    let linksArr = [];
 
     for (var i = 0, len = $imgArr.length; i < len; ++i) {
       var relativeSrc = $($imgArr[i]).attr("src");
       if (!isURL(relativeSrc)) {
         relativeSrc = relativeSrc.startsWith("/")
           ? relativeSrc
-          : "/" + relativeSrc;
+          : `/${relativeSrc}`;
         $($imgArr[i]).attr("src", githubRawURL + relativeSrc);
       }
     }
@@ -52,7 +46,7 @@ $(document).ready(function () {
       the page will be scroll the position of anchor.
     **/
     for (var i = 0, len = anchorLink.length; i < len; ++i) {
-      var $anchorEle = $(anchorLink[i]);
+      const $anchorEle = $(anchorLink[i]);
       $anchorEle
         .attr({
           class: "cate-anchor",
@@ -67,8 +61,8 @@ $(document).ready(function () {
     for (var i = 0, len = $anchor.length; i < len; ++i) {
       $anchor[i].id = $anchor[i].id.replace("user-content-", "");
       if ($anchor[i].id) {
-        var anchorClass = "";
-        var anchorPrefix = "━ ";
+        let anchorClass = "";
+        let anchorPrefix = "━ ";
         tagLevel = $($anchor[i]).parent()[0].nodeName;
 
         if (tagLevel === "H1") {
@@ -91,14 +85,11 @@ $(document).ready(function () {
         }
 
         $innerDropDownMenu.append(
-          '<li class="' +
-            anchorClass +
-            '"><a class="cate-anchor" data-anchor="#' +
-            $anchor[i].id +
-            '">' +
-            anchorPrefix +
-            $($anchor[i]).parent("h6, h5, h4, h3, h2, h1").text() +
-            "</a></li>"
+          `<li class="${anchorClass}"><a class="cate-anchor" data-anchor="#${
+            $anchor[i].id
+          }">${anchorPrefix}${$($anchor[i])
+            .parent("h6, h5, h4, h3, h2, h1")
+            .text()}</a></li>`
         );
       }
     }
@@ -116,7 +107,7 @@ $(document).ready(function () {
       if (relativeSrc !== undefined && !isURL(relativeSrc)) {
         relativeSrc = relativeSrc.startsWith("/")
           ? relativeSrc
-          : "/" + relativeSrc;
+          : `/${relativeSrc}`;
         $(linksArr[i]).attr({ href: githubURL + relativeSrc });
       }
 
@@ -129,47 +120,33 @@ $(document).ready(function () {
    * the Category on the left sidedrawer using urlMapObj
    **/
   function processAwesomeJSON() {
-    var awesomeData = [];
-    var $awesomeCate = $(".awesome-cate");
+    let awesomeData = [];
+    const $awesomeCate = $(".awesome-cate");
     $awesomeCate.html("");
 
-    Object.keys(urlMapObj).forEach(function (e) {
-      var _cateID = e.replace(/\W/g, "").toLowerCase();
+    Object.keys(urlMapObj).forEach((e) => {
+      const _cateID = e.replace(/\W/g, "").toLowerCase();
       awesomeData = awesomeData.concat(urlMapObj[e]);
 
       $awesomeCate.append(
-        '<strong><i class="fa fa-terminal" style="color: gray;"></i> ' +
-          e +
-          '</strong><li><ul class="' +
-          _cateID +
-          '-ul"></ul></li>'
+        `<strong><i class="fa fa-terminal" style="color: gray;"></i> ${e}</strong><li><ul class="${_cateID}-ul"></ul></li>`
       );
 
-      urlMapObj[e].forEach(function (e) {
-        var $cateUl = $("." + _cateID + "-ul");
-        var link = "";
+      urlMapObj[e].forEach((e) => {
+        const $cateUl = $(`.${_cateID}-ul`);
+        let link = "";
         if (e.url.split("/").indexOf("github.com") > -1) {
-          link =
-            '<li><a href="#repos/' +
-            e.repo +
-            '"><span><i class="fa fa-bookmark"></i> ' +
-            e.name +
-            "</span></a></li>";
+          link = `<li><a href="#repos/${e.repo}"><span><i class="fa fa-bookmark"></i> ${e.name}</span></a></li>`;
         } else {
-          link =
-            '<li><a href="' +
-            e.url +
-            '" target="_blank"><span><i class="fa fa-bookmark"></i> ' +
-            e.name +
-            "</span></a></li>";
+          link = `<li><a href="${e.url}" target="_blank"><span><i class="fa fa-bookmark"></i> ${e.name}</span></a></li>`;
         }
 
         $cateUl.append(link);
       });
     });
 
-    var $sidedrawerEl = $("#sidedrawer");
-    var $titleEls = $("strong", $sidedrawerEl);
+    const $sidedrawerEl = $("#sidedrawer");
+    const $titleEls = $("strong", $sidedrawerEl);
     $titleEls.next().hide();
     $titleEls.off("click");
     $titleEls.on("click", function () {
@@ -187,15 +164,10 @@ $(document).ready(function () {
    * @param cate The repo name we want to get.
    * @return null
    **/
-  var getCateList = function (maintainer, repo) {
-    var repoURL = "https://github.com/" + maintainer + "/" + repo;
+  const getCateList = (maintainer, repo) => {
+    const repoURL = `https://github.com/${maintainer}/${repo}`;
     isAwesome = repo === "awesome" ? 1 : 0;
-    jsonURL =
-      "https://raw.githubusercontent.com/lockys/awesome.json/master/repo-json/" +
-      maintainer +
-      "-" +
-      repo +
-      ".json";
+    jsonURL = `https://raw.githubusercontent.com/lockys/awesome.json/master/repo-json/${maintainer}-${repo}.json`;
     $dropDownMenu.removeClass("content-hidden");
     $searchResult.addClass("content-hidden");
 
@@ -208,19 +180,16 @@ $(document).ready(function () {
      * Get readme of awesome repo
      **/
     if (!isAwesome) {
-      var originRepoHTML =
-        '<a href="' +
-        repoURL +
-        '" class="origin-repo-btn" target="_blank">View on <i class="fa fa-github"></i></a><br/><br/>';
+      const originRepoHTML = `<a href="${repoURL}" class="origin-repo-btn" target="_blank">View on <i class="fa fa-github"></i></a><br/><br/>`;
 
       $awesome.html('<div class="sk-spinner sk-spinner-pulse"></div>');
 
       getReadme(maintainer, repo, repoURL, originRepoHTML, processReadMe);
       updatePageTitle(repo);
 
-      $.getJSON(jsonURL, function (data) {
-        var list = data;
-        var d = [];
+      $.getJSON(jsonURL, (data) => {
+        const list = data;
+        let d = [];
         /**
          * Category has not been parsed yet.
          **/
@@ -237,12 +206,11 @@ $(document).ready(function () {
         /**
          * Fill in to data for searching
          **/
-        list.forEach(function (e) {
+        list.forEach((e) => {
           if (!isURL(e.url)) {
-            var maintainer = repoURL.split("/")[3];
-            var repo = repoURL.split("/")[4];
-            var repoUrlPrefix =
-              "https://github.com/" + maintainer + "/" + repo + "/blob/master";
+            const maintainer = repoURL.split("/")[3];
+            const repo = repoURL.split("/")[4];
+            const repoUrlPrefix = `https://github.com/${maintainer}/${repo}/blob/master`;
             e.url = repoUrlPrefix + e.url;
           }
 
@@ -261,9 +229,9 @@ $(document).ready(function () {
    * Show search result when users search.
    **/
   $("input").on("input", function (e) {
-    var isCateInput = $(e.target).hasClass("cate-input");
-    var query = $(this).val();
-    var LENGTH_LIMIT = 15;
+    const isCateInput = $(e.target).hasClass("cate-input");
+    const query = $(this).val();
+    const LENGTH_LIMIT = 15;
     $searchResult = isCateInput
       ? $(".cate-search-result")
       : $(".search-result");
@@ -275,11 +243,11 @@ $(document).ready(function () {
       $searchResult.addClass("content-hidden");
     }
 
-    var result = isCateInput
+    const result = isCateInput
       ? awesomeFinder.search(query)
       : repoFinder.search(query);
-    var link = "";
-    var description = "";
+    const link = "";
+    let description = "";
     if (!result.length) {
       $searchResult.html("No result :(");
     }
@@ -287,10 +255,10 @@ $(document).ready(function () {
     /**
     List the searching result.
     **/
-    for (var i = 0, len = LENGTH_LIMIT; i < len; ++i) {
+    for (let i = 0, len = LENGTH_LIMIT; i < len; ++i) {
       if (result[i]) {
-        var id = result[i].name.replace(/\W/g, "").toLowerCase();
-        var href = ' href="' + result[i].url + '" ';
+        const id = result[i].name.replace(/\W/g, "").toLowerCase();
+        let href = ` href="${result[i].url}" `;
 
         if (isAwesome) {
           href = "";
@@ -298,40 +266,23 @@ $(document).ready(function () {
 
         // console.log(d);
         description = result[i].description
-          ? " - " + result[i].description + "</br>"
+          ? ` - ${result[i].description}</br>`
           : "<br/>";
 
         if (!isCateInput) {
           // if parsed(and it is not the top awesome repo), show the searching result about the current repo.
           $searchResult.append(
-            '<a href="' +
-              result[i].url +
-              '" class="search-repo-link"' +
-              href +
-              'target="_blank">' +
-              result[i].name +
-              "</a>" +
-              description
+            `<a href="${result[i].url}" class="search-repo-link"${href}target="_blank">${result[i].name}</a>${description}`
           );
         } else {
           // if not parsed or it is the top awesome repo, show the searching result about the top awesome repo.
           if (result[i].url.split("/").indexOf("github.com") > -1) {
             $searchResult.append(
-              '<a href="#/repos/' +
-                result[i].repo +
-                '">' +
-                result[i].name +
-                "</a>" +
-                description
+              `<a href="#/repos/${result[i].repo}">${result[i].name}</a>${description}`
             );
           } else {
             $searchResult.append(
-              '<a href="' +
-                result[i].url +
-                '" target="_blank">' +
-                result[i].name +
-                "</a>" +
-                description
+              `<a href="${result[i].url}" target="_blank">${result[i].name}</a>${description}`
             );
           }
         }
@@ -344,51 +295,50 @@ $(document).ready(function () {
    * @param cb to dealing with html of readme.
    **/
   function getReadme(maintainer, repo, repoURL, originRepoHTML, cb) {
-    var apiURL =
-      "https://api.github.com/repos/" + maintainer + "/" + repo + "/readme";
+    const apiURL = `https://api.github.com/repos/${maintainer}/${repo}/readme`;
 
     $.ajax({
       url: apiURL,
       headers: {
         accept: "application/vnd.github.v3.html",
       },
-      success: function (content) {
+      success(content) {
         cb(content, repoURL, originRepoHTML);
       },
     });
   }
 
   function updatePageTitle(repo) {
-    var formattedRepoName = repo.replace(/-/g, " ");
+    let formattedRepoName = repo.replace(/-/g, " ");
 
     formattedRepoName = formattedRepoName
       .split(" ")
-      .map(function (word) {
+      .map((word) => {
         return word.replace(word[0], word[0].toUpperCase());
       })
       .join(" ");
 
-    document.title = "Awesome Search - " + formattedRepoName;
+    document.title = `Awesome Search - ${formattedRepoName}`;
   }
 
   // The Backbone router configuration.
-  var AwesomeRouter = Backbone.Router.extend({
+  const AwesomeRouter = Backbone.Router.extend({
     routes: {
       "repos/:maintainer/:repo": "getRepos",
       "": "getAwesome",
     },
   });
 
-  var awesomeRouter = new AwesomeRouter();
+  const awesomeRouter = new AwesomeRouter();
 
   // Execute when route matches the awesomelist.top/#repos/<maintainer>/<repo-name>
-  awesomeRouter.on("route:getRepos", function (maintainer, repo) {
-    $(".search-holder").html("Search " + repo);
+  awesomeRouter.on("route:getRepos", (maintainer, repo) => {
+    $(".search-holder").html(`Search ${repo}`);
     getCateList(maintainer, repo);
   });
 
   // Root Route, get the sindresorhus/awesome repo.
-  awesomeRouter.on("route:getAwesome", function () {
+  awesomeRouter.on("route:getAwesome", () => {
     getCateList("sindresorhus", "awesome");
   });
 
@@ -396,7 +346,7 @@ $(document).ready(function () {
    * Judge what users click, if user clicks home button, return to home page.
    * if users click the body not input area, hide the input.
    **/
-  $("body").click(function (event) {
+  $("body").click((event) => {
     // Close the search result when click outside of the input div
     if (
       !$(event.target).hasClass("awesome-input") &&
@@ -417,7 +367,7 @@ $(document).ready(function () {
     }
   });
 
-  $(".home-button").click(function (event) {
+  $(".home-button").click((event) => {
     event.preventDefault();
     window.location.hash = "/";
     location.reload();
@@ -426,7 +376,7 @@ $(document).ready(function () {
   /**
    * Generate urlMapObj for building sidedrawer.
    **/
-  $.getJSON(urlMap, function (d) {
+  $.getJSON(urlMap, (d) => {
     urlMapObj = d;
     getCateList("sindresorhus", "awesome");
   });
@@ -440,7 +390,7 @@ $(document).ready(function () {
    * @return true or false
    **/
   function isURL(str) {
-    var pattern =
+    const pattern =
       /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
     return pattern.test(str);
   }
@@ -449,8 +399,8 @@ $(document).ready(function () {
     Back to top button.
   **/
   function scrollToAnchor(e) {
-    var anchor = $(e.target).data("anchor");
-    var offset = $(anchor).offset().top - $("#header").height();
+    const anchor = $(e.target).data("anchor");
+    const offset = $(anchor).offset().top - $("#header").height();
     $("html, body").animate(
       {
         scrollTop: offset,
