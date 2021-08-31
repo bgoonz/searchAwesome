@@ -215,13 +215,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-router@npm:5.1.14":
-  version: 5.1.14
-  resolution: "@types/react-router@npm:5.1.14"
+"@types/react-router@npm:5.1.16":
+  version: 5.1.16
+  resolution: "@types/react-router@npm:5.1.16"
   dependencies:
     "@types/history": "*"
     "@types/react": "*"
-  checksum: 106c8802cb8ca8c8eb925067faacf8de958126d625f5bf542b556b3b38eb598f1928f9c379ac5964888a8932aa7d19bf16891ecdb70af45669b486b34b716391
+  checksum: f8a286dfb328d66a635d24df23876a6fab0dc1dcc357a98709439ba096812bf647cee966d3d42d7fb00a3f355f5a991c0608ad3e7fb5063ea86eea8ea7542144
   languageName: node
   linkType: hard
 
@@ -749,7 +749,7 @@ __metadata:
     "@types/node": 15.12.1
     "@types/react": 17.0.9
     "@types/react-dom": 17.0.6
-    "@types/react-router": 5.1.14
+    "@types/react-router": 5.1.16
     "@types/react-router-dom": 5.1.7
     autoprefixer: 10.2.6
     copy-to-clipboard: ^3.3.1
