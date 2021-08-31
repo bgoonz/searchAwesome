@@ -185,12 +185,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:17.0.6":
-  version: 17.0.6
-  resolution: "@types/react-dom@npm:17.0.6"
+"@types/react-dom@npm:17.0.9":
+  version: 17.0.9
+  resolution: "@types/react-dom@npm:17.0.9"
   dependencies:
     "@types/react": "*"
-  checksum: baf0e2ea405768ccfe30399c1d2d5bc35d48023c6d67394b0c9a8179e51ff3d5e0363e7166114195ea275f97611aae9d8d0163a2813c7a3f1e95ef99f8070390
+  checksum: 82da85bcfba524fb83946df50e433b8cc942dd30f5f3f6e0756816960ce4b85db6faa2da9f2b83124087fbe0d124580edf7b1017628b78fb28fee057e91512cb
   languageName: node
   linkType: hard
 
@@ -748,7 +748,7 @@ __metadata:
     "@types/history": 4.7.8
     "@types/node": 15.12.1
     "@types/react": 17.0.9
-    "@types/react-dom": 17.0.6
+    "@types/react-dom": 17.0.9
     "@types/react-router": 5.1.14
     "@types/react-router-dom": 5.1.7
     autoprefixer: 10.2.6
