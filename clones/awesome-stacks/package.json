@@ -13,7 +13,7 @@
     "@sindresorhus/slugify": "0.9.0",
     "apollo-boost": "^0.3.1",
     "bulma": "0.7.4",
-    "cheerio": "1.0.0-rc.2",
+    "cheerio": "1.0.0-rc.10",
     "gatsby": "2.1.19",
     "gatsby-cli": "2.5.7",
     "gatsby-image": "2.0.30",

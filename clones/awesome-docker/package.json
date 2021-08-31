@@ -19,7 +19,7 @@
     },
     "homepage": "https://github.com/veggiemonk/awesome-docker#readme",
     "dependencies": {
-        "cheerio": "1.0.0-rc.3",
+        "cheerio": "1.0.0-rc.10",
         "draftlog": "1.0.12",
         "fs-extra": "9.0.1",
         "node-fetch": "2.6.1",
