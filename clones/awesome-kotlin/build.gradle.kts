@@ -34,7 +34,7 @@ dependencies {
     implementation(jacksonJsr310)
 
     implementation("org.slf4j:slf4j-api:1.7.30")
-    implementation("ch.qos.logback:logback-classic:1.2.3")
+    implementation("ch.qos.logback:logback-classic:1.2.6")
 
     implementation("com.rometools:rome:1.15.0")
     implementation("com.github.dfabulich:sitemapgen4j:1.1.2")
