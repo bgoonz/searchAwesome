@@ -23,7 +23,7 @@
     "awesome-lint": "0.17.1"
   },
   "dependencies": {
-    "remark-lint": "^7.0.1",
+    "remark-lint": "7.0.1",
     "remark-lint-double-link": "0.1.3"
   },
   "keywords": [
