@@ -194,14 +194,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-router-dom@npm:5.1.7":
-  version: 5.1.7
-  resolution: "@types/react-router-dom@npm:5.1.7"
+"@types/react-router-dom@npm:5.1.9":
+  version: 5.1.9
+  resolution: "@types/react-router-dom@npm:5.1.9"
   dependencies:
     "@types/history": "*"
     "@types/react": "*"
     "@types/react-router": "*"
-  checksum: c5afe043f99cbe8e05e85db5b95b5fd724e7b00e0314b8bbc081e36c113e22fd102cd0c7a957c7ad55a55d2def91c17b07ffba45c2ac4a00cc56c5c927c93d4c
+  checksum: c1477fedbf3bf187a11af389e941b23777691ae10dff47cbf53ff317fc2f56f59246c6edc108768fbb8c2737ed17ff4ce459c84535e031eac359e964be03a586
   languageName: node
   linkType: hard
 
@@ -750,7 +750,7 @@ __metadata:
     "@types/react": 17.0.9
     "@types/react-dom": 17.0.6
     "@types/react-router": 5.1.14
-    "@types/react-router-dom": 5.1.7
+    "@types/react-router-dom": 5.1.9
     autoprefixer: 10.2.6
     copy-to-clipboard: ^3.3.1
     copy-webpack-plugin: 9.0.0
