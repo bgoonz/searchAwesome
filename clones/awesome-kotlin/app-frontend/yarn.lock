@@ -235,14 +235,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:17.0.9":
-  version: 17.0.9
-  resolution: "@types/react@npm:17.0.9"
+"@types/react@npm:17.0.21":
+  version: 17.0.21
+  resolution: "@types/react@npm:17.0.21"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 12f1962a317cad805bd6fcd1da3ac1a58a782db28e522bdded163f1bdfc8388f8a110d200a6925cccbf3d442e1325199ce5da710f11ee73f0f140c6734fea127
+  checksum: c3f0c465a2d680c17ff7fa5dc4ec2a796044f710f37b7917960c4eedcb5dfab502da3df4aee24f0f57a5a8600fabd3f0085fe2ebf00c4870df70d2ce02a3982f
   languageName: node
   linkType: hard
 
@@ -747,7 +747,7 @@ __metadata:
   dependencies:
     "@types/history": 4.7.8
     "@types/node": 15.12.1
-    "@types/react": 17.0.9
+    "@types/react": 17.0.21
     "@types/react-dom": 17.0.6
     "@types/react-router": 5.1.14
     "@types/react-router-dom": 5.1.7
