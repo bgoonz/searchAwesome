@@ -49,7 +49,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["core-js", "npm:3.14.0"],
             ["css-loader", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:5.2.6"],
             ["html-webpack-plugin", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:5.3.1"],
-            ["less", "npm:4.1.1"],
+            ["less", "npm:4.1.2"],
             ["less-loader", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:9.0.0"],
             ["normalize.css", "npm:8.0.1"],
             ["postcss", "npm:8.3.0"],
@@ -993,7 +993,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["core-js", "npm:3.14.0"],
             ["css-loader", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:5.2.6"],
             ["html-webpack-plugin", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:5.3.1"],
-            ["less", "npm:4.1.1"],
+            ["less", "npm:4.1.2"],
             ["less-loader", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:9.0.0"],
             ["normalize.css", "npm:8.0.1"],
             ["postcss", "npm:8.3.0"],
@@ -3904,10 +3904,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["less", [
-        ["npm:4.1.1", {
-          "packageLocation": "./.yarn/cache/less-npm-4.1.1-0eec77fbe1-a4fb3be59b.zip/node_modules/less/",
+        ["npm:4.1.2", {
+          "packageLocation": "./.yarn/cache/less-npm-4.1.2-e17029791b-62ef1c44b9.zip/node_modules/less/",
           "packageDependencies": [
-            ["less", "npm:4.1.1"],
+            ["less", "npm:4.1.2"],
             ["copy-anything", "npm:2.0.3"],
             ["errno", "npm:0.1.7"],
             ["graceful-fs", "npm:4.2.4"],
@@ -3917,7 +3917,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["needle", "npm:2.6.0"],
             ["parse-node-version", "npm:1.0.1"],
             ["source-map", "npm:0.6.1"],
-            ["tslib", "npm:1.13.0"]
+            ["tslib", "npm:2.3.1"]
           ],
           "linkType": "HARD",
         }]
@@ -3937,7 +3937,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/less", null],
             ["@types/webpack", null],
             ["klona", "npm:2.0.4"],
-            ["less", "npm:4.1.1"],
+            ["less", "npm:4.1.2"],
             ["webpack", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:5.38.1"]
           ],
           "packagePeers": [
@@ -6716,6 +6716,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/tslib-npm-1.13.0-f5e9ea9b66-5dc3bdaea3.zip/node_modules/tslib/",
           "packageDependencies": [
             ["tslib", "npm:1.13.0"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:2.3.1", {
+          "packageLocation": "./.yarn/cache/tslib-npm-2.3.1-0e21e18015-5ae2f209c5.zip/node_modules/tslib/",
+          "packageDependencies": [
+            ["tslib", "npm:2.3.1"]
           ],
           "linkType": "HARD",
         }]

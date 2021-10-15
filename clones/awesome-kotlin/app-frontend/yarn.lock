@@ -757,7 +757,7 @@ __metadata:
     core-js: ^3.14.0
     css-loader: 5.2.6
     html-webpack-plugin: 5.3.1
-    less: 4.1.1
+    less: 4.1.2
     less-loader: 9.0.0
     normalize.css: ^8.0.1
     postcss: 8.3.0
@@ -3313,9 +3313,9 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"less@npm:4.1.1":
-  version: 4.1.1
-  resolution: "less@npm:4.1.1"
+"less@npm:4.1.2":
+  version: 4.1.2
+  resolution: "less@npm:4.1.2"
   dependencies:
     copy-anything: ^2.0.1
     errno: ^0.1.1
@@ -3326,7 +3326,7 @@ fsevents@^1.2.7:
     needle: ^2.5.2
     parse-node-version: ^1.0.1
     source-map: ~0.6.0
-    tslib: ^1.10.0
+    tslib: ^2.3.0
   dependenciesMeta:
     errno:
       optional: true
@@ -3344,7 +3344,7 @@ fsevents@^1.2.7:
       optional: true
   bin:
     lessc: bin/lessc
-  checksum: a4fb3be59be0fdcc289c24f09e3b856a63d1bb9fa444209a712ce11b2944dad04007ad04c1d3b2708d2df58dbfaec6d8af7a96da80731c359c8927bfe2a97409
+  checksum: 62ef1c44b9327ade9ad4e8e327cd57655a3be17208cc080dfed9bfd4d5c48e4f34c69c94cb312820baa3133e04fe1229bd85ca791d2776bf49bd237e3e7dfea8
   languageName: node
   linkType: hard
 
@@ -5723,6 +5723,13 @@ resolve@^1.9.0:
   version: 1.13.0
   resolution: "tslib@npm:1.13.0"
   checksum: 5dc3bdaea3b67c76ef4a14c28fcb2171da7bcf292fd9c59a260098729626b1ce766c52b588f08e324ed9a0c52ea8a93a815920f980d75981abc9d850fbf310fb
+  languageName: node
+  linkType: hard
+
+"tslib@npm:^2.3.0":
+  version: 2.3.1
+  resolution: "tslib@npm:2.3.1"
+  checksum: 5ae2f209c5127bad284974c78916f02c72082615f65889a7ed0c7ca6d5f935c30338a0ee7310e1d9652dabc7b7507fd2905035487446d09d45fc1f19de71cf05
   languageName: node
   linkType: hard
 
