@@ -41,7 +41,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:15.12.1"],
             ["@types/react", "npm:17.0.30"],
             ["@types/react-dom", "npm:17.0.6"],
-            ["@types/react-router", "npm:5.1.14"],
+            ["@types/react-router", "npm:5.1.17"],
             ["@types/react-router-dom", "npm:5.1.7"],
             ["autoprefixer", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:10.2.6"],
             ["copy-to-clipboard", "npm:3.3.1"],
@@ -313,10 +313,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/react-router", [
-        ["npm:5.1.14", {
-          "packageLocation": "./.yarn/cache/@types-react-router-npm-5.1.14-19de998481-106c8802cb.zip/node_modules/@types/react-router/",
+        ["npm:5.1.17", {
+          "packageLocation": "./.yarn/cache/@types-react-router-npm-5.1.17-ec22591ff0-1194b2bc49.zip/node_modules/@types/react-router/",
           "packageDependencies": [
-            ["@types/react-router", "npm:5.1.14"],
+            ["@types/react-router", "npm:5.1.17"],
             ["@types/history", "npm:4.7.8"],
             ["@types/react", "npm:16.9.49"]
           ],
@@ -985,7 +985,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:15.12.1"],
             ["@types/react", "npm:17.0.30"],
             ["@types/react-dom", "npm:17.0.6"],
-            ["@types/react-router", "npm:5.1.14"],
+            ["@types/react-router", "npm:5.1.17"],
             ["@types/react-router-dom", "npm:5.1.7"],
             ["autoprefixer", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:10.2.6"],
             ["copy-to-clipboard", "npm:3.3.1"],
