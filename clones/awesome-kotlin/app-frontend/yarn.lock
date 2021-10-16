@@ -767,7 +767,7 @@ __metadata:
     react-router: ^5.2.0
     react-router-dom: ^5.2.0
     style-loader: 2.0.0
-    ts-loader: 9.2.2
+    ts-loader: 9.2.6
     typescript: 4.3.2
     webpack: 5.38.1
     webpack-cli: 4.7.0
@@ -5704,9 +5704,9 @@ resolve@^1.9.0:
   languageName: node
   linkType: hard
 
-"ts-loader@npm:9.2.2":
-  version: 9.2.2
-  resolution: "ts-loader@npm:9.2.2"
+"ts-loader@npm:9.2.6":
+  version: 9.2.6
+  resolution: "ts-loader@npm:9.2.6"
   dependencies:
     chalk: ^4.1.0
     enhanced-resolve: ^5.0.0
@@ -5715,7 +5715,7 @@ resolve@^1.9.0:
   peerDependencies:
     typescript: "*"
     webpack: ^5.0.0
-  checksum: 448807877b051ac890a036ae9feb11eb988436d3faa459a3437d970da96d7ce337f29cf8b018e5051e575017e6dc0f0cd70b8ddbdaa780904d015176e7ae4146
+  checksum: 07ff55a841c925b05d08d082bc014de9aa3a154c49c345ab03bbb9190a303dac6034ab750ce1ebbdb823c33ab0be921e700bc03c03852b64a605952165bbabe3
   languageName: node
   linkType: hard
 
