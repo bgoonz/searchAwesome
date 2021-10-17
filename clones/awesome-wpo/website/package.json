@@ -30,7 +30,7 @@
     "styled-components": "5.0.1",
     "textlint": "11.6.3",
     "textlint-rule-no-dead-link": "4.6.2",
-    "textlint-rule-terminology": "2.1.4"
+    "textlint-rule-terminology": "2.1.5"
   },
   "devDependencies": {
     "gatsby-remark-prismjs": "3.5.0",
