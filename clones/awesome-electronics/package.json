@@ -6,6 +6,6 @@
   },
   "devDependencies": {
     "markdown-toc": "1.2.0",
-    "awesome-lint": "0.12.1"
+    "awesome-lint": "0.18.0"
   }
 }

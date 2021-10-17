@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/d3viant0ne/awesome-webpack#readme",
   "devDependencies": {
-    "awesome-lint": "0.1.0"
+    "awesome-lint": "0.18.0"
   }
 }
