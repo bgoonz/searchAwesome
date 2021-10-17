@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "date-fns": "2.15.0",
+    "date-fns": "2.25.0",
     "got": "11.5.2",
     "graphql-got": "0.1.2"
   }
