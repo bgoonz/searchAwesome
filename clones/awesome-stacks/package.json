@@ -10,7 +10,7 @@
     "@fortawesome/react-fontawesome": "0.1.15",
     "@mdx-js/mdx": "0.20.1",
     "@mdx-js/tag": "0.18.0",
-    "@sindresorhus/slugify": "0.9.0",
+    "@sindresorhus/slugify": "0.11.0",
     "apollo-boost": "0.4.9",
     "bulma": "0.7.4",
     "cheerio": "1.0.0-rc.2",
