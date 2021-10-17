@@ -1,1 +1,1 @@
-icalendar==4.0.3
+icalendar==4.0.9
