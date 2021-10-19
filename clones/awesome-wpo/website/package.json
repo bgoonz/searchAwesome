@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Davidson Fellipe <email@fellipe.com>",
   "dependencies": {
-    "babel-plugin-styled-components": "1.10.7",
+    "babel-plugin-styled-components": "1.13.3",
     "gatsby": "2.32.13",
     "gatsby-cli": "2.19.3",
     "gatsby-image": "2.11.0",
