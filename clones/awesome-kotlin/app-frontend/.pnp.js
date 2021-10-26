@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", "npm:17.0.30"],
             ["@types/react-dom", "npm:17.0.6"],
             ["@types/react-router", "npm:5.1.14"],
-            ["@types/react-router-dom", "npm:5.1.7"],
+            ["@types/react-router-dom", "npm:5.3.2"],
             ["autoprefixer", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:10.2.6"],
             ["copy-to-clipboard", "npm:3.3.1"],
             ["copy-webpack-plugin", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:9.0.0"],
@@ -333,10 +333,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/react-router-dom", [
-        ["npm:5.1.7", {
-          "packageLocation": "./.yarn/cache/@types-react-router-dom-npm-5.1.7-94984451d7-c5afe043f9.zip/node_modules/@types/react-router-dom/",
+        ["npm:5.3.2", {
+          "packageLocation": "./.yarn/cache/@types-react-router-dom-npm-5.3.2-85c77b2709-2cb3ae5cca.zip/node_modules/@types/react-router-dom/",
           "packageDependencies": [
-            ["@types/react-router-dom", "npm:5.1.7"],
+            ["@types/react-router-dom", "npm:5.3.2"],
             ["@types/history", "npm:4.7.8"],
             ["@types/react", "npm:16.9.49"],
             ["@types/react-router", "npm:5.1.8"]
@@ -986,7 +986,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/react", "npm:17.0.30"],
             ["@types/react-dom", "npm:17.0.6"],
             ["@types/react-router", "npm:5.1.14"],
-            ["@types/react-router-dom", "npm:5.1.7"],
+            ["@types/react-router-dom", "npm:5.3.2"],
             ["autoprefixer", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:10.2.6"],
             ["copy-to-clipboard", "npm:3.3.1"],
             ["copy-webpack-plugin", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:9.0.0"],
