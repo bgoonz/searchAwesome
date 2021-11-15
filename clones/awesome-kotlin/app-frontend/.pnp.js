@@ -40,7 +40,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/history", "npm:4.7.8"],
             ["@types/node", "npm:15.12.1"],
             ["@types/react", "npm:17.0.30"],
-            ["@types/react-dom", "npm:17.0.6"],
+            ["@types/react-dom", "npm:17.0.11"],
             ["@types/react-router", "npm:5.1.14"],
             ["@types/react-router-dom", "npm:5.1.7"],
             ["autoprefixer", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:10.2.6"],
@@ -303,10 +303,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/react-dom", [
-        ["npm:17.0.6", {
-          "packageLocation": "./.yarn/cache/@types-react-dom-npm-17.0.6-bf832e6040-baf0e2ea40.zip/node_modules/@types/react-dom/",
+        ["npm:17.0.11", {
+          "packageLocation": "./.yarn/cache/@types-react-dom-npm-17.0.11-fc2e584a96-4ebd8c0f85.zip/node_modules/@types/react-dom/",
           "packageDependencies": [
-            ["@types/react-dom", "npm:17.0.6"],
+            ["@types/react-dom", "npm:17.0.11"],
             ["@types/react", "npm:16.9.49"]
           ],
           "linkType": "HARD",
@@ -984,7 +984,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/history", "npm:4.7.8"],
             ["@types/node", "npm:15.12.1"],
             ["@types/react", "npm:17.0.30"],
-            ["@types/react-dom", "npm:17.0.6"],
+            ["@types/react-dom", "npm:17.0.11"],
             ["@types/react-router", "npm:5.1.14"],
             ["@types/react-router-dom", "npm:5.1.7"],
             ["autoprefixer", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:10.2.6"],
