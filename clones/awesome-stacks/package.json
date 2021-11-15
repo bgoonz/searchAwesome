@@ -31,7 +31,7 @@
     "gatsby-transformer-remark": "2.16.1",
     "gatsby-transformer-sharp": "2.12.1",
     "graphql": "14.1.1",
-    "graphql-tag": "2.12.5",
+    "graphql-tag": "2.12.6",
     "node-fetch": "2.3.0",
     "node-sass": "4.11.0",
     "prop-types": "15.7.2",
