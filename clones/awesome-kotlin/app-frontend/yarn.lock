@@ -544,12 +544,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ansi-html@npm:0.0.7":
-  version: 0.0.7
-  resolution: "ansi-html@npm:0.0.7"
+"ansi-html-community@npm:0.0.8":
+  version: 0.0.8
+  resolution: "ansi-html-community@npm:0.0.8"
   bin:
-    ansi-html: ./bin/ansi-html
-  checksum: 1178680548785b6557e67c197c343411ee1a334606058ebcfb4a3c79accddaa43edb511b0dcb79c15a18041fe0e8d1063bbbad95be8b5b1d56934b9a51d88c83
+    ansi-html: bin/ansi-html
+  checksum: d9ddac04b812c63c3e0187dd2c2055c7d5479e012fdb88c64d59268f7b4cef32991c90a542ea368b135cb1231bc87d28fd25eab70c6de5776f843acc651e41db
   languageName: node
   linkType: hard
 
@@ -771,7 +771,7 @@ __metadata:
     typescript: 4.3.2
     webpack: 5.38.1
     webpack-cli: 4.7.0
-    webpack-dev-server: 3.11.2
+    webpack-dev-server: 3.11.3
   languageName: unknown
   linkType: soft
 
@@ -5979,11 +5979,11 @@ typescript@4.3.2:
   languageName: node
   linkType: hard
 
-"webpack-dev-server@npm:3.11.2":
-  version: 3.11.2
-  resolution: "webpack-dev-server@npm:3.11.2"
+"webpack-dev-server@npm:3.11.3":
+  version: 3.11.3
+  resolution: "webpack-dev-server@npm:3.11.3"
   dependencies:
-    ansi-html: 0.0.7
+    ansi-html-community: 0.0.8
     bonjour: ^3.5.0
     chokidar: ^2.1.8
     compression: ^1.7.4
@@ -6023,7 +6023,7 @@ typescript@4.3.2:
       optional: true
   bin:
     webpack-dev-server: bin/webpack-dev-server.js
-  checksum: 6bf6803810e70f77c50b08b040aa2e8d8e844572e18ad57c624f0cda36cc316fb700a3f765401097c4088d922b41381a44760bd3ed1f196e84a97ba938513130
+  checksum: dfc70a0d96b45ab0fb7a3b3e747491465d6c9708577dd6d66156053ffea601c550d180550a1efdf1b3d779a25849a62ff3700189533904c93956f9a6c148bcd3
   languageName: node
   linkType: hard
 
