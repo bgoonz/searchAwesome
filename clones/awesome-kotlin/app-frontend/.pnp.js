@@ -39,7 +39,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@types/history", "npm:4.7.8"],
             ["@types/node", "npm:15.12.1"],
-            ["@types/react", "npm:17.0.30"],
+            ["@types/react", "npm:17.0.38"],
             ["@types/react-dom", "npm:17.0.6"],
             ["@types/react-router", "npm:5.1.14"],
             ["@types/react-router-dom", "npm:5.1.7"],
@@ -298,10 +298,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:17.0.30", {
-          "packageLocation": "./.yarn/cache/@types-react-npm-17.0.30-ed735ebc00-81749c8061.zip/node_modules/@types/react/",
+        ["npm:17.0.38", {
+          "packageLocation": "./.yarn/cache/@types-react-npm-17.0.38-e8f2055f5b-b04dcee8a5.zip/node_modules/@types/react/",
           "packageDependencies": [
-            ["@types/react", "npm:17.0.30"],
+            ["@types/react", "npm:17.0.38"],
             ["@types/prop-types", "npm:15.7.3"],
             ["@types/scheduler", "npm:0.16.1"],
             ["csstype", "npm:3.0.3"]
@@ -990,7 +990,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["awesome-kotlin", "workspace:."],
             ["@types/history", "npm:4.7.8"],
             ["@types/node", "npm:15.12.1"],
-            ["@types/react", "npm:17.0.30"],
+            ["@types/react", "npm:17.0.38"],
             ["@types/react-dom", "npm:17.0.6"],
             ["@types/react-router", "npm:5.1.14"],
             ["@types/react-router-dom", "npm:5.1.7"],
@@ -4290,7 +4290,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["mini-create-react-context", "virtual:30c5d6c3e1ac5dfdad755e9db71b96ae686ee4e3bb744a2fe731e3534a9281433382210cf78d78b6492e177f6b75b90dcd01a1eeb18be999e8b86781d70aa656#npm:0.4.0"],
             ["@babel/runtime", "npm:7.11.2"],
             ["@types/prop-types", null],
-            ["@types/react", "npm:17.0.30"],
+            ["@types/react", "npm:17.0.38"],
             ["prop-types", "npm:15.7.2"],
             ["react", "npm:17.0.2"],
             ["tiny-warning", "npm:1.0.3"]
@@ -5554,7 +5554,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/$$virtual/react-dom-virtual-bf9ab21d67/0/cache/react-dom-npm-17.0.2-f551215af1-960a74ff66.zip/node_modules/react-dom/",
           "packageDependencies": [
             ["react-dom", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:17.0.2"],
-            ["@types/react", "npm:17.0.30"],
+            ["@types/react", "npm:17.0.38"],
             ["loose-envify", "npm:1.4.0"],
             ["object-assign", "npm:4.1.1"],
             ["react", "npm:17.0.2"],
@@ -5589,7 +5589,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["react-router", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:5.2.0"],
             ["@babel/runtime", "npm:7.11.2"],
-            ["@types/react", "npm:17.0.30"],
+            ["@types/react", "npm:17.0.38"],
             ["history", "npm:4.10.1"],
             ["hoist-non-react-statics", "npm:3.3.2"],
             ["loose-envify", "npm:1.4.0"],
@@ -5621,7 +5621,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["react-router-dom", "virtual:026f71f91d5b94b20495b2f24e52cddc6d7e3023d7a70aadc346c81127f7c580d7560314395375f36a9c8d59fabdada8cbdf66c7dc6b1a4cc4ed5bb3274ae62c#npm:5.2.0"],
             ["@babel/runtime", "npm:7.11.2"],
-            ["@types/react", "npm:17.0.30"],
+            ["@types/react", "npm:17.0.38"],
             ["history", "npm:4.10.1"],
             ["loose-envify", "npm:1.4.0"],
             ["prop-types", "npm:15.7.2"],
