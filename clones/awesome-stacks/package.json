@@ -30,7 +30,7 @@
     "gatsby-source-filesystem": "2.11.1",
     "gatsby-transformer-remark": "2.16.1",
     "gatsby-transformer-sharp": "2.12.1",
-    "graphql": "14.1.1",
+    "graphql": "14.7.0",
     "graphql-tag": "2.12.6",
     "node-fetch": "2.3.0",
     "node-sass": "4.11.0",
