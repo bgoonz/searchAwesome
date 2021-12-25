@@ -16,7 +16,7 @@
   "devDependencies": {
     "chai": "2.3.0",
     "cheerio": "0.22.0",
-    "marked": "0.3.19",
+    "marked": "0.8.2",
     "mocha": "2.2.5"
   },
   "licenses": [
