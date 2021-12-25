@@ -17,7 +17,7 @@
     "chai": "2.3.0",
     "cheerio": "0.22.0",
     "marked": "0.3.19",
-    "mocha": "2.2.5"
+    "mocha": "2.5.3"
   },
   "licenses": [
     {
