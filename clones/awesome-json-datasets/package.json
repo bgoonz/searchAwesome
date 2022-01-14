@@ -8,6 +8,6 @@
   },
   "license": "CC0 1.0",
   "dependencies": {
-    "markdownlint": "0.6.4"
+    "markdownlint": "0.25.1"
   }
 }
