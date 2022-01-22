@@ -136,6 +136,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/history@npm:^4.7.11":
+  version: 4.7.11
+  resolution: "@types/history@npm:4.7.11"
+  checksum: 6925b29bcd26c918618e521a3b3e1cb7599956798435b1ca1d01854a582d4aa4e2b1b6e86dc0680b2aadc6f9a19936a999134636d1e33e72f414d890c1012411
+  languageName: node
+  linkType: hard
+
 "@types/html-minifier-terser@npm:^6.0.0":
   version: 6.0.0
   resolution: "@types/html-minifier-terser@npm:6.0.0"
@@ -222,13 +229,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-router@npm:5.1.14":
-  version: 5.1.14
-  resolution: "@types/react-router@npm:5.1.14"
+"@types/react-router@npm:5.1.18":
+  version: 5.1.18
+  resolution: "@types/react-router@npm:5.1.18"
   dependencies:
-    "@types/history": "*"
+    "@types/history": ^4.7.11
     "@types/react": "*"
-  checksum: 106c8802cb8ca8c8eb925067faacf8de958126d625f5bf542b556b3b38eb598f1928f9c379ac5964888a8932aa7d19bf16891ecdb70af45669b486b34b716391
+  checksum: 119b0f9a3cae39a10dafbcfa74de9066b3f6269a40d54eb90aff4be282339cd8ba6ef896258d0c438449c6f84046caace5f1d2941a3474938b1a3958941f6106
   languageName: node
   linkType: hard
 
@@ -763,7 +770,7 @@ __metadata:
     "@types/node": 15.12.1
     "@types/react": 17.0.38
     "@types/react-dom": 17.0.6
-    "@types/react-router": 5.1.14
+    "@types/react-router": 5.1.18
     "@types/react-router-dom": 5.1.7
     autoprefixer: 10.2.6
     copy-to-clipboard: ^3.3.1
