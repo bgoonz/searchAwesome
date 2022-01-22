@@ -136,6 +136,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/history@npm:^4.7.11":
+  version: 4.7.11
+  resolution: "@types/history@npm:4.7.11"
+  checksum: 6925b29bcd26c918618e521a3b3e1cb7599956798435b1ca1d01854a582d4aa4e2b1b6e86dc0680b2aadc6f9a19936a999134636d1e33e72f414d890c1012411
+  languageName: node
+  linkType: hard
+
 "@types/html-minifier-terser@npm:^6.0.0":
   version: 6.0.0
   resolution: "@types/html-minifier-terser@npm:6.0.0"
@@ -201,14 +208,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-router-dom@npm:5.1.7":
-  version: 5.1.7
-  resolution: "@types/react-router-dom@npm:5.1.7"
+"@types/react-router-dom@npm:5.3.3":
+  version: 5.3.3
+  resolution: "@types/react-router-dom@npm:5.3.3"
   dependencies:
-    "@types/history": "*"
+    "@types/history": ^4.7.11
     "@types/react": "*"
     "@types/react-router": "*"
-  checksum: c5afe043f99cbe8e05e85db5b95b5fd724e7b00e0314b8bbc081e36c113e22fd102cd0c7a957c7ad55a55d2def91c17b07ffba45c2ac4a00cc56c5c927c93d4c
+  checksum: fcecc6843176aa57ba95d751290a8528b9b24b4480147a52edf95a258de5a08b12999dfbb1c39e7889ab2542155f5040ffbe1b951ad853b343f8ba8a1916a450
   languageName: node
   linkType: hard
 
@@ -764,7 +771,7 @@ __metadata:
     "@types/react": 17.0.38
     "@types/react-dom": 17.0.6
     "@types/react-router": 5.1.14
-    "@types/react-router-dom": 5.1.7
+    "@types/react-router-dom": 5.3.3
     autoprefixer: 10.2.6
     copy-to-clipboard: ^3.3.1
     copy-webpack-plugin: 9.1.0
