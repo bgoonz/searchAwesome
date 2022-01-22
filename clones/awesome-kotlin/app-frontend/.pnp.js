@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["@types/history", "npm:4.7.8"],
+            ["@types/history", "npm:4.7.11"],
             ["@types/node", "npm:15.12.1"],
             ["@types/react", "npm:17.0.38"],
             ["@types/react-dom", "npm:17.0.6"],
@@ -212,6 +212,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/history", [
+        ["npm:4.7.11", {
+          "packageLocation": "./.yarn/cache/@types-history-npm-4.7.11-fe05d7b2e1-6925b29bcd.zip/node_modules/@types/history/",
+          "packageDependencies": [
+            ["@types/history", "npm:4.7.11"]
+          ],
+          "linkType": "HARD",
+        }],
         ["npm:4.7.8", {
           "packageLocation": "./.yarn/cache/@types-history-npm-4.7.8-53b2aef3de-54020371a4.zip/node_modules/@types/history/",
           "packageDependencies": [
@@ -995,7 +1002,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["awesome-kotlin", "workspace:."],
-            ["@types/history", "npm:4.7.8"],
+            ["@types/history", "npm:4.7.11"],
             ["@types/node", "npm:15.12.1"],
             ["@types/react", "npm:17.0.38"],
             ["@types/react-dom", "npm:17.0.6"],
